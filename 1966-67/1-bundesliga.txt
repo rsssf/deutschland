@@ -1,0 +1,107 @@
+###############################
+# Bundesliga Germany 1966/67
+#
+#  Source -> www.rsssf.com/tablesd/duit67.html
+
+
+About this document
+
+With thanks to Gerd Heuser (hageha@gmx.de)
+
+Prepared and maintained by Gwidon Naskrent for the Rec.Sport.Soccer Statistics Foundation
+
+Author: Gwidon Naskrent (naskrent@free.net.pl)
+Last updated: 1 Apr 2001
+
+(c) Copyright Gwidon Naskrent and RSSSF 2000/01
+You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved. 
+
+------------------------------------------------------------------------
+
+Final Table
+
+ 1. Eintracht Braunschweig       34 17  9  8  49- 27  43
+ 2. TSV 1860 München             34 17  7 10  60- 47  41
+ 3. Borussia Dortmund            34 15  9 10  70- 41  39
+ 4. Eintracht Frankfurt          34 15  9 10  66- 49  39
+ 5. 1. FC Kaiserslautern         34 13 12  9  43- 42  38
+ 6. Bayern München               34 16  5 13  62- 47  37
+ 7. 1. FC Köln                   34 14  9 11  48- 48  37
+ 8. Borussia Mönchengladbach     34 12 10 12  70- 49  34
+ 9. Hannover 96                  34 13  8 13  40- 46  34
+10. 1. FC Nürnberg               34 12 10 12  43- 50  34
+11. MSV Duisburg                 34 10 13 11  40- 42  33
+12. VfB Stuttgart                34 10 13 11  48- 54  33
+13. Karlsruher SC                34 11  9 14  54- 62  31
+14. Hamburger SV                 34 10 10 14  37- 53  30
+15. Schalke 04                   34 12  6 16  37- 63  30
+16. Werder Bremen                34 10  9 15  49- 56  29
+17. Rot-Weiß Essen               34  6 13 15  35- 53  25
+18. Fortuna Düsseldorf           34  9  7 18  44- 66  25
+
+Fall Table
+
+ 1. Eintracht Braunschweig       17  9  4  4  26- 12  22
+ 2. Hamburger SV                 17  8  6  3  24- 19  22
+ 3. Eintracht Frankfurt          16  8  4  4  33- 20  20
+ 4. Bayern München               17  9  2  6  36- 24  20
+ 5. Borussia Mönchengladbach     17  6  7  4  29- 21  19
+ 6. Hannover 96                  17  7  5  5  23- 21  19
+ 7. TSV 1860 München             17  7  4  6  30- 27  18
+ 8. 1. FC Kaiserslautern         17  6  6  5  23- 25  18
+ 9. Borussia Dortmund            16  6  4  6  28- 23  16
+10. 1. FC Köln                   16  6  4  6  22- 25  16
+11. Werder Bremen                17  6  3  8  30- 31  15
+12. Rot-Weiß Essen               17  5  5  7  20- 23  15
+13. Schalke 04                   17  6  3  8  19- 27  15
+14. 1. FC Nürnberg               16  5  4  7  21- 25  14
+15. Fortuna Düsseldorf           17  5  4  8  23- 32  14
+16. MSV Duisburg                 17  3  7  7  16- 25  13
+17. VfB Stuttgart                17  4  5  8  23- 34  13
+18. Karlsruher SC                17  4  5  8  22- 34  13
+
+------------------------------------------------------------------------
+
+ 1. Eintracht Braunschweig       34 17  9  8  49- 27  43
+ 2. TSV 1860 München             34 17  7 10  60- 47  41
+ 3. Borussia Dortmund            34 15  9 10  70- 41  39
+ 4. Eintracht Frankfurt          34 15  9 10  66- 49  39
+ 5. 1. FC Kaiserslautern         34 13 12  9  43- 42  38
+ 6. Bayern München               34 16  5 13  62- 47  37
+ 7. 1. FC Köln                   34 14  9 11  48- 48  37
+ 8. Borussia Mönchengladbach     34 12 10 12  70- 49  34
+ 9. Hannover 96                  34 13  8 13  40- 46  34
+10. 1. FC Nürnberg               34 12 10 12  43- 50  34
+11. MSV Duisburg                 34 10 13 11  40- 42  33
+12. VfB Stuttgart                34 10 13 11  48- 54  33
+13. Karlsruher SC                34 11  9 14  54- 62  31
+14. Hamburger SV                 34 10 10 14  37- 53  30
+15. Schalke 04                   34 12  6 16  37- 63  30
+16. Werder Bremen                34 10  9 15  49- 56  29
+17. Fortuna Düsseldorf           34  9  7 18  44- 66  25
+18. Rot-Weiß Essen               34  6 13 15  35- 53  25
+
+Topscorers: Lothar EMMERICH (Dortmund) and Gerd MÜLLER 
+(Bayern) - 28, Herbert LAUMEN (M'gladbach) - 18, Christian
+MÜLLER (Karlsruher SC) - 17
+
+Eintracht Braunschweig 1966/67
+
+         Hans JÄCKER          2  ( 180)  - 2
+        Horst WOLTER         32  (2880)  -25
+
+      Joachim BÄSE           32  (2880)
+     Wolfgang BRASE           4  ( 360)
+   Hans-Georg DULZ           32  (2880)  + 5
+        Klaus GERWIEN        21  (1890)  + 4
+     Wolfgang GRZYB          15  (1350)  + 2
+        Peter KAACK          34  (3060)
+ Wolf-Rüdiger KRAUSE          2  ( 180)
+        Erich MAAS           33  (2970)  +11
+     Wolfgang MATZ            5  ( 450)
+        Klaus MEYER          30  (2700)
+       Jürgen MOLL           34  (3060)  + 5
+         Gerd SABOROWSKI     33  (2970)  + 8
+       Walter SCHMIDT        33  (2970)
+       Lothar ULSASS         32  (2880)  +14
+

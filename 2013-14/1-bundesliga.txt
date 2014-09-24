@@ -3,6 +3,18 @@
 #
 # Source -> www.rsssf.com/tablesd/duit2014.html
 
+About this document
+
+Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+
+Author: Karel Stokkermans
+Last updated: 5 Jun 2014
+
+(C) Copyright Karel Stokkermans and RSSSF 2013/14
+You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved. 
+
+------------------------------------------------------------------------
+
 Final Table:
 
  1.FC Bayern München            34  29  3  2  94-23  90  Champions
@@ -26,6 +38,8 @@ Final Table:
 17.1.FC Nürnberg                34   5 11 18  37-70  26  Relegated
 18.Eintracht Braunschweig       34   6  7 21  29-60  25  Relegated
 
+------------------------------------------------------------------------
+
 
 Final Table:
 
@@ -45,13 +59,12 @@ Final Table:
 14.SC Freiburg                  34   9  9 16  43-61  36
 15.VfB Stuttgart                34   8  8 18  49-62  32
 -------------------------------------------------------
-16.Hamburger SV                 34   7  6 21  51-75  27  Relegation Playoff <#1prorel>
+16.Hamburger SV                 34   7  6 21  51-75  27  Relegation Playoff
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 17.1.FC Nürnberg                34   5 11 18  37-70  26  Relegated
 18.Eintracht Braunschweig       34   6  7 21  29-60  25  Relegated
 
-
-*Promotion/Relegation Playoff 1./2. Bundesliga*
+Promotion/Relegation Playoff 1./2. Bundesliga
 
 First Leg [May 15]
 Hamburg         0-0 Greuther Fürth  
@@ -61,18 +74,3 @@ Greuther Fürth  1-1 Hamburg
 
 NB: both remain at former level
 
-------------------------------------------------------------------------
-
-
-    About this document
-
-Prepared and maintained by /Karel Stokkermans/ for the Rec.Sport.Soccer
-Statistics Foundation <../nersssf.html>
-
-/Author: Karel Stokkermans
-Last updated: 22 May 2014
-/
-
-*(C) Copyright Karel Stokkermans and RSSSF 2013/14*
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.

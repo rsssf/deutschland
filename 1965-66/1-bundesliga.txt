@@ -1,0 +1,107 @@
+###############################
+# Bundesliga Germany 1965/66
+#
+#  Source -> www.rsssf.com/tablesd/duit66.html
+
+About this document
+
+With thanks to Gerd Heuser (hageha@gmx.de)
+
+Prepared and maintained by Gwidon Naskrent for the Rec.Sport.Soccer Statistics Foundation
+
+Author: Gwidon Naskrent (naskrent@free.net.pl)
+Last updated: 1 Apr 2001
+
+(c) Copyright Gwidon Naskrent and RSSSF 2000/01
+You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved. 
+
+------------------------------------------------------------------------
+
+Final Table
+
+ 1. TSV 1860 München             34 20 10  4  80- 40  50
+ 2. Borussia Dortmund            34 19  9  6  70- 36  47
+ 3. Bayern München               34 20  7  7  71- 38  47
+ 4. Werder Bremen                34 21  3 10  76- 40  45
+ 5. 1. FC Köln                   34 19  6  9  74- 41  44
+ 6. 1. FC Nürnberg               34 14 11  9  54- 43  39
+ 7. Eintracht Frankfurt          34 16  6 12  64- 46  38
+ 8. Meidericher SV               34 14  8 12  70- 48  36
+ 9. Hamburger SV                 34 13  8 13  64- 52  34
+10. Eintracht Braunschweig       34 11 12 11  49- 49  34
+11. VfB Stuttgart                34 13  6 15  42- 48  32
+12. Hannover 96                  34 11  8 15  59- 57  30
+13. Borussia Mönchengladbach     34  9 11 14  57- 68  29
+14. Schalke 04                   34 10  7 17  33- 55  27
+15. 1. FC Kaiserslautern         34  8 10 16  42- 65  26
+16. Karlsruher SC                34  9  6 19  35- 71  24
+17. Borussia Neunkirchen         34  9  4 21  32- 82  22
+18. Tasmania Berlin              34  2  4 28  15-108   8
+
+Nb. Meidericher SV changed name to MSV Duisburg
+
+
+Fall Table
+
+ 1. TSV 1860 München             17 13  3  1  42- 15  29
+ 2. Bayern München               17 12  2  3  41- 18  26
+ 3. Borussia Dortmund            16 10  4  2  33- 20  24
+ 4. 1. FC Köln                   17 11  1  5  40- 22  23
+ 5. Werder Bremen                17 10  0  7  31- 17  20
+ 6. 1. FC Nürnberg               17  7  5  5  28- 20  19
+ 7. VfB Stuttgart                17  7  5  5  19- 17  19
+ 8. Eintracht Frankfurt          16  9  1  6  36- 21  19
+ 9. Meidericher SV               17  8  2  7  34- 25  18
+10. Hamburger SV                 17  6  3  8  31- 32  15
+11. Borussia Mönchengladbach     17  5  5  7  28- 31  15
+12. Hannover 96                  17  7  1  9  36- 31  15
+13. Eintracht Braunschweig       17  5  4  8  25- 29  14
+14. Schalke 04                   17  5  3  9  14- 28  13
+15. 1. FC Kaiserslautern         17  4  4  9  19- 35  12
+16. Borussia Neunkirchen         17  4  3 10  17- 42  11
+17. Karlsruher SC                17  3  3 11  18- 39   9
+18. Tasmania Berlin              17  1  1 15   8- 58   3
+
+------------------------------------------------------------------------
+
+ 1. TSV 1860 München             34 20 10  4  80- 40  50
+ 2. Borussia Dortmund            34 19  9  6  70- 36  47
+ 3. Bayern München               34 20  7  7  71- 38  47
+ 4. Werder Bremen                34 21  3 10  76- 40  45
+ 5. 1. FC Köln                   34 19  6  9  74- 41  44
+ 6. 1. FC Nürnberg               34 14 11  9  54- 43  39
+ 7. Eintracht Frankfurt          34 16  6 12  64- 46  38
+ 8. Meidericher SV               34 14  8 12  70- 48  36
+ 9. Hamburger SV                 34 13  8 13  64- 52  34
+10. Eintracht Braunschweig       34 11 12 11  49- 49  34
+11. VfB Stuttgart                34 13  6 15  42- 48  32
+12. Hannover 96                  34 11  8 15  59- 57  30
+13. Borussia Mönchengladbach     34  9 11 14  57- 68  29
+14. Schalke 04                   34 10  7 17  33- 55  27
+15. 1. FC Kaiserslautern         34  8 10 16  42- 65  26
+16. Karlsruher SC                34  9  6 19  35- 71  24
+17. Borussia Neunkirchen         34  9  4 21  32- 82  22
+18. Tasmania Berlin              34  2  4 28  15-108   8
+
+Topscorers: Timo KONIETZKA (TSV) - 26, Arnold SCHÜTZ 
+(Werder) - 20, Hannes LÖHR (Köln) and Peter GROSSER 
+(TSV) - 18
+
+TSV 1860 München 1965/66
+
+        Petar RADENKOVIC     34  (3060)  -40
+
+         Rudi BRUNNENMEIER   27  (2430)  +15
+        Peter GROSSER        32  (2880)  +18
+       Alfred HEISS          31  (2790)  +10
+         Hans KÜPPERS        19  (1710)  + 4
+     Wilfried KOHLARS        19  (1710)
+         Timo KONIETZKA      33  (2970)  +26
+         Otto LUTTROP        22  (1980)  + 1
+        Bernd PATZKE         28  (2520)
+       Zeljko PERUSIC JUG    34  (3060)
+         Hans REBELE         22  (1980)  + 5
+         Hans REICH          26  (2340)
+       Rudolf STEINER         9  ( 810)
+      Manfred WAGNER         26  (2340)
+       Rudolf ZEISER         12  (1080)

@@ -3,6 +3,24 @@
 #
 #  Source -> www.rsssf.com/tablesd/duit64.html
 
+
+About this document
+
+With thanks to Gerd Heuser (hageha@gmx.de <mailto:hageha@gmx.de>)
+
+Prepared and maintained by /Gwidon Naskrent/ for the Rec.Sport.Soccer
+Statistics Foundation <../nersssf.html>
+
+/Author: Gwidon Naskrent (naskrent@free.net.pl
+<mailto:naskrent@free.net.pl>)
+Last updated: 1 Apr 2001/
+
+*(c) Copyright Gwidon Naskrent and RSSSF 2000/01*
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.
+
+------------------------------------------------------------------------
+
 Final Table
 
 1. 1. FC Köln                   30 17 11  2  78- 40  45
@@ -41,21 +59,6 @@ Fall Table
 15. Preußen Münster              15  2  6  7  18- 28  10
 16. 1. FC Saarbrücken            15  1  2 12  21- 47   4
 
-------------------------------------------------------------------------
-    About this document
-
-With thanks to Gerd Heuser (hageha@gmx.de <mailto:hageha@gmx.de>)
-
-Prepared and maintained by /Gwidon Naskrent/ for the Rec.Sport.Soccer
-Statistics Foundation <../nersssf.html>
-
-/Author: Gwidon Naskrent (naskrent@free.net.pl
-<mailto:naskrent@free.net.pl>)
-Last updated: 1 Apr 2001/
-
-*(c) Copyright Gwidon Naskrent and RSSSF 2000/01*
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
 ------------------------------------------------------------------------
 
  1. 1. FC Köln                   30 17 11  2  78- 40  45
