@@ -1,4 +1,47 @@
+<!--
+   source: http://www.rsssf.com/tablesd/duit2014.html
+   html to text conversion on 2015-07-25 12:36:54 +0200
+  -->
+
+
+
+## Germany 2013/14
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1. Bundesliga
+
+DFB Pokal
+
+2. Bundesliga
+
+3. Bundesliga
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 #### 1. Bundesliga
+
+
+Final Table:
+
+ 1.FC Bayern München            34  29  3  2  94-23  90  Champions
+ 2.Borussia Dortmund            34  22  5  7  80-38  71
+ 3.FC Schalke 04 Gelsenkirchen  34  19  7  8  63-43  64
+ 4.Bayer 04 Leverkusen          34  19  4 11  60-41  61
+ 5.VfL Wolfsburg                34  18  6 10  63-50  60
+ 6.Borussia Mönchengladbach     34  16  7 11  59-43  55
+ 7.1.FSV Mainz 05               34  16  5 13  52-54  53
+ 8.FC Augsburg                  34  15  7 12  47-47  52
+ 9.TSG 1899 Hoffenheim          34  11 11 12  72-70  44
+10.Hannover 96                  34  12  6 16  46-59  42
+11.Hertha BSC Berlin            34  11  8 15  40-48  41
+12.SV Werder Bremen             34  10  9 15  42-66  39
+13.Eintracht Frankfurt          34   9  9 16  40-57  36
+14.SC Freiburg                  34   9  9 16  43-61  36
+15.VfB Stuttgart                34   8  8 18  49-62  32
+-------------------------------------------------------
+16.Hamburger SV                 34   7  6 21  51-75  27  Relegation Playoff
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+17.1.FC Nürnberg                34   5 11 18  37-70  26  Relegated
+18.Eintracht Braunschweig       34   6  7 21  29-60  25  Relegated
 
 Round 1
 [Aug 9]
@@ -468,3 +511,273 @@ Hoffenheim      3-1 Braunschweig
 Schalke         4-1 Nürnberg
 Wolfsburg       3-1 Mönchengladbach
 
+Final Table:
+
+ 1.FC Bayern München            34  29  3  2  94-23  90  Champions
+ 2.Borussia Dortmund            34  22  5  7  80-38  71
+ 3.FC Schalke 04 Gelsenkirchen  34  19  7  8  63-43  64
+ 4.Bayer 04 Leverkusen          34  19  4 11  60-41  61
+ 5.VfL Wolfsburg                34  18  6 10  63-50  60
+ 6.Borussia Mönchengladbach     34  16  7 11  59-43  55
+ 7.1.FSV Mainz 05               34  16  5 13  52-54  53
+ 8.FC Augsburg                  34  15  7 12  47-47  52
+ 9.TSG 1899 Hoffenheim          34  11 11 12  72-70  44
+10.Hannover 96                  34  12  6 16  46-59  42
+11.Hertha BSC Berlin            34  11  8 15  40-48  41
+12.SV Werder Bremen             34  10  9 15  42-66  39
+13.Eintracht Frankfurt          34   9  9 16  40-57  36
+14.SC Freiburg                  34   9  9 16  43-61  36
+15.VfB Stuttgart                34   8  8 18  49-62  32
+-------------------------------------------------------
+16.Hamburger SV                 34   7  6 21  51-75  27  Relegation Playoff
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+17.1.FC Nürnberg                34   5 11 18  37-70  26  Relegated
+18.Eintracht Braunschweig       34   6  7 21  29-60  25  Relegated
+
+**Promotion/Relegation Playoff 1./2. Bundesliga**
+
+First Leg [May 15]
+Hamburg         0-0 Greuther Fürth
+
+Second Leg [May 18]
+Greuther Fürth  1-1 Hamburg
+
+NB: both remain at former level
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### DFB Pokal
+
+
+Round 1
+[Aug 2]
+Heidenheim             1-1 1860 München           [aet, 3-4 pen]
+Osnabrück              3-0 Erzgebirge Aue
+RB Leipzig             0-2 Augsburg
+[Aug 3]
+Magdeburg              0-1 Energie Cottbus
+Bahlinger SC           1-3 Bochum
+Fortuna Köln           1-2 Mainz
+Neckarsulmer SU        0-7 Kaiserslautern
+SG Aumund-Vegesack     0-9 Hoffenheim
+Sportfreunde Baumberg  1-4 Ingolstadt
+SV Lippstadt 08        1-6 Bayer Leverkusen
+SV Wilhelmshaven       0-3 Borussia Dortmund
+TSG Neustrelitz        0-2 Freiburg               [aet]
+TSV 1860 Rosenheim     0-2 Aalen
+Eintracht Trier        0-2 Köln
+Karlsruhe              1-3 Wolfsburg
+[Aug 4]
+Saarbrücken            3-1 Werder Bremen          [aet]
+Arminia Bielefeld      2-1 Eintracht Braunschweig
+Darmstadt 98           0-0 Borussia M'gladbach    [aet, 5-4 pen]
+TSG Pfeddersheim       0-2 Greuther Fürth
+Victoria Hamburg       0-2 Hannover
+Dynamo Berlin          0-2 Stuttgart
+Optik Rathenow         1-3 FSV Frankfurt          [aet]
+SC Wiedenbrück         1-0 Fortuna Düsseldorf
+SV Schott Jena         0-4 Hamburg
+VfR Neumünster         2-3 Hertha BSC             [aet]
+Illertissen            0-2 Eintracht Frankfurt
+Preußen Münster        1-0 Sankt Pauli
+Sandhausen             1-1 Nürnberg               [aet, 4-3 pen]
+[Aug 5]
+FC Nöttingen           0-2 Schalke 04
+Jahn Regensburg        1-2 Union Berlin
+MSV Duisburg           2-3 Paderborn
+BSV Rehden             0-5 Bayern München
+
+Round 2
+[Sep 24]
+1860 München           0-2 Borussia Dortmund      [aet]
+Preußen Münster        0-3 Augsburg
+SC Wiedenbrück         1-3 Sandhausen
+Wolfsburg              2-0 Aalen
+Arminia Bielefeld      0-2 Bayer Leverkusen
+Mainz                  0-1 Köln
+Hamburg                1-0 Greuther Fürth
+Hoffenheim             3-0 Energie Cottbus        [aet]
+[Sep 25]
+Kaiserslautern         3-1 Hertha BSC
+Saarbrücken            2-1 Paderborn
+Eintracht Frankfurt    2-0 Bochum
+FSV Frankfurt          0-2 Ingolstadt
+Bayern München         4-1 Hannover
+Freiburg               2-1 Stuttgart
+Darmstadt 98           1-3 Schalke 04
+Osnabrück              0-1 Union Berlin
+
+1/8 Finals
+[Dec 3]
+Union Berlin           0-3 Kaiserslautern
+Hamburg                2-1 Köln
+Saarbrücken            0-2 Borussia Dortmund
+Schalke 04             1-3 Hoffenheim
+[Dec 4]
+Freiburg               1-2 Bayer Leverkusen
+Wolfsburg              2-1 Ingolstadt
+Eintracht Frankfurt    4-2 Sandhausen
+Augsburg               0-2 Bayern München
+
+Quarterfinals
+[Feb 11]
+Eintracht Frankfurt    0-1 Borussia Dortmund
+[Feb 12]
+Bayer Leverkusen       0-1 Kaiserslautern         [aet]
+Hoffenheim             2-3 Wolfsburg
+Hamburg                0-5 Bayern München
+
+Semifinals
+[Apr 15]
+Borussia Dortmund      2-0 Wolfsburg
+[Apr 16]
+Bayern München         5-1 Kaiserslautern
+
+Final [May 17, Berlin]
+Borussia Dortmund      0-2 Bayern München         [aet]
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### 2. Bundesliga
+
+
+Final Table:
+
+ 1.1.FC Köln                    34  19 11  4  53-20  68  Promoted
+ 2.SC Paderborn 07              34  18  8  8  63-48  62  Promoted
+-------------------------------------------------------
+ 3.SpVgg Greuther Fürth         34  17  9  8  64-38  60  Promotion Playoff
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.1.FC Kaiserslautern          34  15  9 10  55-39  54
+ 5.Karlsruher SC                34  12 14  8  47-34  50
+ 6.Fortuna Düsseldorf           34  13 11 10  45-44  50
+ 7.TSV 1860 München             34  13  9 12  38-41  48
+ 8.FC Sankt Pauli               34  13  9 12  44-49  48
+ 9.1. FC Union Berlin           34  11 11 12  48-47  44
+10.FC Ingolstadt 04             34  11 11 12  34-33  44
+11.VfR Aalen                    34  11 11 12  36-39  44
+12.SV Sandhausen                34  12  8 14  29-35  44
+13.FSV Frankfurt                34  11  8 15  46-51  41
+14.FC Erzgebirge Aue            34  11  8 15  42-54  41
+15.VfL Bochum                   34  11  7 16  30-43  40
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.DSC Arminia Bielefeld        34   9  8 17  40-58  35  Relegation Playoff
+-------------------------------------------------------
+17.Dynamo Dresden               34   5 17 12  36-53  32  Relegated
+18.FC Energie Cottbus           34   6  7 21  35-59  25  Relegated
+
+**Promotion/Relegation Playoff 2./3. Bundesliga**
+
+First Leg [May 16]
+Darmstadt       1-3 Bielefeld
+
+Second Leg [May 19]
+Bielefeld       2-4 Darmstadt       [aet]
+
+NB: Darmstadt promoted, Bielefeld relegated
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### 3. Bundesliga
+
+
+Final Table:
+
+ 1.1. FC Heidenheim             38  23 10  5  59-25  79  Promoted
+ 2.RB Leipzig                   38  24  7  7  65-34  79  Promoted
+-------------------------------------------------------
+ 3.SV Darmstadt 98              38  21  9  8  58-29  72  Promotion Playoff
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 4.SV Wehen Wiesbaden           38  15 11 12  43-44  56
+ 5.VfL Osnabrück                38  15 10 13  50-39  55
+ 6.SC Preußen Münster           38  13 14 11  55-50  53
+ 7.MSV Duisburg                 38  13 13 12  43-43  52
+ 8.Stuttgarter Kickers          38  13 12 13  45-46  51
+ 9.Hallescher FC                38  14  9 15  50-55  51
+10.Rot-Weiß Erfurt              38  14  8 16  53-49  50
+11.Jahn Regensburg              38  12 13 13  51-51  49
+12.Chemnitzer FC                38  12 13 13  43-46  49
+13.FC Hansa Rostock             38  13 10 15  45-55  49
+14.Borussia Dortmund II         38  12 10 16  47-55  46
+15.VfB Stuttgart II             38  12 10 16  45-54  46
+16.Holstein Kiel                38  10 15 13  42-38  45
+17.SpVgg Unterhaching           38  11 10 17  50-65  43
+-------------------------------------------------------
+18.SV Elversberg                38  10 10 18  32-54  40  Relegated
+29.Wacker Burghausen            38   9 10 19  39-58  37  Relegated
+20.1.FC Saarbrücken             38   8  8 22  38-63  32  Relegated
+
+**Promotion Playoffs for 3. Bundesliga**
+
+First Legs [May 28]
+Neustrelitz     0-2 Mainz II
+Fortuna Köln    1-0 Bayern II
+Großaspach      0-0 Wolfsburg II
+
+Second Legs [Jun 1]
+Mainz II        3-1 Neustrelitz
+Bayern II       2-1 Fortuna Köln
+Wolfsburg II    0-1 Großaspach
+
+NB: 1.FSV Mainz 05 II, Fortuna Köln and SG Sonnenhof Großaspach promoted
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+2012/13
+
+2014/15
+
+list of champions
+
+all-time table
+
+list of 2nd level champions
+
+list of amateur champions
+
+oberliga berlin 1945-1963
+
+oberliga nord 1945-1963
+
+oberliga s&uuml;d 1945-1963
+
+oberliga s&uuml;dwest 1945-1963
+
+oberliga s&uuml;dwest s&uuml;d 1945-1950
+
+oberliga west 1945-1963
+
+regionalliga nord 63-74
+
+regionalliga s&uuml;d 63-74
+
+regionalliga west 63-74
+
+list of cup finals
+
+list of super and league cup finals
+
+list of topscorers
+
+list of 2nd level topscorers
+
+list of foundation dates
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document
+
+Prepared and maintained by Karel Stokkermans
+for the Rec.Sport.Soccer Statistics Foundation
+
+
+Author: Karel Stokkermans
+
+
+Last updated: 5 Feb 2015
+
+
+**(C) Copyright Karel Stokkermans and RSSSF 2013/15**
+
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

@@ -1,0 +1,471 @@
+#### 1. Bundesliga
+
+Round 1
+[Aug 20]
+Bayern München       2-1  VfL Wolfsburg
+[Aug 21]
+1899 Hoffenheim      4-1  Werder Bremen
+Borussia M'gladbach  1-1  1. FC Nürnberg
+1. FC Köln           1-3  1. FC Kaiserslautern
+SC Freiburg          1-3  FC St. Pauli
+Hannover 96          2-1  Eintracht Frankfurt
+Hamburger SV         2-1  FC Schalke 04
+[Aug 22]
+1. FSV Mainz 05      2-0  VfB Stuttgart
+Borussia Dortmund    0-2  Bayer Leverkusen
+
+Round 2
+[Aug 27]
+1. FC Kaiserslautern 2-0  Bayern München
+[Aug 28]
+FC Schalke 04        1-2  Hannover 96
+Werder Bremen        4-2  1. FC Köln
+VfL Wolfsburg        3-4  1. FSV Mainz 05
+Eintracht Frankfurt  1-3  Hamburger SV
+1. FC Nürnberg       1-2  SC Freiburg
+FC St. Pauli         0-1  1899 Hoffenheim
+[Aug 29]
+Bayer Leverkusen     3-6  Borussia M'gladbach
+VfB Stuttgart        1-3  Borussia Dortmund
+
+Round 3
+[Sep 10]
+1899 Hoffenheim      2-0  FC Schalke 04
+[Sep 11]
+Borussia Dortmund    2-0  VfL Wolfsburg
+Hamburger SV         1-1  1. FC Nürnberg
+Borussia M'gladbach  0-4  Eintracht Frankfurt
+SC Freiburg          2-1  VfB Stuttgart
+Hannover 96          2-2  Bayer Leverkusen
+Bayern München       0-0  Werder Bremen
+[Sep 12]
+1. FSV Mainz 05      2-1  1. FC Kaiserslautern
+1. FC Köln           1-0  FC St. Pauli
+
+Round 4
+[Sep 17]
+Eintracht Frankfurt  0-1  SC Freiburg
+[Sep 18]
+Bayern München       0-0  1. FC Köln
+Werder Bremen        0-2  1. FSV Mainz 05
+VfB Stuttgart        7-0  Borussia M'gladbach
+VfL Wolfsburg        2-0  Hannover 96
+1. FC Kaiserslautern 2-2  1899 Hoffenheim
+[Sep 19]
+FC St. Pauli         1-1  Hamburger SV
+FC Schalke 04        1-3  Borussia Dortmund
+Bayer Leverkusen     0-0  1. FC Nürnberg
+
+Round 5
+[Sep 21]
+1. FSV Mainz 05      2-0  1. FC Köln
+1899 Hoffenheim      1-2  Bayern München
+Hannover 96          4-1  Werder Bremen
+[Sep 22]
+Bayer Leverkusen     2-1  Eintracht Frankfurt
+Borussia Dortmund    5-0  1. FC Kaiserslautern
+Hamburger SV         1-3  VfL Wolfsburg
+Borussia M'gladbach  1-2  FC St. Pauli
+SC Freiburg          1-2  FC Schalke 04
+1. FC Nürnberg       2-1  VfB Stuttgart
+
+Round 6
+[Sep 24]
+1. FC Köln           1-1  1899 Hoffenheim
+[Sep 25]
+Bayern München       1-2  1. FSV Mainz 05
+FC Schalke 04        2-2  Borussia M'gladbach
+VfB Stuttgart        1-4  Bayer Leverkusen
+Eintracht Frankfurt  2-0  1. FC Nürnberg
+FC St. Pauli         1-3  Borussia Dortmund
+Werder Bremen        3-2  Hamburger SV
+[Sep 26]
+VfL Wolfsburg        2-1  SC Freiburg
+1. FC Kaiserslautern 0-1  Hannover 96
+
+Round 7
+[Oct 1]
+Hannover 96          0-1  FC St. Pauli
+[Oct 2]
+Hamburger SV         2-1  1. FC Kaiserslautern
+1. FSV Mainz 05      4-2  1899 Hoffenheim
+Borussia M'gladbach  1-1 =VfL Wolfsburg
+SC Freiburg          3-2  1. FC Köln
+1. FC Nürnberg       2-1  FC Schalke 04
+[Oct 3]
+VfB Stuttgart        1-2  Eintracht Frankfurt
+Borussia Dortmund    2-0  Bayern München
+Bayer Leverkusen     2-2  Werder Bremen
+
+Round 8
+[Oct 15]
+1. FC Köln           1-2  Borussia Dortmund
+[Oct 16]
+Bayern München       3-0  Hannover 96
+FC Schalke 04        2-2  VfB Stuttgart
+Werder Bremen        2-1  SC Freiburg
+1. FSV Mainz 05      0-1  Hamburger SV
+FC St. Pauli         3-2  1. FC Nürnberg
+VfL Wolfsburg        2-3  Bayer Leverkusen
+[Oct 17]
+1. FC Kaiserslautern 0-3  Eintracht Frankfurt
+1899 Hoffenheim      3-2  Borussia M'gladbach
+
+Round 9
+[Oct 22]
+Hamburger SV         0-0  Bayern München
+[Oct 23]
+Eintracht Frankfurt  0-0  FC Schalke 04
+Borussia M'gladbach  1-4  Werder Bremen
+SC Freiburg          2-1  1. FC Kaiserslautern
+Hannover 96          2-1  1. FC Köln
+1. FC Nürnberg       2-1  VfL Wolfsburg
+[Oct 24]
+Borussia Dortmund    1-1  1899 Hoffenheim
+Bayer Leverkusen     0-1  1. FSV Mainz 05
+VfB Stuttgart        2-0  FC St. Pauli
+
+Round 10
+[Oct 29]
+Bayern München       4-2  SC Freiburg
+[Oct 30]
+Werder Bremen        2-3  1. FC Nürnberg
+VfL Wolfsburg        2-0  VfB Stuttgart
+1. FC Köln           3-2  Hamburger SV
+1. FC Kaiserslautern 3-0  Borussia M'gladbach
+FC St. Pauli         1-3  Eintracht Frankfurt
+FC Schalke 04        0-1  Bayer Leverkusen
+[Oct 31]
+1. FSV Mainz 05      0-2  Borussia Dortmund
+1899 Hoffenheim      4-0  Hannover 96
+
+Round 11
+[Nov 5]
+FC Schalke 04        3-0  FC St. Pauli
+[Nov 6]
+Hamburger SV         2-1  1899 Hoffenheim
+Eintracht Frankfurt  3-1  VfL Wolfsburg
+Borussia M'gladbach  3-3  Bayern München
+SC Freiburg          1-0  1. FSV Mainz 05
+1. FC Nürnberg       3-1  1. FC Köln
+[Nov 7]
+Hannover 96          0-4  Borussia Dortmund
+Bayer Leverkusen     3-1  1. FC Kaiserslautern
+VfB Stuttgart        6-0  Werder Bremen
+
+Round 12
+[Nov 12]
+Borussia Dortmund    2-0  Hamburger SV
+[Nov 13]
+Werder Bremen        0-0  Eintracht Frankfurt
+VfL Wolfsburg        2-2  FC Schalke 04
+1. FC Köln           0-4  Borussia M'gladbach
+1. FC Kaiserslautern 3-3  VfB Stuttgart
+FC St. Pauli         0-1  Bayer Leverkusen
+1. FSV Mainz 05      0-1  Hannover 96
+[Nov 14]
+1899 Hoffenheim      0-1  SC Freiburg
+Bayern München       3-0  1. FC Nürnberg
+
+Round 13
+[Nov 20]
+FC Schalke 04        4-0  Werder Bremen
+Eintracht Frankfurt  0-4  1899 Hoffenheim
+Borussia M'gladbach  2-3  1. FSV Mainz 05
+SC Freiburg          1-2  Borussia Dortmund
+Hannover 96          3-2  Hamburger SV
+1. FC Nürnberg       1-3  1. FC Kaiserslautern
+Bayer Leverkusen     1-1  Bayern München
+[Nov 21]
+VfB Stuttgart        0-1  1. FC Köln
+FC St. Pauli         1-1  VfL Wolfsburg
+
+Round 14
+[Nov 26]
+1. FSV Mainz 05      3-0  1. FC Nürnberg
+[Nov 27]
+Bayern München       4-1  Eintracht Frankfurt
+Hamburger SV         4-2  VfB Stuttgart
+1899 Hoffenheim      2-2  Bayer Leverkusen
+Hannover 96          3-0  SC Freiburg
+1. FC Kaiserslautern 5-0  FC Schalke 04
+Borussia Dortmund    4-1  Borussia M'gladbach
+[Nov 28]
+Werder Bremen        3-0  FC St. Pauli
+1. FC Köln           1-1  VfL Wolfsburg
+
+Round 15
+[Dec 3]
+FC St. Pauli         1-0  1. FC Kaiserslautern
+[Dec 4]
+VfB Stuttgart        1-1  1899 Hoffenheim
+VfL Wolfsburg        0-0  Werder Bremen
+Eintracht Frankfurt  2-1  1. FSV Mainz 05
+Borussia M'gladbach  1-2  Hannover 96
+SC Freiburg          1-0  Hamburger SV
+FC Schalke 04        2-0  Bayern München
+[Dec 5]
+Bayer Leverkusen     3-2  1. FC Köln
+1. FC Nürnberg       0-2  Borussia Dortmund
+
+Round 16
+[Dec 10]
+Hannover 96          2-1  VfB Stuttgart
+[Dec 11]
+Bayern München       3-0  FC St. Pauli
+Hamburger SV         2-4  Bayer Leverkusen
+1899 Hoffenheim      1-1  1. FC Nürnberg
+1. FC Köln           1-0  Eintracht Frankfurt
+1. FC Kaiserslautern 0-0  VfL Wolfsburg
+Borussia Dortmund    2-0  Werder Bremen
+[Dec 12]
+SC Freiburg          3-0  Borussia M'gladbach
+1. FSV Mainz 05      0-1  FC Schalke 04
+
+Round 17
+[Dec 17]
+Borussia M'gladbach  1-2  Hamburger SV
+[Dec 18]
+FC Schalke 04        3-0  1. FC Köln
+Werder Bremen        1-2  1. FC Kaiserslautern
+VfL Wolfsburg        2-2  1899 Hoffenheim
+Eintracht Frankfurt  1-0  Borussia Dortmund
+1. FC Nürnberg       3-1  Hannover 96
+FC St. Pauli         2-4  1. FSV Mainz 05
+[Dec 19]
+Bayer Leverkusen     2-2  SC Freiburg
+VfB Stuttgart        3-5  Bayern München
+
+Round 18
+[Jan 14]
+Bayer Leverkusen     1-3  Borussia Dortmund
+[Jan 15]
+Werder Bremen        2-1  1899 Hoffenheim
+VfB Stuttgart        1-0  1. FSV Mainz 05
+VfL Wolfsburg        1-1  Bayern München
+1. FC Nürnberg       0-1  Borussia M'gladbach
+FC St. Pauli         2-2  SC Freiburg
+FC Schalke 04        0-1  Hamburger SV
+[Jan 16]
+Eintracht Frankfurt  0-3  Hannover 96
+1. FC Kaiserslautern 1-1  1. FC Köln
+
+Round 19
+[Jan 21]
+Hamburger SV         1-0  Eintracht Frankfurt
+[Jan 22]
+Bayern München       5-1  1. FC Kaiserslautern
+Borussia Dortmund    1-1  VfB Stuttgart
+1. FSV Mainz 05      0-1  VfL Wolfsburg
+SC Freiburg          1-1  1. FC Nürnberg
+Hannover 96          0-1  FC Schalke 04
+1. FC Köln           3-0  Werder Bremen
+[Jan 23]
+Borussia M'gladbach  1-3  Bayer Leverkusen
+1899 Hoffenheim      2-2  FC St. Pauli
+
+Round 20
+[Jan 28]
+Bayer Leverkusen     2-0  Hannover 96
+[Jan 29]
+FC Schalke 04        0-1  1899 Hoffenheim
+Werder Bremen        1-3  Bayern München
+VfL Wolfsburg        0-3  Borussia Dortmund
+1. FC Nürnberg       2-0  Hamburger SV
+FC St. Pauli         3-0  1. FC Köln
+1. FC Kaiserslautern 0-1  1. FSV Mainz 05
+[Jan 30]
+VfB Stuttgart        0-1  SC Freiburg
+Eintracht Frankfurt  0-1  Borussia M'gladbach
+
+Round 21
+[Feb 4]
+Borussia Dortmund    0-0  FC Schalke 04
+[Feb 5]
+1. FSV Mainz 05      1-1  Werder Bremen
+1899 Hoffenheim      3-2  1. FC Kaiserslautern
+1. FC Köln           3-2  Bayern München
+Hannover 96          1-0  VfL Wolfsburg
+1. FC Nürnberg       1-0  Bayer Leverkusen
+Borussia M'gladbach  2-3  VfB Stuttgart
+[Feb 6]
+SC Freiburg          0-0  Eintracht Frankfurt
+[Feb 16]
+Hamburger SV         0-1  FC St. Pauli
+
+Round 22
+[Feb 12]
+Bayern München       4-0  1899 Hoffenheim
+FC Schalke 04        1-0  SC Freiburg
+VfB Stuttgart        1-4  1. FC Nürnberg
+VfL Wolfsburg        0-1  Hamburger SV
+Eintracht Frankfurt  0-3  Bayer Leverkusen
+FC St. Pauli         3-1  Borussia M'gladbach
+1. FC Kaiserslautern 1-1  Borussia Dortmund
+[Feb 13]
+1. FC Köln           4-2  1. FSV Mainz 05
+Werder Bremen        1-1  Hannover 96
+
+Round 23
+[Feb 18]
+1. FC Nürnberg       3-0  Eintracht Frankfurt
+[Feb 19]
+Borussia Dortmund    2-0  FC St. Pauli
+Hamburger SV         4-0  Werder Bremen
+1899 Hoffenheim      1-1  1. FC Köln
+SC Freiburg          2-1  VfL Wolfsburg
+Hannover 96          3-0  1. FC Kaiserslautern
+1. FSV Mainz 05      1-3  Bayern München
+[Feb 20]
+Bayer Leverkusen     4-2  VfB Stuttgart
+Borussia M'gladbach  2-1  FC Schalke 04
+
+Round 24
+[Feb 25]
+VfL Wolfsburg        2-1  Borussia M'gladbach
+[Feb 26]
+FC Schalke 04        1-1  1. FC Nürnberg
+1899 Hoffenheim      1-2  1. FSV Mainz 05
+1. FC Köln           1-0  SC Freiburg
+1. FC Kaiserslautern 1-1  Hamburger SV
+FC St. Pauli         0-1  Hannover 96
+Bayern München       1-3  Borussia Dortmund
+[Feb 27]
+Eintracht Frankfurt  0-2  VfB Stuttgart
+Werder Bremen        2-2  Bayer Leverkusen
+
+Round 25
+[Mar 4]
+Borussia Dortmund    1-0  1. FC Köln
+[Mar 5]
+VfB Stuttgart        1-0  FC Schalke 04
+Eintracht Frankfurt  0-0  1. FC Kaiserslautern
+Borussia M'gladbach  2-0  1899 Hoffenheim
+Hannover 96          3-1  Bayern München
+1. FC Nürnberg       5-0  FC St. Pauli
+Bayer Leverkusen     3-0  VfL Wolfsburg
+[Mar 6]
+SC Freiburg          1-3  Werder Bremen
+Hamburger SV         2-4  1. FSV Mainz 05
+
+Round 26
+[Mar 11]
+1. FC Köln           4-0  Hannover 96
+[Mar 12]
+Bayern München       6-0  Hamburger SV
+FC Schalke 04        2-1  Eintracht Frankfurt
+VfL Wolfsburg        1-2  1. FC Nürnberg
+1899 Hoffenheim      1-0  Borussia Dortmund
+1. FC Kaiserslautern 2-1  SC Freiburg
+Werder Bremen        1-1  Borussia M'gladbach
+[Mar 13]
+1. FSV Mainz 05      0-1  Bayer Leverkusen
+FC St. Pauli         1-2  VfB Stuttgart
+
+Round 27
+[Mar 18]
+Borussia M'gladbach  0-1  1. FC Kaiserslautern
+[Mar 19]
+Hamburger SV         6-2  1. FC Köln
+Eintracht Frankfurt  2-1  FC St. Pauli
+SC Freiburg          1-2  Bayern München
+Hannover 96          2-0  1899 Hoffenheim
+1. FC Nürnberg       1-3  Werder Bremen
+Borussia Dortmund    1-1  1. FSV Mainz 05
+[Mar 20]
+Bayer Leverkusen     2-0  FC Schalke 04
+VfB Stuttgart        1-1  VfL Wolfsburg
+
+Round 28
+[Apr 1]
+FC St. Pauli         0-2  FC Schalke 04
+[Apr 2]
+Bayern München       1-0  Borussia M'gladbach
+Werder Bremen        1-1  VfB Stuttgart
+Borussia Dortmund    4-1  Hannover 96
+1. FSV Mainz 05      1-1  SC Freiburg
+1. FC Kaiserslautern 0-1  Bayer Leverkusen
+1899 Hoffenheim      0-0  Hamburger SV
+[Apr 3]
+1. FC Köln           1-0  1. FC Nürnberg
+VfL Wolfsburg        1-1  Eintracht Frankfurt
+
+Round 29
+[Apr 8]
+Eintracht Frankfurt  1-1  Werder Bremen
+[Apr 9]
+FC Schalke 04        1-0  VfL Wolfsburg
+VfB Stuttgart        2-4  1. FC Kaiserslautern
+Hamburger SV         1-1  Borussia Dortmund
+SC Freiburg          3-2  1899 Hoffenheim
+Hannover 96          2-0  1. FSV Mainz 05
+1. FC Nürnberg       1-1  Bayern München
+[Apr 10]
+Borussia M'gladbach  5-1  1. FC Köln
+Bayer Leverkusen     2-1  FC St. Pauli
+
+Round 30
+[Apr 15]
+1. FSV Mainz 05      1-0  Borussia M'gladbach
+[Apr 16]
+Werder Bremen        1-1  FC Schalke 04
+Hamburger SV         0-0  Hannover 96
+VfL Wolfsburg        2-2  FC St. Pauli
+1899 Hoffenheim      1-0  Eintracht Frankfurt
+1. FC Köln           1-3  VfB Stuttgart
+1. FC Kaiserslautern 0-2  1. FC Nürnberg
+[Apr 17]
+Bayern München       5-1  Bayer Leverkusen
+Borussia Dortmund    3-0  SC Freiburg
+
+Round 31
+[Apr 21]
+SC Freiburg          1-3  Hannover 96
+[Apr 23]
+FC Schalke 04        0-1  1. FC Kaiserslautern
+Bayer Leverkusen     2-1  1899 Hoffenheim
+VfB Stuttgart        3-0  Hamburger SV
+Eintracht Frankfurt  1-1  Bayern München
+Borussia M'gladbach  1-0  Borussia Dortmund
+FC St. Pauli         1-3  Werder Bremen
+[Apr 24]
+1. FC Nürnberg       0-0  1. FSV Mainz 05
+VfL Wolfsburg        4-1  1. FC Köln
+
+Round 32
+[Apr 29]
+Werder Bremen        0-1  VfL Wolfsburg
+1. FC Kaiserslautern 2-0  FC St. Pauli
+[Apr 30]
+Bayern München       4-1  FC Schalke 04
+Borussia Dortmund    2-0  1. FC Nürnberg
+Hamburger SV         0-2  SC Freiburg
+1. FSV Mainz 05      3-0  Eintracht Frankfurt
+1899 Hoffenheim      1-2  VfB Stuttgart
+1. FC Köln           2-0  Bayer Leverkusen
+Hannover 96          0-1  Borussia M'gladbach
+
+Round 33
+[May 7]
+FC Schalke 04        1-3  1. FSV Mainz 05
+Werder Bremen        2-0  Borussia Dortmund
+Bayer Leverkusen     1-1  Hamburger SV
+VfB Stuttgart        2-1  Hannover 96
+VfL Wolfsburg        1-2  1. FC Kaiserslautern
+Eintracht Frankfurt  0-2  1. FC Köln
+Borussia M'gladbach  2-0  SC Freiburg
+1. FC Nürnberg       1-2  1899 Hoffenheim
+FC St. Pauli         1-8  Bayern München
+
+Round 34
+[May 14]
+Bayern München       2-1  VfB Stuttgart
+1899 Hoffenheim      1-3  VfL Wolfsburg
+Hannover 96          3-1  1. FC Nürnberg
+Borussia Dortmund    3-1  Eintracht Frankfurt
+Hamburger SV         1-1  Borussia M'gladbach
+1. FSV Mainz 05      2-1  FC St. Pauli
+1. FC Köln           2-1  FC Schalke 04
+SC Freiburg          0-1  Bayer Leverkusen
+1. FC Kaiserslautern 3-2  Werder Bremen
+
