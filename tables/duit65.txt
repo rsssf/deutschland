@@ -1,3 +1,55 @@
+<!--
+   source: http://www.rsssf.com/tablesd/duit65.html
+   html to text conversion on 2015-07-25 13:54:36 +0200
+  -->
+
+
+
+## Germany 1964/65
+
+
+
+Final Table
+
+ 1. Werder Bremen                30 15 11  4  54- 29  41
+ 2. 1. FC Köln                   30 14 10  6  66- 45  38
+ 3. Borussia Dortmund            30 15  6  9  67- 48  36
+ 4. TSV 1860 München             30 14  7  9  70- 50  35
+ 5. Hannover 96                  30 13  7 10  48- 42  33
+ 6. 1. FC Nürnberg               30 11 10  9  44- 38  32
+ 7. Meidericher SV               30 12  8 10  46- 48  32
+ 8. Eintracht Frankfurt          30 11  7 12  50- 58  29
+ 9. Eintracht Braunschweig       30 10  8 12  42- 47  28
+10. Borussia Neunkirchen         30  9  9 12  44- 48  27
+11. Hamburger SV                 30 11  5 14  46- 56  27
+12. VfB Stuttgart                30  9  8 13  46- 50  26
+13. 1. FC Kaiserslautern         30 11  3 16  41- 53  25
+14. Hertha BSC Berlin            30  7 11 12  40- 62  25
+15. Karlsruher SC                30  9  6 15  47- 62  24
+16. Schalke 04                   30  7  8 15  45- 60  22
+
+Nb. No relegation, league extended to 18 teams. Hertha BSC
+forcibly relegated for lack of license and replaced by
+Tasmania Berlin
+
+    Wer Köl Bor TSV Han Mei Nür Fra Bra Bor Ham VfB Her Kai Kar Sch
+Wer xxx 0-0 3-0 3-2 3-0 1-0 1-1 2-2 5-1 2-0 0-0 1-0 5-1 1-1 1-0 2-2
+Köl 4-2 xxx 3-3 1-1 0-1 1-2 0-0 3-4 5-1 4-3 3-0 2-1 2-3 3-0 4-1 2-1
+Bor 1-2 2-2 xxx 1-1 0-2 0-0 2-1 1-3 5-4 5-1 2-0 1-0 6-3 3-2 5-1 4-0
+TSV 3-1 2-3 4-4 xxx 4-0 2-1 2-0 0-1 2-0 4-2 4-1 1-0 6-4 2-2 9-0 3-1
+Han 1-2 2-0 2-0 0-2 xxx 2-0 2-2 3-2 2-2 1-1 1-2 2-1 3-1 4-0 4-2 1-0
+Mei 2-2 0-3 3-2 3-0 1-0 xxx 2-0 1-3 2-0 1-1 3-2 3-3 2-2 3-1 1-1 2-1
+Nür 2-3 3-0 1-0 2-2 1-0 1-1 xxx 0-0 3-2 2-0 2-3 1-1 2-0 1-0 4-1 3-2
+Fra 0-2 1-4 0-2 4-1 3-3 2-3 1-1 xxx 2-2 1-0 2-1 2-3 3-0 1-2 0-7 2-2
+Bra 1-1 1-1 0-1 1-1 2-2 0-1 1-0 3-2 xxx 1-0 2-0 2-1 1-1 2-0 3-0 1-2
+Bor 1-1 1-1 1-2 3-0 2-1 4-2 1-1 4-0 0-0 xxx 3-1 3-1 2-2 0-3 1-0 3-2
+Ham 0-4 0-0 1-4 3-2 3-0 3-0 2-1 2-1 0-1 1-2 xxx 2-2 4-1 3-2 2-1 2-4
+VfB 1-1 3-3 3-2 3-0 0-3 4-2 3-1 1-2 3-1 3-2 2-4 xxx 1-1 1-0 1-2 2-1
+Her 0-0 1-3 0-0 2-1 1-1 2-2 1-2 1-3 0-3 1-1 0-0 0-0 xxx 5-3 2-1 2-1
+Kai 2-1 2-2 1-3 1-2 1-0 2-0 3-2 0-1 2-1 2-0 2-1 2-1 1-2 xxx 0-1 3-0
+Kar 0-2 2-4 2-0 1-5 2-3 2-1 1-1 3-1 3-0 2-1 2-2 0-0 0-1 6-1 xxx 2-2
+Sch 1-0 2-3 2-6 2-2 2-2 1-2 1-3 1-1 0-3 1-1 3-1 3-1 3-0 1-0 1-1 xxx
+
 Round 1 [Aug 22]
 1. FC Köln  2-3 Hertha      (Schäfer 18, Thielen 62 - Faeder 70, Rühl 77,
                             K.Schulz 89)
@@ -179,6 +231,25 @@ Werder      1-1 Nürnberg    (H.Schulz 32 - Strehl 84)
 K'lautern   0-1 Frankfurt   (Huberts 84 p)
 Schalke     3-1 Hamburger   (Koslowski 8, 72, Gerhardt 44 - U.Seeler 64)
 
+Fall Table
+
+ 1. 1. FC Köln                   15  8  4  3  41- 27  20
+ 2. Werder Bremen                15  8  4  3  28- 17  20
+ 3. TSV 1860 München             15  6  5  4  27- 19  17
+ 4. 1. FC Nürnberg               15  7  3  5  27- 22  17
+ 5. Eintracht Frankfurt          15  7  3  5  23- 27  17
+ 6. Borussia Dortmund            15  6  4  5  23- 20  16
+ 7. Hamburger SV                 15  6  4  5  24- 26  16
+ 8. Hannover 96                  15  6  3  6  20- 23  15
+ 9. Hertha BSC Berlin            15  4  7  4  21- 27  15
+10. VfB Stuttgart                15  4  6  5  24- 23  14
+11. Eintracht Braunschweig       15  5  4  6  22- 24  14
+12. 1. FC Kaiserslautern         15  6  2  7  27- 31  14
+13. Meidericher SV               15  5  3  7  19- 25  13
+14. Borussia Neunkirchen         15  5  2  8  22- 25  12
+15. Karlsruher SC                15  4  3  8  26- 28  11
+16. Schalke 04                   15  2  5  8  22- 32   9
+
 Round 16 [Dec 19]
 Hertha      1-3 1. FC Köln  (Steinert 27 - C.Müller 8, Overath 11, Löhr 13)
                             [22 Sturm (Köln) m/pen]
@@ -240,6 +311,7 @@ Werder      0-0 1. FC Köln
 Meidericher 3-2 Hamburger   (Lotz 64, 85 Gecks 74 - U.Seeler 48, B.Dörfel 84)
 Karlsruher  3-1 Frankfurt   (H.Wild 62, 73, Madl 21 - Trimhold 34)
 Schalke     1-3 Nürnberg    (Gerhardt 31 - Reisch 37 p, 63 p, Albrecht 71)
+
 
 Round 21 [Feb 13]
 1. FC Köln  1-2 Meidericher (C.Müller 68 - Gecks 72, 74)
@@ -377,3 +449,71 @@ Karlsruher  3-0 B'schweig   (H.Wild 75 p, Cieslarczyk 82, Witlatschil 84)
                             [23 Witlatschil (Karlsruher) m/pen]
 Frankfurt   1-2 K'lautern   (Lechner 21 - Prins 22, Wrenger 55)
 
+
+ 1. Werder Bremen                30 15 11  4  54- 29  41
+ 2. 1. FC Köln                   30 14 10  6  66- 45  38
+ 3. Borussia Dortmund            30 15  6  9  67- 48  36
+ 4. TSV 1860 München             30 14  7  9  70- 50  35
+ 5. Hannover 96                  30 13  7 10  48- 42  33
+ 6. 1. FC Nürnberg               30 11 10  9  44- 38  32
+ 7. Meidericher SV               30 12  8 10  46- 48  32
+ 8. Eintracht Frankfurt          30 11  7 12  50- 58  29
+ 9. Eintracht Braunschweig       30 10  8 12  42- 47  28
+10. Borussia Neunkirchen         30  9  9 12  44- 48  27
+11. Hamburger SV                 30 11  5 14  46- 56  27
+12. VfB Stuttgart                30  9  8 13  46- 50  26
+13. 1. FC Kaiserslautern         30 11  3 16  41- 53  25
+14. Hertha BSC Berlin            30  7 11 12  40- 62  25
+15. Karlsruher SC                30  9  6 15  47- 62  24
+16. Schalke 04                   30  7  8 15  45- 60  22
+
+Topscorers: Rudi BRUNNENMEIER (TSV) - 24, Timo KONIETZKA
+(Dortmund) - 22, Christian MÜLLER (Köln) - 18
+
+Werder Bremen 1964/65
+
+       Günter BERNARD        30  (2700)  -29
+
+     Wolfgang BORDEL          1  (  90)
+     Diethelm FERNER         29  (2610)  + 1
+ Horst-Dieter HÖTTGES        29  (2610)  + 1
+        Klaus HÄNEL           7  ( 630)  + 1
+       Helmut JAGIELSKI      26  (2340)
+         Theo KLÖCKNER       17  (1530)  + 4
+          Max LORENZ         27  (2430)  + 2
+        Klaus MATISCHAK      19  (1710)  +12
+        Josef PIONTEK        28  (2520)  + 3
+       Helmut SCHIMECZEK      6  ( 540)
+         Hans SCHULZ         19  (1710)  + 4
+       Arnold SCHÜTZ         28  (2520)  +10
+        Willi SOYA            8  ( 720)  + 2
+        Heinz STEINMANN      26  (2340)
+       Dieter THUN            2  ( 180)
+      Gerhard ZEBROWSKI      28  (2520)  +11
+
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document
+
+With thanks to Gerd Heuser
+(hageha@gmx.de)
+
+Prepared and maintained by Gwidon Naskrent
+for the
+Rec.Sport.Soccer Statistics Foundation
+
+
+Author:
+Gwidon Naskrent
+(naskrent@free.net.pl)
+
+
+Last updated: 1 Apr 2001
+
+**(c) Copyright Gwidon Naskrent and RSSSF 2000/01**
+
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.
