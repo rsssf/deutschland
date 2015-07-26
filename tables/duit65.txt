@@ -1,6 +1,6 @@
 <!--
-   source: http://www.rsssf.com/tablesd/duit65.html
-   html to text conversion on 2015-07-25 13:54:36 +0200
+   source: http://rsssf.com/tablesd/duit65.html
+   html to text conversion on 2015-07-26 15:46:09 +0200
   -->
 
 
@@ -499,7 +499,6 @@ Werder Bremen 1964/65
 ## About this document
 
 With thanks to Gerd Heuser
-(hageha@gmx.de)
 
 Prepared and maintained by Gwidon Naskrent
 for the
@@ -508,7 +507,6 @@ Rec.Sport.Soccer Statistics Foundation
 
 Author:
 Gwidon Naskrent
-(naskrent@free.net.pl)
 
 
 Last updated: 1 Apr 2001

@@ -1,6 +1,6 @@
 <!--
-   source: http://www.rsssf.com/tablesd/duit66.html
-   html to text conversion on 2015-07-25 13:54:36 +0200
+   source: http://rsssf.com/tablesd/duit66.html
+   html to text conversion on 2015-07-26 15:46:09 +0200
   -->
 
 
@@ -599,7 +599,6 @@ TSV 1860 München 1965/66
 ## About this document
 
 With thanks to Gerd Heuser
-(hageha@gmx.de)
 
 Prepared and maintained by Gwidon Naskrent
 for the
@@ -608,7 +607,6 @@ Rec.Sport.Soccer Statistics Foundation
 
 Author:
 Gwidon Naskrent
-(naskrent@free.net.pl)
 
 
 Last updated: 1 Apr 2001
