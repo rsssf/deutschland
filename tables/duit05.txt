@@ -1,6 +1,6 @@
 <!--
    source: http://rsssf.com/tablesd/duit05.html
-   html to text conversion on 2015-07-26 15:46:30 +0200
+   html to text conversion on 2015-07-26 16:59:45 +0200
   -->
 
 
@@ -3592,12 +3592,11 @@ Rec.Sport.Soccer Statistics Foundation
 
 
 Authors: Lars Kubusch
-(),
+,
 Daniel Dalence
-(),
+,
 Roberto Di Maggio
 and Anthony Zea
-()
 
 
 Last updated: 17 Aug 2005
