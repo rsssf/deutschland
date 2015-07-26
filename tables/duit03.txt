@@ -2315,10 +2315,10 @@ Rec.Sport.Soccer Statistics Foundation
 
 Authors:
 Pierre Winkler
-(PierreWinkler@hotmail.com),
+(),
 Daniel Dalence Garcia
 and Manuel Schmidt
-(Manu_Schmidt@yahoo.de)
+(Manu_)
 
 
 Last updated: 1 Jun 2005

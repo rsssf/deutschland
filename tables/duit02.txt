@@ -2520,7 +2520,7 @@ for the Rec.Sport.Soccer Statistics Foundation
 
 Authors: Karel Stokkermans
 and Pierre Winkler
-(PierreWinkler@hotmail.com)
+()
 
 
 Last updated: 1 Jun 2005

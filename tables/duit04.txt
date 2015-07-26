@@ -4083,7 +4083,7 @@ Rec.Sport.Soccer Statistics Foundation
 
 
 Author: Lars Kubusch
-(Larsen23@gmx.de)
+()
 
 
 Last updated: 8 Aug 2004

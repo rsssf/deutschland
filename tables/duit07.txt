@@ -2745,10 +2745,10 @@ Rec.Sport.Soccer Statistics Foundation
 
 
 Authors: Lars Kubusch
-(Larsen23@gmx.de),
+(),
 Daniel Dalence
 and Anthony Zea
-(zja70@aol.com)
+()
 
 
 Last updated: 8 May 2008

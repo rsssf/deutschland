@@ -3592,12 +3592,12 @@ Rec.Sport.Soccer Statistics Foundation
 
 
 Authors: Lars Kubusch
-(Larsen23@gmx.de),
+(),
 Daniel Dalence
-(danielballack@terra.com.br),
+(),
 Roberto Di Maggio
 and Anthony Zea
-(zja70@aol.com)
+()
 
 
 Last updated: 17 Aug 2005

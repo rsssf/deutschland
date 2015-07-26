@@ -1001,7 +1001,7 @@ Rec.Sport.Soccer Statistics Foundation
 
 Authors:
 Gwidon Naskrent
-and Daniel Dalence (danielballack@terra.com.br)
+and Daniel Dalence ()
 
 
 Last updated: 7 Jun 2005
