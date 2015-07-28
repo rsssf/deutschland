@@ -1,6 +1,5 @@
 <!--
    source: http://rsssf.com/tablesd/duit09.html
-   html to text conversion on 2015-07-26 16:59:47 +0200
   -->
 
 
@@ -13,7 +12,7 @@
 Final Table:
 
  1.VfL Wolfsburg                34 21  6  7  80-41  69  Champions
- 2.FC Bayern München            34 20  7  7  71-42  67  Champions League
+ 2.FC Bayern MÃ¼nchen            34 20  7  7  71-42  67  Champions League
  3.VfB Stuttgart                34 19  7  8  63-43  64  CL Qualifying
  4.Hertha BSC Berlin            34 19  6  9  48-41  63  Europa League
  5.Hamburger SV                 34 19  4 11  49-47  61  Europa League
@@ -23,10 +22,10 @@ Final Table:
  9.Bayer 04 Leverkusen          34 14  7 13  59-46  49
 10.SV Werder Bremen             34 12  9 13  64-50  45
 11.Hannover 96                  34 10 10 14  49-69  40
-12.1.FC Köln                    34 11  6 17  35-50  39
+12.1.FC KÃ¶ln                    34 11  6 17  35-50  39
 13.Eintracht Frankfurt          34  8  9 17  39-60  33
 14.VfL Bochum                   34  7 11 16  39-55  32
-15.Borussia Mönchengladbach     34  8  7 19  39-62  31
+15.Borussia MÃ¶nchengladbach     34  8  7 19  39-62  31
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
 16.FC Energie Cottbus           34  8  6 20  30-57  30  Relegation Playoff
 ------------------------------------------------------
@@ -38,7 +37,7 @@ Round 1
 Bayern         2-2 Hamburg
 [Aug 16]
 Schalke        3-0 Hannover
-Wolfsburg      2-1 Köln
+Wolfsburg      2-1 KÃ¶ln
 Leverkusen     2-3 Borussia D
 Karlsruhe      1-0 Bochum
 Energie        0-3 Hoffenheim
@@ -58,12 +57,12 @@ Stuttgart      0-2 Leverkusen
 Hoffenheim     1-0 Borussia M
 Hertha         1-1 Arminia B
 [Aug 24]
-Köln           1-1 Eintracht F
+KÃ¶ln           1-1 Eintracht F
 Bochum         2-2 Wolfsburg
 
 Round 3
 [Aug 29]
-Karlsruhe      0-2 Köln
+Karlsruhe      0-2 KÃ¶ln
 [Aug 30]
 Schalke        1-0 Bochum
 Leverkusen     5-2 Hoffenheim
@@ -77,7 +76,7 @@ Stuttgart      2-0 Hannover
 
 Round 4
 [Sep 13]
-Köln           0-3 Bayern
+KÃ¶ln           0-3 Bayern
 Borussia D     3-3 Schalke
 Hertha         2-2 Wolfsburg
 Hoffenheim     0-0 Stuttgart
@@ -96,7 +95,7 @@ Leverkusen     4-0 Hannover
 Schalke        1-0 Eintracht F
 Borussia M     0-1 Hertha
 Bayern         2-5 Werder
-Arminia B      2-0 Köln
+Arminia B      2-0 KÃ¶ln
 Energie        1-1 Bochum
 [Sep 21]
 Hoffenheim     4-1 Borussia D
@@ -105,7 +104,7 @@ Stuttgart      3-1 Karlsruhe
 
 Round 6
 [Sep 26]
-Köln           1-0 Schalke
+KÃ¶ln           1-0 Schalke
 [Sep 27]
 Hamburg        1-0 Borussia M
 Borussia D     3-0 Stuttgart
@@ -125,7 +124,7 @@ Hoffenheim     2-1 Eintracht F
 Stuttgart      4-1 Werder
 Leverkusen     0-1 Hertha
 Bayern         3-3 Bochum
-Borussia M     1-2 Köln
+Borussia M     1-2 KÃ¶ln
 [Oct 5]
 Schalke        2-2 Wolfsburg
 Energie        1-2 Hamburg
@@ -138,7 +137,7 @@ Bochum         2-2 Borussia M
 Karlsruhe      0-1 Bayern
 Hertha         2-1 Stuttgart
 Hannover       2-5 Hoffenheim
-Köln           1-0 Energie
+KÃ¶ln           1-0 Energie
 Eintracht F    0-2 Leverkusen
 Wolfsburg      4-1 Arminia B
 Werder         3-3 Borussia D
@@ -147,7 +146,7 @@ Hamburg        1-1 Schalke
 
 Round 9
 [Oct 24]
-Leverkusen     2-0 Köln
+Leverkusen     2-0 KÃ¶ln
 [Oct 25]
 Energie        2-3 Eintracht F
 Bayern         4-2 Wolfsburg
@@ -169,7 +168,7 @@ Arminia B      1-1 Energie
 Hamburg        2-0 Stuttgart
 Bochum         1-3 Hoffenheim
 Hertha         3-0 Hannover
-Köln           0-1 Borussia D
+KÃ¶ln           0-1 Borussia D
 Eintracht F    1-2 Bayern
 
 Round 11
@@ -180,7 +179,7 @@ Energie        0-2 Schalke
 Werder         5-1 Hertha
 Hannover       3-0 Hamburg
 Bayern         3-1 Arminia B
-Stuttgart      1-3 Köln
+Stuttgart      1-3 KÃ¶ln
 Hoffenheim     4-1 Karlsruhe
 [Nov 2]
 Borussia M     1-2 Eintracht F
@@ -188,7 +187,7 @@ Borussia D     1-1 Bochum
 
 Round 12
 [Nov 7]
-Köln           2-1 Hannover
+KÃ¶ln           2-1 Hannover
 [Nov 8]
 Hamburg        2-1 Borussia D
 Bochum         0-0 Werder
@@ -212,13 +211,13 @@ Borussia M     2-2 Bayern
 Borussia D     4-0 Eintracht F
 Energie        1-0 Karlsruhe
 [Nov 16]
-Werder         3-1 Köln
+Werder         3-1 KÃ¶ln
 
 Round 14
 [Nov 21]
 Karlsruhe      0-1 Borussia D
 [Nov 22]
-Köln           1-3 Hoffenheim
+KÃ¶ln           1-3 Hoffenheim
 Arminia B      2-1 Leverkusen
 Bayern         4-1 Energie
 Bochum         2-3 Hertha
@@ -230,7 +229,7 @@ Hamburg        2-1 Werder
 
 Round 15
 [Nov 28]
-Hertha         2-1 Köln
+Hertha         2-1 KÃ¶ln
 [Nov 29]
 Leverkusen     0-2 Bayern
 Hoffenheim     3-0 Arminia B
@@ -253,7 +252,7 @@ Schalke        1-0 Hertha
 Eintracht F    4-0 Bochum
 Borussia M     1-3 Leverkusen
 [Dec 7]
-Köln           1-2 Hamburg
+KÃ¶ln           1-2 Hamburg
 Wolfsburg      2-1 Hannover
 
 Round 17
@@ -264,7 +263,7 @@ Stuttgart      2-2 Bayern
 Hamburg        1-0 Eintracht F
 Werder         2-1 Wolfsburg
 Hannover       1-1 Arminia B
-Bochum         1-2 Köln
+Bochum         1-2 KÃ¶ln
 Hertha         4-0 Karlsruhe
 Leverkusen     1-1 Energie
 [Dec 14]
@@ -275,7 +274,7 @@ Round 18
 Hamburg        1-0 Bayern
 [Jan 31]
 Hertha         2-1 Eintracht F
-Köln           1-1 Wolfsburg
+KÃ¶ln           1-1 Wolfsburg
 Hannover       1-0 Schalke
 Borussia D     1-1 Leverkusen
 Stuttgart      2-0 Borussia M
@@ -290,7 +289,7 @@ Arminia        1-1 Hertha
 [Feb 7]
 Borussia M     1-1 Hoffenheim
 Wolfsburg      2-0 Bochum
-Eintracht F    2-2 Köln
+Eintracht F    2-2 KÃ¶ln
 Leverkusen     2-4 Stuttgart
 Karlsruhe      3-2 Hamburg
 Schalke        1-0 Werder
@@ -307,7 +306,7 @@ Bochum         2-1 Schalke
 Eintracht F    0-2 Wolfsburg
 Hannover       3-3 Stuttgart
 Werder         1-1 Borussia M
-Köln           0-0 Karlsruhe
+KÃ¶ln           0-0 Karlsruhe
 [Feb 15]
 Hamburg        2-0 Arminia
 Borussia D     1-1 Energie
@@ -319,7 +318,7 @@ Schalke        1-1 Borussia D
 Wolfsburg      2-1 Hertha
 Stuttgart      3-3 Hoffenheim
 Borussia M     3-2 Hannover
-Bayern         1-2 Köln
+Bayern         1-2 KÃ¶ln
 Arminia        1-1 Bochum
 Karlsruhe      0-1 Eintracht F
 Energie        2-1 Werder
@@ -328,7 +327,7 @@ Leverkusen     1-2 Hamburg
 
 Round 22
 [Feb 27]
-Köln           1-1 Arminia
+KÃ¶ln           1-1 Arminia
 [Feb 28]
 Eintracht F    1-2 Schalke
 Hannover       1-0 Leverkusen
@@ -342,7 +341,7 @@ Karlsruhe      0-2 Stuttgart
 
 Round 23
 [Mar 6]
-Schalke        1-0 Köln
+Schalke        1-0 KÃ¶ln
 [Mar 7]
 Stuttgart      2-1 Borussia D
 Hoffenheim     0-0 Werder
@@ -362,7 +361,7 @@ Eintracht F    1-1 Hoffenheim
 Bochum         0-3 Bayern
 Hannover       4-4 Borussia D
 Hertha         1-0 Leverkusen
-Köln           2-4 Borussia M
+KÃ¶ln           2-4 Borussia M
 Karlsruhe      0-1 Arminia
 [Mar 15]
 Werder         4-0 Stuttgart
@@ -374,7 +373,7 @@ Borussia M     0-1 Bochum
 [Mar 21]
 Leverkusen     1-1 Eintracht F
 Stuttgart      2-0 Hertha
-Energie        0-2 Köln
+Energie        0-2 KÃ¶ln
 Bayern         1-0 Karlsruhe
 Hoffenheim     2-2 Hannover
 Arminia        0-3 Wolfsburg
@@ -393,7 +392,7 @@ Eintracht F    2-1 Energie
 Hamburg        1-0 Hoffenheim
 [Apr 5]
 Werder         4-1 Hannover
-Köln           0-2 Leverkusen
+KÃ¶ln           0-2 Leverkusen
 Karlsruhe      0-0 Borussia M
 
 Round 27
@@ -403,7 +402,7 @@ Borussia M     1-2 Wolfsburg
 Hannover       2-0 Hertha
 Hoffenheim     0-3 Bochum
 Energie        2-1 Arminia
-Borussia D     3-1 Köln
+Borussia D     3-1 KÃ¶ln
 Schalke        2-0 Karlsruhe
 [Apr 12]
 Leverkusen     1-1 Werder
@@ -415,7 +414,7 @@ Schalke        4-0 Energie
 [Apr 18]
 Arminia        0-1 Bayern
 Bochum         0-2 Borussia D
-Köln           0-3 Stuttgart
+KÃ¶ln           0-3 Stuttgart
 Wolfsburg      2-1 Leverkusen
 Eintracht F    4-1 Borussia M
 Karlsruhe      2-2 Hoffenheim
@@ -431,7 +430,7 @@ Stuttgart      2-0 Eintracht F
 Bayern         0-1 Schalke
 Borussia D     2-0 Hamburg
 Werder         3-2 Bochum
-Hannover       2-1 Köln
+Hannover       2-1 KÃ¶ln
 Leverkusen     0-1 Karlsruhe
 [Apr 26]
 Energie        2-0 Wolfsburg
@@ -448,7 +447,7 @@ Bayern         2-1 Borussia M
 Karlsruhe      0-0 Energie
 Wolfsburg      4-0 Hoffenheim
 [May 3]
-Köln           1-0 Werder
+KÃ¶ln           1-0 Werder
 Hamburg        1-1 Hertha
 
 Round 31
@@ -459,7 +458,7 @@ Energie        1-3 Bayern
 Hannover       1-1 Eintracht F
 Stuttgart      4-1 Wolfsburg
 Hertha         2-0 Bochum
-Hoffenheim     2-0 Köln
+Hoffenheim     2-0 KÃ¶ln
 Borussia D     4-0 Karlsruhe
 [May 10]
 Borussia M     1-0 Schalke
@@ -468,7 +467,7 @@ Werder         2-0 Hamburg
 Round 32
 [May 12]
 Wolfsburg      3-0 Borussia D
-Köln           1-2 Hertha
+KÃ¶ln           1-2 Hertha
 Bayern         3-0 Leverkusen
 Karlsruhe      2-3 Hannover
 [May 13]
@@ -481,7 +480,7 @@ Arminia        0-2 Hoffenheim
 Round 33 [May 16]
 Hertha         0-0 Schalke
 Hoffenheim     2-2 Bayern
-Hamburg        0-1 Köln
+Hamburg        0-1 KÃ¶ln
 Leverkusen     5-0 Borussia M
 Borussia D     6-0 Arminia
 Stuttgart      2-0 Energie
@@ -495,7 +494,7 @@ Bayern         2-1 Stuttgart
 Eintracht F    2-3 Hamburg
 Wolfsburg      5-1 Werder
 Arminia B      2-2 Hannover
-Köln           1-1 Bochum
+KÃ¶ln           1-1 Bochum
 Karlsruhe      4-0 Hertha
 Energie        3-0 Leverkusen
 Schalke        2-3 Hoffenheim
@@ -503,7 +502,7 @@ Schalke        2-3 Hoffenheim
 Final Table:
 
  1.VfL Wolfsburg                34 21  6  7  80-41  69  Champions
- 2.FC Bayern München            34 20  7  7  71-42  67  Champions League
+ 2.FC Bayern MÃ¼nchen            34 20  7  7  71-42  67  Champions League
  3.VfB Stuttgart                34 19  7  8  63-43  64  CL Qualifying
  4.Hertha BSC Berlin            34 19  6  9  48-41  63  Europa League
  5.Hamburger SV                 34 19  4 11  49-47  61  Europa League
@@ -513,10 +512,10 @@ Final Table:
  9.Bayer 04 Leverkusen          34 14  7 13  59-46  49
 10.SV Werder Bremen             34 12  9 13  64-50  45
 11.Hannover 96                  34 10 10 14  49-69  40
-12.1.FC Köln                    34 11  6 17  35-50  39
+12.1.FC KÃ¶ln                    34 11  6 17  35-50  39
 13.Eintracht Frankfurt          34  8  9 17  39-60  33
 14.VfL Bochum                   34  7 11 16  39-55  32
-15.Borussia Mönchengladbach     34  8  7 19  39-62  31
+15.Borussia MÃ¶nchengladbach     34  8  7 19  39-62  31
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
 16.FC Energie Cottbus           34  8  6 20  30-57  30  Relegation Playoff
 ------------------------------------------------------
@@ -526,12 +525,12 @@ Final Table:
 Promotion/Relegation Playoff
 
 First Leg [May 28]
-Energie        0-3 Nürnberg
+Energie        0-3 NÃ¼rnberg
 
 Second Leg [May 31]
-Nürnberg       2-0 Energie
+NÃ¼rnberg       2-0 Energie
 
-NB: Nürnberg promoted, Energie relegated
+NB: NÃ¼rnberg promoted, Energie relegated
 
 
 
@@ -539,13 +538,13 @@ DFB Pokal 2008/09
 
 Round 1
 [Aug 7]
-SV Niederauerbach        1-5 1. FC Köln
+SV Niederauerbach        1-5 1. FC KÃ¶ln
 [Aug 8]
 Eintracht Trier          1-3 Hertha BSC
 Erzgebirge Aue           0-0 FC St.Pauli              [aet, 5-4 pen]
-FSV Frankfurt            2-0 VfL Osnabrück
-Kickers Offenbach        1-0 SpVgg Greuther Fürth
-Preußen Münster          0-0 VfL Bochum               [aet, 5-6 pen]
+FSV Frankfurt            2-0 VfL OsnabrÃ¼ck
+Kickers Offenbach        1-0 SpVgg Greuther FÃ¼rth
+PreuÃŸen MÃ¼nster          0-0 VfL Bochum               [aet, 5-6 pen]
 SpVgg Unterhaching       0-2 SC Freiburg
 [Aug 9]
 Eintracht Nordhorn       3-9 Werder Bremen
@@ -555,7 +554,7 @@ Hallescher FC            0-5 Hannover 96
 KSV Holstein Kiel        0-2 Hansa Rostock
 Rot-Weiss Essen          1-3 Borussia Dortmund
 SV Babelsberg 03         1-2 FSV Mainz 05             [aet]
-VfB Fichte Bielefeld     1-8 Borussia Mönchengladbach
+VfB Fichte Bielefeld     1-8 Borussia MÃ¶nchengladbach
 Carl Zeiss Jena          2-1 1. FC Kaiserslautern
 FC Homburg 08            0-3 Schalke 04
 SC Paderborn             1-1 FC Augsburg              [aet, 1-3 pen]
@@ -565,23 +564,23 @@ Tennis Borussia          0-3 Energie Cottbus
 1.FC Heidenheim 1846     0-3 VfL Wolfsburg
 Bergedorf 85             1-5 MSV Duisburg
 SpVgg Ansbach            0-5 Karlsruher SC
-TSG Neustrelitz          0-2 TSV 1860 München
+TSG Neustrelitz          0-2 TSV 1860 MÃ¼nchen
 ASV Durlach              1-2 Arminia Bielefeld
 FC Oberneuland           1-1 TuS Koblenz              [aet, 5-4 pen]
 SV Darmstadt 98          0-2 SV Wehen Wiesbaden
 Chemnitzer FC            0-1 TSG 1899 Hoffenheim
-FC Hansa Lüneburg        0-5 VfB Stuttgart
-Rot-Weiss Ahlen          0-0 1. FC Nürnberg           [aet, 3-4 pen]
-Rot-Weiß Oberhausen      2-3 Bayer Leverkusen         [aet]
-Rot-Weiß Erfurt          3-4 Bayern München
+FC Hansa LÃ¼neburg        0-5 VfB Stuttgart
+Rot-Weiss Ahlen          0-0 1. FC NÃ¼rnberg           [aet, 3-4 pen]
+Rot-WeiÃŸ Oberhausen      2-3 Bayer Leverkusen         [aet]
+Rot-WeiÃŸ Erfurt          3-4 Bayern MÃ¼nchen
 
 Round 2
 [Sep 23]
 Eintracht Frankfurt      1-2 Hansa Rostock            [aet]
-Energie Cottbus          3-0 Borussia Mönchengladbach
+Energie Cottbus          3-0 Borussia MÃ¶nchengladbach
 Erzgebirge Aue           1-2 Werder Bremen
-FSV Mainz 05             3-1 1. FC Köln
-TSV 1860 München         0-0 MSV Duisburg             [aet, 5-4 pen]
+FSV Mainz 05             3-1 1. FC KÃ¶ln
+TSV 1860 MÃ¼nchen         0-0 MSV Duisburg             [aet, 5-4 pen]
 FC Augsburg              0-2 Bayer Leverkusen
 Schalke 04               2-0 Hannover 96
 [Sep 24]
@@ -590,7 +589,7 @@ FC Oberneuland           0-7 VfL Wolfsburg
 Hamburger SV             2-0 VfL Bochum
 Kickers Offenbach        0-2 Karlsruher SC
 SV Wehen Wiesbaden       1-0 Alemannia Aachen
-Bayern München           2-0 1. FC Nürnberg
+Bayern MÃ¼nchen           2-0 1. FC NÃ¼rnberg
 Carl Zeiss Jena          1-0 FSV Frankfurt
 SC Freiburg              3-1 TSG 1899 Hoffenheim
 VfB Stuttgart            2-0 Arminia Bielefeld
@@ -598,9 +597,9 @@ VfB Stuttgart            2-0 Arminia Bielefeld
 1/8 Finals
 [Jan 27]
 Carl Zeiss Jena          1-4 Schalke 04
-Hamburger SV             3-1 TSV 1860 München
+Hamburger SV             3-1 TSV 1860 MÃ¼nchen
 SC Freiburg              1-3 FSV Mainz 05
-VfB Stuttgart            1-5 Bayern München
+VfB Stuttgart            1-5 Bayern MÃ¼nchen
 [Jan 28]
 Bayer Leverkusen         3-1 Energie Cottbus
 Borussia Dortmund        1-2 Werder Bremen
@@ -613,7 +612,7 @@ FSV Mainz 05             1-0 Schalke 04
 [Mar 4]
 Hamburger SV             2-1 SV Wehen Wiesbaden
 VfL Wolfsburg            2-5 Werder Bremen
-Bayer Leverkusen         4-2 Bayern München
+Bayer Leverkusen         4-2 Bayern MÃ¼nchen
 
 Semifinals
 [Apr 21]
@@ -637,22 +636,22 @@ Final Table:
  1.SC Freiburg                  34 21  5  8  60-36  68  Promoted
  2.1.FSV Mainz 05               34 18  9  7  62-37  63  Promoted
 ------------------------------------------------------
- 3.1.FC Nürnberg                34 16 12  6  51-29  60  Promotion Playoff
+ 3.1.FC NÃ¼rnberg                34 16 12  6  51-29  60  Promotion Playoff
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.TSV Alemannia Aachen         34 16  8 10  58-38  56
- 5.SpVgg Greuther Fürth         34 16  8 10  60-46  56
+ 5.SpVgg Greuther FÃ¼rth         34 16  8 10  60-46  56
  6.MSV Duisburg                 34 14 13  7  56-36  55
  7.1.FC Kaiserslautern          34 15  7 12  53-48  52
  8.FC Sankt Pauli               34 14  6 14  52-59  48
  9.Rot-Weiss Oberhausen         34 11  9 14  35-54  42
 10.Rot-Weiss Ahlen              34 11  8 15  38-57  41
 11.FC Augsburg                  34 10 10 14  43-46  40
-12.TSV 1860 München             34  9 12 13  44-46  39
+12.TSV 1860 MÃ¼nchen             34  9 12 13  44-46  39
 13.FC Hansa Rostock             34  8 14 12  52-53  38
 14.TuS Koblenz                  34 11  8 15  47-57  38  [-3]
 15.FSV Frankfurt                34  9 11 14  34-47  38
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.VfL Osnabrück                34  8 12 14  41-60  36  Relegation Playoff
+16.VfL OsnabrÃ¼ck                34  8 12 14  41-60  36  Relegation Playoff
 ------------------------------------------------------
 17.FC Ingolstadt 04             34  7 10 17  38-54  31  Relegated
 18.SV Wehen Wiesbaden           34  5 12 17  28-49  27  Relegated
@@ -663,13 +662,13 @@ NB: TuS Koblenz 3 points deducted for infringements in license
 Round 1
 [Aug 15]
 Alemannia      2-1 Wehen
-Sankt Pauli    2-2 Osnabrück
+Sankt Pauli    2-2 OsnabrÃ¼ck
 Mainz          3-3 Kaiserslautern
 [Aug 17]
-Nürnberg       2-1 Augsburg
-Freiburg       2-1 1860 München
+NÃ¼rnberg       2-1 Augsburg
+Freiburg       2-1 1860 MÃ¼nchen
 RW Ahlen       2-1 FSV Frankfurt
-Ingolstadt     3-2 Greuther Fürth
+Ingolstadt     3-2 Greuther FÃ¼rth
 Koblenz        3-0 RW Oberhausen
 [Aug 18]
 Duisburg       2-2 Hansa
@@ -677,28 +676,28 @@ Duisburg       2-2 Hansa
 Round 2
 [Aug 22]
 FSV Frankfurt  0-0 Koblenz
-Greuther Fürth 5-2 Sankt Pauli
-Osnabrück      2-2 Freiburg
+Greuther FÃ¼rth 5-2 Sankt Pauli
+OsnabrÃ¼ck      2-2 Freiburg
 [Aug 24]
 RW Oberhausen  2-1 Ingolstadt
 Augsburg       3-0 RW Ahlen
 Wehen          1-1 Duisburg
 Hansa          1-0 Alemannia
-1860 München   1-2 Mainz
+1860 MÃ¼nchen   1-2 Mainz
 [Aug 25]
-Kaiserslautern 2-1 Nürnberg
+Kaiserslautern 2-1 NÃ¼rnberg
 
 Round 3
 [Aug 29]
 Ingolstadt     1-3 Kaiserslautern
-Mainz          4-2 Osnabrück
+Mainz          4-2 OsnabrÃ¼ck
 Duisburg       2-0 Augsburg
 [Aug 31]
-RW Ahlen       2-1 1860 München
-FSV Frankfurt  1-1 Greuther Fürth
+RW Ahlen       2-1 1860 MÃ¼nchen
+FSV Frankfurt  1-1 Greuther FÃ¼rth
 Koblenz        0-0 Wehen
 Sankt Pauli    4-1 RW Oberhausen
-Nürnberg       2-2 Alemannia
+NÃ¼rnberg       2-2 Alemannia
 [Sep 1]
 Freiburg       1-0 Hansa
 
@@ -709,50 +708,50 @@ Kaiserslautern 4-1 Sankt Pauli
 Alemannia      1-0 Ingolstadt
 [Sep 14]
 Augsburg       1-3 Freiburg
-Wehen          2-2 Nürnberg
-Greuther Fürth 4-3 Koblenz
+Wehen          2-2 NÃ¼rnberg
+Greuther FÃ¼rth 4-3 Koblenz
 Hansa          2-2 Mainz
-Osnabrück      3-2 FSV Frankfurt
+OsnabrÃ¼ck      3-2 FSV Frankfurt
 [Sep 15]
-1860 München   2-0 Duisburg
+1860 MÃ¼nchen   2-0 Duisburg
 
 Round 5
 [Sep 19]
-Sankt Pauli    1-0 1860 München
+Sankt Pauli    1-0 1860 MÃ¼nchen
 RW Ahlen       2-2 Hansa
 Koblenz        2-1 Augsburg
-Mainz          2-0 Nürnberg
+Mainz          2-0 NÃ¼rnberg
 Duisburg       3-2 Alemannia
 [Sep 21]
-Ingolstadt     2-1 Osnabrück
+Ingolstadt     2-1 OsnabrÃ¼ck
 FSV Frankfurt  3-1 RW Oberhausen
 Freiburg       5-0 Wehen
 [Sep 22]
-Greuther Fürth 0-1 Kaiserslautern
+Greuther FÃ¼rth 0-1 Kaiserslautern
 
 Round 6
 [Sep 26]
-RW Oberhausen  0-4 Greuther Fürth
-Osnabrück      1-0 Koblenz
+RW Oberhausen  0-4 Greuther FÃ¼rth
+OsnabrÃ¼ck      1-0 Koblenz
 Hansa          3-0 Sankt Pauli
 [Sep 28]
-1860 München   1-1 Ingolstadt
+1860 MÃ¼nchen   1-1 Ingolstadt
 Alemannia      1-0 Freiburg
 Augsburg       0-2 Mainz
 Kaiserslautern 2-1 FSV Frankfurt
 Wehen          1-3 RW Ahlen
 [Sep 29]
-Nürnberg       0-1 Duisburg
+NÃ¼rnberg       0-1 Duisburg
 
 Round 7
 [Oct 3]
-FSV Frankfurt  0-3 1860 München
+FSV Frankfurt  0-3 1860 MÃ¼nchen
 RW Oberhausen  2-1 Augsburg
 Freiburg       2-0 Duisburg
 [Oct 5]
-RW Ahlen       1-1 Nürnberg
+RW Ahlen       1-1 NÃ¼rnberg
 Sankt Pauli    3-2 Alemannia
-Greuther Fürth 4-2 Osnabrück
+Greuther FÃ¼rth 4-2 OsnabrÃ¼ck
 Koblenz        5-0 Kaiserslautern
 Ingolstadt     4-2 Hansa
 [Oct 6]
@@ -761,14 +760,14 @@ Mainz          5-0 Wehen
 Round 8
 [Oct 17]
 Kaiserslautern 4-1 RW Ahlen
-Osnabrück      2-1 RW Oberhausen
-Nürnberg       2-0 Freiburg
+OsnabrÃ¼ck      2-1 RW Oberhausen
+NÃ¼rnberg       2-0 Freiburg
 [Oct 19]
 Augsburg       3-2 Sankt Pauli
 Wehen          3-1 FSV Frankfurt
 Duisburg       6-1 Ingolstadt
 Hansa          9-0 Koblenz
-1860 München   3-1 Greuther Fürth
+1860 MÃ¼nchen   3-1 Greuther FÃ¼rth
 [Oct 20]
 Alemannia      2-0 Mainz
 
@@ -778,11 +777,11 @@ Ingolstadt     1-2 Augsburg
 FSV Frankfurt  0-0 Hansa
 RW Ahlen       0-3 Freiburg
 Sankt Pauli    2-0 Wehen
-Greuther Fürth 1-1 Alemannia
+Greuther FÃ¼rth 1-1 Alemannia
 [Oct 26]
-Osnabrück      0-2 1860 München
+OsnabrÃ¼ck      0-2 1860 MÃ¼nchen
 RW Oberhausen  2-1 Kaiserslautern
-Koblenz        1-1 Nürnberg
+Koblenz        1-1 NÃ¼rnberg
 Mainz          0-0 Duisburg
 
 Round 10
@@ -790,108 +789,108 @@ Round 10
 Augsburg       2-2 FSV Frankfurt
 Wehen          0-0 Ingolstadt
 Alemannia      0-2 RW Ahlen
-Hansa          1-2 Greuther Fürth
+Hansa          1-2 Greuther FÃ¼rth
 [Oct 29]
-1860 München   1-0 Koblenz
-Kaiserslautern 2-0 Osnabrück
+1860 MÃ¼nchen   1-0 Koblenz
+Kaiserslautern 2-0 OsnabrÃ¼ck
 Freiburg       0-1 Mainz
 Duisburg       1-2 Sankt Pauli
-Nürnberg       2-1 RW Oberhausen
+NÃ¼rnberg       2-1 RW Oberhausen
 
 Round 11
 [Oct 31]
 FSV Frankfurt  0-3 Alemannia
-Greuther Fürth 1-1 Wehen
+Greuther FÃ¼rth 1-1 Wehen
 [Nov 2]
 Ingolstadt     4-0 Freiburg
 RW Oberhausen  1-0 Hansa
 RW Ahlen       0-2 Mainz
-Osnabrück      1-1 Augsburg
+OsnabrÃ¼ck      1-1 Augsburg
 Koblenz        1-1 Duisburg
-Sankt Pauli    1-0 Nürnberg
+Sankt Pauli    1-0 NÃ¼rnberg
 [Nov 3]
-Kaiserslautern 0-0 1860 München
+Kaiserslautern 0-0 1860 MÃ¼nchen
 
 Round 12
 [Nov 7]
 Wehen          4-2 Kaiserslautern
 Alemannia      2-0 Koblenz
-Nürnberg       0-0 FSV Frankfurt
+NÃ¼rnberg       0-0 FSV Frankfurt
 [Nov 9]
-1860 München   0-1 RW Oberhausen
-Augsburg       1-1 Greuther Fürth
+1860 MÃ¼nchen   0-1 RW Oberhausen
+Augsburg       1-1 Greuther FÃ¼rth
 Mainz          0-3 Ingolstadt
 Duisburg       0-1 RW Ahlen
-Hansa          2-2 Osnabrück
+Hansa          2-2 OsnabrÃ¼ck
 [Nov 10]
 Freiburg       2-0 Sankt Pauli
 
 Round 13
 [Nov 14]
-1860 München   0-1 Augsburg
-Osnabrück      1-1 Wehen
+1860 MÃ¼nchen   0-1 Augsburg
+OsnabrÃ¼ck      1-1 Wehen
 Sankt Pauli    2-2 RW Ahlen
 [Nov 16]
-Ingolstadt     0-3 Nürnberg
+Ingolstadt     0-3 NÃ¼rnberg
 RW Oberhausen  1-1 Alemannia
 FSV Frankfurt  1-2 Freiburg
 Koblenz        0-3 Mainz
-Greuther Fürth 4-3 Duisburg
+Greuther FÃ¼rth 4-3 Duisburg
 [Nov 17]
 Kaiserslautern 6-0 Hansa
 
 Round 14
 [Nov 21]
 RW Ahlen       3-0 Ingolstadt
-Alemannia      3-1 Osnabrück
+Alemannia      3-1 OsnabrÃ¼ck
 Duisburg       0-0 FSV Frankfurt
 [Nov 22]
 Augsburg       1-0 Kaiserslautern
 Wehen          0-0 RW Oberhausen
 Freiburg       1-1 Koblenz
 Mainz          2-2 Sankt Pauli
-Nürnberg       2-1 Greuther Fürth
+NÃ¼rnberg       2-1 Greuther FÃ¼rth
 [Nov 24]
-Hansa          0-1 1860 München
+Hansa          0-1 1860 MÃ¼nchen
 
 Round 15
 [Nov 28]
 Kaiserslautern 1-1 Alemannia
-Osnabrück      1-1 Nürnberg
+OsnabrÃ¼ck      1-1 NÃ¼rnberg
 Koblenz        4-1 RW Ahlen
 [Nov 30]
-1860 München   3-3 Wehen
+1860 MÃ¼nchen   3-3 Wehen
 RW Oberhausen  0-3 Duisburg
 Augsburg       2-0 Hansa
 Sankt Pauli    1-0 Ingolstadt
-Greuther Fürth 1-1 Freiburg
+Greuther FÃ¼rth 1-1 Freiburg
 [Dec 1]
 FSV Frankfurt  1-4 Mainz
 
 Round 16
 [Dec 5]
-Alemannia      2-0 1860 München
+Alemannia      2-0 1860 MÃ¼nchen
 Ingolstadt     1-1 FSV Frankfurt
-Mainz          0-1 Greuther Fürth
+Mainz          0-1 Greuther FÃ¼rth
 [Dec 7]
-RW Ahlen       1-2 Osnabrück
+RW Ahlen       1-2 OsnabrÃ¼ck
 Sankt Pauli    3-2 Koblenz
 Wehen          1-2 Augsburg
 Freiburg       2-1 RW Oberhausen
 Duisburg       0-0 Kaiserslautern
 [Dec 8]
-Nürnberg       4-0 Hansa
+NÃ¼rnberg       4-0 Hansa
 
 Round 17
 [Dec 12]
 FSV Frankfurt  1-0 Sankt Pauli
-Osnabrück      1-1 Duisburg
+OsnabrÃ¼ck      1-1 Duisburg
 Koblenz        0-1 Ingolstadt
 [Dec 14]
-1860 München   1-1 Nürnberg
+1860 MÃ¼nchen   1-1 NÃ¼rnberg
 RW Oberhausen  2-1 Mainz
 Augsburg       3-1 Alemannia
-Greuther Fürth 3-0 RW Ahlen
+Greuther FÃ¼rth 3-0 RW Ahlen
 Hansa          1-0 Wehen
 [Dec 15]
 Kaiserslautern 2-0 Freiburg
@@ -899,11 +898,11 @@ Kaiserslautern 2-0 Freiburg
 Round 18
 [Jan 30]
 RW Oberhausen  0-0 Koblenz
-Osnabrück      2-2 Sankt Pauli
-Augsburg       0-0 Nürnberg
+OsnabrÃ¼ck      2-2 Sankt Pauli
+Augsburg       0-0 NÃ¼rnberg
 [Feb 1]
-1860 München   0-2 Freiburg
-Greuther Fürth 6-1 Ingolstadt
+1860 MÃ¼nchen   0-2 Freiburg
+Greuther FÃ¼rth 6-1 Ingolstadt
 FSV Frankfurt  4-0 RW Ahlen
 Wehen          1-0 Alemannia
 Hansa          0-1 Duisburg
@@ -913,28 +912,28 @@ Kaiserslautern 1-1 Mainz
 Round 19
 [Feb 6]
 Koblenz        1-3 FSV Frankfurt
-Freiburg       4-1 Osnabrück
+Freiburg       4-1 OsnabrÃ¼ck
 Alemannia      3-3 Hansa
 [Feb 8]
 Duisburg       2-1 Wehen
 Ingolstadt     0-0 RW Oberhausen
-Mainz          2-2 1860 München
+Mainz          2-2 1860 MÃ¼nchen
 RW Ahlen       2-1 Augsburg
-Sankt Pauli    0-3 Greuther Fürth
+Sankt Pauli    0-3 Greuther FÃ¼rth
 [Feb 9]
-Nürnberg       3-0 Kaiserslautern
+NÃ¼rnberg       3-0 Kaiserslautern
 
 Round 20
 [Feb 13]
-Greuther Fürth 0-0 FSV Frankfurt
+Greuther FÃ¼rth 0-0 FSV Frankfurt
 RW Oberhausen  3-2 Sankt Pauli
 Wehen          1-3 Koblenz
 [Feb 15]
 Kaiserslautern 2-0 Ingolstadt
-Osnabrück      1-3 Mainz
+OsnabrÃ¼ck      1-3 Mainz
 Augsburg       1-1 Duisburg
-Alemannia      6-2 Nürnberg
-1860 München   2-1 RW Ahlen
+Alemannia      6-2 NÃ¼rnberg
+1860 MÃ¼nchen   2-1 RW Ahlen
 [Feb 16]
 Hansa          1-3 Freiburg
 
@@ -945,10 +944,10 @@ Ingolstadt     0-0 Alemannia
 Mainz          3-1 Hansa
 [Feb 22]
 RW Ahlen       1-3 RW Oberhausen
-FSV Frankfurt  1-0 Osnabrück
-Nürnberg       1-0 Wehen
-Koblenz        3-0 Greuther Fürth
-Duisburg       4-1 1860 München
+FSV Frankfurt  1-0 OsnabrÃ¼ck
+NÃ¼rnberg       1-0 Wehen
+Koblenz        3-0 Greuther FÃ¼rth
+Duisburg       4-1 1860 MÃ¼nchen
 [Feb 28]
 Sankt Pauli    2-0 Kaiserslautern
 
@@ -956,47 +955,47 @@ Round 22
 [Feb 27]
 Hansa          0-0 RW Ahlen
 Wehen          0-1 Freiburg
-Nürnberg       0-0 Mainz
+NÃ¼rnberg       0-0 Mainz
 [Mar 1]
-Osnabrück      1-0 Ingolstadt
+OsnabrÃ¼ck      1-0 Ingolstadt
 RW Oberhausen  2-0 FSV Frankfurt
 Augsburg       0-2 Koblenz
-Kaiserslautern 1-2 Greuther Fürth
-1860 München   5-1 Sankt Pauli
+Kaiserslautern 1-2 Greuther FÃ¼rth
+1860 MÃ¼nchen   5-1 Sankt Pauli
 [Mar 2]
 Alemannia      1-2 Duisburg
 
 Round 23
 [Mar 6]
 FSV Frankfurt  1-0 Kaiserslautern
-Koblenz        3-0 Osnabrück
+Koblenz        3-0 OsnabrÃ¼ck
 Sankt Pauli    3-2 Hansa
 [Mar 8]
 Freiburg       2-1 Alemannia
-Ingolstadt     2-3 1860 München
-Greuther Fürth 3-1 RW Oberhausen
+Ingolstadt     2-3 1860 MÃ¼nchen
+Greuther FÃ¼rth 3-1 RW Oberhausen
 Mainz          1-1 Augsburg
 RW Ahlen       1-0 Wehen
 [Mar 9]
-Duisburg       2-2 Nürnberg
+Duisburg       2-2 NÃ¼rnberg
 
 Round 24
 [Mar 13]
-1860 München   1-1 FSV Frankfurt
-Nürnberg       4-0 RW Ahlen
+1860 MÃ¼nchen   1-1 FSV Frankfurt
+NÃ¼rnberg       4-0 RW Ahlen
 Kaiserslautern 2-1 Koblenz
 [Mar 15]
 Hansa          1-1 Ingolstadt
 Augsburg       1-2 RW Oberhausen
 Alemannia      1-3 Sankt Pauli
-Osnabrück      5-1 Greuther Fürth
+OsnabrÃ¼ck      5-1 Greuther FÃ¼rth
 Duisburg       2-0 Freiburg
 [Mar 16]
 Wehen          0-2 Mainz
 
 Round 25
 [Mar 20]
-RW Oberhausen  0-0 Osnabrück
+RW Oberhausen  0-0 OsnabrÃ¼ck
 FSV Frankfurt  2-1 Wehen
 Koblenz        1-1 Hansa
 [Mar 22]
@@ -1004,32 +1003,32 @@ Sankt Pauli    1-1 Augsburg
 RW Ahlen       0-1 Kaiserslautern
 Mainz          1-4 Alemannia
 Ingolstadt     0-0 Duisburg
-Greuther Fürth 1-0 1860
+Greuther FÃ¼rth 1-0 1860
 [Mar 23]
-Freiburg       0-1 Nürnberg
+Freiburg       0-1 NÃ¼rnberg
 
 Round 26
 [Apr 3]
 Augsburg       1-1 Ingolstadt
-Nürnberg       2-0 Koblenz
+NÃ¼rnberg       2-0 Koblenz
 Duisburg       0-1 Mainz
 [Apr 5]
 Kaiserslautern 1-1 RW Oberhausen
 Hansa          2-0 FSV Frankfurt
 Wehen          3-1 Sankt Pauli
-Alemannia      1-0 Greuther Fürth
-1860           1-1 Osnabrück
+Alemannia      1-0 Greuther FÃ¼rth
+1860           1-1 OsnabrÃ¼ck
 [Apr 6]
 Freiburg       1-1 RW Ahlen
 
 Round 27
 [Apr 9]
 Ingolstadt     0-0 Wehen
-Greuther Fürth 0-1 Hansa
-RW Oberhausen  0-3 Nürnberg
+Greuther FÃ¼rth 0-1 Hansa
+RW Oberhausen  0-3 NÃ¼rnberg
 [Apr 12]
 FSV Frankfurt  2-1 Augsburg
-Osnabrück      0-2 Kaiserslautern
+OsnabrÃ¼ck      0-2 Kaiserslautern
 RW Ahlen       0-2 Alemannia
 Sankt Pauli    2-2 Duisburg
 Koblenz        3-2 1860
@@ -1040,19 +1039,19 @@ Round 28
 [Apr 17]
 Hansa          3-1 RW Oberhausen
 Mainz          0-0 RW Ahlen
-Augsburg       3-0 Osnabrück
+Augsburg       3-0 OsnabrÃ¼ck
 [Apr 19]
 Freiburg       3-2 Ingolstadt
 Alemannia      2-0 FSV Frankfurt
 Duisburg       2-3 Koblenz
-Nürnberg       2-0 Sankt Pauli
-Wehen          0-1 Greuther Fürth
+NÃ¼rnberg       2-0 Sankt Pauli
+Wehen          0-1 Greuther FÃ¼rth
 [Apr 20]
 1860           1-1 Kaiserslautern
 
 Round 29
 [Apr 24]
-Greuther Fürth 2-1 Augsburg
+Greuther FÃ¼rth 2-1 Augsburg
 Sankt Pauli    1-2 Freiburg
 RW Ahlen       0-2 Duisburg
 [Apr 26]
@@ -1060,36 +1059,36 @@ RW Oberhausen  1-1 1860
 Kaiserslautern 1-0 Wehen
 Koblenz        0-2 Alemannia
 Ingolstadt     3-4 Mainz
-FSV Frankfurt  2-1 Nürnberg
+FSV Frankfurt  2-1 NÃ¼rnberg
 [Apr 27]
-Osnabrück      0-0 Hansa
+OsnabrÃ¼ck      0-0 Hansa
 
 Round 30
 [May 1]
 Augsburg       3-0 1860
 Hansa          5-1 Kaiserslautern
-Wehen          0-1 Osnabrück
+Wehen          0-1 OsnabrÃ¼ck
 [May 3]
-Nürnberg       1-0 Ingolstadt
+NÃ¼rnberg       1-0 Ingolstadt
 Alemannia      2-2 RW Oberhausen
 Freiburg       4-1 FSV Frankfurt
 Mainz          2-0 Koblenz
 RW Ahlen       1-0 Sankt Pauli
 [May 4]
-Duisburg       2-0 Greuther Fürth
+Duisburg       2-0 Greuther FÃ¼rth
 
 Round 31
 [May 8]
 1860           3-3 Hansa
 RW Oberhausen  0-1 Wehen
-Osnabrück      2-1 Alemannia
+OsnabrÃ¼ck      2-1 Alemannia
 FSV Frankfurt  0-0 Duisburg
 Kaiserslautern 1-0 Augsburg
 [May 10]
 Ingolstadt     0-2 RW Ahlen
 Koblenz        2-5 Freiburg
 Sankt Pauli    2-0 Mainz
-Greuther Fürth 1-1 Nürnberg
+Greuther FÃ¼rth 1-1 NÃ¼rnberg
 
 Round 32
 [May 12]
@@ -1099,31 +1098,31 @@ Hansa          3-3 Augsburg
 Alemannia      1-0 Kaiserslautern
 [May 13]
 Mainz          2-1 FSV Frankfurt
-Nürnberg       2-0 Osnabrück
+NÃ¼rnberg       2-0 OsnabrÃ¼ck
 RW Ahlen       1-1 Koblenz
-Freiburg       0-0 Greuther Fürth
+Freiburg       0-0 Greuther FÃ¼rth
 [May 14]
 Ingolstadt     0-1 Sankt Pauli
 
 Round 33 [May 17]
 1860           1-1 Alemannia
 FSV Frankfurt  1-1 Ingolstadt
-Osnabrück      2-2 RW Ahlen
+OsnabrÃ¼ck      2-2 RW Ahlen
 Koblenz        2-1 Sankt Pauli
 Augsburg       1-1 Wehen
 RW Oberhausen  1-0 Freiburg
-Greuther Fürth 0-2 Mainz
+Greuther FÃ¼rth 0-2 Mainz
 Kaiserslautern 3-5 Duisburg
-Hansa          0-0 Nürnberg
+Hansa          0-0 NÃ¼rnberg
 
 Round 34 [May 24]
 Sankt Pauli    2-0 FSV Frankfurt
-Duisburg       4-1 Osnabrück
+Duisburg       4-1 OsnabrÃ¼ck
 Ingolstadt     4-0 Koblenz
-Nürnberg       2-1 1860 München
+NÃ¼rnberg       2-1 1860 MÃ¼nchen
 Mainz          4-0 RW Oberhausen
 Alemannia      4-0 Augsburg
-RW Ahlen       2-4 Greuther Fürth
+RW Ahlen       2-4 Greuther FÃ¼rth
 Wehen          1-1 Hansa
 Freiburg       4-3 Kaiserslautern
 
@@ -1132,22 +1131,22 @@ Final Table:
  1.SC Freiburg                  34 21  5  8  60-36  68  Promoted
  2.1.FSV Mainz 05               34 18  9  7  62-37  63  Promoted
 ------------------------------------------------------
- 3.1.FC Nürnberg                34 16 12  6  51-29  60  Promotion Playoff
+ 3.1.FC NÃ¼rnberg                34 16 12  6  51-29  60  Promotion Playoff
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.TSV Alemannia Aachen         34 16  8 10  58-38  56
- 5.SpVgg Greuther Fürth         34 16  8 10  60-46  56
+ 5.SpVgg Greuther FÃ¼rth         34 16  8 10  60-46  56
  6.MSV Duisburg                 34 14 13  7  56-36  55
  7.1.FC Kaiserslautern          34 15  7 12  53-48  52
  8.FC Sankt Pauli               34 14  6 14  52-59  48
  9.Rot-Weiss Oberhausen         34 11  9 14  35-54  42
 10.Rot-Weiss Ahlen              34 11  8 15  38-57  41
 11.FC Augsburg                  34 10 10 14  43-46  40
-12.TSV 1860 München             34  9 12 13  44-46  39
+12.TSV 1860 MÃ¼nchen             34  9 12 13  44-46  39
 13.FC Hansa Rostock             34  8 14 12  52-53  38
 14.TuS Koblenz                  34 11  8 15  47-57  38  [-3]
 15.FSV Frankfurt                34  9 11 14  34-47  38
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.VfL Osnabrück                34  8 12 14  41-60  36  Relegation Playoff
+16.VfL OsnabrÃ¼ck                34  8 12 14  41-60  36  Relegation Playoff
 ------------------------------------------------------
 17.FC Ingolstadt 04             34  7 10 17  38-54  31  Relegated
 18.SV Wehen Wiesbaden           34  5 12 17  28-49  27  Relegated
@@ -1158,22 +1157,22 @@ NB: TuS Koblenz 3 points deducted for infringements in license
 Promotion/Relegation Playoff 1st/2nd level
 
 First Leg [May 28]
-Energie        0-3 Nürnberg
+Energie        0-3 NÃ¼rnberg
 
 Second Leg [May 31]
-Nürnberg       2-0 Energie
+NÃ¼rnberg       2-0 Energie
 
-NB: Nürnberg promoted, Energie relegated
+NB: NÃ¼rnberg promoted, Energie relegated
 
 Promotion/Relegation Playoff 2nd/3rd level
 
 First Leg [May 29]
-Paderborn      1-0 Osnabrück
+Paderborn      1-0 OsnabrÃ¼ck
 
 Second Leg [Jun 1]
-Osnabrück      0-1 Paderborn
+OsnabrÃ¼ck      0-1 Paderborn
 
-NB: Paderborn promoted, Osnabrück relegated
+NB: Paderborn promoted, OsnabrÃ¼ck relegated
 
 
 Third Level 2008/09
@@ -1184,17 +1183,17 @@ Third Level 2008/09
 Final Table:
 
  1.1. FC Union Berlin           38 22 12  4  59-23  78  Promoted
- 2.Fortuna Düsseldorf           38 20  9  9  54-33  69  Promoted
+ 2.Fortuna DÃ¼sseldorf           38 20  9  9  54-33  69  Promoted
 ------------------------------------------------------
  3.SC Paderborn 07              38 20  8 10  68-38  68  Promotion Playoff
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.SpVgg Unterhaching           38 20  7 11  57-46  67
- 5.FC Bayern München II         38 14 17  7  54-38  59
+ 5.FC Bayern MÃ¼nchen II         38 14 17  7  54-38  59
  6.Kickers Emden                38 16 11 11  45-44  59  [*]
  7.Offenbacher FC Kickers       38 12 16 10  40-35  52
  8.SV Sandhausen                38 12 14 12  58-52  50
  9.Dynamo Dresden               38 13 11 14  46-46  50
-10.Rot-Weiß Erfurt              38 13 11 14  46-48  50
+10.Rot-WeiÃŸ Erfurt              38 13 11 14  46-48  50
 11.VfB Stuttgart II             38 13 10 15  61-50  49
 12.FC Erzgebirge Aue            38 12 12 14  43-43  48
 13.Eintracht Braunschweig       38 12  9 17  46-51  45
@@ -1991,7 +1990,7 @@ Kickers E      0-0 Jahn R
 RW Erfurt      2-0 Erzgebirge
   [45 Cinaz 1-0, 90 Semmer 2-0]
 Wacker B       0-2 CZ Jena
-  [27 Hahnge 0-1, 90 Straßer 0-2]
+  [27 Hahnge 0-1, 90 StraÃŸer 0-2]
 Eintracht B    2-0 Aalen
   [49pen D.Dogan 1-0, 85 Banser 2-0]
 Dynamo D       2-1 Werder II
@@ -2006,7 +2005,7 @@ Bayern II      2-1 Sandhausen
 Round 32
 [Apr 17]
 Sandhausen     1-1 Stuttgart II
-  [54 Fießer 1-0, 73 Schwabe 1-1]
+  [54 FieÃŸer 1-0, 73 Schwabe 1-1]
 [Apr 18]
 RW Erfurt      0-3 Wacker B
   [49 Belleri 0-1, 64 Calamita 0-2, 88 Belleri 0-3]
@@ -2062,7 +2061,7 @@ RW Erfurt      1-1 Bayern II
 Kickers E      1-1 Wacker B
   [61 Unger 1-0, 71 Galuschka 1-1]
 Erzgebirge     0-3 Stuttgart II
-  [28 Rudy 0-1, 59 Schipplock 0-2, 83 Klauß 0-3]
+  [28 Rudy 0-1, 59 Schipplock 0-2, 83 KlauÃŸ 0-3]
 Jahn R         1-1 Kickers O
   [16 Huber 0-1, 44 J.Schmid 1-1]
 Fortuna D      1-0 Dynamo D
@@ -2086,7 +2085,7 @@ Wacker B       2-2 Werder II
   [10 Oehrl 0-1, 32 Belleri 1-1, 45 Ikeng 1-2, 89 Buchner 2-2]
 [May 9]
 Bayern II      4-0 Kickers E
-  [17 Bopp 1-0, 48 Sikorski 2-0, 53 Rieß 3-0, 71 Bopp 4-0]
+  [17 Bopp 1-0, 48 Sikorski 2-0, 53 RieÃŸ 3-0, 71 Bopp 4-0]
 Kickers O      0-0 Erzgebirge
 Union          2-0 Jahn R
   [60 Younga-Mouhani 1-0, 72 Benyamina 2-0]
@@ -2180,17 +2179,17 @@ Wacker B       2-1 Stuttgart II
 Final Table:
 
  1.1. FC Union Berlin           38 22 12  4  59-23  78  Promoted
- 2.Fortuna Düsseldorf           38 20  9  9  54-33  69  Promoted
+ 2.Fortuna DÃ¼sseldorf           38 20  9  9  54-33  69  Promoted
 ------------------------------------------------------
  3.SC Paderborn 07              38 20  8 10  68-38  68  Promotion Playoff
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.SpVgg Unterhaching           38 20  7 11  57-46  67
- 5.FC Bayern München II         38 14 17  7  54-38  59
+ 5.FC Bayern MÃ¼nchen II         38 14 17  7  54-38  59
  6.Kickers Emden                38 16 11 11  45-44  59  [*]
  7.Offenbacher FC Kickers       38 12 16 10  40-35  52
  8.SV Sandhausen                38 12 14 12  58-52  50
  9.Dynamo Dresden               38 13 11 14  46-46  50
-10.Rot-Weiß Erfurt              38 13 11 14  46-48  50
+10.Rot-WeiÃŸ Erfurt              38 13 11 14  46-48  50
 11.VfB Stuttgart II             38 13 10 15  61-50  49
 12.FC Erzgebirge Aue            38 12 12 14  43-43  48
 13.Eintracht Braunschweig       38 12  9 17  46-51  45
@@ -2214,14 +2213,14 @@ NB: reserve teams not eligible for promotion;
 Promotion/Relegation Playoff
 
 First Leg [May 29]
-Paderborn      1-0 Osnabrück
+Paderborn      1-0 OsnabrÃ¼ck
   [78 Loning 1-0]
 
 Second Leg [Jun 1]
-Osnabrück      0-1 Paderborn
+OsnabrÃ¼ck      0-1 Paderborn
   [63 Loning 0-1]
 
-NB: Paderborn promoted, Osnabrück relegated
+NB: Paderborn promoted, OsnabrÃ¼ck relegated
 
 
 Topscorers
@@ -2271,14 +2270,14 @@ Final Table:
  5.VfL Wolfsburg II             34 15  8 11  53-35  53
  6.Hannover 96 II               34 14  7 13  48-42  49
  7.Chemnitzer FC                34 11 12 11  50-42  45
- 8.VfB Lübeck (A)               34 10 15  9  38-34  45
+ 8.VfB LÃ¼beck (A)               34 10 15  9  38-34  45
  9.FC Oberneuland               34 12  8 14  40-41  44
 10.Hansa Rostock II             34 12  7 15  53-59  43
 11.SV Wilhelmshaven             34 12  7 15  45-52  43
 12.Hertha BSC II                34 11 10 13  40-55  43
 13.Hamburger SV II              34 11  9 14  44-43  42
 14.VFC Plauen                   34 10 12 12  52-54  42
-15.Türkiyemspor Berlin          34 12  6 16  36-43  42
+15.TÃ¼rkiyemspor Berlin          34 12  6 16  36-43  42
 ------------------------------------------------------
 16.Altona 93                    34  8  7 19  40-66  31  Relegated
 17.Sachsen Leipzig              34  5  9 20  21-54  24  Relegated
@@ -2291,10 +2290,10 @@ Final Table:
  1.Borussia Dortmund II         34 21  5  8  86-49  68  Promoted
 ------------------------------------------------------
  2.1. FC Kaiserslautern II      34 19  8  7  59-42  65
- 3.1. FC Köln II                34 16 12  6  53-34  60
- 4.Preußen Münster              34 14 11  9  51-36  53
+ 3.1. FC KÃ¶ln II                34 16 12  6  53-34  60
+ 4.PreuÃŸen MÃ¼nster              34 14 11  9  51-36  53
  5.1. FSV Mainz 05 II           34 15  7 12  58-45  52
- 6.Borussia Mönchengladbach II  34 14  9 11  50-49  51
+ 6.Borussia MÃ¶nchengladbach II  34 14  9 11  50-49  51
  7.Rot-Weiss Essen              34 13 10 11  61-41  49
  8.SC Verl                      34 13 10 11  45-42  49
  9.Bayer Leverkusen II          34 14  7 13  53-56  49
@@ -2313,7 +2312,7 @@ Final Table:
     for financial reasons; due to this, Wormatia Worms are not
     relegated
 
-Regionalliga Süd
+Regionalliga SÃ¼d
 
 Final Table:
 
@@ -2322,64 +2321,64 @@ Final Table:
  2.Hessen Kassel                34 22  5  7  75-33  71
  3.Eintracht Frankfurt II       34 19  9  6  61-35  66
  4.Waldhof Mannheim             34 19  6  9  54-30  63
- 5.1. FC Nürnberg II            34 17 10  7  65-37  61
- 6.1860 München II              34 16  7 11  59-42  55
+ 5.1. FC NÃ¼rnberg II            34 17 10  7  65-37  61
+ 6.1860 MÃ¼nchen II              34 16  7 11  59-42  55
  7.SSV Ulm 1846                 34 13 14  7  55-35  53
  8.SC Pfullendorf               34 14  8 12  50-48  50
  9.SV Wehen Wiesbaden II        34 15  4 15  40-37  49
 10.1. FC Eintracht Bamberg      34 12  8 14  50-61  44
-11.SpVgg Greuther Fürth II      34 10 11 13  37-39  41
+11.SpVgg Greuther FÃ¼rth II      34 10 11 13  37-39  41
 12.SSV Reutlingen               34 10 10 14  41-55  40
 13.Viktoria Aschaffenburg       34  9 12 13  38-46  39  [*]
 14.SC Freiburg II               34 11  5 18  46-63  38
 15.SV Darmstadt 98              34  9 10 15  44-54  37
 ------------------------------------------------------
 16.Karlsruher SC II             34 10  4 20  37-66  34  [*]
-17.TSV Großbardorf              34  4  6 24  32-84  18  Relegated
+17.TSV GroÃŸbardorf              34  4  6 24  32-84  18  Relegated
 18.SpVgg Unterhaching II        34  4  5 25  35-78  17  Relegated
 
 [*] Viktoria Aschaffenburg renounced on its place in the Regionalliga
     2009/10; due to this Karlsruher SC II are not relegated
 
-2007/08
+â€¹2007/08â€º
 
-2009/10
+â€¹2009/10â€º
 
-list of champions
+â€¹list of championsâ€º
 
-all-time table
+â€¹all-time tableâ€º
 
-list of 2nd level champions
+â€¹list of 2nd level championsâ€º
 
-list of amateur champions
+â€¹list of amateur championsâ€º
 
-oberliga berlin 1945-1963
+â€¹oberliga berlin 1945-1963â€º
 
-oberliga nord 1945-1963
+â€¹oberliga nord 1945-1963â€º
 
-oberliga s&uuml;d 1945-1963
+â€¹oberliga s&uuml;d 1945-1963â€º
 
-oberliga s&uuml;dwest 1945-1963
+â€¹oberliga s&uuml;dwest 1945-1963â€º
 
-oberliga s&uuml;dwest s&uuml;d 1945-1950
+â€¹oberliga s&uuml;dwest s&uuml;d 1945-1950â€º
 
-oberliga west 1945-1963
+â€¹oberliga west 1945-1963â€º
 
-regionalliga nord 63-74
+â€¹regionalliga nord 63-74â€º
 
-regionalliga s&uuml;d 63-74
+â€¹regionalliga s&uuml;d 63-74â€º
 
-regionalliga west 63-74
+â€¹regionalliga west 63-74â€º
 
-list of cup finals
+â€¹list of cup finalsâ€º
 
-list of super and league cup finals
+â€¹list of super and league cup finalsâ€º
 
-list of topscorers
+â€¹list of topscorersâ€º
 
-list of 2nd level topscorers
+â€¹list of 2nd level topscorersâ€º
 
-list of foundation dates
+â€¹list of foundation datesâ€º
 
 
 
@@ -2389,16 +2388,14 @@ list of foundation dates
 
 Prepared and maintained by Karel Stokkermans and
 Marcel Haisma for the
-Rec.Sport.Soccer Statistics Foundation
+â€¹Rec.Sport.Soccer Statistics Foundationâ€º
 
 
 Authors: Karel Stokkermans and Marcel Haisma
-
 
 Last updated: 28 Aug 2009
 
 
 **(C) Copyright Karel Stokkermans, Marcel Haisma and RSSSF 2008/09**
-
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

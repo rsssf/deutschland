@@ -1,6 +1,5 @@
 <!--
    source: http://rsssf.com/tablesd/duit00.html
-   html to text conversion on 2015-07-26 16:59:42 +0200
   -->
 
 
@@ -9,7 +8,7 @@
 
 
 NB: this file contains 1st to 3rd level; there is also a file on the
-    4th level 1999/00.
+    ‹4th level 1999/00›.
 
 1.Bundesliga
 
@@ -1539,18 +1538,18 @@ Regionalliga Nord
 
 Final Table:
 
- 1.VfL Osnabr�ck                34 22  8  4  69-34  74  Promotion Playoff
+ 1.VfL Osnabrück                34 22  8  4  69-34  74  Promotion Playoff
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.VfB L�beck                   34 21  7  6  74-34  70
+ 2.VfB Lübeck                   34 21  7  6  74-34  70
  3.Braunschweiger TSV Eintracht 34 20  9  5  69-28  69
  4.SV Wilhelmshaven             34 21  5  8  62-38  68
  5.SV Werder Bremen Amateure    34 18  9  7  68-38  63
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 6.L�neburger SK                34 18  6 10  60-38  60  Relegation Playoff
+ 6.Lüneburger SK                34 18  6 10  60-38  60  Relegation Playoff
 ------------------------------------------------------
  7.BV Cloppenburg               34 14 13  7  73-58  55  Relegated
  8.Kieler SV Holstein           34 14  9 11  62-57  51  Relegated
- 9.1.SC G�ttingen 05            34 13  6 15  58-63  45  Relegated
+ 9.1.SC Göttingen 05            34 13  6 15  58-63  45  Relegated
 10.SV Arminia Hannover          34 10 11 13  53-51  41  Relegated
 11.SV Meppen                    34 10 11 13  57-57  41  Relegated
 12.1.SC Norderstedt             34 10  6 18  47-64  36  Relegated
@@ -1568,10 +1567,10 @@ BSV Kickers Emden           0-1   TuS Felde
 TuS Felde                   1-2   BSV Kickers Emden
 
 Second Round
-L�neburger SK               1-1   BSV Kickers Emden
-BSV Kickers Emden           0-2   L�neburger SK
+Lüneburger SK               1-1   BSV Kickers Emden
+BSV Kickers Emden           0-2   Lüneburger SK
 
-L�neburger SV qualified for Regionalliga Nord 2000/01
+Lüneburger SV qualified for Regionalliga Nord 2000/01
 
 Regionalliga Nordost
 
@@ -1585,14 +1584,14 @@ Final Table:
  5.SV Babelsberg 03             34 16  9  9  57-40  57
  6.FC Sachsen Leipzig           34 16  9  9  46-34  57
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.FC Rot-Wei� Erfurt           34 17  6 11  39-41  57  Relegation Playoff
+ 7.FC Rot-Weiß Erfurt           34 17  6 11  39-41  57  Relegation Playoff
 ------------------------------------------------------
  8.1.FC Dynamo Dresden          34 13 13  8  44-34  52  Relegated
  9.VfB Leipzig                  34 14  7 13  43-36  49  Relegated
 10.1.FC Magdeburg               34 13  8 13  64-44  47  Relegated
 11.Hertha BSC Amateure          34 12  7 15  42-55  43  Relegated
-12.Eisenh�ttenst�dter FC Stahl  34 11  7 16  40-61  40  Relegated
-13.Vogtl�ndischer FC Plauen     34  9  8 17  39-51  35  Relegated
+12.Eisenhüttenstädter FC Stahl  34 11  7 16  40-61  40  Relegated
+13.Vogtländischer FC Plauen     34  9  8 17  39-51  35  Relegated
 14.VfL Halle 96                 34  9  8 17  35-65  35  Relegated
 15.B. Tennis-Club Borussia Am.  34 10  4 20  53-70  34  Relegated
 16.FSV Lok Altmark Stendal      34  9  7 18  38-60  34  Relegated
@@ -1602,16 +1601,16 @@ Final Table:
 Promotion/Relegation Playoffs
 
 First Round
-FSV Hoyerswerda             2-2   FC Sch�nberg 95
-FC Sch�nberg 95             2-1   FSV Hoyerswerda
+FSV Hoyerswerda             2-2   FC Schönberg 95
+FC Schönberg 95             2-1   FSV Hoyerswerda
 
 Second Round
-FC Sch�nberg 95             1-0   FC Rot-Wei� Erfurt
-FC Rot-Wei� Erfurt          4-1   FC Sch�nberg 95
+FC Schönberg 95             1-0   FC Rot-Weiß Erfurt
+FC Rot-Weiß Erfurt          4-1   FC Schönberg 95
 
-FC Rot-Wei� Erfurt qualified for Regionalliga Nord 2000/01
+FC Rot-Weiß Erfurt qualified for Regionalliga Nord 2000/01
 
-Regionalliga S�d
+Regionalliga Süd
 
 Final Table:
 
@@ -1621,9 +1620,9 @@ Final Table:
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
  3.VfR Mannheim                 34 15 12  7  61-55  57
  4.SV Wacker Burghausen         34 15 10  9  57-42  55
- 5.FC Bayern M�nchen Amateure   34 15  6 13  64-58  51
+ 5.FC Bayern München Amateure   34 15  6 13  64-58  51
  6.VfB Stuttgart Amateure       34 12 14  8  51-34  50
- 7.TSV 1860 M�nchen Amateure    34 12 12 10  48-38  48
+ 7.TSV 1860 München Amateure    34 12 12 10  48-38  48
  8.FC Augsburg                  34 12 10 12  43-43  46
  9.SV Darmstadt 98              34 11 13 10  49-51  46
 10.VfR Aalen                    34 12 10 12  51-54  46
@@ -1634,7 +1633,7 @@ Final Table:
 14.FSV Frankfurt                34 10 11 13  48-57  41  Relegation Playoff
 ------------------------------------------------------
 15.TSF Ditzingen                34  8 12 14  46-55  36  Relegated
-16.SG Quelle/60 F�rth           34  8 11 15  40-70  35  Relegated
+16.SG Quelle/60 Fürth           34  8 11 15  40-70  35  Relegated
 17.SC Borussia Fulda               34  6 13 15  40-57  31  Relegated
 18.SV Lohhof                    34  2  4 28  29-103 10  Relegated
 
@@ -1653,20 +1652,20 @@ Jahn Regensburg             3-1   FSV Frankfurt
 Jahn Regensburg qualified for Regionalliga Nord 2000/01,
 FSV Frankfurt relegated
 
-Regionalliga West-S�dwest
+Regionalliga West-Südwest
 
 Final Table:
 
- 1.1.FC Saarbr�cken             36 23  8  5  69-22  77  Promoted
+ 1.1.FC Saarbrücken             36 23  8  5  69-22  77  Promoted
 ------------------------------------------------------
  2.LR Ahlen                     36 21  8  7  82-32  71  Promotion Playoff
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
  3.Sportfreunde Siegen          36 20  7  9  61-42  67
  4.SG Wattenscheid 09           36 18  9  9  72-42  63
  5.SV Eintracht Trier           36 17  9 10  54-47  60
- 6.D�sseldorfer TSV Fortuna     36 13 14  9  53-35  53
- 7.SC Rot-Wei� Essen            36 14 10 12  55-46  52
- 8.SC Preu�en M�nster           36 14  8 14  50-54  50
+ 6.Düsseldorfer TSV Fortuna     36 13 14  9  53-35  53
+ 7.SC Rot-Weiß Essen            36 14 10 12  55-46  52
+ 8.SC Preußen Münster           36 14  8 14  50-54  50
  9.SC Verl                      36 12 13 11  49-44  49
 10.Borussia Dortmund Amateure   36 12 13 11  42-40  49
 11.Krefelder FC Uerdingen 05    36 13  9 14  52-52  48
@@ -1681,68 +1680,68 @@ Final Table:
 18.SC Idar-Oberstein            36  8  7 21  25-78  31  Relegated
 19.FSV Salmrohr                 36  5  1 30  19-87  16  Relegated
 
-NB: FC G�tersloh were dissolved during the season.
+NB: FC Gütersloh were dissolved during the season.
 
 Promotion/Relegation Playoff
 
-Wuppertaler SV              0-1   VfB H�ls
+Wuppertaler SV              0-1   VfB Hüls
 SpVgg. Elversberg           3-0   Borussia Neunkirchen
-VfB H�ls                    1-2   SpVgg. Elversberg
+VfB Hüls                    1-2   SpVgg. Elversberg
 Borussia Neunkirchen        0-5   Wuppertaler SV
 Wuppertaler SV              2-3   SpVgg. Elversberg        [in Worms]
-VfB H�ls                    3-0   Borussia Neunkirchen     [in K�ln]
+VfB Hüls                    3-0   Borussia Neunkirchen     [in Köln]
 
- 1.SpVgg. Elversberg             3  3  0  0   8- 3   9  Qualified for RL S�d 2000/01
+ 1.SpVgg. Elversberg             3  3  0  0   8- 3   9  Qualified for RL Süd 2000/01
 ------------------------------------------------------
- 2.VfB H�ls                      3  2  0  1   5- 2   6
+ 2.VfB Hüls                      3  2  0  1   5- 2   6
  3.Wuppertaler SV                3  1  0  2   7- 4   3
  4.Borussia VfB Neunkirchen      3  0  0  3   0-11   0
 
-1998/99
+‹1998/99›
 
-1999/00 details first level
+‹1999/00 details first level›
 
-1999/00 details second level
+‹1999/00 details second level›
 
-1999/00 (4th level)
+‹1999/00 (4th level)›
 
-2000/01
+‹2000/01›
 
-list of champions
+‹list of champions›
 
-all-time table
+‹all-time table›
 
-list of 2nd level champions
+‹list of 2nd level champions›
 
-list of amateur champions
+‹list of amateur champions›
 
-oberliga berlin 1945-1963
+‹oberliga berlin 1945-1963›
 
-oberliga nord 1945-1963
+‹oberliga nord 1945-1963›
 
-oberliga s&uuml;d 1945-1963
+‹oberliga s&uuml;d 1945-1963›
 
-oberliga s&uuml;dwest 1945-1963
+‹oberliga s&uuml;dwest 1945-1963›
 
-oberliga s&uuml;dwest s&uuml;d 1945-1950
+‹oberliga s&uuml;dwest s&uuml;d 1945-1950›
 
-oberliga west 1945-1963
+‹oberliga west 1945-1963›
 
-regionalliga nord 63-74
+‹regionalliga nord 63-74›
 
-regionalliga s&uuml;d 63-74
+‹regionalliga s&uuml;d 63-74›
 
-regionalliga west 63-74
+‹regionalliga west 63-74›
 
-list of cup finals
+‹list of cup finals›
 
-list of super and league cup finals
+‹list of super and league cup finals›
 
-list of topscorers
+‹list of topscorers›
 
-list of 2nd level topscorers
+‹list of 2nd level topscorers›
 
-list of foundation dates
+‹list of foundation dates›
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -1750,19 +1749,20 @@ list of foundation dates
 ## About this document
 
 Prepared and maintained by Ken Butler and Karel Stokkermans
-for the Rec.Sport.Soccer Statistics Foundation
+for the ‹Rec.Sport.Soccer Statistics Foundation›
 
-Scorer information thanks to Marcos Cabaleiro P�rez
+Scorer information thanks to Marcos Cabaleiro Pérez
+(‹selanne@teleline.es›)
 
 
 Authors: Ken Butler
+(‹butler@mscs.dal.ca›)
 and Karel Stokkermans
-
+(‹karel@rsssf.com›)
 
 Last updated: 21 Feb 2002
 
 
 **(C) Copyright Ken Butler, Karel Stokkermans and RSSSF 1999/2002**
-
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.
