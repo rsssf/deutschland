@@ -10,7 +10,11 @@
 NB: this file contains 1st to 3rd level; there is also a file on the
     ‹4th level 1999/00›.
 
-1.Bundesliga
+
+
+#### 1. Bundesliga
+
+
 
 Final Table:
 
@@ -830,7 +834,11 @@ Topscorers:
    Michael Preetz (Hertha Berlin)
 
 
-Germany Cup (DFB Pokal) 1999/2000
+
+
+#### DFB Pokal
+
+
 
 Round 1
 [Jul 31]

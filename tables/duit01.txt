@@ -10,7 +10,11 @@
 NB: this file contains 1st to 3rd level; there is also a file on the
     ‹4th level 2000/01›.
 
-1.Bundesliga
+
+
+#### 1. Bundesliga
+
+
 
 Final Table:
 
@@ -227,7 +231,7 @@ Kaiserslautern 2-0 Werder
 Leverkusen     2-0 Borussia D
   [Jens Nowotny 25, Oliver Neuville 62]
 Bayern         3-1 1860
-  [&Eacute;lber 45, 64, Hasan Salihamidzic 56; Thomas Häßler 75]
+  [Élber 45, 64, Hasan Salihamidzic 56; Thomas Häßler 75]
 Stuttgart      2-2 Unterhaching
   [Jochen Seitz 26, Krassimir Balakov 85pen; Altin Rraklli 9, Miroslaw Spizak 31]
 Wolfsburg      6-0 Köln
@@ -876,7 +880,7 @@ FC Ismaning          0-4 Borussia Dortmund
 LR Ahlen             1-2 Borussia Mönchengladbach
 Karlsruher SC II     0-2 TSV Alemannia Aachen
 Teningen             0-3 MSV Duisburg
-1.FC Union Berlin    2-0 Rot-Wei&slig; Oberhausen
+1.FC Union Berlin    2-0 Rot-Weiß Oberhausen
 SV Wehen             2-1 Stuttgarter Kickers
 [Aug 27]
 1.FC Magdeburg       5-2 1.FC Köln
