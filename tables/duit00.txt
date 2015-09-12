@@ -206,7 +206,7 @@ HSV            2-0 Freiburg
 Werder         1-3 1860
   [Andreas Herzog 73pen; Filip Tapalovic 9, Bernhard Winkler 60, Daniel Borimirow 90]
 Hansa          3-1 Frankfurt
-  [Christian Brand 35, Olaf Holetschek 66, Timo Lange 86; Jan-Age Fj&oslash;rtoft 77]
+  [Christian Brand 35, Olaf Holetschek 66, Timo Lange 86; Jan-Age Fjørtoft 77]
 Bayern         3-1 Hertha
   [Giovane Elber 4, Paulo Sergio 14, 61; Dariusz Wosz 82]
 Duisburg       2-2 Kaiserslautern
@@ -859,7 +859,7 @@ FK Pirmasens         0-3 TSV München 1860
 1.FC Pforzheim       0-2 SC Freiburg
 Berliner FC Dynamo   0-2 DSC Arminia Bielefeld
 SpVgg Landshut       0-2 FC Hansa Rostock
-SV Werder Bremen Am. 3-1 SC Fortuna K&oulm;ln
+SV Werder Bremen Am. 3-1 SC Fortuna Köln
 SG Wattenscheid 09   1-7 1.FC Köln
 SV Meppen            2-1 Offenbacher FC Kickers
 VFC Plauen           1-2 Stuttgarter Kickers
@@ -936,7 +936,7 @@ FC Hansa Rostock     2-1 VfB Stuttgart
 Semifinals
 [Feb 15]
 SV Werder Bremen     2-1 Stuttgarter Kickers          [aet]
-  [Christoph Dabrowski 2, Yuri Maximov 103; Mustafa &Ouml;zcan 82]
+  [Christoph Dabrowski 2, Yuri Maximov 103; Mustafa Özcan 82]
 [Feb 16]
 FC Bayern München    3-2 FC Hansa Rostock
   [Roque Santa Cruz 58, 66, Samuel Kuffour 76; Hilmar Weilandt 75, Peter Wibran 82]

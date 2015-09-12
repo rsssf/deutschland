@@ -109,7 +109,7 @@ Arminia B        2-0 Mainz
 Round 4
 [Sep 10]
 Leverkusen       1-1 Schalke
-  [Dimitar Berbatov 73; S&oslash;ren Larsen 85]
+  [Dimitar Berbatov 73; Søren Larsen 85]
 Borussia M       2-1 Duisburg
   [Oliver Neuville 5, José Antonio Dos Santos Silva Zé Antonio 66;
    Uwe Möhrle 9]
@@ -210,7 +210,7 @@ Hertha           1-2 Werder
 Hannover         1-1 Duisburg
   [Michael Delura 8; Abdelaziz Ahanfouf 14]
 Eintracht F      0-1 Schalke
-  [S&oslash;ren Larsen 64]
+  [Søren Larsen 64]
 Leverkusen       1-1 Arminia B
   [Andrey Voronin 84; Isaac Boakye 58]
 Bayern           2-0 Wolfsburg
@@ -223,7 +223,7 @@ Kaiserslautern   0-3 Hamburg
 Round 9
 [Oct 15]
 Schalke          1-1 Bayern
-  [S&oslash;ren Larsen 90+pen; Roque Santa Cruz 18]
+  [Søren Larsen 90+pen; Roque Santa Cruz 18]
 Hamburg          0-1 Wolfsburg
   [Diego Fernando Klimowicz 19]
 Kaiserslautern   3-3 Borussia D
@@ -510,7 +510,7 @@ Stuttgart        0-0 Werder
 Round 21
 [Feb 11]
 Schalke          7-4 Leverkusen
-  [S&oslash;ren Larsen 9, 63, Mladen Krstajic 17, Zlatan Bajramovic 34,
+  [Søren Larsen 9, 63, Mladen Krstajic 17, Zlatan Bajramovic 34,
    Kevin Kuranyi 55, Cassio Souza Soares Lincoln 70, Gerald Asamoah 81;
    Andrey Voronin 40, 64, Dimitar Berbatov 50, Jacek Krzynowek 70]
 Eintracht F      0-1 Hannover
@@ -618,7 +618,7 @@ Duisburg        0-0 Hannover
 Hamburg         3-0 Kaiserslautern
   [Benjamin Lauth 55, Fabian Schönheim 62og, Rafael van der Vaart 86pen]
 Schalke         2-0 Eintracht F
-  [S&oslash;ren Larsen 51, Ebbe Sand 90+]
+  [Søren Larsen 51, Ebbe Sand 90+]
 
 Round 26
 [Mar 18]
@@ -709,7 +709,7 @@ Mainz           0-0 Hannover
 Hamburg         2-0 Borussia M
   [Rafael van der Vaart 34pen, Naohiro Takahara 90+]
 Duisburg        1-1 Schalke
-  [Christian Poulsen 40og; S&oslash;ren Larsen 85]
+  [Christian Poulsen 40og; Søren Larsen 85]
 
 Round 30
 [Apr 15]
@@ -781,7 +781,7 @@ Bayern          3-1 Stuttgart
 Wolfsburg       0-3 Mainz
   [Michael Thurk 5, Benjamin Auer 80, 85]
 Schalke         3-1 Arminia B
-  [Gerald Asamoah 40, S&oslash;ren Larsen 80, Hamit Altintop 88;
+  [Gerald Asamoah 40, Søren Larsen 80, Hamit Altintop 88;
    Marco Küntzel 50]
 
 Round 33 [May 6]
@@ -875,7 +875,7 @@ Topscorers:
 10 Boubacar Sanogo                 FC Kaiserslautern
 10 Kevin Kuranyi                   FC Schalke 04
 10 Stefan Kiessling                FC Nürnberg
-10 S&oslash;ren Larsen                    FC Schalke 04
+10 Søren Larsen                    FC Schalke 04
 
 
 
