@@ -3,7 +3,7 @@
 
 football.db RSSSF Archive Data Summary for Germany (Deutschland)
 
-_Last Update: 2015-09-12 21:03:26 +0200_
+_Last Update: 2015-09-12 21:19:40 +0200_
 
 | Season | File   | Authors  | Last Updated | Lines (Chars) | Sections |
 | :----- | :----- | :------- | :----------- | ------------: | :------- |
@@ -15,12 +15,12 @@ _Last Update: 2015-09-12 21:03:26 +0200_
 | 2009-10 | [duit2010.txt](duit2010.txt) | Karel Stokkermans and Marcel Haisma | 24 Dec 2012 | 1889 (45875) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Bundesliga |
 | 2008-09 | [duit09.txt](duit09.txt) | Karel Stokkermans and Marcel Haisma | 28 Aug 2009 | 2411 (66868) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |
 | 2007-08 | [duit08.txt](duit08.txt) | Karel Stokkermans and Daniel Dalence | 7 Nov 2008 | 2094 (65817) | 1. Bundesliga, DFB Pokal, 2. Bundesliga |
-| 2006-07 | [duit07.txt](duit07.txt) | Lars Kubusch, Daniel Dalence and Anthony Zea | 8 May 2008 | 2761 (96083) | 1. Bundesliga, 2. Bundesliga |
-| 2005-06 | [duit06.txt](duit06.txt) | Lars Kubusch, Daniel Dalence and Anthony Zea | 4 Oct 2006 | 3116 (118283) | 1. Bundesliga, 2. Bundesliga |
-| 2004-05 | [duit05.txt](duit05.txt) | Lars Kubusch, Daniel Dalence, Roberto Di Maggio and Anthony Zea | 17 Aug 2005 | 3611 (144703) | 1. Bundesliga, 2. Bundesliga |
+| 2006-07 | [duit07.txt](duit07.txt) | Lars Kubusch, Daniel Dalence and Anthony Zea | 8 May 2008 | 2765 (96090) | 1. Bundesliga, DFB Pokal, 2. Bundesliga |
+| 2005-06 | [duit06.txt](duit06.txt) | Lars Kubusch, Daniel Dalence and Anthony Zea | 4 Oct 2006 | 3120 (118292) | 1. Bundesliga, DFB Pokal, 2. Bundesliga |
+| 2004-05 | [duit05.txt](duit05.txt) | Lars Kubusch, Daniel Dalence, Roberto Di Maggio and Anthony Zea | 17 Aug 2005 | 3615 (144710) | 1. Bundesliga, DFB Pokal, 2. Bundesliga |
 | 2003-04 | [duit04.txt](duit04.txt) | Lars Kubusch | 8 Aug 2004 | 4103 (138829) | 1. Bundesliga, DFB Pokal, 2. Bundesliga |
 | 2002-03 | [duit03.txt](duit03.txt) | Pierre Winkler, Daniel Dalence Garcia and Manuel Schmidt | 1 Jun 2005 | 2339 (82965) | 1. Bundesliga, DFB Pokal, 2. Bundesliga |
-| 2001-02 | [duit02.txt](duit02.txt) | Karel Stokkermans and Pierre Winkler | 1 Jun 2005 | 2536 (64487) | 1. Bundesliga, DFB Pokal |
+| 2001-02 | [duit02.txt](duit02.txt) | Karel Stokkermans and Pierre Winkler | 1 Jun 2005 | 2540 (64496) | 1. Bundesliga, DFB Pokal, 2. Bundesliga |
 | 2000-01 | [duit01.txt](duit01.txt) | Karel Stokkermans | 21 Feb 2002 | 1656 (49385) | 1. Bundesliga, DFB Pokal, 2. Bundesliga |
 | 1999-00 | [duit00.txt](duit00.txt) | Ken Butler and Karel Stokkermans | 21 Feb 2002 | 1777 (59100) | 1. Bundesliga, DFB Pokal, 2. Bundesliga |
 | 1998-99 | [duit99.txt](duit99.txt) | Gwidon Naskrent | 1 Apr 2001 | 1129 (44823) | DFB Pokal, 2. Bundesliga |
