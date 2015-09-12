@@ -68,7 +68,7 @@ Energie        1-4 Borussia D
 Unterhaching   1-1 Freiburg
   [Altin Rraklli 44; Levan Kobiaschwili 55pen]
 Wolfsburg      4-0 Kaiserslautern
-  [Andrzej Juskowiak 35, 69, 82, J&uuml;rgen Rische 54]
+  [Andrzej Juskowiak 35, 69, 82, Jürgen Rische 54]
 Bochum         0-3 Bayern
   [Carsten Jancker 17, 25, Roque Santa Cruz 19]
 Hertha         4-0 HSV
@@ -217,7 +217,7 @@ Stuttgart      3-3 HSV
 Hansa          0-2 Hertha
   [Sebastian Deisler 4, Stefan Beinlich 74]
 Unterhaching   0-3 Wolfsburg
-  [Dietmar K&uuml;hbauer 39, Andrzej Juskowiak 54, Jonathan Akpoborie 63]
+  [Dietmar Kühbauer 39, Andrzej Juskowiak 54, Jonathan Akpoborie 63]
 
 Round 9
 [Oct 20]
@@ -231,7 +231,7 @@ Bayern         3-1 1860
 Stuttgart      2-2 Unterhaching
   [Jochen Seitz 26, Krassimir Balakov 85pen; Altin Rraklli 9, Miroslaw Spizak 31]
 Wolfsburg      6-0 K&ouml;ln
-  [Dietmar K&uuml;hbauer 3, Krzysztof Nowak 18, Jonathan Akpoborie 29, Zoltan Sebescen 38,
+  [Dietmar Kühbauer 3, Krzysztof Nowak 18, Jonathan Akpoborie 29, Zoltan Sebescen 38,
    Tomislav Maric 67, Charles Akonnor 90]
 Hertha         3-1 Energie
   [Darius Wosz 42, Bryan Roy 66, Eyjolfur Sverrisson 85; Antun Labak 20]
@@ -853,8 +853,8 @@ Round 1
 [Aug 25]
 Rot-Wei&szlig; Erfurt      0-2 SSV Ulm
 Karlsruher SC        2-1 Chemnitzer FC
-Hlaberg-Brebach      0-5 1.FC N&uuml;rnberg
-VfL Osnabr&uuml;ck        0-1 Hannover 1896
+Hlaberg-Brebach      0-5 1.FC Nürnberg
+VfL Osnabrück        0-1 Hannover 1896
 Bayer Leverkusen Am. 1-2 FC Sankt Pauli
 Tennis-Borussia      1-3 DSC Arminia Bielefeld
 Kickers Emden        0-1 FSV Mainz
@@ -864,11 +864,11 @@ SSV Reutlingen       2-3 Hertha BSC                   [aet]
 SV Babelsberg 03     1-6 Vfl Bochum
 SV Werder Bremen Am. 0-1 VfL Wolfsburg
 Wuppertaler SV       1-3 VfB Stuttgart
-FC Sch&ouml;nberg         0-4 FC Bayern M&uuml;nchen
+FC Sch&ouml;nberg         0-4 FC Bayern München
 Tennis-Borussia II   0-2 SV Werder Bremen
 VfB Stuttgart Amat.  6-1 Eintracht Frankfurt
 FC Ismaning          0-4 Borussia Dortmund
-1.FC Saarbr&uuml;cken     0-1 Spvgg. Greuther F&uuml;rth
+1.FC Saarbrücken     0-1 Spvgg. Greuther Fürth
 LR Ahlen             1-2 Borussia M&ouml;nchengladbach
 Karlsruher SC II     0-2 TSV Alemannia Aachen
 Teningen             0-3 MSV Duisburg
@@ -877,12 +877,12 @@ SV Wehen             2-1 Stuttgarter Kickers
 [Aug 27]
 1.FC Magdeburg       5-2 1.FC K&ouml;ln
 TSV Rain/Lech        0-7 Schalke 04
-VfB L&uuml;beck           2-2 SV Waldhof Mannheim          [aet, 3-2 pen]
+VfB Lübeck           2-2 SV Waldhof Mannheim          [aet, 3-2 pen]
 VfL Hamm             0-6 FC Energie Cottbus
 SC Pfullendorf       1-3 SC Freiburg
 Erzgebirge Aue       0-3 Hamburger SV
 SC Fortuna K&ouml;ln      0-4 Bayer Leverkusen
-TSG Pfeddersheim     0-7 TSV 1860 M&uuml;nchen
+TSG Pfeddersheim     0-7 TSV 1860 München
 SC Paderborn 07      1-2 FC Hansa Rostock
 [Aug 28]
 OFC Kickers          0-4 1.FC Kaiserslautern
@@ -894,18 +894,18 @@ TSV Alemannia Aachen 1-2 Bayer Leverkusen
 Arminia Bielefeld    0-4 VfL Bochum
 SV Wehen             0-1 BV Borussia Dortmund         [aet]
 Karlsruher SC        1-0 Hamburger SV
-1.FC N&uuml;rnberg        4-0 FSV Mainz 05
+1.FC Nürnberg        4-0 FSV Mainz 05
 [Nov 1]
-Spvgg. Unterhaching  1-2 TSV 1860 M&uuml;nchen             [aet]
+Spvgg. Unterhaching  1-2 TSV 1860 München             [aet]
 VfL Wolfsburg        3-1 Hertha BSC
 SSV Ulm              2-0 FC Energie Cottbus
 Hannover 1896        2-1 FC Hansa Rostock
 FC Sankt Pauli       1-3 FC Schalke 04                [aet]
 Borussia M'gladbach  5-1 1.FC Kaiserslautern
 VfB Stuttgart Amat.  0-3 VfB Stuttgart
-1.FC Magdeburg       1-1 FC Bayern M&uuml;nchen            [aet, 4-2 pen]
-VfB L&uuml;beck           1-1 MSV Duisburg                 [aet, 3-5 pen]
-1.FC Union Berlin    1-0 Spvgg. Greuther F&uuml;rth
+1.FC Magdeburg       1-1 FC Bayern München            [aet, 4-2 pen]
+VfB Lübeck           1-1 MSV Duisburg                 [aet, 3-5 pen]
+1.FC Union Berlin    1-0 Spvgg. Greuther Fürth
 
 Round 3
 [Nov 28]
@@ -979,15 +979,15 @@ Final Table:
 Round 1
 [Aug 11]
 Stuttgarter K  1-0 RW Oberhausen
-Hannover       1-1 N&uuml;rnberg
+Hannover       1-1 Nürnberg
 [Aug 12]
 Ahlen          3-6 St Pauli
-Borussia MG    0-0 Saarbr&uuml;cken
+Borussia MG    0-0 Saarbrücken
 [Aug 13]
-Arminia        3-1 Osnabr&uuml;ck
+Arminia        3-1 Osnabrück
 Reutlingen     3-2 Mainz
 Waldhof        3-0 Alemannia
-Greuther F&uuml;rth 4-1 Chemnitz
+Greuther Fürth 4-1 Chemnitz
 [Aug 14]
 MSV            1-2 Ulm
 
@@ -997,12 +997,12 @@ Chemnitz       0-2 Hannover
 St Pauli       5-0 Waldhof
 [Aug 19]
 Alemannia      4-1 Reutlingen
-Osnabr&uuml;ck      1-3 Borussia MG
+Osnabrück      1-3 Borussia MG
 [Aug 20]
-N&uuml;rnberg       2-0 Ahlen
+Nürnberg       2-0 Ahlen
 Mainz          2-2 Stuttgarter K
 RW Oberhausen  1-0 MSV
-Saarbr&uuml;cken    2-1 Greuther F&uuml;rth
+Saarbrücken    2-1 Greuther Fürth
 [Aug 21]
 Ulm            0-1 Arminia
 
@@ -1013,24 +1013,24 @@ Borussia MG    5-0 Ulm
 Arminia        2-0 RW Oberhausen
 MSV            0-0 Mainz
 Reutlingen     2-0 St Pauli
-Chemnitz       1-3 Saarbr&uuml;cken
+Chemnitz       1-3 Saarbrücken
 Hannover       1-1 Ahlen
 [Sep 6]
-Greuther F&uuml;rth 2-0 Osnabr&uuml;ck
+Greuther Fürth 2-0 Osnabrück
 Stuttgarter K  0-3 Alemannia
-Waldhof        1-4 N&uuml;rnberg
+Waldhof        1-4 Nürnberg
 
 Round 4
 [Sep 8]
 Mainz          2-4 Arminia
-Saarbr&uuml;cken    2-1 Hannover
+Saarbrücken    2-1 Hannover
 [Sep 9]
-N&uuml;rnberg       2-0 Reutlingen
+Nürnberg       2-0 Reutlingen
 Ahlen          1-2 Waldhof
 [Sep 10]
 RW Oberhausen  1-1 Borussia MG
-Ulm            2-2 Greuther F&uuml;rth
-Osnabr&uuml;ck      1-1 Chemnitz
+Ulm            2-2 Greuther Fürth
+Osnabrück      1-1 Chemnitz
 St Pauli       4-0 Stuttgarter K
 [Sep 11]
 Alemannia      1-0 MSV
@@ -1043,57 +1043,57 @@ Hannover       3-0 Waldhof
 Borussia MG    1-1 Mainz
 Reutlingen     5-1 Ahlen
 [Sep 17]
-Greuther F&uuml;rth 1-2 RW Oberhausen
-Stuttgarter K  0-2 N&uuml;rnberg
-Saarbr&uuml;cken    2-1 Osnabr&uuml;ck
+Greuther Fürth 1-2 RW Oberhausen
+Stuttgarter K  0-2 Nürnberg
+Saarbrücken    2-1 Osnabrück
 Chemnitz       1-0 Ulm
 [Sep 18]
 Arminia        1-1 Alemannia
 
 Round 6
 [Sep 22]
-N&uuml;rnberg       3-1 MSV
-Ulm            3-1 Saarbr&uuml;cken
+Nürnberg       3-1 MSV
+Ulm            3-1 Saarbrücken
 [Sep 23]
 Waldhof        1-1 Reutlingen
 St Pauli       2-0 Arminia
 [Sep 24]
-Mainz          1-0 Greuther F&uuml;rth
+Mainz          1-0 Greuther Fürth
 RW Oberhausen  4-1 Chemnitz
-Osnabr&uuml;ck      0-1 Hannover
+Osnabrück      0-1 Hannover
 Ahlen          1-1 Stuttgarter K
 [Sep 25]
 Alemannia      1-1 Borussia MG
 
 Round 7
 [Sep 29]
-Saarbr&uuml;cken    3-2 RW Oberhausen
+Saarbrücken    3-2 RW Oberhausen
 MSV            3-3 Ahlen
 [Sep 30]
 Borussia MG    4-2 St Pauli
 Stuttgarter K  2-2 Waldhof
 [Oct 1]
 Hannover       5-1 Reutlingen
-Osnabr&uuml;ck      2-1 Ulm
-Greuther F&uuml;rth 3-0 Alemannia
+Osnabrück      2-1 Ulm
+Greuther Fürth 3-0 Alemannia
 Chemnitz       0-2 Mainz
 [Oct 2]
-Arminia        1-2 N&uuml;rnberg
+Arminia        1-2 Nürnberg
 
 Round 8
 [Oct 13]
 Alemannia      1-2 Chemnitz
 Waldhof        1-0 MSV
 [Oct 14]
-Mainz          1-0 Saarbr&uuml;cken
+Mainz          1-0 Saarbrücken
 Ahlen          1-1 Arminia
 [Oct 15]
-RW Oberhausen  5-2 Osnabr&uuml;ck
+RW Oberhausen  5-2 Osnabrück
 Ulm            3-3 Hannover
 Reutlingen     1-0 Stuttgarter K
-St Pauli       3-3 Greuther F&uuml;rth
+St Pauli       3-3 Greuther Fürth
 [Oct 16]
-N&uuml;rnberg       2-1 Borussia MG
+Nürnberg       2-1 Borussia MG
 
 Round 9
 [Oct 20]
@@ -1601,17 +1601,17 @@ SpVgg Ansbach                (Bayern)
 
 ‹oberliga nord 1945-1963›
 
-‹oberliga s&uuml;d 1945-1963›
+‹oberliga süd 1945-1963›
 
-‹oberliga s&uuml;dwest 1945-1963›
+‹oberliga südwest 1945-1963›
 
-‹oberliga s&uuml;dwest s&uuml;d 1945-1950›
+‹oberliga südwest süd 1945-1950›
 
 ‹oberliga west 1945-1963›
 
 ‹regionalliga nord 63-74›
 
-‹regionalliga s&uuml;d 63-74›
+‹regionalliga süd 63-74›
 
 ‹regionalliga west 63-74›
 
