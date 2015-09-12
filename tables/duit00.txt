@@ -834,11 +834,11 @@ Germany Cup (DFB Pokal) 1999/2000
 
 Round 1
 [Jul 31]
-SC Verl              0-0 Borussia M&ouml;nchengladbach       [aet, 6-5 pen]
+SC Verl              0-0 Borussia Mönchengladbach       [aet, 6-5 pen]
 Carl Zeiss Jena      1-2 SpVgg Greuther Fürth
 VFC Plauen           1-0 Alemannia Aachen
 Hamm                 0-4 Stuttgarter Kickers
-FC Singen 04         3-2 Rot-Wei&szlig; Oberhausen
+FC Singen 04         3-2 Rot-Weiß Oberhausen
 Darmstadt            2-4 Chemnitzer FC
 VfL Osnabrück        0-1 Energie Cottbus
 [Aug 1]
@@ -860,10 +860,10 @@ FK Pirmasens         0-3 TSV München 1860
 Berliner FC Dynamo   0-2 DSC Arminia Bielefeld
 SpVgg Landshut       0-2 FC Hansa Rostock
 SV Werder Bremen Am. 3-1 SC Fortuna K&oulm;ln
-SG Wattenscheid 09   1-7 1.FC K&ouml;ln
+SG Wattenscheid 09   1-7 1.FC Köln
 SV Meppen            2-1 Offenbacher FC Kickers
 VFC Plauen           1-2 Stuttgarter Kickers
-FC Sch&ouml;nberg         0-3 SV Waldhof Mannheim
+FC Schönberg         0-3 SV Waldhof Mannheim
 TuS Langerwehe       0-6 Chemnitzer FC
 FC Singen 04         1-3 SpVgg Greuther Fürth
 [Aug 8]
@@ -886,7 +886,7 @@ Hannover 96          1-2 DSC Arminia Bielefeld
 FC Sankt Pauli       0-2 SSV Ulm 1846
 SpVgg Greuther Fürth 1-3 FC Hansa Rostock
 Stuttgarter Kickers  3-1 Borussia Dortmund
-1.FC K&ouml;ln            2-1 Eintracht Frankfurt
+1.FC Köln            2-1 Eintracht Frankfurt
 SV Babelsberg 03     2-4 SC Freiburg                  [aet]
 [Oct 13]
 Chemnitzer FC        2-3 VfL Wolfsburg
@@ -907,7 +907,7 @@ SC Freiburg          2-0 Energie Cottbus
   [Adel Sellimi 45, Florian Bruns 49]
 FSV Mainz 05         2-1 Hertha BSC Berlin            [aet]
   [Michael Thurk 82, Marcio Rodrigues 99; Michael Preetz 67]
-VfB Stuttgart        4-0 1.FC K&ouml;ln
+VfB Stuttgart        4-0 1.FC Köln
   [Ioan Viorel Ganea 37, 63, Roberto Pinto 52, Ahmed Salah Hosny 90]
 [Dec 1]
 SV Waldhof Mannheim  0-3 FC Bayern München
@@ -957,12 +957,12 @@ Referee: Alfons Berg (Germany)
 
 Final Table:
 
- 1.1.FC K&ouml;ln                    34 19  8  7  68-39  65  Promoted
+ 1.1.FC Köln                    34 19  8  7  68-39  65  Promoted
  2.VfL Bochum                   34 18  7  9  67-48  61  Promoted
  3.Energie Cottbus              34 18  4 12  62-42  58  Promoted
 ------------------------------------------------------
  4.1.FC Nürnberg                34 15 10  9  54-46  55
- 5.Borussia M&ouml;nchengladbach     34 13 12  8  60-43  54
+ 5.Borussia Mönchengladbach     34 13 12  8  60-43  54
  6.Rot-Weiss Oberhausen         34 12 13  9  43-34  49
  7.Greuther Fürth               34 10 16  8  40-39  46
  8.Alemannia Aachen             34 12 10 12  46-54  46
@@ -974,7 +974,7 @@ Final Table:
 14.FC Sankt Pauli               34  8 15 11  37-45  39
 ------------------------------------------------------
 15.Stuttgarter Kickers          34 10  9 15  49-58  39  [*]
-16.Fortuna K&ouml;ln                 34  8 11 15  38-50  35  Relegated
+16.Fortuna Köln                 34  8 11 15  38-50  35  Relegated
 17.Offenbacher Kickers          34  8 11 15  35-58  35  Relegated
 18.Karlsruher SC                34  5 12 17  35-56  27  Relegated
 
@@ -1472,12 +1472,12 @@ Fortuna Koeln               4-1   Offenbacher Kickers
 
 Final Table:
 
- 1.1.FC K&ouml;ln                    34 19  8  7  68-39  65  Promoted
+ 1.1.FC Köln                    34 19  8  7  68-39  65  Promoted
  2.VfL Bochum                   34 18  7  9  67-48  61  Promoted
  3.Energie Cottbus              34 18  4 12  62-42  58  Promoted
 ------------------------------------------------------
  4.1.FC Nürnberg                34 15 10  9  54-46  55
- 5.Borussia M&ouml;nchengladbach     34 13 12  8  60-43  54
+ 5.Borussia Mönchengladbach     34 13 12  8  60-43  54
  6.Rot-Weiss Oberhausen         34 12 13  9  43-34  49
  7.Greuther Fürth               34 10 16  8  40-39  46
  8.Alemannia Aachen             34 12 10 12  46-54  46
@@ -1489,7 +1489,7 @@ Final Table:
 14.FC Sankt Pauli               34  8 15 11  37-45  39
 ------------------------------------------------------
 15.Stuttgarter Kickers          34 10  9 15  49-58  39  [*]
-16.Fortuna K&ouml;ln                 34  8 11 15  38-50  35  Relegated
+16.Fortuna Köln                 34  8 11 15  38-50  35  Relegated
 17.Offenbacher Kickers          34  8 11 15  35-58  35  Relegated
 18.Karlsruher SC                34  5 12 17  35-56  27  Relegated
 
@@ -1752,13 +1752,10 @@ Prepared and maintained by Ken Butler and Karel Stokkermans
 for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 Scorer information thanks to Marcos Cabaleiro Pérez
-(‹selanne@teleline.es›)
 
 
 Authors: Ken Butler
-(‹butler@mscs.dal.ca›)
 and Karel Stokkermans
-(‹karel@rsssf.com›)
 
 Last updated: 21 Feb 2002
 

@@ -682,7 +682,6 @@ Borussia Mönchengladbach 1974/75
 ## About this document
 
 With thanks to Gerd Heuser
-(‹hageha@gmx.de›)
 
 Prepared and maintained by Gwidon Naskrent
 for the
@@ -691,7 +690,6 @@ for the
 
 Author:
 Gwidon Naskrent
-(‹naskrent@free.net.pl›)
 
 Last updated: 1 Apr 2001
 

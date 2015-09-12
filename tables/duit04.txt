@@ -4082,7 +4082,6 @@ Prepared and maintained by Lars Kubusch for the
 
 
 Author: Lars Kubusch
-(‹Larsen23@gmx.de›)
 
 Last updated: 8 Aug 2004
 

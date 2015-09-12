@@ -3098,11 +3098,9 @@ and Anthony Zea for the
 
 
 Authors: Lars Kubusch
-(‹Larsen23@gmx.de›),
+,
 Daniel Dalence
-(‹danielballack@terra.com.br›)
 and Anthony Zea
-(‹zja70@aol.com›)
 
 Last updated: 4 Oct 2006
 

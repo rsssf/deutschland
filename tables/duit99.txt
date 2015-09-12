@@ -753,8 +753,8 @@ Germany Cup (DFB Pokal) 1998/99
 
 Round 1
 Karlsruher SC        3-4 VfL Wolfsburg
-1.FC K&ouml;ln            0-1 Hansa Rostock
-Fortuna K&ouml;ln         1-3 1.FC Kaiserslautern
+1.FC Köln            0-1 Hansa Rostock
+Fortuna Köln         1-3 1.FC Kaiserslautern
 1.FC Saarbrücken     1-1 Borussia Dortmund      [aet, 1-3 pen]
 FC Sankt Pauli Amat. 0-5 Bayer Leverkusen
 Hansa Rostock Amat.  0-3 MSV Duisburg
@@ -763,19 +763,19 @@ Bayer Leverkusen Am. 1-2 Werder Bremen          [aet]
 VfB Lübeck           1-2 VfB Stuttgart
 VfB Leipzig          2-4 TSV 1860 München       [aet]
 FC Denzlingen        0-3 Hamburger SV
-Waldhof Mannheim     1-5 Borussia M&ouml;nchengladbach
+Waldhof Mannheim     1-5 Borussia Mönchengladbach
 VfB Lichterfelde     0-6 Schalke 04
 VfL Osnabrück        0-2 1.FC Nürnberg
 FSV Zwickau          2-5 VfL Bochum
 Post/Süd Regensburg  0-2 Hertha BSC
-Rot-Wei&szlig; Erfurt      1-6 Eintracht Frankfurt
+Rot-Weiß Erfurt      1-6 Eintracht Frankfurt
 LR Ahlen             0-5 Bayern München
 Tennis-Borussia Ber. 1-0 Hannover 96
 Schalding-Heining    0-1 SpVgg Unterhaching
 Spfr. Eisbachtal     1-0 FC Gütersloh           [aet]
 Kickers Offenbach    0-1 Wattenscheid 09
 Energie Cottbus Am.  0-1 SpVgg Greuther Fürth
-Werder Bremen Amat.  0-1 Rot-Wei&szlig; Oberhausen
+Werder Bremen Amat.  0-1 Rot-Weiß Oberhausen
 Dorfmerkingen        0-3 Stuttgarter Kickers
 SG Hoechst           1-2 Energie Cottbus
 SV Straelen          4-7 Fortuna Düsseldorf
@@ -787,10 +787,10 @@ SV Meppen            0-1 FC Sankt Pauli
 
 Round 2
 [Sep 17]
-Energie Cottbus      2-4 Borussia M&ouml;nchengladbach
+Energie Cottbus      2-4 Borussia Mönchengladbach
 Hamburger SV         4-0 SpVgg Unterhaching
 [Sep 22]
-Spfr. Eisbachtal     1-4 Rot-Wei&szlig; Oberhausen
+Spfr. Eisbachtal     1-4 Rot-Weiß Oberhausen
 Werder Bremen        3-2 Hansa Rostock
 1.FC Kaiserslautern  1-1 VfL Bochum             [aet, 5-6 pen]
 Bayer Leverkusen     1-1 Hertha BSC             [aet, 4-5 pen]
@@ -809,9 +809,9 @@ KFC Uerdingen 05     1-1 FC Sankt Pauli         [aet, 5-4 pen]
 Round 3
 [Oct 27]
 VfB Stuttgart        3-1 Borussia Dortmund
-VfL Bochum           0-1 Borussia M&ouml;nchengladbach
+VfL Bochum           0-1 Borussia Mönchengladbach
 VfL Wolfsburg        3-1 Arminia Bielefeld
-Rot-Wei&szlig; Oberhausen  3-3 Hamburger SV           [aet, 4-3 pen]
+Rot-Weiß Oberhausen  3-3 Hamburger SV           [aet, 4-3 pen]
 [Oct 28]
 MSV Duisburg         2-4 Bayern München
 Tennis-Borussia Ber. 4-2 Hertha BSC
@@ -824,12 +824,12 @@ Quarterfinals
 Bayern München       3-0 VfB Stuttgart
 [Dec 2]
 Sportfreunde Siegen  1-3 VfL Wolfsburg
-Rot-Wei&szlig; Oberhausen  2-0 Borussia M&ouml;nchengladbach
+Rot-Weiß Oberhausen  2-0 Borussia Mönchengladbach
 Werder Bremen        2-1 Tennis-Borussia Berlin [aet]
 
 Semifinals
 [Mar 9]
-Rot-Wei&szlig; Oberhausen  1-3 Bayern München         [in Gelsenkirchen]
+Rot-Weiß Oberhausen  1-3 Bayern München         [in Gelsenkirchen]
 [Mar 10]
 VfL Wolfsburg        0-1 Werder Bremen
 
@@ -840,7 +840,7 @@ Werder: 1-Frank Rost; 8-Bernhard Trares, 6-Jens Todt, 3-Raphael Wicky,
         13-Andre Wiedener, 5-Dieter Eilts, 23-Christoph Dabrowski
         (9-Rade Bogdanovic 69), 18-Andreas Herzog (30-Pawel Wojtala 45),
         22-Torsten Frings, 7-Yuri Maximov, 17-Marco Bode.
-Bayern: 1-Oliver Kahn; 10-Lothar Matth&auml;us, 18-Michael Tarnat, 4-Samuel Kuffour
+Bayern: 1-Oliver Kahn; 10-Lothar Matthäus, 18-Michael Tarnat, 4-Samuel Kuffour
         (24-Ali Daei 37), 25-Thomas Linke, 2-Markus Babbel, 16-Jens Jeremies
         (17-Thorsten Fink 57), 11-Stefan Effenberg, 14-Mario Basler,
         7-Mehmet Scholl (20-Hasan Salihamidzic 84), 19-Carsten Jancker.
@@ -853,7 +853,7 @@ Todt (held)      1-1  Daei             1-2
 Bogdanovic       2-2  Tarnat           2-3
 Wikcy            3-3  Jancker          3-4
 Eilts            4-4  Effenberg (high) 4-4
-Rost             5-4  Matth&auml;us (held)  5-4
+Rost             5-4  Matthäus (held)  5-4
 
 
 Germany 1998/99  2.Bundesliga
@@ -870,11 +870,11 @@ Table:
  7.1.FSV Mainz 05               34 14  8 12  48-44  50
  8.SpVgg Greuter Fürth          34 13 10 11  40-31  49
  9.FC Sankt Pauli               34 12  9 13  49-46  45
-10.1.FC K&ouml;ln                    34 12  9 13  46-53  45
+10.1.FC Köln                    34 12  9 13  46-53  45
 11.FC Energie Cottbus           34 10 11 13  48-42  41
-12.SC Rot-Wei&szlig; Oberhausen       34  9 14 11  40-47  41
+12.SC Rot-Weiß Oberhausen       34  9 14 11  40-47  41
 13.SV Stuttgarter Kickers       34 11  8 15  38-53  41
-14.SC Fortuna K&ouml;ln              34  9 13 12  49-55  40
+14.SC Fortuna Köln              34  9 13 12  49-55  40
 ------------------------------------------------------
 15.FC Gütersloh                 34 10  7 17  39-58  37  Relegated
 16.KFC Uerdingen 05             34  7 10 17  34-57  31  Relegated
@@ -943,7 +943,7 @@ Final Table:
 Promoted:
 
 FC St.Pauli Hamburg Amateure (Champion Oberliga Hamburg/Schleswig-Holstein)
-1. SC G&ouml;ttingen 05 (Champion Oberliga Niedersachsen/Bremen)
+1. SC Göttingen 05 (Champion Oberliga Niedersachsen/Bremen)
 FC Bremerhaven (Winner Playoffs of the Runner-Ups)
 
 Playoffs: FC Bremerhaven - TSV Pansdorf 4-0
@@ -1015,7 +1015,7 @@ Final Table:
 Promoted:
 
 VfL Bochum 1848 Amateure (Champion Westfalen)
-SC Rot-Wei&szlig; Essen (Champion Nordrhein)
+SC Rot-Weiß Essen (Champion Nordrhein)
 SC 07 Idar-Oberstein (Champion Southwest)
 
 Precautionary Playoff (in Montabaur):
@@ -1113,7 +1113,6 @@ for the
 
 Author:
 Gwidon Naskrent
-(‹naskrent@free.net.pl›)
 
 Last updated: 1 Apr 2001
 

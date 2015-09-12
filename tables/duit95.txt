@@ -734,7 +734,6 @@ Borussia Dortmund 1994/95
 ## About this document
 
 With thanks to Gerd Heuser
-(‹hageha@gmx.de›)
 
 Prepared and maintained by Gwidon Naskrent
 for the
@@ -743,7 +742,6 @@ for the
 
 Author:
 Gwidon Naskrent
-(‹naskrent@free.net.pl›)
 
 Last updated: 15 May 2014
 

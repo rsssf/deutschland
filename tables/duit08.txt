@@ -2076,7 +2076,6 @@ and Daniel Dalence for the
 Authors: Karel Stokkermans
 and
 Daniel Dalence
-(‹danielballack@terra.com.br›)
 
 Last updated: 7 Nov 2008
 

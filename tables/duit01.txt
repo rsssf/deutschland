@@ -48,7 +48,7 @@ Freiburg       4-0 Stuttgart
 Werder         3-1 Energie
   [Paul Stalteri 34, Marco Bode 45, Claudio Pizarro 70; Vasile Miriuta 16]
 HSV            2-2 1860
-  [Marcel Ketelaer 34, Roy Pr&auml;ger 45; Paul Agostino 6, Martin Max 7]
+  [Marcel Ketelaer 34, Roy Präger 45; Paul Agostino 6, Martin Max 7]
 Bayern         4-1 Hertha
   [Mehmet Scholl 9pen, Carsten Jancker 65, Alexandre Zickler 80, Hasan Salihamidzic 88;
    Ali Daei 89]
@@ -64,7 +64,7 @@ Energie        1-4 Borussia D
   [Vasile Miriuta 68pen; Evanilson 9, Miroslav Stevic 59, Heiko Herrlich 64, 81]
 [Aug 19]
 1860           2-1 Werder
-  [Thomas H&auml;&szlig;ler 44, Paul Agostino 81; Andreas Herzog 14]
+  [Thomas Häßler 44, Paul Agostino 81; Andreas Herzog 14]
 Unterhaching   1-1 Freiburg
   [Altin Rraklli 44; Levan Kobiaschwili 55pen]
 Wolfsburg      4-0 Kaiserslautern
@@ -227,10 +227,10 @@ Kaiserslautern 2-0 Werder
 Leverkusen     2-0 Borussia D
   [Jens Nowotny 25, Oliver Neuville 62]
 Bayern         3-1 1860
-  [&Eacute;lber 45, 64, Hasan Salihamidzic 56; Thomas H&auml;&szlig;ler 75]
+  [&Eacute;lber 45, 64, Hasan Salihamidzic 56; Thomas Häßler 75]
 Stuttgart      2-2 Unterhaching
   [Jochen Seitz 26, Krassimir Balakov 85pen; Altin Rraklli 9, Miroslaw Spizak 31]
-Wolfsburg      6-0 K&ouml;ln
+Wolfsburg      6-0 Köln
   [Dietmar Kühbauer 3, Krzysztof Nowak 18, Jonathan Akpoborie 29, Zoltan Sebescen 38,
    Tomislav Maric 67, Charles Akonnor 90]
 Hertha         3-1 Energie
@@ -851,7 +851,7 @@ Germany Cup (DFB Pokal) 2000/01
 
 Round 1
 [Aug 25]
-Rot-Wei&szlig; Erfurt      0-2 SSV Ulm
+Rot-Weiß Erfurt      0-2 SSV Ulm
 Karlsruher SC        2-1 Chemnitzer FC
 Hlaberg-Brebach      0-5 1.FC Nürnberg
 VfL Osnabrück        0-1 Hannover 1896
@@ -864,24 +864,24 @@ SSV Reutlingen       2-3 Hertha BSC                   [aet]
 SV Babelsberg 03     1-6 Vfl Bochum
 SV Werder Bremen Am. 0-1 VfL Wolfsburg
 Wuppertaler SV       1-3 VfB Stuttgart
-FC Sch&ouml;nberg         0-4 FC Bayern München
+FC Schönberg         0-4 FC Bayern München
 Tennis-Borussia II   0-2 SV Werder Bremen
 VfB Stuttgart Amat.  6-1 Eintracht Frankfurt
 FC Ismaning          0-4 Borussia Dortmund
 1.FC Saarbrücken     0-1 Spvgg. Greuther Fürth
-LR Ahlen             1-2 Borussia M&ouml;nchengladbach
+LR Ahlen             1-2 Borussia Mönchengladbach
 Karlsruher SC II     0-2 TSV Alemannia Aachen
 Teningen             0-3 MSV Duisburg
 1.FC Union Berlin    2-0 Rot-Wei&slig; Oberhausen
 SV Wehen             2-1 Stuttgarter Kickers
 [Aug 27]
-1.FC Magdeburg       5-2 1.FC K&ouml;ln
+1.FC Magdeburg       5-2 1.FC Köln
 TSV Rain/Lech        0-7 Schalke 04
 VfB Lübeck           2-2 SV Waldhof Mannheim          [aet, 3-2 pen]
 VfL Hamm             0-6 FC Energie Cottbus
 SC Pfullendorf       1-3 SC Freiburg
 Erzgebirge Aue       0-3 Hamburger SV
-SC Fortuna K&ouml;ln      0-4 Bayer Leverkusen
+SC Fortuna Köln      0-4 Bayer Leverkusen
 TSG Pfeddersheim     0-7 TSV 1860 München
 SC Paderborn 07      1-2 FC Hansa Rostock
 [Aug 28]
@@ -1635,7 +1635,6 @@ for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
 Author: Karel Stokkermans
-(‹karel@rsssf.com›)
 
 Last updated: 21 Feb 2002
 

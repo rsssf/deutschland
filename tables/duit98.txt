@@ -997,14 +997,12 @@ Prepared and maintained by Gwidon Naskrent and Daniel Dalence
 for the
 ‹Rec.Sport.Soccer Statistics Foundation›
 
-<i>
+
 Authors:
 Gwidon Naskrent
-(‹naskrent@free.net.pl›)
-and Daniel Dalence (<A
-href="mailto:danielballack@terra.com.br">danielballack@terra.com.br</A>)
+and Daniel Dalence 
 
-Last updated: 7 Jun 2005</i>
+Last updated: 7 Jun 2005
 
 **(c) Copyright Gwidon Naskrent, Daniel Dalence and RSSSF 2001/05**
 You are free to copy this document in whole or part provided that proper

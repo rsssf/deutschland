@@ -2314,11 +2314,9 @@ Daniel Dalence Garcia and Manuel Schmidt for the
 
 Authors:
 Pierre Winkler
-(‹PierreWinkler@hotmail.com›),
+,
 Daniel Dalence Garcia
-(‹ddgarcia@terra.com.br›)
 and Manuel Schmidt
-(‹Manu_Schmidt@yahoo.de›)
 
 Last updated: 1 Jun 2005
 

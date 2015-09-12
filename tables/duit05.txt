@@ -3591,13 +3591,11 @@ Di Maggio and Anthony Zea for the
 
 
 Authors: Lars Kubusch
-(‹Larsen23@gmx.de›),
+,
 Daniel Dalence
-(‹danielballack@terra.com.br›),
+,
 Roberto Di Maggio
-(‹dimrob@libero.it›)
 and Anthony Zea
-(‹zja70@aol.com›)
 
 Last updated: 17 Aug 2005
 
