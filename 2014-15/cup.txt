@@ -1,34 +1,34 @@
-#### DFB Pokal
+## DFB Pokal
 
 Round 1
 [Aug 15]
 Chemnitz               5-5 Mainz                  [aet, 5-4 pen]
 Alem. Waldalgesheim    0-6 Bayer Leverkusen
-MSV Duisburg           1-0 Nürnberg
+MSV Duisburg           1-0 NÃ¼rnberg
 [Aug 16]
 Bremer SV              0-1 Eintracht Braunschweig
 FC Homburg 08          1-3 Borussia M'gladbach
 FC-Astoria Walldorf    1-3 Hannover
-FT Braunschweig        0-4 Köln
+FT Braunschweig        0-4 KÃ¶ln
 Optik Rathenow         1-3 Sankt Pauli
 Stuttgarter Kickers    1-4 Borussia Dortmund
-SV Waldkirch           0-3 Greuther Fürth
+SV Waldkirch           0-3 Greuther FÃ¼rth
 Bochum                 2-0 Stuttgart
-Viktoria Köln          2-4 Hertha BSC
+Viktoria KÃ¶ln          2-4 Hertha BSC
 Wehen Wiesbaden        0-0 Kaiserslautern         [aet, 3-5 pen]
 FC Viktoria Berlin     0-2 Eintracht Frankfurt
 SF Siegen              3-3 FSV Frankfurt          [aet, 4-5 pen]
 [Aug 17]
 Carl Zeiss Jena        0-1 Erzgebirge Aue
-Holstein Kiel          1-2 1860 München
+Holstein Kiel          1-2 1860 MÃ¼nchen
 Illertissen            2-3 Werder Bremen          [aet]
 SW Rehden              1-1 Aalen                  [aet, 3-4 pen]
 USC Paloma (Hamburg)   0-9 Hoffenheim
 1.FC Neubrandenburg 04 1-3 Karlsruhe
 Arminia Bielefeld      4-1 Sandhausen
 Eintracht Trier        0-2 Freiburg
-Würzburger Kickers     3-2 Fortuna Düsseldorf     [aet]
-Preußen Münster        1-4 Bayern München
+WÃ¼rzburger Kickers     3-2 Fortuna DÃ¼sseldorf     [aet]
+PreuÃŸen MÃ¼nster        1-4 Bayern MÃ¼nchen
 Magdeburg              1-0 Augsburg
 RB Leipzig             2-1 Paderborn              [aet]
 Darmstadt 98           0-0 Wolfsburg              [aet, 4-5 pen]
@@ -44,17 +44,17 @@ Arminia Bielefeld      0-0 Hertha BSC             [aet, 4-2 pen]
 Chemnitz               0-2 Werder Bremen
 Aalen                  2-0 Hannover
 Kickers Offenbach      1-0 Karlsruhe
-Kaiserslautern         2-0 Greuther Fürth
+Kaiserslautern         2-0 Greuther FÃ¼rth
 Dynamo Dresden         2-1 Bochum                 [aet]
 Sankt Pauli            0-3 Borussia Dortmund
-MSV Duisburg           0-0 Köln                   [aet, 1-4 pen]
+MSV Duisburg           0-0 KÃ¶ln                   [aet, 1-4 pen]
 [Oct 29]
 Magdeburg              2-2 Bayer Leverkusen       [aet, 4-5 pen]
-1860 München           2-5 Freiburg
-Würzburger Kickers     0-1 Eintracht Braunschweig
+1860 MÃ¼nchen           2-5 Freiburg
+WÃ¼rzburger Kickers     0-1 Eintracht Braunschweig
 RB Leipzig             3-1 Erzgebirge Aue         [aet]
 Eintracht Frankfurt    1-2 Borussia M'gladbach
-Hamburg                1-3 Bayern München
+Hamburg                1-3 Bayern MÃ¼nchen
 Hoffenheim             5-1 FSV Frankfurt
 Wolfsburg              4-1 Heidenheim
 
@@ -63,11 +63,11 @@ Wolfsburg              4-1 Heidenheim
 Bayer Leverkusen       2-0 Kaiserslautern         [aet]
 Aalen                  0-2 Hoffenheim
 Dynamo Dresden         0-2 Borussia Dortmund
-Freiburg               2-1 Köln
+Freiburg               2-1 KÃ¶ln
 [Mar 4]
 Arminia Bielefeld      3-1 Werder Bremen
 RB Leipzig             0-2 Wolfsburg
-Bayern München         2-0 Eintracht Braunschweig
+Bayern MÃ¼nchen         2-0 Eintracht Braunschweig
 Kickers Offenbach      0-2 Borussia M'gladbach
 
 Quarterfinals
@@ -76,11 +76,11 @@ Wolfsburg              1-0 Freiburg
 Borussia Dortmund      3-2 Hoffenheim             [aet]
 [Apr 8]
 Arminia Bielefeld      1-1 Borussia M'gladbach    [aet, 5-4 pen]
-Bayer Leverkusen       0-0 Bayern München         [aet, 3-5 pen]
+Bayer Leverkusen       0-0 Bayern MÃ¼nchen         [aet, 3-5 pen]
 
 Semifinals
 [Apr 28]
-Bayern München         1-1 Borussia Dortmund      [aet, 0-2 pen]
+Bayern MÃ¼nchen         1-1 Borussia Dortmund      [aet, 0-2 pen]
 [Apr 29]
 Arminia Bielefeld      0-4 Wolfsburg
 

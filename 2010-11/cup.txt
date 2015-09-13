@@ -1,12 +1,12 @@
-#### DFB Pokal
+## DFB Pokal
 
 Round 1
 [Aug 13]
 SV Wilhelmshaven       0-4  Eintracht Frankfurt
 FC Ingolstadt 04       2-0  Karlsruher SC
-VfB Lübeck             0-2  MSV Duisburg
+VfB LÃ¼beck             0-2  MSV Duisburg
 FSV Frankfurt          2-0  SC Paderborn
-VfL Osnabrück          2-3  1. FC Kaiserslautern       [aet]
+VfL OsnabrÃ¼ck          2-3  1. FC Kaiserslautern       [aet]
 Jahn Regensburg        1-1  Arminia Bielefeld          [aet, 5-6 pen]
 [Aug 14]
 FK Pirmasens           1-11 Bayer Leverkusen
@@ -15,38 +15,38 @@ SV Babelsberg 03       1-2  VfB Stuttgart
 FC Oberneuland         0-1  SC Freiburg
 SC Pfullendorf         0-2  Hertha BSC
 Rot Weiss Ahlen        0-4  Werder Bremen
-SC Verl                1-2  1860 München
+SC Verl                1-2  1860 MÃ¼nchen
 Hansa Rostock          0-4  1899 Hoffenheim
 Chemnitzer FC          1-0  FC St. Pauli
 SV Sandhausen          4-4  FC Augsburg                [aet, 1-3 pen]
 SV Elversberg          0-0  Hannover 96                [aet, 5-4 pen]
-Eintracht Braunschweig 1-2  SpVgg Greuther Fürth       [aet]
+Eintracht Braunschweig 1-2  SpVgg Greuther FÃ¼rth       [aet]
 Erzgebirge Aue         1-3  Borussia M'gladbach
 [Aug 15]
-Schwarz-Weiß Essen     1-2  Alemannia Aachen
-TuS Koblenz            1-0  Fortuna Düsseldorf
-Victoria Hamburg       1-0  Rot-Weiß Oberhausen
-ZFC Meuselwitz         0-2  1. FC Köln
+Schwarz-WeiÃŸ Essen     1-2  Alemannia Aachen
+TuS Koblenz            1-0  Fortuna DÃ¼sseldorf
+Victoria Hamburg       1-0  Rot-WeiÃŸ Oberhausen
+ZFC Meuselwitz         0-2  1. FC KÃ¶ln
 TuS Heeslingen         1-2  Energie Cottbus
-Eintracht Trier        0-2  1. FC Nürnberg
+Eintracht Trier        0-2  1. FC NÃ¼rnberg
 Berliner AK 07         1-2  1. FSV Mainz 05
 Hallescher FC          1-0  1. FC Union Berlin
 Torgelower SV Greif    1-5  Hamburger SV
-Preußen Münster        1-2  VfL Wolfsburg
+PreuÃŸen MÃ¼nster        1-2  VfL Wolfsburg
 Kickers Offenbach      3-0  VfL Bochum
 [Aug 16]
-Germania Windeck       0-4  Bayern München
+Germania Windeck       0-4  Bayern MÃ¼nchen
 VfR Aalen              1-2  FC Schalke
 
 Round 2
 [Oct 26]
 TuS Koblenz            2-1  Hertha BSC
 Victoria Hamburg       1-3  VfL Wolfsburg
-1. FC Köln             3-0  1860 München
-SpVgg Greuther Fürth   2-4  FC Augsburg                [aet]
+1. FC KÃ¶ln             3-0  1860 MÃ¼nchen
+SpVgg Greuther FÃ¼rth   2-4  FC Augsburg                [aet]
 Energie Cottbus        2-1  SC Freiburg
 FSV Frankfurt          0-1  FC Schalke 04
-Bayern München         2-1  Werder Bremen
+Bayern MÃ¼nchen         2-1  Werder Bremen
 1. FC Kaiserslautern   3-0  Arminia Bielefeld
 [Oct 27]
 Hallescher FC          0-3  MSV Duisburg
@@ -54,7 +54,7 @@ Eintracht Frankfurt    5-2  Hamburger SV
 1899 Hoffenheim        1-0  FC Ingolstadt 04
 Alemannia Aachen       2-1  1. FSV Mainz 05
 Kickers Offenbach      0-0  Borussia Dortmund          [aet, 4-2 pen]
-SV Elversberg          0-3  1. FC Nürnberg
+SV Elversberg          0-3  1. FC NÃ¼rnberg
 Chemnitzer FC          1-3  VfB Stuttgart              [aet]
 Borussia M'gladbach    1-1  Bayer Leverkusen           [aet, 5-4 pen]
 
@@ -64,28 +64,28 @@ FC Augsburg            0-1  FC Schalke 04
 1899 Hoffenheim        2-0  Borussia M'gladbach
 [Dec 22]
 VfL Wolfsburg          1-3  Energie Cottbus
-1. FC Köln             1-2  MSV Duisburg
-VfB Stuttgart          3-6  Bayern München
+1. FC KÃ¶ln             1-2  MSV Duisburg
+VfB Stuttgart          3-6  Bayern MÃ¼nchen
 Alemannia Aachen       1-1  Eintracht Frankfurt        [aet, 5-3 pen]
 [Jan 19]
-Kickers Offenbach      0-2  1. FC Nürnberg
+Kickers Offenbach      0-2  1. FC NÃ¼rnberg
 TuS Koblenz            1-4  1. FC Kaiserslautern
 
 Quarterfinals
 [Jan 25]
-FC Schalke 04          3-2  1. FC Nürnberg             [aet]
+FC Schalke 04          3-2  1. FC NÃ¼rnberg             [aet]
 [Jan 26]
 Energie Cottbus        1-0  1899 Hoffenheim
 MSV Duisburg           2-0  1. FC Kaiserslautern
-Alemannia Aachen       0-4  Bayern München
+Alemannia Aachen       0-4  Bayern MÃ¼nchen
 
 Semifinals
 [Mar 1]
 MSV Duisburg           2-1  Energie Cottbus
 [Mar 2]
-Bayern München         0-1  FC Schalke 04
+Bayern MÃ¼nchen         0-1  FC Schalke 04
 
 Final [May 21, Berlin]
 MSV Duisburg           0-5  FC Schalke 04
-    (18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)
+    (18' Draxler, 22' Huntelaar, 42' HÃ¶wedes, 55' Jurado, 70' Huntelaar)
 

@@ -4,7 +4,7 @@
 football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for
 Germany (Deutschland)
 
-_Last Update: 2015-07-25 20:37:13 +0200_
+_Last Update: 2015-09-13 13:02:56 +0200_
 
 | Season | League, Cup | Rounds |
 |:------ | :---------- | -----: |
@@ -12,16 +12,13 @@ _Last Update: 2015-07-25 20:37:13 +0200_
 | 2014-15 | [cup.txt](2014-15/cup.txt) | 6 |
 | 2013-14 | [1-bundesliga.txt](2013-14/1-bundesliga.txt) | 34 |
 | 2013-14 | [cup.txt](2013-14/cup.txt) | 6 |
-| 2012-13 | [1-bundesliga.txt](2012-13/1-bundesliga.txt) | 34 |
 | 2012-13 | [cup.txt](2012-13/cup.txt) | 6 |
-| 2011-12 | [1-bundesliga.txt](2011-12/1-bundesliga.txt) | 0 |
 | 2011-12 | [cup.txt](2011-12/cup.txt) | 6 |
-| 2010-11 | [1-bundesliga.txt](2010-11/1-bundesliga.txt) | 34 |
 | 2010-11 | [cup.txt](2010-11/cup.txt) | 6 |
-| 1966-67 | [1-bundesliga.txt](1966-67/1-bundesliga.txt) | 34 |
-| 1965-66 | [1-bundesliga.txt](1965-66/1-bundesliga.txt) | 34 |
-| 1964-65 | [1-bundesliga.txt](1964-65/1-bundesliga.txt) | 30 |
-| 1963-64 | [1-bundesliga.txt](1963-64/1-bundesliga.txt) | 30 |
+| 1971-72 | [1-bundesliga.txt](archive/1970s/1971-72/1-bundesliga.txt) | 34 |
+| 1970-71 | [1-bundesliga.txt](archive/1970s/1970-71/1-bundesliga.txt) | 34 |
+| 1964-65 | [1-bundesliga.txt](archive/1960s/1964-65/1-bundesliga.txt) | 30 |
+| 1963-64 | [1-bundesliga.txt](archive/1960s/1963-64/1-bundesliga.txt) | 30 |
 
 
 

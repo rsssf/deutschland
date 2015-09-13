@@ -1,16 +1,16 @@
-#### DFB Pokal
+## DFB Pokal
 
 Round 1
 [Jul 29]
-Saarbrücken            1-3 Erzgebirge Aue         [aet]
+SaarbrÃ¼cken            1-3 Erzgebirge Aue         [aet]
 Jahn Regensburg        1-3 Borussia M'gladbach
 RB Leipzig             3-2 Wolfsburg
 Rot-Weiss Essen        2-2 Union Berlin           [aet, 4-3 pen]
 Wehen Wiesbaden        1-2 Stuttgart
-Osnabrück              2-3 1860 München           [aet]
+OsnabrÃ¼ck              2-3 1860 MÃ¼nchen           [aet]
 [Jul 30]
 Heidenheim             2-1 Werder Bremen
-Arminia Bielefeld      1-5 Nürnberg
+Arminia Bielefeld      1-5 NÃ¼rnberg
 Dynamo Berlin          0-3 Kaiserslautern
 Dynamo Dresden         4-3 Bayer Leverkusen       [aet]
 Eintracht Trier        2-1 Sankt Pauli
@@ -25,44 +25,44 @@ RW Oberhausen          1-2 Augsburg               [aet]
 Sandhausen             0-3 Borussia Dortmund
 [Jul 31]
 Anker Wismar           0-6 Hannover
-Eimsbüttler TV        0-10 Greuther Fürth
+EimsbÃ¼ttler TV        0-10 Greuther FÃ¼rth
 FC Oberneuland         1-4 Ingolstadt
 Karlsruhe              3-1 Alemannia Aachen
 Unterhaching           3-2 Freiburg
 TSV Germania Windeck   1-3 Hoffenheim             [aet]
 ZFC Meuselwitz         0-4 Hertha BSC
 FC Teningen           1-11 Schalke 04
-Hessen Kassel          0-3 Fortuna Düsseldorf
-SC Wiedenbrück         0-3 Köln
-SVN Zweibrücken        1-2 Mainz                  [aet]
+Hessen Kassel          0-3 Fortuna DÃ¼sseldorf
+SC WiedenbrÃ¼ck         0-3 KÃ¶ln
+SVN ZweibrÃ¼cken        1-2 Mainz                  [aet]
 [Aug 1]
-Eintracht Braunschweig 0-3 Bayern München
+Eintracht Braunschweig 0-3 Bayern MÃ¼nchen
 
 Round 2
 [Oct 25]
 Heidenheim             0-0 Borussia M'gladbach    [aet, 3-4 pen]
-Fortuna Düsseldorf     3-0 1860 München
+Fortuna DÃ¼sseldorf     3-0 1860 MÃ¼nchen
 RB Leipzig             0-1 Augsburg
 Unterhaching           1-4 Bochum
 Eintracht Trier        1-2 Hamburg                [aet]
-Greuther Fürth         4-0 Paderborn
-Hoffenheim             2-1 Köln
+Greuther FÃ¼rth         4-0 Paderborn
+Hoffenheim             2-1 KÃ¶ln
 Borussia Dortmund      2-0 Dynamo Dresden
 [Oct 26]
 Hannover               0-1 Mainz                  [aet]
 Holstein Kiel          2-0 MSV Duisburg
 Karlsruhe              0-2 Schalke 04
 Rot-Weiss Essen        0-3 Hertha BSC
-Bayern München         6-0 Ingolstadt
+Bayern MÃ¼nchen         6-0 Ingolstadt
 Eintracht Frankfurt    0-1 Kaiserslautern         [aet]
-Erzgebirge Aue         1-2 Nürnberg
+Erzgebirge Aue         1-2 NÃ¼rnberg
 Stuttgart              3-0 FSV Frankfurt
 
 1/8 Finals
 [Dec 20]
-Nürnberg               0-1 Greuther Fürth
-Bochum                 1-2 Bayern München
-Fortuna Düsseldorf     0-0 Borussia Dortmund      [aet, 4-5 pen]
+NÃ¼rnberg               0-1 Greuther FÃ¼rth
+Bochum                 1-2 Bayern MÃ¼nchen
+Fortuna DÃ¼sseldorf     0-0 Borussia Dortmund      [aet, 4-5 pen]
 Hoffenheim             2-1 Augsburg
 [Dec 21]
 Hertha BSC             3-1 Kaiserslautern
@@ -75,15 +75,15 @@ Quarterfinals
 Holstein Kiel          0-4 Borussia Dortmund
 [Feb 8]
 Hertha BSC             0-2 Borussia M'gladbach    [aet]
-Hoffenheim             0-1 Greuther Fürth
-Stuttgart              0-2 Bayern München
+Hoffenheim             0-1 Greuther FÃ¼rth
+Stuttgart              0-2 Bayern MÃ¼nchen
 
 Semifinals
 [Mar 20]
-Greuther Fürth         0-1 Borussia Dortmund      [aet]
+Greuther FÃ¼rth         0-1 Borussia Dortmund      [aet]
 [Mar 21]
-Borussia M'gladbach    0-0 Bayern München         [aet, 2-4 pen]
+Borussia M'gladbach    0-0 Bayern MÃ¼nchen         [aet, 2-4 pen]
 
 Final [May 12, Berlin]
-Borussia Dortmund      5-2 Bayern München
+Borussia Dortmund      5-2 Bayern MÃ¼nchen
 
