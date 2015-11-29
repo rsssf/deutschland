@@ -3,11 +3,11 @@
 
 football.db RSSSF Archive Data Summary for Germany (Deutschland)
 
-_Last Update: 2015-09-12 21:19:40 +0200_
+_Last Update: 2015-11-29 23:07:52 +0100_
 
 | Season | File   | Authors  | Last Updated | Lines (Chars) | Sections |
 | :----- | :----- | :------- | :----------- | ------------: | :------- |
-| 2014-15 | [duit2015.txt](duit2015.txt) | Karel Stokkermans | 4 Jun 2015 | 799 (21692) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Bundesliga |
+| 2014-15 | [duit2015.txt](duit2015.txt) | Karel Stokkermans | 29 Oct 2015 | 801 (21704) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Bundesliga |
 | 2013-14 | [duit2014.txt](duit2014.txt) | Karel Stokkermans | 5 Feb 2015 | 777 (20169) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Bundesliga |
 | 2012-13 | [duit2013.txt](duit2013.txt) | Karel Stokkermans | 5 Feb 2015 | 1307 (32177) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Bundesliga |
 | 2011-12 | [duit2012.txt](duit2012.txt) | Karel Stokkermans | 5 Feb 2015 | 277 (8629) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Bundesliga |
