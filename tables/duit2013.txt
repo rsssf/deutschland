@@ -1,19 +1,19 @@
-<!--
-   source: http://rsssf.com/tablesd/duit2013.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit2013.html
+    -->
+  
 
 
 ## Germany 2012/13
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹1. Bundesliga›
-‹DFB Pokal›
-‹2. Bundesliga›
-‹3. Bundesliga›
+‹1. Bundesliga, see §1bl›
+‹DFB Pokal, see §dfbpokal›
+‹2. Bundesliga, see §2bl›
+‹3. Liga, see §3bl›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga
+#### 1. Bundesliga  ‹§1bl›
 
 
 Final Table:
@@ -34,7 +34,7 @@ Final Table:
 14.SV Werder Bremen             34   8 10 16  50-66  34
 15.FC Augsburg                  34   8  9 17  33-51  33
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.TSG 1899 Hoffenheim          34   8  7 19  42-67  31  ‹Relegation Playoff›
+16.TSG 1899 Hoffenheim          34   8  7 19  42-67  31  ‹Relegation Playoff, see §1prorel›
 -------------------------------------------------------
 17.Fortuna Düsseldorf           34   7  9 18  39-57  30  Relegated
 18.SpVgg Greuther Fürth         34   4  9 21  26-60  21  Relegated
@@ -522,13 +522,13 @@ Final Table:
 14.SV Werder Bremen             34   8 10 16  50-66  34
 15.FC Augsburg                  34   8  9 17  33-51  33
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.TSG 1899 Hoffenheim          34   8  7 19  42-67  31  ‹Relegation Playoff›
+16.TSG 1899 Hoffenheim          34   8  7 19  42-67  31  ‹Relegation Playoff, see §1prorel›
 -------------------------------------------------------
 17.Fortuna Düsseldorf           34   7  9 18  39-57  30  Relegated
 18.SpVgg Greuther Fürth         34   4  9 21  26-60  21  Relegated
 
 
-**Promotion/Relegation Playoff 1./2. Bundesliga**
+**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
 
 First Leg [May 23]
 Hoffenheim      3-1 Kaiserslautern
@@ -540,7 +540,7 @@ NB: both remain at former level
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal
+#### DFB Pokal  ‹§dfbpokal›
 
 
 Round 1
@@ -632,7 +632,7 @@ Bayern München         3-2 Stuttgart
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga
+#### 2. Bundesliga  ‹§2bl›
 
 
 Final Table:
@@ -640,7 +640,7 @@ Final Table:
  1.Hertha BSC Berlin            34  22 10  2  65-28  76  Promoted
  2.Eintracht Braunschweig       34  19 10  5  52-34  67  Promoted
 -------------------------------------------------------
- 3.1.FC Kaiserslautern          34  15 13  6  55-33  58  ‹Promotion Playoff›
+ 3.1.FC Kaiserslautern          34  15 13  6  55-33  58  ‹Promotion Playoff, see §1prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.FSV Frankfurt                34  16  6 12  55-45  54
  5.1.FC Köln                    34  14 12  8  43-33  54
@@ -655,7 +655,7 @@ Final Table:
 14.VfL Bochum                   34  10  8 16  40-52  38
 15.FC Erzgebirge Aue            34   9 10 15  39-46  37
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.Dynamo Dresden               34   9 10 15  35-49  37  ‹Relegation Playoff›
+16.Dynamo Dresden               34   9 10 15  35-49  37  ‹Relegation Playoff, see §2prorel›
 -------------------------------------------------------
 17.SV Sandhausen                34   6  8 20  38-66  26
 18.Jahn Regensburg              34   4  7 23  36-65  19  Relegated
@@ -1165,7 +1165,7 @@ Final Table:
  1.Hertha BSC Berlin            34  22 10  2  65-28  76  Promoted
  2.Eintracht Braunschweig       34  19 10  5  52-34  67  Promoted
 -------------------------------------------------------
- 3.1.FC Kaiserslautern          34  15 13  6  55-33  58  ‹Promotion Playoff›
+ 3.1.FC Kaiserslautern          34  15 13  6  55-33  58  ‹Promotion Playoff, see §1prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.FSV Frankfurt                34  16  6 12  55-45  54
  5.1.FC Köln                    34  14 12  8  43-33  54
@@ -1180,7 +1180,7 @@ Final Table:
 14.VfL Bochum                   34  10  8 16  40-52  38
 15.FC Erzgebirge Aue            34   9 10 15  39-46  37
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.Dynamo Dresden               34   9 10 15  35-49  37  ‹Relegation Playoff›
+16.Dynamo Dresden               34   9 10 15  35-49  37  ‹Relegation Playoff, see §2prorel›
 -------------------------------------------------------
 17.SV Sandhausen                34   6  8 20  38-66  26
 18.Jahn Regensburg              34   4  7 23  36-65  19  Relegated
@@ -1188,7 +1188,7 @@ Final Table:
 NB: MSV Duisburg were refused a license; because of this Sandhausen remained at the
     second level
 
-**Promotion/Relegation Playoff 2./3. Bundesliga**
+**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
 
 First Leg [May 24]
 Osnabrück       1-0 Dresden
@@ -1200,7 +1200,7 @@ NB: both remain at former level
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Bundesliga
+#### 3. Liga  ‹§3bl›
 
 
 Final Table:
@@ -1208,7 +1208,7 @@ Final Table:
  1.Karlsruher SC                38  23 10  5  69-27  79  Promoted
  2.DSC Arminia Bielefeld        38  22 10  6  59-32  76  Promoted
 -------------------------------------------------------
- 3.VfL Osnabrück                38  22  7  9  64-35  73  ‹Promotion Playoff›
+ 3.VfL Osnabrück                38  22  7  9  64-35  73  ‹Promotion Playoff, see §2prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.SC Preußen Münster           38  20 12  6  63-33  72
  5.1. FC Heidenheim             38  21  9  8  69-47  72
@@ -1232,7 +1232,7 @@ Final Table:
 NB: Offenbacher Kickers were refused a license; because of this Darmstadt remained
     at the third level
 
-**Promotion Playoffs for 3. Bundesliga**
+**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
 
 First Legs [May 29]
 RB Leipzig      2-0 Lotte
@@ -1250,48 +1250,48 @@ NB: RB Leipzig, Holstein Kiel and Elversberg promoted
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2011/12›
+‹2011/12, see page duit2012›
 
-‹2013/14›
+‹2013/14, see page duit2014›
 
-‹list of champions›
+‹list of champions, see page duitchamp›
 
-‹all-time table›
+‹all-time table, see page duialltime›
 
-‹list of 2nd level champions›
+‹list of 2nd level champions, see page duit2champ›
 
-‹list of amateur champions›
+‹list of amateur champions, see page duitamachamp›
 
-‹oberliga berlin 1945-1963›
+‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
 
-‹oberliga nord 1945-1963›
+‹oberliga nord 1945-1963, see page duit-ol-nord4563›
 
-‹oberliga süd 1945-1963›
+‹oberliga süd 1945-1963, see page duit-ol-sued4563›
 
-‹oberliga südwest 1945-1963›
+‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
 
-‹oberliga südwest süd 1945-1950›
+‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
 
-‹oberliga west 1945-1963›
+‹oberliga west 1945-1963, see page duit-ol-west4563›
 
-‹regionalliga nord 63-74›
+‹regionalliga nord 63-74, see page dui3nordhist›
 
-‹regionalliga süd 63-74›
+‹regionalliga süd 63-74, see page dui3suedhist›
 
-‹regionalliga west 63-74›
+‹regionalliga west 63-74, see page dui3westhist›
 
-‹list of cup finals›
+‹list of cup finals, see page duitcuphist›
 
-‹list of super and league cup finals›
+‹list of super and league cup finals, see page duitsupcuphist›
 
-‹list of topscorers›
+‹list of topscorers, see page duittops›
 
-‹list of 2nd level topscorers›
+‹list of 2nd level topscorers, see page duit2tops›
 
-‹list of foundation dates›
+‹list of foundation dates, see page duitfound›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -1299,9 +1299,9 @@ for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 Author: Karel Stokkermans
 
-Last updated: 5 Feb 2015
+Last updated: 2 Aug 2018
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2012/15**
+**(C) Copyright Karel Stokkermans and RSSSF 2012/18**
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

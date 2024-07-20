@@ -1,17 +1,13 @@
-<!--
-   source: http://rsssf.com/tablesd/duit06.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit06.html
+    -->
+  
 
 
 ## Germany 2005/06
 
 
-
-
-#### 1. Bundesliga
-
-
+1.Bundesliga
 
 Final Table:
 
@@ -41,12 +37,12 @@ Bayern           3-0 Borussia M
   [Owen Hargreaves 28, Roy Makaay 86, 90]
 [Aug 6]
 Duisburg         1-1 Stuttgart
-  [Abdelaziz Ahanfouf 31; Jeronimo Barreto Claudemir Cacau 5]
+  [Abdelaziz Ahanfouf 31; Jeronimo Barreto Claudemir "Cacau" 5]
 Hamburg          3-0 Nürnberg
   [Emile Mpenza 3, Sergej Barbarez 45pen, 60]
 Hannover         2-2 Hertha
   [Christoph Dabrowski 66, Michael Tarnat 87;
-   Marcelo dos Santos Marcelinho 49pen, Artur Wichniarek 54]
+   Marcelo dos Santos "Marcelinho" 49pen, Artur Wichniarek 54]
 Köln             1-0 Mainz
   [Bjorn Schlicke 87pen]
 Werder           5-2 Arminia B
@@ -115,7 +111,7 @@ Round 4
 Leverkusen       1-1 Schalke
   [Dimitar Berbatov 73; Søren Larsen 85]
 Borussia M       2-1 Duisburg
-  [Oliver Neuville 5, José Antonio Dos Santos Silva Zé Antonio 66;
+  [Oliver Neuville 5, José Antonio Dos Santos Silva "Zé Antonio" 66;
    Uwe Möhrle 9]
 Kaiserslautern   1-5 Werder
   [Halil Altintop 84; Johan Micoud 31, Miroslav Klose 44, 78,
@@ -176,7 +172,7 @@ Nürnberg         1-1 Schalke
 Leverkusen       2-1 Köln
   [Andrey Voronin 24, Simon Rolfes 67; Patrick Helmes 77]
 Hertha           3-2 Duisburg
-  [Marko Pantelic 6, Marcelo dos Santos Marcelinho 71pen,
+  [Marko Pantelic 6, Marcelo dos Santos "Marcelinho" 71pen,
    Nando Rafael 90; Ivica Grlic 32, Marino Biliskov 53]
 Stuttgart        1-2 Hamburg
   [Mario Gomez 53; Rafael van der Vaart 32, David Jarolim 88]
@@ -208,7 +204,7 @@ Round 8
 Nürnberg         2-1 Köln
   [Stefan Kiessling 32, 67; Patrick Helmes 76]
 Borussia M       1-0 Mainz
-  [José Antonio Dos Santos Silva Zé Antonio 32]
+  [José Antonio Dos Santos Silva "Zé Antonio" 32]
 Hertha           1-2 Werder
   [Pal Dardai 48; Tim Borowski 85, Nelson Valdez 89]
 Hannover         1-1 Duisburg
@@ -218,7 +214,7 @@ Eintracht F      0-1 Schalke
 Leverkusen       1-1 Arminia B
   [Andrey Voronin 84; Isaac Boakye 58]
 Bayern           2-0 Wolfsburg
-  [Roque Santa Cruz 67, Lucimar da Silva Ferreira Lucio 90+]
+  [Roque Santa Cruz 67, Lucimar da Silva Ferreira "Lucio" 90+]
 [Oct 2]
 Borussia D       0-0 Stuttgart
 Kaiserslautern   0-3 Hamburg
@@ -251,7 +247,7 @@ Duisburg         0-1 Eintracht F
 Round 10
 [Oct 22]
 Eintracht F      6-3 Köln
-  [Ioannis Amanatidis 2, Marko Rehmer 8, Christian Maicon Hening Chris 28,
+  [Ioannis Amanatidis 2, Marko Rehmer 8, Christian Maicon Hening "Chris" 28,
    Benjamin Köhler 35, Alexander Meier 80, Du-Ri Cha 89; Albert Streit 5,
    Lukas Podolski 52pen, Alpay Özalan 90]
 Borussia M       4-1 Kaiserslautern
@@ -259,14 +255,14 @@ Borussia M       4-1 Kaiserslautern
    Oliver Neuville 86; Boubacar Sanogo 14]
 Hannover         0-0 Werder
 Hertha           3-1 Mainz
-  [Marcelo dos Santos Marcelinho 6, 34, Marko Pantelic 67;
+  [Marcelo dos Santos "Marcelinho" 6, 34, Marko Pantelic 67;
    Manuel Friedrich 71]
 Wolfsburg        0-0 Schalke
 Nürnberg         2-3 Arminia B
   [Dominik Reinhardt 2, Ivica Banovic 83; Michael Fink 35,
    Diego Leon 88, Sibusiso Zuma 90]
 Bayern           4-0 Duisburg
-  [Michael Ballack 27, Jose Roberto Da Silva Ze Roberto 33,
+  [Michael Ballack 27, Jose Roberto Da Silva "Ze Roberto" 33,
    Roque Santa Cruz 59, Claudio Pizarro 90]
 [Oct 23]
 Leverkusen       1-1 Stuttgart
@@ -280,11 +276,11 @@ Werder           4-1 Eintracht F
   [Torsten Frings 29, Tim Borowski 52, 90, Miroslav Klose 61;
    Ioannis Amanatidis 19]
 Stuttgart        3-3 Hertha
-  [Danijel Ljuboja 52, Jeronimo Barreto Claudemir Cacau 66,
+  [Danijel Ljuboja 52, Jeronimo Barreto Claudemir "Cacau" 66,
    Mario Gomez 83; Ellery Cairo 8, Nando Rafael 67,
-   Marcelo dos Santos Marcelinho 76]
+   Marcelo dos Santos "Marcelinho" 76]
 Köln             1-2 Bayern
-  [Matthias Scherz 28; Lucimar da Silva Ferreira Lucio 55,
+  [Matthias Scherz 28; Lucimar da Silva Ferreira "Lucio" 55,
    Michael Ballack 74]
 Kaiserslautern   2-2 Leverkusen
   [Marco Engelhardt 32, Berkant Göktan 90; Tranquillo Barnetta 39,
@@ -312,7 +308,7 @@ Eintracht F      3-0 Arminia B
 Schalke          3-0 Duisburg
   [Kevin Kuranyi 13, Alexander Meyer 67og, Dario Rodriguez 86]
 Hertha           3-0 Kaiserslautern
-  [Marcelo dos Santos Marcelinho 6, Marko Pantelic 48, Nando Rafael 52]
+  [Marcelo dos Santos "Marcelinho" 6, Marko Pantelic 48, Nando Rafael 52]
 Wolfsburg        1-1 Köln
   [Diego Fernando Klimowicz 41; Denis Epstein 88]
 Hannover         2-2 Mainz
@@ -341,7 +337,7 @@ Kaiserslautern   1-3 Nürnberg
   [Stefan Blank 18; Ivica Banovic 17, Lars Müller 78, Ivan Saenko 81]
 Werder           6-1 Wolfsburg
   [Frank Baumann 6, Tim Borowski 43, 52, Miroslav Klose 60, 85,
-   Ronaldo Aparecido Rodrigues Naldo 72; Diego Fernando Klimowicz 57]
+   Ronaldo Aparecido Rodrigues "Naldo" 72; Diego Fernando Klimowicz 57]
 Arminia B        1-2 Bayern
   [Isaac Boakye 60; Claudio Pizarro 82, 90+]
 [Nov 20]
@@ -367,7 +363,7 @@ Bayern           2-1 Mainz
 [Nov 27]
 Hertha           2-2 Borussia M
   [Yildiray Bastürk 68, Niko Kovac 75;
-   Carlos Eduardo de Souza Floresta Kahé 6, Arne Friedrich  12og]
+   Carlos Eduardo de Souza Floresta "Kahé" 6, Arne Friedrich  12og]
 Eintracht F      1-1 Stuttgart
   [Ioannis Amanatidis 19; Danijel Ljuboja 63]
 [Dec 6]
@@ -391,7 +387,7 @@ Stuttgart        0-0 Bayern
 [Dec 4]
 Leverkusen       1-2 Hertha
   [Dimitar Berbatov 20; Yildiray Bastürk 58,
-   Marcelo dos Santos Marcelinho 64]
+   Marcelo dos Santos "Marcelinho" 64]
 Mainz 05         5-1 Wolfsburg
   [Michael Thurk 2pen, 77, Benjamin Auer 36, Petr Ruman 45,
    Mohamed Zidan 51; Diego Fernando Klimowicz 3]
@@ -414,10 +410,10 @@ Wolfsburg        0-1 Stuttgart
 Nürnberg         1-1 Leverkusen
   [Markus Schroth 29; Bernd Schneider 45]
 Hannover         1-1 Borussia M
-  [Jirí Stajner 67; Carlos Eduardo de Souza Floresta Kahé 49]
+  [Jirí Stajner 67; Carlos Eduardo de Souza Floresta "Kahé" 49]
 [Dec 11]
 Köln             1-4 Werder
-  [Imre Szabics 24; Ronaldo Aparecido Rodrigues Naldo 33,
+  [Imre Szabics 24; Ronaldo Aparecido Rodrigues "Naldo" 33,
    Miroslav Klose 50, 90, Johan Micoud 89]
 Bayern           2-1 Kaiserslautern
   [Michael Ballack 26, Roy Makaay 54pen; Boubacar Sanogo 39]
@@ -427,7 +423,7 @@ Round 17
 Leverkusen       0-0 Hannover
 Borussia M       4-3 Eintracht F
   [Marcell Jansen 45, Oliver Neuville 77, 82, Vaclav Sverkos 88;
-   Francisco Copado 16, 22, Christian Maicon Hening Chris 90]
+   Francisco Copado 16, 22, Christian Maicon Hening "Chris" 90]
 Borussia D       1-2 Bayern
   [Florian Kringe 79; Ali Karimi 53, Claudio Pizarro 73]
 Mainz            1-1 Duisburg
@@ -466,7 +462,7 @@ Hertha           1-1 Hannover
   [Dick van Burik 90+; Christoph Dabrowski 13]
 [Jan 29]
 Kaiserslautern   0-2 Schalke
-  [Cassio Souza Soares Lincoln 13, Levan Kobiashvili 78pen]
+  [Cassio Souza Soares "Lincoln" 13, Levan Kobiashvili 78pen]
 Arminia B        0-1 Werder
   [Frank Fahrenhorst 72]
 
@@ -515,12 +511,12 @@ Round 21
 [Feb 11]
 Schalke          7-4 Leverkusen
   [Søren Larsen 9, 63, Mladen Krstajic 17, Zlatan Bajramovic 34,
-   Kevin Kuranyi 55, Cassio Souza Soares Lincoln 70, Gerald Asamoah 81;
+   Kevin Kuranyi 55, Cassio Souza Soares "Lincoln" 70, Gerald Asamoah 81;
    Andrey Voronin 40, 64, Dimitar Berbatov 50, Jacek Krzynowek 70]
 Eintracht F      0-1 Hannover
   [Chavdar Yankov 78]
 Wolfsburg        1-1 Hertha
-  [Kevin Hofland 63; Marcelo dos Santos Marcelinho 32pen]
+  [Kevin Hofland 63; Marcelo dos Santos "Marcelinho" 32pen]
 Duisburg         1-1 Borussia M
   [Klemen Lavric 4; Bo Svensson 20]
 Werder           0-2 Kaiserslautern
@@ -568,7 +564,7 @@ Arminia B        1-0 Borussia D
 Mainz            0-2 Kaiserslautern
   [Boubacar Sanogo 24pen, 26]
 Schalke          2-0 Nürnberg
-  [Kevin Kuranyi 58, Cassio Souza Soares Lincoln 65]
+  [Kevin Kuranyi 58, Cassio Souza Soares "Lincoln" 65]
 Bayern           5-2 Eintracht F
   [José Paolo Guerrero 21, 42, Michael Ballack 33, 62,
    Claudio Pizarro 85; Christoph Preuß 32, Alexander Meier 84]
@@ -612,7 +608,7 @@ Mainz           3-0 Borussia M
   [Michael Thurk 62, 89, Mohamed Zidan 68]
 Stuttgart       0-0 Borussia D
 Werder          0-3 Hertha
-  [Kevin Boateng 54, Marcelo dos Santos Marcelinho 76, Yildiray Bastürk 83]
+  [Kevin Boateng 54, Marcelo dos Santos "Marcelinho" 76, Yildiray Bastürk 83]
 Köln            3-4 Nürnberg
   [Boris Zivkovic 28, Marvin Matip 61, Lukas Podolski 63;
    Robert Vittek 6pen, 16, 22pen, Ivan Saenko 58]
@@ -634,11 +630,11 @@ Eintracht F     5-2 Duisburg
 Wolfsburg       0-1 Hamburg
   [Benjamin Lauth 21]
 Borussia D      2-1 Kaiserslautern
-  [Leonardo de Deus Santos Dede 25, Florian Kringe 64; Ervin Skela 45+]
+  [Leonardo de Deus Santos "Dede" 25, Florian Kringe 64; Ervin Skela 45+]
 Nürnberg        3-1 Werder
   [Robert Vittek 21, 69, Markus Schroth 36; Miroslav Klose 57]
 Borussia M      1-1 Stuttgart
-  [Milan Fukal 69; Jeronimo Barreto Claudemir Cacau 75]
+  [Milan Fukal 69; Jeronimo Barreto Claudemir "Cacau" 75]
 Leverkusen      1-2 Mainz
   [Paul Slawomir Freier 85; Mohamed Zidan 34, 64]
 [Mar 19]
@@ -657,7 +653,7 @@ Hamburg         2-4 Borussia D
 Mainz           2-2 Hertha
   [Michael Thurk 52pen, Conor Casey 78; Marko Pantelic 41, 89]
 Schalke         2-2 Wolfsburg
-  [Kevin Kuranyi 7, Cassio Souza Soares Lincoln 67; Rick Hoogendorp 29,
+  [Kevin Kuranyi 7, Cassio Souza Soares "Lincoln" 67; Rick Hoogendorp 29,
    Christopher Lamprecht 76]
 Duisburg        1-3 Bayern
   [Abdelaziz Ahanfouf 40pen; Hasan Salihamidzic 66, Roy Makaay 71,
@@ -685,7 +681,7 @@ Leverkusen      5-1 Kaiserslautern
 Eintracht F     0-1 Werder
   [Miroslav Klose 70pen]
 Hertha          2-0 Stuttgart
-  [Marcelo dos Santos Marcelinho 46, 69pen]
+  [Marcelo dos Santos "Marcelinho" 46, 69pen]
 Nürnberg        3-0 Mainz
   [Ivan Saenko 3, Stefan Kießling 68, Robert Vittek 79]
 [Apr 2]
@@ -762,11 +758,11 @@ Mainz           2-2 Bayern
 Round 32
 [May 2]
 Hertha          1-5 Leverkusen
-  [Marcelo dos Santos Marcelinho 41; Juan Silveira dos Santos 5,
+  [Marcelo dos Santos "Marcelinho" 41; Juan Silveira dos Santos 5,
    Dimitar Berbatov 27, 28, Carsten Ramelow 63, Bernd Schneider 76]
 Nürnberg        5-2 Borussia M
   [Robert Vittek 14, 65, Jan Polak 59, Ivan Saenko 85,
-   Stefan Kiessling 88; José Antonio Dos Santos Silva Zé Antonio 34,
+   Stefan Kiessling 88; José Antonio Dos Santos Silva "Zé Antonio" 34,
    Wesley Sonck 36]
 Hannover        1-2 Borussia D
   [Per Mertesacker 44; Tomas Rosicky 59, Christian Wörns 80]
@@ -829,7 +825,7 @@ Hamburg         1-2 Werder
   [Sergej Barbarez 59; Ivan Klasnic 27, Miroslav Klose 72]
 Schalke         3-2 Stuttgart
   [Ebbe Sand 52, Marcelo Jose Bordon 80, Tomasz Waldoch 83;
-   Thomas Hitzlsperger 33, Jeronimo Barreto Claudemir Cacau 71]
+   Thomas Hitzlsperger 33, Jeronimo Barreto Claudemir "Cacau" 71]
 Duisburg        0-0 Mainz
 Köln            4-2 Arminia B
   [Lukas Podolski 44, 86, Matthias Scherz 56, Patrick Helmes 86;
@@ -867,7 +863,7 @@ Topscorers:
 14 Michael Ballack                 Bayern München
 13 Ebi Smolarek                    Borussia Dortmund
 12 Lukas Podolski                  FC Köln
-12 Marcelo dos Santos Marcelinho Hertha BSC Berlin
+12 Marcelo dos Santos ‘Marcelinho' Hertha BSC Berlin
 12 Ioannis Amanatidis              Eintracht Frankfurt
 12 Michael Thurk                   FSV Mainz 05
 12 Diego Fernando Klimowicz        VfL Wolfsburg
@@ -883,11 +879,7 @@ Topscorers:
 
 
 
-
-
-#### DFB Pokal
-
-
+DFB Pokal
 
 
 Round 1
@@ -911,7 +903,7 @@ FSV Mainz 05 II            0-3 Karlsruher SC
   [Ioannis Masmanidis 57, Edmond Kapllani 63, Jiri Kaufman 73]
 RW Erfurt                  2-1 LR Ahlen            [aet]
   [Ronny Hebestreit 53, Björn Brunnemann 116;
-   Paulo Roberto Machado Paulinho 56]
+   Paulo Roberto Machado "Paulinho" 56]
 [Aug 20]
 FC St. Pauli               3-2 SVW Burghausen      [aet]
   [Sebastian Wojcik 10, Dennis Tornieporth 77, Felix Luz 113;
@@ -925,7 +917,7 @@ Kickers Offenbach          3-1 1.FC Köln
   [Oualid Mokhtari 65, Suat Türker 72pen, Christian Rahn 86og;
    Markus Feulner 29]
 Tennis Borussia Berlin     0-6 VfL Bochum
-  [Pavel Drsek 6, Mamadou Diabang 19, Eduardo Goncalves Edu 28,
+  [Pavel Drsek 6, Mamadou Diabang 19, Eduardo Goncalves "Edu" 28,
    Dariusz Wosz 63, Zvjezdan Misimovic 67, Martin Meichelbeck 87]
 Stuttgarter Kickers        1-5 Hamburger SV
   [Mirnes Mesic 45+pen; Sergej Barbarez 13, 79pen, Thimothee Atouba 69,
@@ -986,7 +978,7 @@ RW Erfurt                  2-4 1.FC Kaiserslautern
   [Pavel David 38, Joseph Mensah 68; Boubacar Sanogo 25, 27,
    Marco Engelhardt 70, Halil Altintop 75]
 SpVgg Unterhaching         2-1 1.FC Saarbrücken    [aet]
-  [Christoph Teinert 75, Babacar NDiaye 115; Mustapha Hadji 56]
+  [Christoph Teinert 75, Babacar N'Diaye 115; Mustapha Hadji 56]
 Werder Bremen              2-2 VfL Wolfsburg       [aet, 5-4 pen]
   [Miroslav Klose 88, 105; Steve Marlet 64, 120]
 Eintracht Frankfurt        6-0 FC Schalke 04
@@ -1033,7 +1025,7 @@ SC Freiburg                1-3 1860 München        [aet]
 Bayern München             1-0 Hamburger SV        [aet]
   [Owen Hargreaves 113]
 Hannover 96                1-4 Werder Bremen
-  [Ricardo Sousa 85pen; Ronaldo Aparecido Rodrigues Naldo 71,
+  [Ricardo Sousa 85pen; Ronaldo Aparecido Rodrigues "Naldo" 71,
    Torsten Frings 83pen, Hanno Balitsch 89og, Aaron Hunt 90]
 Eintracht Frankfurt        1-1 1.FC Nürnberg       [aet, 4-1 pen]
   [Francisco Copado 35pen; Stefan Kießling 43]
@@ -1042,7 +1034,7 @@ Hansa Rostock              1-1 Kickers Offenbach   [aet, 3-4 pen]
 FC St. Pauli               4-3 Hertha BSC          [aet]
   [Michél Mazingu-Dinzey 45+, Felix Luz 86, Ian Paul Joy 104,
    Robert Palikuca 109; Marko Pantelic 8, Gilberto da Silva Melo 40,
-   Marcelo dos Santos Marcelinho 100]
+   Marcelo dos Santos "Marcelinho" 100]
 
 Quarterfinals
 [Jan 24]
@@ -1069,24 +1061,23 @@ FC St. Pauli               0-3 Bayern München
 Final [Apr 29, Olympiastadion, Berlin; att: 74349]
 Bayern München             1-0 Eintracht Frankfurt
   [Claudio Pizarro 59]
-  [Eintracht: Oka Nikolov  Marko Rehmer (Daniyel Cimen 34 (Markus
+  [Eintracht: Oka Nikolov – Marko Rehmer (Daniyel Cimen 34 (Markus
      Weissenberger 82)), Marco Russ, Aleksandar Vasoski - Patrick Ochs,
-     Benjamin Huggel, Christoph Spycher  Stefan Lexa (Francisco
-     Copado 72), Alexander Meier, Benjamin Köhler  Ioannis Amanatidis;
-   Bayern München: Oliver Kahn  Willy Sagnol, Lucimar da Silva Ferreira
-     Lucio, Valérien Ismaël, Philipp Lahm - Martín Demichelis  Hasan
-     Salihamidzic (Jose Roberto Da Silva Zé Roberto 46), Michael
-     Ballack, Owen Hargreaves (Jens Jeremies 81)  Roy Makaay (Mehmet
+     Benjamin Huggel, Christoph Spycher – Stefan Lexa (Francisco
+     Copado 72), Alexander Meier, Benjamin Köhler – Ioannis Amanatidis;
+   Bayern München: Oliver Kahn – Willy Sagnol, Lucimar da Silva Ferreira
+     "Lucio", Valérien Ismaël, Philipp Lahm - Martín Demichelis – Hasan
+     Salihamidzic (Jose Roberto Da Silva "Zé Roberto" 46), Michael
+     Ballack, Owen Hargreaves (Jens Jeremies 81) – Roy Makaay (Mehmet
      Scholl 90+), Claudio Pizarro;
    yellow cards: Ballack, Lahm, Sagnol; Vasoski;
    ref: Herbert Fandel; Mike Pickel, Volker Wezel]
 
 
+Second Level 2005/06
 
 
-#### 2. Bundesliga
-
-
+2.Bundesliga
 
 Final Table:
 
@@ -1116,7 +1107,7 @@ Round 1
 Energie C        2-1 Eintracht B
   [Gregg Berhalter 76pen, Francis Kioyo 89; Jürgen Rische 21]
 Saarbrücken      0-4 Bochum
-  [Eduardo Goncalves Edu 51, 64, Zvjezdan Misimovic 78, 90]
+  [Eduardo Goncalves "Edu" 51, 64, Zvjezdan Misimovic 78, 90]
 Greuther Fürth   3-1 Dynamo D
   [Tomislav Erceg 3, Christian Timm 85, Barbaros Barut 90+pen;
    Ansgar Brinkmann 77pen]
@@ -1158,13 +1149,13 @@ Kickers O        2-1 Greuther Fürth
   [Suat Türker 31, Stephan Sieger 76; Tomislav Erceg 81]
 [Aug 15]
 Bochum           2-2 Energie C
-  [Eduardo Goncalves Edu 29, Pavel Drsek 59; Francis Kioyo 9, 90+]
+  [Eduardo Goncalves "Edu" 29, Pavel Drsek 59; Francis Kioyo 9, 90+]
 
 Round 3
 [Aug 26]
 Ahlen            2-2 Bochum
-  [Paulo Machado Paulinho 6, Daniel Thioune 28; Dariusz Wosz 8,
-   Eduardo Goncalves Edu 61]
+  [Paulo Machado "Paulinho" 6, Daniel Thioune 28; Dariusz Wosz 8,
+   Eduardo Goncalves "Edu" 61]
 Hansa            2-3 Eintracht B
   [Marcel Schied 4, Magnus Arvidsson 72; Daniel Graf 61, 69,
    Ahmet Kuru 86]
@@ -1213,7 +1204,7 @@ Bochum           1-0 Hansa
 Round 5
 [Sep 16]
 Greuther Fürth   1-3 Bochum
-  [Danny Fuchs 19; Eduardo Goncalves Edu 12, 66, Joris van Hout 42]
+  [Danny Fuchs 19; Eduardo Goncalves "Edu" 12, 66, Joris van Hout 42]
 Freiburg         0-0 Karlsruhe
 Unterhaching     1-1 Erzgebirge
   [Christoph Teinert 79; Andrzej Juskowiak 4]
@@ -1359,7 +1350,7 @@ Eintracht B      1-0 Siegen
   [Patrick Bick 36]
 Ahlen            3-1 Saarbrücken
   [Petar Djenic 3, Daniel Thioune 65,
-   Paolo Roberto Machado Paulinho 79; Marcel Rozgonyi 5]
+   Paolo Roberto Machado "Paulinho" 79; Marcel Rozgonyi 5]
 Bochum           1-1 Paderborn
   [René Müller 16og; Marcel Ndjeng 82]
 [Oct 30]
@@ -1436,7 +1427,7 @@ Erzgebirge       0-2 Eintracht B
   [Benjamin Siegert 63, Lars Fuchs 85]
 Wacker B         0-4 Bochum
   [Martin Meichelbeck 6, Joris van Hout 23, 40,
-   Eduardo Gonsalves de Oliveira Edu 61]
+   Eduardo Gonsalves de Oliveira "Edu" 61]
 [Nov 27]
 Unterhaching     2-0 Kickers O
   [Babacar N'Diaye 27, Silvio Adzic 90]
@@ -1544,7 +1535,7 @@ Alemannia        3-1 Erzgebirge
 Kickers O        1-3 Hansa
   [Regis Dorn 24; Enrico Kern 7, Marcel Schied 62, Gledson da Silva Menezes 66]
 Bochum           3-0 Saarbrücken
-  [Daniel Imhof 21, Eduardo Gonsalves de Oliveira Edu 47pen,
+  [Daniel Imhof 21, Eduardo Gonsalves de Oliveira "Edu" 47pen,
    Marcel Maltritz 79pen]
 Paderborn        1-1 Unterhaching
   [Benjamin Schüßler 55; Markus Bollmann 88og]
@@ -1581,7 +1572,7 @@ Karlsruhe        2-1 Alemannia
 Round 20
 [Feb 3]
 Bochum           3-0 Ahlen
-  [Tommy Bechmann 36, 68, Eduardo Gonsalves de Oliveira Edu 77pen]
+  [Tommy Bechmann 36, 68, Eduardo Gonsalves de Oliveira "Edu" 77pen]
 Siegen           0-4 Saarbrücken
   [Aimen Demai 16, Ivan Dudic 67, Yilmaz Örtülü 77, Jonathan Jager 88]
 Wacker B         1-1 Karlsruhe
@@ -1731,7 +1722,7 @@ Round 26
 Wacker B         2-2 Greuther Fürth
   [Timo Nagy 20, Nico Herzig 69; Christian Eigler 15, André Mijatovic 51]
 Siegen           1-1 Kickers O
-  [Arlindo Gomes Semedo Cafu 43; Mamadou-Lamine Diabang 55]
+  [Arlindo Gomes Semedo "Cafu" 43; Mamadou-Lamine Diabang 55]
 Alemannia        2-0 Dynamo D
   [Marius Ebbers 62, Erik Meijer 90+]
 [Mar 19]
@@ -1743,7 +1734,7 @@ Unterhaching     0-2 Energie
 Saarbrücken      2-1 Freiburg
   [Jonathan Jäger 19, Chadli Amri 64; Ibrahim Tanko 70]
 Bochum           4-0 Eintracht B
-  [Zvjezdan Misimovic 9, 60, Eduardo Goncalves Edu 28, Tomasz Zdebel 67]
+  [Zvjezdan Misimovic 9, 60, Eduardo Goncalves "Edu" 28, Tomasz Zdebel 67]
 Paderborn        0-1 1860 München
   [Marco Gebhardt 12]
 [Mar 20]
@@ -1787,7 +1778,7 @@ Unterhaching     0-1 Hansa
 Saarbrücken      1-0 Ahlen
   [Aimen Demai 60]
 Siegen           4-1 Eintracht B
-  [Arlindo Gomes Semedo Cafu 30, 45+, Andreas Nauroth 43,
+  [Arlindo Gomes Semedo "Cafu" 30, 45+, Andreas Nauroth 43,
    Peter Nemeth 67; Patrick Bick 70pen]
 Wacker B         0-2 Kickers O
   [Suat Türker 4, Mamadou-Lamine Diabang 33]
@@ -1849,14 +1840,14 @@ Round 31
 Paderborn        3-1 Alemannia
   [Markus Bollmann 8, Marcel Ndjeng 19, Rene Müller 42; Goran Sukalo 16pen]
 Bochum           1-2 Wacker B
-  [Eduardo Gonsalves de Oliveira Edu 75pen; Marek Krejci 14,
+  [Eduardo Gonsalves de Oliveira "Edu" 75pen; Marek Krejci 14,
    Thorsten Burkhardt 68]
 1860 München     2-0 Karlsruhe
   [Jiayi Shao 5, Mathias Lehmann 19pen]
 [Apr 23]
 Freiburg         2-2 Siegen
   [Roda Antar 50, Jonathan Pitroipa 71; Andreas Nauroth 33,
-   Arlindo Gomes Semedo Cafu 80]
+   Arlindo Gomes Semedo "Cafu" 80]
 Hansa            1-2 Ahlen
   [Tim Sebastian 78; Musemestre Bamba 58pen, Nils Ole Book 81]
 Dynamo D         2-0 Saarbrücken
@@ -1907,11 +1898,11 @@ Alemannia        0-1 Freiburg
 1860 München     1-0 Saarbrücken
   [Patrick Milchraum 7]
 Siegen           2-1 Wacker B
-  [Gabriel Melkam 74, Arlindo Gomes Semedo Cafú 76; Dragan Bogavac 84]
+  [Gabriel Melkam 74, Arlindo Gomes Semedo "Cafú" 76; Dragan Bogavac 84]
 Eintracht B      3-0 Unterhaching
   [Patrick Bick 27, Jurgen Rische 73, Daniel Graf 80]
 Bochum           2-3 Karlsruhe
-  [Eduardo Goncalves Edu 37, Joris van Hout 76; Edmond Kapllani 23,
+  [Eduardo Goncalves "Edu" 37, Joris van Hout 76; Edmond Kapllani 23,
    Sean Dundee 75, Danny Schwarz 90+]
 Paderborn        0-2 Erzgebirge
   [Kevin Hampf 7, Florian Heller 71]
@@ -1967,7 +1958,7 @@ Topscorers:
 14 Marek Krejci            Wacker Burghausen
 13 Regis Dorn              Kickers Offenbach
 13 Marius Ebbers           TSV Alemannia Aachen
-12 Eduardo Goncalves Edu VfL Bochum
+12 Eduardo Goncalves "Edu" VfL Bochum
 12 Sergiu Marian Radu      FC Energie Cottbus
 11 Suat Türker             Kickers Offenbach
 11 Zvjezdan Misimovic      VfL Bochum
@@ -3055,59 +3046,58 @@ Hamburg West
 15.Hasloh 1.       30   7  5 18  47- 64  26 Relegated
 16.Gencler Birligi 1.     30   5  8 17  38- 78  23 Relegated
 
-‹2004/05›
+‹2004/05, see page duit05›
 
-‹2006/07›
+‹2006/07, see page duit07›
 
-‹list of champions›
+‹list of champions, see page duitchamp›
 
-‹all-time table›
+‹all-time table, see page duialltime›
 
-‹list of 2nd level champions›
+‹list of 2nd level champions, see page duit2champ›
 
-‹list of amateur champions›
+‹list of amateur champions, see page duitamachamp›
 
-‹oberliga berlin 1945-1963›
+‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
 
-‹oberliga nord 1945-1963›
+‹oberliga nord 1945-1963, see page duit-ol-nord4563›
 
-‹oberliga süd 1945-1963›
+‹oberliga süd 1945-1963, see page duit-ol-sued4563›
 
-‹oberliga südwest 1945-1963›
+‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
 
-‹oberliga südwest süd 1945-1950›
+‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
 
-‹oberliga west 1945-1963›
+‹oberliga west 1945-1963, see page duit-ol-west4563›
 
-‹regionalliga nord 63-74›
+‹regionalliga nord 63-74, see page dui3nordhist›
 
-‹regionalliga süd 63-74›
+‹regionalliga süd 63-74, see page dui3suedhist›
 
-‹regionalliga west 63-74›
+‹regionalliga west 63-74, see page dui3westhist›
 
-‹list of cup finals›
+‹list of cup finals, see page duitcuphist›
 
-‹list of super and league cup finals›
+‹list of super and league cup finals, see page duitsupcuphist›
 
-‹list of topscorers›
+‹list of topscorers, see page duittops›
 
-‹list of 2nd level topscorers›
+‹list of 2nd level topscorers, see page duit2tops›
 
-‹list of foundation dates›
+‹list of foundation dates, see page duitfound›
 
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 Prepared and maintained by Lars Kubusch, Daniel Dalence
 and Anthony Zea for the
 ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Lars Kubusch
-,
+Authors: Lars Kubusch,
 Daniel Dalence
 and Anthony Zea
 

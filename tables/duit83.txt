@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit83.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit83.html
+    -->
+  
 
 
 ## Germany 1982/83
@@ -659,7 +659,7 @@ Hamburger SV 1982/83
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit78.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit78.html
+    -->
+  
 
 
 ## Germany 1977/78
@@ -618,7 +618,7 @@ FISCHER (Schalke) - 20
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

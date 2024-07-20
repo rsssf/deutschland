@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit89.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit89.html
+    -->
+  
 
 
 ## Germany 1988/89
@@ -650,7 +650,7 @@ FC Bayern München 1988/89
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

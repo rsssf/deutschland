@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit87.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit87.html
+    -->
+  
 
 
 ## Germany 1986/87
@@ -651,7 +651,7 @@ FC Bayern München 1986/87
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

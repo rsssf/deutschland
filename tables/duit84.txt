@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit84.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit84.html
+    -->
+  
 
 
 ## Germany 1983/84
@@ -687,7 +687,7 @@ VfB Stuttgart 1983/84
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

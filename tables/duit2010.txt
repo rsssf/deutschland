@@ -1,19 +1,19 @@
-<!--
-   source: http://rsssf.com/tablesd/duit2010.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit2010.html
+    -->
+  
 
 
 ## Germany 2009/10
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹1. Bundesliga›
-‹DFB Pokal›
-‹2. Bundesliga›
-‹3. Bundesliga›
+‹1. Bundesliga, see §1bl›
+‹DFB Pokal, see §dfbpokal›
+‹2. Bundesliga, see §2bl›
+‹3. Liga, see §3bl›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga
+#### 1. Bundesliga  ‹§1bl›
 
 
 Final Table:
@@ -34,7 +34,7 @@ Final Table:
 14.SC Freiburg                  34  9  8 17  35-59  35
 15.Hannover 96                  34  9  6 19  43-67  33
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.1.FC Nürnberg                34  8  7 19  32-58  31  ‹Relegation Playoff›
+16.1.FC Nürnberg                34  8  7 19  32-58  31  ‹Relegation Playoff, see §1prorel›
 ------------------------------------------------------
 17.VfL Bochum                   34  6 10 18  33-64  28  Relegated
 18.Hertha BSC Berlin            34  5  9 20  34-56  24  Relegated
@@ -521,12 +521,12 @@ Final Table:
 14.SC Freiburg                  34  9  8 17  35-59  35
 15.Hannover 96                  34  9  6 19  43-67  33
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.1.FC Nürnberg                34  8  7 19  32-58  31  ‹Relegation Playoff›
+16.1.FC Nürnberg                34  8  7 19  32-58  31  ‹Relegation Playoff, see §1prorel›
 ------------------------------------------------------
 17.VfL Bochum                   34  6 10 18  33-64  28  Relegated
 18.Hertha BSC Berlin            34  5  9 20  34-56  24  Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga**
+**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
 
 First Leg [May 13]
 Nürnberg        1-0 Augsburg
@@ -539,7 +539,7 @@ NB: Nürnberg remain in 1. Bundesliga, Augsburg in 2. Bundesliga
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal
+#### DFB Pokal  ‹§dfbpokal›
 
 
 Round 1
@@ -632,7 +632,7 @@ Werder Bremen          0-4 Bayern München
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga
+#### 2. Bundesliga  ‹§2bl›
 
 
 Final Table:
@@ -640,7 +640,7 @@ Final Table:
  1.1.FC Kaiserslautern          34 19 10  5  56-28  67  Promoted
  2.FC Sankt Pauli               34 20  4 10  72-37  64  Promoted
 ------------------------------------------------------
- 3.FC Augsburg                  34 17 11  6  60-40  62  ‹Promotion Playoff›
+ 3.FC Augsburg                  34 17 11  6  60-40  62  ‹Promotion Playoff, see §1prorel›
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.Fortuna Düsseldorf           34 17  8  9  48-31  59
  5.SC Paderborn 07              34 14  9 11  49-49  51
@@ -655,7 +655,7 @@ Final Table:
 14.Rot-Weiss Oberhausen         34 12  5 17  38-52  41
 15.FSV Frankfurt                34  9 11 14  29-50  38
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.FC Hansa Rostock             34 10  6 18  33-45  36  ‹Relegation Playoff›
+16.FC Hansa Rostock             34 10  6 18  33-45  36  ‹Relegation Playoff, see §2prorel›
 ------------------------------------------------------
 17.TuS Koblenz                  34  7 10 17  35-60  31  Relegated
 18.Rot-Weiss Ahlen              34  5  7 22  19-55  22  Relegated
@@ -1170,7 +1170,7 @@ Final Table:
  1.1.FC Kaiserslautern          34 19 10  5  56-28  67  Promoted
  2.FC Sankt Pauli               34 20  4 10  72-37  64  Promoted
 ------------------------------------------------------
- 3.FC Augsburg                  34 17 11  6  60-40  62  ‹Promotion Playoff›
+ 3.FC Augsburg                  34 17 11  6  60-40  62  ‹Promotion Playoff, see §1prorel›
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.Fortuna Düsseldorf           34 17  8  9  48-31  59
  5.SC Paderborn 07              34 14  9 11  49-49  51
@@ -1185,7 +1185,7 @@ Final Table:
 14.Rot-Weiss Oberhausen         34 12  5 17  38-52  41
 15.FSV Frankfurt                34  9 11 14  29-50  38
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.FC Hansa Rostock             34 10  6 18  33-45  36  ‹Relegation Playoff›
+16.FC Hansa Rostock             34 10  6 18  33-45  36  ‹Relegation Playoff, see §2prorel›
 ------------------------------------------------------
 17.TuS Koblenz                  34  7 10 17  35-60  31  Relegated
 18.Rot-Weiss Ahlen              34  5  7 22  19-55  22  Relegated
@@ -1193,7 +1193,7 @@ Final Table:
 NB: Arminia Bielefeld had 4 points deducted at the end of
     the season for infringement of license regulations
 
-**Promotion/Relegation Playoff 2./3. Bundesliga**
+**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
 
 First Leg [May 14]
 Ingolstadt      1-0 Rostock
@@ -1206,7 +1206,7 @@ NB: Ingolstadt promoted, Hansa Rostock relegated
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Bundesliga
+#### 3. Liga  ‹§3bl›
 
 
 Final Table:
@@ -1214,7 +1214,7 @@ Final Table:
  1.VfL Osnabrück                38 20  9  9  55-37  69  Promoted
  2.FC Erzgebirge Aue            38 20  8 10  57-41  68  Promoted
 ------------------------------------------------------
- 3.FC Ingolstadt 04             38 18 10 10  72-46  64  ‹Promotion Playoff›
+ 3.FC Ingolstadt 04             38 18 10 10  72-46  64  ‹Promotion Playoff, see §2prorel›
  - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.Eintracht Braunschweig       38 17 11 10  55-37  62
  5.FC Carl Zeiss Jena           38 16 12 10  54-44  60
@@ -1828,48 +1828,48 @@ Final Table:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2008/09›
+‹2008/09, see page duit09›
 
-‹2010/11›
+‹2010/11, see page duit2011›
 
-‹list of champions›
+‹list of champions, see page duitchamp›
 
-‹all-time table›
+‹all-time table, see page duialltime›
 
-‹list of 2nd level champions›
+‹list of 2nd level champions, see page duit2champ›
 
-‹list of amateur champions›
+‹list of amateur champions, see page duitamachamp›
 
-‹oberliga berlin 1945-1963›
+‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
 
-‹oberliga nord 1945-1963›
+‹oberliga nord 1945-1963, see page duit-ol-nord4563›
 
-‹oberliga süd 1945-1963›
+‹oberliga süd 1945-1963, see page duit-ol-sued4563›
 
-‹oberliga südwest 1945-1963›
+‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
 
-‹oberliga südwest süd 1945-1950›
+‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
 
-‹oberliga west 1945-1963›
+‹oberliga west 1945-1963, see page duit-ol-west4563›
 
-‹regionalliga nord 63-74›
+‹regionalliga nord 63-74, see page dui3nordhist›
 
-‹regionalliga süd 63-74›
+‹regionalliga süd 63-74, see page dui3suedhist›
 
-‹regionalliga west 63-74›
+‹regionalliga west 63-74, see page dui3westhist›
 
-‹list of cup finals›
+‹list of cup finals, see page duitcuphist›
 
-‹list of super and league cup finals›
+‹list of super and league cup finals, see page duitsupcuphist›
 
-‹list of topscorers›
+‹list of topscorers, see page duittops›
 
-‹list of 2nd level topscorers›
+‹list of 2nd level topscorers, see page duit2tops›
 
-‹list of foundation dates›
+‹list of foundation dates, see page duitfound›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 Thanks to Michael van D. for corrections
 
@@ -1880,10 +1880,10 @@ Marcel Haisma for the
 
 Authors: Karel Stokkermans and Marcel Haisma
 
-Last updated: 24 Dec 2012
+Last updated: 2 Aug 2018
 
 
 **(C) Copyright Karel Stokkermans, Marcel Haisma and
-RSSSF 2009/12**
+RSSSF 2009/18**
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

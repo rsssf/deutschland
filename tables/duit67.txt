@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit67.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit67.html
+    -->
+  
 
 
 ## Germany 1966/67
@@ -582,7 +582,7 @@ Eintracht Braunschweig 1966/67
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

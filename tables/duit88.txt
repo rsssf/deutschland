@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit88.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit88.html
+    -->
+  
 
 
 ## Germany 1987/88
@@ -653,7 +653,7 @@ Werder Bremen 1987/88
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

@@ -1,18 +1,14 @@
-<!--
-   source: http://rsssf.com/tablesd/duit04.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit04.html
+    -->
+  
 
 
 ## Germany 2003/04
 
 
 
-
-
-#### 1. Bundesliga
-
-
+1.Bundesliga
 
 Final Table:
 
@@ -54,7 +50,7 @@ Leverkusen  4-1  Freiburg
   1:0 Ponte 17, 1:1 Riether 20, 2:1 Lucio 28, 3:1 Juan 41, 4:1 Neuville 61.
 Hamburg    0-3  Hannover
   0:1 Stajner 10, 0:2 Brdaric 76, 0:3 Idrissou 79.
-SchalkeŽ04  2-2  Dortmund
+Schalke'04  2-2  Dortmund
   1:0-2:0 Altintop 39, 58, 2:1 Conceicao 65, 2-2 Amoroso 90.
 [Aug 3]
 Mönchengladbach  1-0  Köln
@@ -102,7 +98,7 @@ Dortmund        3-1     1860 München
 [Aug 17]
 Wolfsburg       5-1     Hamburg
   0:1 Barbarez 48, 1:1 Klimowicz 50, 2:1 Petrow 60,
-  3:1 Müller 70, 4:1 DŽAlessandro 75, 5:1 Klimowicz 86.
+  3:1 Müller 70, 4:1 D'Alessandro 75, 5:1 Klimowicz 86.
 Schalke         2-1     Köln
   1:0 Agali 42, 1:1 Lottner 51, 2:1 Altintop 90.
 
@@ -271,7 +267,7 @@ Bochum          3-0     Dortmund
 Round 11
 [Nov 1]
 Wolfsburg       3-0     Berlin
-  1:0 DŽAlessandro 24, 2:0-3:0 Klimowicz 47, 71.
+  1:0 D'Alessandro 24, 2:0-3:0 Klimowicz 47, 71.
 Mönchengladbach 1-1     Rostock
   1:0 Sverkos 30, 1:1 Persson 33.
 Stuttgart       4-1     Freiburg
@@ -445,7 +441,7 @@ Frankfurt       1-1     Bayern München
 Stuttgart       2-0     Rostock
   1:0 Hleb 59, 2:0 Kuranyi 75.
 Bremen          4-0     Berlin
-  1:02:0 Ailton 18, 30, 3:0 Micoud 35, 4:0 Valdez 90.
+  1:0–2:0 Ailton 18, 30, 3:0 Micoud 35, 4:0 Valdez 90.
 [Feb 1]
 Freiburg        1-0     Leverkusen
   1:0 Antar 54.
@@ -510,7 +506,7 @@ Kaiserslautern  1-0     Stuttgart
   1:0 Dominguez 4.
 Schalke         0-0     Bremen
 Wolfsburg       3-1     1860 München
-  1:0 Biliskov 9, 2:0 DŽAlessandro 19, 2:1 Weissenberger 21,
+  1:0 Biliskov 9, 2:0 D'Alessandro 19, 2:1 Weissenberger 21,
   3:1 Klimowicz 62.
 Bayern München  1-0     Hamburg
   1:0 Demichelis 87.
@@ -549,7 +545,7 @@ Mönchengladbach 1-0     Hannover
 Kaiserslautern  1-0     Frankfurt
   1:0 Malz 90.
 Schalke         3-0     Freiburg
-  1:02:0 Sand 42, 53, 3:0 Glieder 62.
+  1:0–2:0 Sand 42, 53, 3:0 Glieder 62.
 Dortmund        0-2     Stuttgart
   0:1 Hleb 6, 0:2 Heldt 82pen.
 Leverkusen      1-3     Bayern München
@@ -577,7 +573,7 @@ Bayern München  3-3     Rostock
   1:0 Jeremies 3, 2:0 Makaay 9, 2:1 Max 53, 2:2 Arvidsson 65,
   2:3 Rasmussen 72, 3:3 Makaay 76pen.
 Bremen    3-2     Köln
-  1:0 Micoud 16, 2:03:0 Ailton 37. 43, 3:1 Schröder 57,3:2 Lottner 71.
+  1:0 Micoud 16, 2:0–3:0 Ailton 37. 43, 3:1 Schröder 57,3:2 Lottner 71.
 Freiburg  2-2     Dortmund
   1:0 Antar 17, 1:1 Dede 45, 1:2 Hermel 59og, 2:2 Zkitischwili 67pen.
 Frankfurt  3-0     Schalke
@@ -603,7 +599,7 @@ Berlin          1-1     Bayern München
 Mönchengladbach 3-0     Hamburg
   1:0 Strasser 61, 2:0 Sverkos 79, 3:0 Broich 81.
 Kaiserslautern  2-2     Bochum
-  0:1 Hashemian 15, 0:2 Wosz 44, 1:22:2 Lokvenc 55, 64.
+  0:1 Hashemian 15, 0:2 Wosz 44, 1:2–2:2 Lokvenc 55, 64.
 [Mar 21]
 1860 München    1-1     Freiburg
   0:1 Coulibaly 10, 1:1 Agostino 58.
@@ -672,7 +668,7 @@ Frankfurt  0-1     Bremen
 Bochum    4-0     1860 München
   1:0-2:0 Hashemian 26, 40, 3:0 Madsen 61, 4:0 Diabang 81.
 Bayern München  2-1     Schalke
-  0:1 Vermant 4pen, 1:12:1 Makaay 8, 64.
+  0:1 Vermant 4pen, 1:1–2:1 Makaay 8, 64.
 Hamburg    0-2     Dortmund
   0:1 Frings 8, 0:2 Koller 28.
 [Apr 11]
@@ -720,7 +716,7 @@ Hamburg    4-2     Köln
 Leverkusen  3-0     Dortmund
   1:0 Babic 6, 2:0 Franca 22, 3:0 Berbatow 54pen.
 Rostock    3-1     Schalke
-  0:1 Asamoah 10, 1:1 Tjikuzu 35, 2:13:1 Max 62, 68.
+  0:1 Asamoah 10, 1:1 Tjikuzu 35, 2:1–3:1 Max 62, 68.
 [May 25]
 Bochum    0-0     Bremen
 Bayern München  1-0     1860 München
@@ -733,7 +729,7 @@ Köln            1-2     Bayern München
 Dortmund        4-1     Rostock
   1:0 Madouni 11, 2:0 Ewerthon 35, 3:0 Koller 38, 3:1 Max 66, 4:1 Odonkor 75.
 Freiburg        4-1     Hannover
-  1:0 Riether 14, 2:0 Bajramovic 50, 2:1 Brdaric 52, 3:14:1 Iaschwili 69. 78.
+  1:0 Riether 14, 2:0 Bajramovic 50, 2:1 Brdaric 52, 3:1–4:1 Iaschwili 69. 78.
 Kaiserslautern  2-2     Mönchengladbach
   1:0 Altintop 3, 2:0 Christow 47, 2:1 Broich 51, 2:2 Demo 90.
 1860 München    1-1     Leverkusen
@@ -754,7 +750,7 @@ Kaiserslautern  3-2     Wolfsburg
   1:0 Lokvenc 57, 1:1 Klimowicz 65, 1:2 Petrow 66, 2:2 Lokvenc 72,
   3:2 Bjelica 75.
 Hannover        3-0     Frankfurt
-  1:02:0 Brdaric 42, 75, 3:0 Idrissou 89.
+  1:0–2:0 Brdaric 42, 75, 3:0 Idrissou 89.
 Hamburg         2-1     Stuttgart
   1:0 Beinlich 38, 2:0 Hoogma 47, 2:1 Cacau 86.
 Bayern München  1-3     Bremen
@@ -788,7 +784,7 @@ Schalke         4-1     Kaiserslautern
   1:0 Reuter 2og, 2:0 Sand 24, 3:0 Vermant 34pen, 3:1 Altintop 55,
   4:1 Sand 68.
 Stuttgart       3-1     Bayern München
-  1:02:0 Szabics 19, 52, 3:0 Kuranyi 54, 3:1 Pizarro 77.
+  1:0–2:0 Szabics 19, 52, 3:0 Kuranyi 54, 3:1 Pizarro 77.
 Bremen          2-6     Leverkusen
   0:1 Franca 7, 0:2 Bierofka 12, 0:3 Franca 21, 1:3 Krstajic 50,
   2:3 Ailton 53, 2:4 Franca 61, 2:5 Berbatow 65, 2:6 Neuville 80.
@@ -844,11 +840,7 @@ Topscorers:
 
 
 
-
-
-#### DFB Pokal
-
-
+DFB Pokal 2003/04
 
 Round 1
 [Aug 29]
@@ -887,7 +879,7 @@ TSV Gerbrunn          0-14 FC Wacker Burghausen
   [Younga-Mouhani 7, Mokhtari 9, 12, 23, 76, Reisinger 14, 17, 72, 87,
    Frühbeis 38, Grzybowski 60, Rosin 75, 78, Everaldo 90]
 ASV Bergedorf-Lohbrügge        1-6  VfL Wolfsburg
-  [Klein 6; Petrow 31pen, 42, Karhan 64, DŽAlessandro 67pen, Hrgovic 77,
+  [Klein 6; Petrow 31pen, 42, Karhan 64, D'Alessandro 67pen, Hrgovic 77,
    Klimowicz 90]
 TSV Aindling          0-3  FC Schalke 04
   [Sand 12, Trojan 48, Rodriguez 59]
@@ -902,7 +894,7 @@ Eintracht Braunschweig        4-1  1.FC Kaiserslautern
 BSV Schwarz-Weiß Rehden        1-5  TSV 1860 München
   [Plump 88; Pürk 21, Wiesinger 41, Lauth 60, Weissenberger 69, 76]
 1.FC Magdeburg          0-0  MSV Duisburg     [aet, 3-4 pen]
-SSV Velbert          0-0  1.FSV MainzŽ05    [aet, 5-3 pen]
+SSV Velbert          0-0  1.FSV Mainz'05    [aet, 5-3 pen]
 Reinickendorfer Füchse         0-2  1.FC Nürnberg
   [Krzynowek 49, Allenberg 88og]
 SF Siegen          awd  LR Ahlen      [awarded 2-0]
@@ -911,7 +903,7 @@ SF Siegen          awd  LR Ahlen      [awarded 2-0]
 VfL Kirchheim/Teck        0-3  Hannover 96 SC
   [Christiansen 3, 74, Krupnikovic 68]
 VfL Osnabrück          0-0  FC Hansa Rostock    [aet, 4-5 pen]
-FC SchönbergŽ95          0-3  Borussia Mönchengladbach
+FC Schönberg'95          0-3  Borussia Mönchengladbach
   [Van Hout 21, Ulich 52, Demo 86]
 Eintracht Rheine         0-2  VFB Lübeck      [aet]
   [Scharping 92, Zandi 111]
@@ -1039,34 +1031,30 @@ Topscorers:
 
 
 
-
-
-#### 2. Bundesliga
-
-
+2.Bundesliga
 
 Final Table:
 
- 1.1.FC Nürnberg      34 18  7  9  68:45  61 (-) Promoted
- 2.DSC Arminia Bielefeld    34 16  8 10  50:37  56 (-) Promoted
- 3.1.FSV MainzŽ1905      34 13 15  6  49:34  54     Promoted
+ 1.1.FC Nürnberg      34 18  7  9  68:45 – 61 (-) Promoted
+ 2.DSC Arminia Bielefeld    34 16  8 10  50:37 – 56 (-) Promoted
+ 3.1.FSV Mainz'1905      34 13 15  6  49:34 – 54     Promoted
 ----------------------------------------------------------------------
- 4.FC Energie Cottbus      34 15  9 10  52:44  54 (-)
- 5.SC Rot-Weiß Oberhausen    34 15  8 11  52:48  53
- 6.TSV Alemannia Aachen      34 15  8 11  51:51  53
- 7.MSV Duisburg        34 13  9 12  52:46  48
- 8.FC Erzgebirge Aue      34 12 12 10  47:45  48 (+)
- 9.SpVgg Greuther Fürth      34 11 12 11  58:51  45
-10.FC Wacker Burghausen      34 12  9 13  40:39  45
-11.SV Eintracht Trier      34 12  9 13  46:51  45
-12.LR Ahlen        34 12  8 14  36:45  44
-13.SpVgg Unterhaching       34 11 10 13  41:46  43 (+)
-14.Karlsruher SC      34 11 10 13  38:44  43
+ 4.FC Energie Cottbus      34 15  9 10  52:44 – 54 (-)
+ 5.SC Rot-Weiß Oberhausen    34 15  8 11  52:48 – 53
+ 6.TSV Alemannia Aachen      34 15  8 11  51:51 – 53
+ 7.MSV Duisburg        34 13  9 12  52:46 – 48
+ 8.FC Erzgebirge Aue      34 12 12 10  47:45 – 48 (+)
+ 9.SpVgg Greuther Fürth      34 11 12 11  58:51 – 45
+10.FC Wacker Burghausen      34 12  9 13  40:39 – 45
+11.SV Eintracht Trier      34 12  9 13  46:51 – 45
+12.LR Ahlen        34 12  8 14  36:45 – 44
+13.SpVgg Unterhaching       34 11 10 13  41:46 – 43 (+)
+14.Karlsruher SC      34 11 10 13  38:44 – 43
 ----------------------------------------------------------------------
-15.VFB Lübeck        34  9 12 13  47:57  39
-16.SSV Jahn Regensburg      34  9 12 13  37:51  39 (+)
-17.1.FC Union Berlin      34  8  9 17  43:53  33
-18.VFL Osnabrück      34  7  7 20  35:55  28 (+)
+15.VFB Lübeck        34  9 12 13  47:57 – 39
+16.SSV Jahn Regensburg      34  9 12 13  37:51 – 39 (+)
+17.1.FC Union Berlin      34  8  9 17  43:53 – 33
+18.VFL Osnabrück      34  7  7 20  35:55 – 28 (+)
 
 Round 1
 [Aug 3]
@@ -1098,7 +1086,7 @@ Round 2
 [Aug 8]
 Lübeck      -  Bielefeld      0-0
 Trier      -  Aue        2-1
-  1:0  2:0 Winkler 20.-33, 2:1 Schubitidse 50.
+  1:0 – 2:0 Winkler 20.-33, 2:1 Schubitidse 50.
 Regensburg    -  Fürth        0-0
 [Aug 10]
 Osnabrück    -  Karlsruhe      1-2
@@ -1110,7 +1098,7 @@ Berlin      -  Cottbus        0-1
 Unterhaching    -       Duisburg      1-0
   1:0 Sukalo 85.
 Oberhausen    -  Ahlen        1-3
-  1:0 Simioni 7, 1:1 Bamba 62, 1:2 NŽDiaye 81,
+  1:0 Simioni 7, 1:1 Bamba 62, 1:2 N'Diaye 81,
   1:3 Sopic 90.
 [Aug 11]
 Aachen      -  Mainz        2-2
@@ -1124,13 +1112,13 @@ Aue      -  Berlin        2-1
 Karlsruhe    -  Oberhausen      1-2
   0:1 Welitschkow 9, 0:2 Aliaj 29, 1:2 Trares 47.
 Lübeck      -  Unterhaching      0-2
-  0:1  0:2 Copado 58.-90.
+  0:1 – 0:2 Copado 58.-90.
 [Aug 17]
 Fürth      -  Trier        4-2
   1:0 Trakys 15, 2:0 Ruman 32, 2:1 Keller 41,
-  3:1  4:1 Kümmerle 55.-70, 4:2 Patschinski 89.
+  3:1 – 4:1 Kümmerle 55.-70, 4:2 Patschinski 89.
 Bielefeld    -  Ahlen        3-0
-  1:0  2:0 Vata 35.-40, 3:0 Radovic 84.
+  1:0 – 2:0 Vata 35.-40, 3:0 Radovic 84.
 Cottbus      -  Aachen        3-1
   1:0 Blank (og) 7, 2:0 Iordache 62,
   2:1 Brinkmann 64, 3:1 Iordache 77.
@@ -1160,7 +1148,7 @@ Osnabrück    -  Mainz        2-2
 Aachen      -  Aue        1-0
   1:0 Kontiris 12.
 Berlin      -  Fürth        3-0
-  1:0  2:0  3:0 Keita 24.-71.-76.
+  1:0 – 2:0 – 3:0 Keita 24.-71.-76.
 Unterhaching    -  Bielefeld      1-0
   1:0 Copado 18.
 Oberhausen    -  Burghausen      1-2
@@ -1181,8 +1169,8 @@ Duisburg    -  Berlin        1-0
 [Sep 14]
 Fürth      -  Aachen        7-1
   1:0 Feinbier 6, 2:0 Ruman 10, 2:1 Meijer 17,
-  3:1 Feinbier 34, 4:1  5:1 Ruman 40.-60,
-  6:1  7:1 Eigler 73.-89.
+  3:1 Feinbier 34, 4:1 – 5:1 Ruman 40.-60,
+  6:1 – 7:1 Eigler 73.-89.
 Aue      -  Nürnberg      3-3
   0:1 Nikl 10, 0:2 Krzynowek 13, 1:2 Schubitidse 35,
   1:3 Krzynowek 59, 2:3 Curri 73, 3:3 Emmerich (pen) 77.
@@ -1212,7 +1200,7 @@ Regensburg    -  Bielefeld      1-2
 Osnabrück    -  Aue        0-1
   0:1 Toppmöller 79.
 Trier      -  Unterhaching      2-1
-  1:0  2:0 Racanel 31.-64, 2:1 da Costa 85.
+  1:0 – 2:0 Racanel 31.-64, 2:1 da Costa 85.
 Karlsruhe    -  Burghausen      0-0
 Ahlen      -  Mainz        1-3
   0:1 Thurk 36, 0:2 da Silva 83, 1:2 Hillebrand 85,
@@ -1225,7 +1213,7 @@ Nürnberg    -  Fürth        1-1
 Round 7
 [Sep 26]
 Cottbus      -  Ahlen        3-2
-  1:0  2:0 da Silva 40.-44, 2:1 Rath 67,
+  1:0 – 2:0 da Silva 40.-44, 2:1 Rath 67,
   3:1 Iordache 82, 3:2 Rath 89.
 Unterhaching    -  Berlin        1-1
   1:0 Copado 42, 1:1 Baumgart 48.
@@ -1303,8 +1291,8 @@ Unterhaching    -  Nürnberg      1-1
 Round 10
 [Oct 24]
 Nürnberg    -  Regensburg      3-2
-  1:0 Kukielka 34, 2:0  3:0 Ciric 35.-58,
-  3:1  3:2 Paulinho 78.-84.
+  1:0 Kukielka 34, 2:0 – 3:0 Ciric 35.-58,
+  3:1 – 3:2 Paulinho 78.-84.
 Burghausen    -  Aue        2-0
   1:0 Reisinger 56, 2:0 Örüm (pen) 83.
 Oberhausen    -  Lübeck        3-3
@@ -1320,7 +1308,7 @@ Berlin      -  Bielefeld      1-0
 Karlsruhe    -  Fürth        1-0
   1:0 Eggimann 90.
 Ahlen      -       Duisburg      2-3
-  1:0 NŽDiaye 4, 2:0 Cisse 62, 2:1 Bugera 74,
+  1:0 N'Diaye 4, 2:0 Cisse 62, 2:1 Bugera 74,
   2:2 Drsek 77, 2:3 Ahanfouf 90.
 [Oct 27]
 Mainz      -  Cottbus        4-1
@@ -1335,14 +1323,14 @@ Bielefeld    -  Cottbus        1-3
 Aue      -  Mainz        1-1
   1:0 Schubitidse 36, 1:1 Kramny 51.
 Lübeck      -  Ahlen        4-1
-  1:0  2:0 Scharping 25.-44, 2:1 Sopic 52,
-  3:1  4:1 Zandi 65.-73.
+  1:0 – 2:0 Scharping 25.-44, 2:1 Sopic 52,
+  3:1 – 4:1 Zandi 65.-73.
 [Nov 2]
 Fürth      -  Burghausen      2-2
   1:0 Feinbier 30, 1:1 Mokhtari 45,
   1:2 Younga-Mouhani 57, 2:2 Ruman 72.
 Trier      -  Nürnberg      0-2
-  0:1  0:2 Krzynowek 64.-90.
+  0:1 – 0:2 Krzynowek 64.-90.
 Regensburg    -  Osnabrück      1-0
   1:0 Kitzer 66.
 Unterhaching    -  Oberhausen      1-4
@@ -1357,7 +1345,7 @@ Berlin      -  Aachen        2-1
 Round 12
 [Nov 7]
 Osnabrück    -  Trier        3-0
-  1:0 Claaßen 22, 2:0  3:0 Schied 52.-74.
+  1:0 Claaßen 22, 2:0 – 3:0 Schied 52.-74.
 Mainz      -  Fürth        1-3
   1:0 Kramny 2, 1:1 Ruman 21, 1:2 Burkhardt 74,
   1:3 Ruman 90.
@@ -1373,10 +1361,10 @@ Burghausen    -       Duisburg      1-2
 Karlsruhe    -  Lübeck        1-0
   1:0 Casey 34.
 Ahlen      -  Unterhaching      2-2
-  0:1  0:2 Copado 46.-66, 1:2 Bella 77, 2:2 Sopic 81.
+  0:1 – 0:2 Copado 46.-66, 1:2 Bella 77, 2:2 Sopic 81.
 [Nov 10]
 Cottbus      -  Aue        2-1
-  0:1 Curri 31, 1:1  2:1 Reghecampf 60.-85.
+  0:1 Curri 31, 1:1 – 2:1 Reghecampf 60.-85.
 
 Round 13
 [Nov 21]
@@ -1412,7 +1400,7 @@ Osnabrück    -  Aachen        3-1
   1:0 Menga 30, 2:0 Schied 48, 3:0 Menga 58,
   3:1 Blank 85.
 Karlsruhe    -  Regensburg      0-3
-  0:1  0:2 Hutwelker 5.-50, 0:3 Straube 78.
+  0:1 – 0:2 Hutwelker 5.-50, 0:3 Straube 78.
 Cottbus      -       Duisburg      1-1
   1:0 Latoundji 52, 1:1 Bugera (pen) 67.
 [Nov 30]
@@ -1424,7 +1412,7 @@ Burghausen    -  Unterhaching      0-2
 Aue      -  Fürth        1-1
   0:1 Feinbier 21, 1:1 Schubitidse 39.
 Ahlen      -  Trier        2-0
-  1:0 Sopic 68, 2:0 NŽDiaye 78.
+  1:0 Sopic 68, 2:0 N'Diaye 78.
 Oberhausen    -  Berlin        0-0
 [Dec 1]
 Nürnberg    -  Bielefeld      1-0
@@ -1435,7 +1423,7 @@ Round 15
 Trier      -  Karlsruhe      1-1
   0:1 Casey 61, 1:1 Racanel 82.
 Regensburg    -  Burghausen      0-2
-  0:1  0:2 Reisinger 27.-68.
+  0:1 – 0:2 Reisinger 27.-68.
 Duisburg    -  Aue        2-2
   1:0 Spizak 3, 1:1 Heidrich 25,
   2:1 Grujew (pen) 33, 2:2 Grund (pen) 90.
@@ -1457,10 +1445,10 @@ Unterhaching    -  Mainz        1-1
 Round 16
 [Dec 12]
 Bielefeld    -  Osnabrück      5-0
-  1:0  2:0  3:0  4:0 Küntzel 27.-29.-41.-55,
+  1:0 – 2:0 – 3:0 – 4:0 Küntzel 27.-29.-41.-55,
   4:1 Vata 65.
 Fürth      -       Duisburg      3-3
-  0:1 Ahanfouf 13, 0:2 Drsek 23, 1:2  2:2 Ruman 30.-42,
+  0:1 Ahanfouf 13, 0:2 Drsek 23, 1:2 – 2:2 Ruman 30.-42,
   2:3 Ahanfou 48, 3:3 Ruman 69.
 Ahlen      -  Aachen        0-0
 Oberhausen    -  Nürnberg      3-1
@@ -1485,7 +1473,7 @@ Duisburg    -  Bielefeld      0-2
 Osnabrück    -  Oberhausen      0-2
   0:1 Aliaj 45, 0:2 Ouedraogo 72.
 Nürnberg    -  Ahlen        2-0
-  1:0  2:0 Mintal 11.-62.
+  1:0 – 2:0 Mintal 11.-62.
 [Dec 17]
 Aachen      -  Karlsruhe      0-0
 Berlin      -  Burghausen      1-2
@@ -1502,7 +1490,7 @@ Regensburg    -  Cottbus        0-0
 Round 18
 [Jan 31]
 Unterhaching    -  Fürth        3-1
-  1:0 Copado 2, 1:1 Burkhardt 32, 2:1  3:1 Copado 67.-90.
+  1:0 Copado 2, 1:1 Burkhardt 32, 2:1 – 3:1 Copado 67.-90.
 Aachen      -  Burghausen      0-1
   0:1 Zikovic 25.
 [Feb 1]
@@ -1513,7 +1501,7 @@ Trier      -  Cottbus        2-0
 Union Berlin    -  Mainz        1-1
   1:0 Bruns 7, 1:1 Claudius Weber 82.
 Nürnberg    -  Karlsruhe      2-0
-  1:0  2:0 Mintal 10.-25.
+  1:0 – 2:0 Mintal 10.-25.
 Osnabrück    -  Ahlen        1-2
   0:1 Sopic 33, 1:1 Lenze 44, 1:2 Bamba 84.
 Oberhausen    -  Bielefeld      3-2
@@ -1577,7 +1565,7 @@ Round 21
 [Feb 20]
 Mainz      -  Osnabrück      0-0
 Cottbus      -  Nürnberg      1-3
-  0:1  0:2 Mintal 4.-13, 1:2 Berhalter 20,
+  0:1 – 0:2 Mintal 4.-13, 1:2 Berhalter 20,
   1:3 Ciric 90.
 Duisburg    -  Trier        2-0
   1:0 Baelum 25, 2:0 Bugera (pen) 51.
@@ -1601,7 +1589,7 @@ Bielefeld    -  Unterhaching      1-0
 Round 22
 [Feb 27]
 Karlsruhe    -  Bielefeld      2-2
-  0:1 Boakye 11, 1:1  2:1 Casey 68.-75, 2:2 Radovic 81.
+  0:1 Boakye 11, 1:1 – 2:1 Casey 68.-75, 2:2 Radovic 81.
 Aachen      -  Fürth        0-0
 Nürnberg    -  Aue        2-0
   1:0 Mintal 7, 2:0 Stehle 32.
@@ -1661,7 +1649,7 @@ Osnabrück    -  Fürth        0-1
   0:1 Heller 18.
 Oberhausen    -  Aue        1-4
   0:1 Juskowiak 9, 1:1 Radulovic 25, 1:2 Juskowiak 50,
-  1:3  1:4 Curri 78.- 80.
+  1:3 – 1:4 Curri 78.- 80.
 Union Berlin    -  Unterhaching      0-0
 Nürnberg    -       Duisburg      2-0
   1:0 Mintal 15, 2:0 Ciric 66.
@@ -1685,7 +1673,7 @@ Regensburg    -  Union Berlin      3-1
   1:0 Stieglmair 14, 2:0 Keuler 20,
   3:0 Kolomaznik 31, 3:1 Baumgart 48.
 Bielefeld    -  Trier        3-1
-  1:0  2:0 Vata 2.- 19, 2:1 Koch (pen) 30,
+  1:0 – 2:0 Vata 2.- 19, 2:1 Koch (pen) 30,
   3:1 Porcello 78.
 Mainz      -  Burghausen      1-0
   1:0 N.Weiland 48.
@@ -1703,17 +1691,17 @@ Osnabrück    -  Lübeck        3-1
   0:1 Thorwart 4, 1:1 Schied 13, 2:1 Lenze 34,
   3:1 Ferenczi 59.
 Oberhausen    -       Duisburg      0-3
-  0:1 Ahanfouf 34, 0:2  0:3 Kurth 57.- 84.
+  0:1 Ahanfouf 34, 0:2 – 0:3 Kurth 57.- 84.
 [Mar 28]
 Ahlen      -  Fürth        3-2
   1:0 Chiquinho 12, 1:1 Feinbier 54, 1:2 Ruman 63,
-  2:2 NŽDiaye 66, 3:2 Bencik 80.
+  2:2 N'Diaye 66, 3:2 Bencik 80.
 Karlsruhe    -  Aue        3-5
   0:1 Juskowiak 5, 0:2 Heinrich 11, 0:3 Juskowiak 13,
   0:4 Noveski 19, 1:4 Casey 21, 2:4 Ouakili 59,
   3:4 Casey 73, 3:5 Jank 82.
 Union Berlin    -  Trier        1-3
-  1:0 Baumgart 8, 1:1  1:2 Patschinski 65.- 79,
+  1:0 Baumgart 8, 1:1 – 1:2 Patschinski 65.- 79,
   1:3 Pekovic 86.
 Aachen      -  Regensburg      1-0
   1:0 Meijer 75.
@@ -1797,7 +1785,7 @@ Duisburg    -  Burghausen      1-0
 Unterhaching    -  Ahlen        0-0
 [Apr 19]
 Bielefeld    -  Aachen        3-0
-  1:0  2:0 Boakye 30.- 48, 3:0 Sinisterra 68.
+  1:0 – 2:0 Boakye 30.- 48, 3:0 Sinisterra 68.
 
 Round 30
 [Apr 23]
@@ -1818,7 +1806,7 @@ Cottbus      -  Fürth        4-2
 Oberhausen    -  Trier        1-2
   1:0 Astorga 18, 1:1 Racanel 45, 1:2 M.Keller 85.
 Ahlen      -  Regensburg      3-1
-  0:1 Kolomaznik 36, 1:1  2:1 Felgenhauer 50.-67.
+  0:1 Kolomaznik 36, 1:1 – 2:1 Felgenhauer 50.-67.
   3:1 Bamba 69.
 Karlsruhe    -  Unterhaching      0-1
   0:1 Lechleiter 68.
@@ -1868,7 +1856,7 @@ Mainz      -  Unterhaching      2-0
   1:0 Thurk 4, 2:0 Babatz (pen) 29.
 [May 9]
 Fürth      -  Bielefeld      1-2
-  0:1  0:2 Dammeier 25.- 29, 1:2 Ruman 65.
+  0:1 – 0:2 Dammeier 25.- 29, 1:2 Ruman 65.
 Ahlen      -  Union Berlin      1-0
   1:0 Paulinho 79.
 Karlsruhe    -  Trier        0-1
@@ -1897,14 +1885,14 @@ Union Berlin    -  Karlsruhe      2-2
   1:0 Baumgart 12, 1:1 Saenko 22, 2:1 Sobotzik 31,
   2:2 Trares 85.
 Aachen      -  Ahlen        1-1
-  0:1 NŽDiaye 35, 1:1 Salou 68.
+  0:1 N'Diaye 35, 1:1 Salou 68.
 Nürnberg    -  Oberhausen      1-3
   0:1 Tokody 31, 1:1 Krzynowek 60,
   1:2 Radulovic 75, 1:3 Simioni 90.
 
 Round 34 [May 23]
 Oberhausen    -  Osnabrück      3-2
-  1:0 Rietpietsch 23, 1:1  1:2 Schütte 34.- 38,
+  1:0 Rietpietsch 23, 1:1 – 1:2 Schütte 34.- 38,
   2:2 Aliaj 50, 3:2 Simioni 78.
 Ahlen      -  Nürnberg      2-0
   1:0 Sopic 7, 2:0 Bencik 12.
@@ -1916,7 +1904,7 @@ Burghausen    -  Union Berlin      3-1
 Mainz      -  Trier        3-0
   1:0 Thurk 23, 2:0 Friedrich 66, 3:0 Thurk 67.
 Cottbus      -  Regensburg      3-0
-  1:0 Reghecampf 36, 2:0  3:0 Iordache 85.- 89.
+  1:0 Reghecampf 36, 2:0 – 3:0 Iordache 85.- 89.
 Aue      -  Unterhaching      3-3
   0:1 Sukalo 2, 1:1 Juskowiak 19, 1:2 Sukalo 19,
   2:2 Kurth 27, 2:3 Grassow 39, 3:3 Juskowiak 58.
@@ -1928,26 +1916,26 @@ Bielefeld    -       Duisburg      1-3
 
 Final Table:
 
- 1.1.FC Nürnberg      34 18  7  9  68:45  61 (-) Promoted
- 2.DSC Arminia Bielefeld    34 16  8 10  50:37  56 (-) Promoted
- 3.1.FSV MainzŽ1905      34 13 15  6  49:34  54     Promoted
+ 1.1.FC Nürnberg      34 18  7  9  68:45 – 61 (-) Promoted
+ 2.DSC Arminia Bielefeld    34 16  8 10  50:37 – 56 (-) Promoted
+ 3.1.FSV Mainz'1905      34 13 15  6  49:34 – 54     Promoted
 ----------------------------------------------------------------------
- 4.FC Energie Cottbus      34 15  9 10  52:44  54 (-)
- 5.SC Rot-Weiß Oberhausen    34 15  8 11  52:48  53
- 6.TSV Alemannia Aachen      34 15  8 11  51:51  53
- 7.MSV Duisburg        34 13  9 12  52:46  48
- 8.FC Erzgebirge Aue      34 12 12 10  47:45  48 (+)
- 9.SpVgg Greuther Fürth      34 11 12 11  58:51  45
-10.FC Wacker Burghausen      34 12  9 13  40:39  45
-11.SV Eintracht Trier      34 12  9 13  46:51  45
-12.LR Ahlen        34 12  8 14  36:45  44
-13.SpVgg Unterhaching       34 11 10 13  41:46  43 (+)
-14.Karlsruher SC      34 11 10 13  38:44  43
+ 4.FC Energie Cottbus      34 15  9 10  52:44 – 54 (-)
+ 5.SC Rot-Weiß Oberhausen    34 15  8 11  52:48 – 53
+ 6.TSV Alemannia Aachen      34 15  8 11  51:51 – 53
+ 7.MSV Duisburg        34 13  9 12  52:46 – 48
+ 8.FC Erzgebirge Aue      34 12 12 10  47:45 – 48 (+)
+ 9.SpVgg Greuther Fürth      34 11 12 11  58:51 – 45
+10.FC Wacker Burghausen      34 12  9 13  40:39 – 45
+11.SV Eintracht Trier      34 12  9 13  46:51 – 45
+12.LR Ahlen        34 12  8 14  36:45 – 44
+13.SpVgg Unterhaching       34 11 10 13  41:46 – 43 (+)
+14.Karlsruher SC      34 11 10 13  38:44 – 43
 ----------------------------------------------------------------------
-15.VFB Lübeck        34  9 12 13  47:57  39
-16.SSV Jahn Regensburg      34  9 12 13  37:51  39 (+)
-17.1.FC Union Berlin      34  8  9 17  43:53  33
-18.VFL Osnabrück      34  7  7 20  35:55  28 (+)
+15.VFB Lübeck        34  9 12 13  47:57 – 39
+16.SSV Jahn Regensburg      34  9 12 13  37:51 – 39 (+)
+17.1.FC Union Berlin      34  8  9 17  43:53 – 33
+18.VFL Osnabrück      34  7  7 20  35:55 – 28 (+)
 
 
 Top Scorers:  1.MINTAL Marek      (Nürnberg)  18
@@ -1976,7 +1964,7 @@ Dortmund Amateure  -  Paderborn      0-1
 Wattenscheid    -  Sankt Pauli      1-1
   1:0 Katriniok 83, 1:1 Hanke 90.
 02.08.03
-Münster      -  SchalkeŽ04 Amateure    1-3
+Münster      -  Schalke'04 Amateure    1-3
   0:1 Büskens 24, 0:2 Iyodo 60, 0:3 Lamotte 73, 1:3 Fiore 86.
 Uerdingen    -  Wuppertal      0-3
   0:1 Kohout 66, 0:2 Bayertz 71, 0:3 Ebersbach 79.
@@ -1999,7 +1987,7 @@ Chemnitz    -  Köln Amateure      0-0
 Essen      -  Bremen Amateure     1-1
   1:0 Wolf 15, 1:1 Schierenbeck 85.
 Kiel      -  Neumünster      4-0
-  1:0  2:0 Teixeira 15.-55, 3:0 Schiersand 64,
+  1:0 – 2:0 Teixeira 15.-55, 3:0 Schiersand 64,
   4:0 Wojcik 72.
 Hamburg Amateure  -  Uerdingen      0-2
   0:1 Nouri 7, 0:2 Feldhoff (pen) 63.
@@ -2010,7 +1998,7 @@ Dresden      -  Wattenscheid      4-2
   2:2 Homola 64, 3:2 Jovanovic 65, 4:2 Neubert 72.
 Paderborn    -  Leipzig        2-1
   1:0 Gerov 78, 2:0 Dobry 85, 2:1 Koslov 90.
-SchalkeŽ04 Amateure  -       Dortmund Amateure    0-2
+Schalke'04 Amateure  -       Dortmund Amateure    0-2
   0:1 Heimeroth (og) 19, 0:2 Gambino 61.
 
 Round 3
@@ -2023,13 +2011,13 @@ Braunschweig    -  Hamburg Amateure    5-2
 Münster      -       Dortmund Amateure    0-2
   0:1 Bugri 69, 0:2 Gambino 89.
 Uerdingen    -  Kiel        3-3
-  0:1  0:2 Teixeira 9.-40, 1:2 Feldhoff (pen) 68,
+  0:1 – 0:2 Teixeira 9.-40, 1:2 Feldhoff (pen) 68,
   2:2 Reichenberger 77, 2:3 Evers (og) 82,
   3:3 Feldhoff (pen) 90.
 Bremen Amateure    -  Chemnitz      0-0
 Köln Amateure    -  Paderborn      0-1
   0:1 Dobry 79.
-Leipzig      -  SchalkeŽ04 Amateure    0-2
+Leipzig      -  Schalke'04 Amateure    0-2
   0:1 Delura 53, 0:2 Iyodo 89.
 Wattenscheid    -  Wuppertal      0-2
   0:1 Gensler 39, 0:2 Kohout 50.
@@ -2037,7 +2025,7 @@ Neumünster    -  Essen        0-3
   0:1 Wolf 1, 0:2 Goldbaek 17, 0:3 Lintjens 38.
 17.08.03
 Sankt Pauli    -       Dresden        2-2
-  1:0  2:0 Agu 20.-36, 2:1 Brückner (og) 70,
+  1:0 – 2:0 Agu 20.-36, 2:1 Brückner (og) 70,
   2:2 Fröhlich 84.
 
 Round 4
@@ -2054,7 +2042,7 @@ Kiel      -  Braunschweig      0-1
   0:1 Graf 20.
 Hamburg Amateure  -  Wattenscheid      2-3
   1:0 Moheit 12, 1:1 Katriniok 34, 2:1 Steegmann 78,
-  2:2  2:3 Löbe 84.-89.
+  2:2 – 2:3 Löbe 84.-89.
 Wuppertal    -  Sankt Pauli      3-0
   1:0 Narewsky 24, 2:0 Ebersbach (pen) 27,
   3:0 Narewsky 88.
@@ -2063,7 +2051,7 @@ Dortmund Amateure  -  Leipzig        4-4
   1:0 Hoffmann 9, 1:1 Müller 10, 1:2 Koslov 40, 2:2 Odonkor 62,
   2:3 Cramer 66, 3:3 Gambino 75, 3:4 Geißler 78, 4:4 Sirin 93.
 24.08.03
-SchalkeŽ04 Amateure  -  Köln Amateure      5-2
+Schalke'04 Amateure  -  Köln Amateure      5-2
   1:0 Büskens 1, 2:0 Iyodo 5, 2:1 Celikovic 53, 3:1 Petereit 67,
   4:1 Iyodo 68, 5:1 Delura 71, 5:2 Sinkala 79.
 
@@ -2075,10 +2063,10 @@ Sankt Pauli    -  Hamburg Amateure    3-0
 Braunschweig    -  Essen        1-0
   1:0 Jansen 68.
 Wattenscheid    -  Kiel        4-2
-  1:0  2:0 Katriniok 6.-26, 3:0 Löbe 29,
+  1:0 – 2:0 Katriniok 6.-26, 3:0 Löbe 29,
   3:1 Schiersand (pen) 36, 4:1 Witeczek 45, 4:2 Wojcik 71.
 29.08.03
-Bremen Amateure    -  SchalkeŽ04 Amateure    3-1
+Bremen Amateure    -  Schalke'04 Amateure    3-1
   0:1 Iyodo 32, 1:1 Kuru 43, 2:1 Lenze 47,
   3:1 Schierenbeck 78.
 30.08.03
@@ -2094,7 +2082,7 @@ Köln Amateure    -       Dortmund Amateure    2-2
   2:2 Celikovic (pen) 59.
 10.09.03
 Dresden      -  Wuppertal      3-0
-  1:0  2:0 Neubert 46.-66, 3:0 Scholze 90.
+  1:0 – 2:0 Neubert 46.-66, 3:0 Scholze 90.
 
 Round 6
 06.09.03
@@ -2106,12 +2094,12 @@ Kiel      -  Sankt Pauli      0-5
 Wuppertal    -  Münster        2-1
   0:1 Antwerpen 69, 1:1 Ebersbach 75, 2:1 Ebersbach (pen) 89.
 07.09.03
-SchalkeŽ04 Amateure  -  Neumünster      1-1
+Schalke'04 Amateure  -  Neumünster      1-1
   0:1 Zoric 30, 1:1 Adamu 80.
 Chemnitz    -  Braunschweig      0-2
   0:1 Adrion 16, 0:2 Grimm 45.
 Essen      -  Wattenscheid      4-2
-  1:0 Yildirim 6, 2:0  3:0 Lintjens 13.-43, 3:1 Löbe 57,
+  1:0 Yildirim 6, 2:0 – 3:0 Lintjens 13.-43, 3:1 Löbe 57,
   4:1 Koen (pen) 79, 4:2 Katriniok 82.
 Hamburg Amateure  -       Dresden        1-1
   1:0 Steegmann 65, 1:1 Beuchel 74.
@@ -2127,8 +2115,8 @@ Wattenscheid    -  Chemnitz      1-2
 13.09.03
 Braunschweig    -  Paderborn      2-0
   1:0 Graf 2, 2:0 Rische 77.
-Uerdingen    -  SchalkeŽ04 Amateure    4-1
-  1:0  2:0 Feldhoff 10.-21, 2:1 Hanke 24,
+Uerdingen    -  Schalke'04 Amateure    4-1
+  1:0 – 2:0 Feldhoff 10.-21, 2:1 Hanke 24,
   3:1 Oezkaya 54, 4:1 Reichenberger 81.
 Neumünster    -       Dortmund Amateure    1-2
   1:0 Bagemiel 16, 1:1 Sirin 84, 1:2 Aledrissi 90.
@@ -2152,7 +2140,7 @@ Köln Amateure    -  Bremen Amateure      2-0
 Essen      -       Dresden        2-0
   1:0 Beuchel (og) 29, 2:0 Wedau 45.
 20.09.03
-SchalkeŽ04 Amateure  -  Braunschweig      3-1
+Schalke'04 Amateure  -  Braunschweig      3-1
   1:0 Iyodo 27, 1:1 Rische 41, 2:1 Trojan 51, 3:1 Pinto 90.
 Chemnitz    -  Sankt Pauli      1-2
   0:1 Bounoua 38, 1:1 Rolleder 52, 1:2 Gibbs 53.
@@ -2166,7 +2154,7 @@ Paderborn    -  Wattenscheid      3-2
   0:1 Katriniok 14, 1:1 Gerov (pen) 17, 1:2 Homola 30,
   2:2 Cartus 69, 3:2 Grauer (og) 75.
 Leipzig      -  Neumünster      3-1
-  0:1 Beck 1, 1:1  2:1 Zimmermann 12.-26, 3:1 Geißler 82.
+  0:1 Beck 1, 1:1 – 2:1 Zimmermann 12.-26, 3:1 Geißler 82.
 
 Round 9
 26.09.03
@@ -2175,7 +2163,7 @@ Braunschweig    -       Dortmund Amateure    0-1
 Wuppertal    -  Essen        2-0
   1:0 Bayertz 47, 2:0 Tavarez 83.
 27.09.03
-Wattenscheid    -  SchalkeŽ04 Amateure    1-4
+Wattenscheid    -  Schalke'04 Amateure    1-4
   0:1 Trojan 9, 0:2 Stijepic 10, 1:2 Löbe 52,
   1:3 Iyodo 86, 1:4 Büskens 89.
 Uerdingen    -  Leipzig        2-1
@@ -2214,7 +2202,7 @@ Paderborn    -       Dresden        1-1
 Chemnitz    -  Wuppertal      1-2
   1:0 Rolleder 36, 1:1 Klemmer 87, 1:2 Ebersbach 90.
 15.10.03
-SchalkeŽ04 Amateure  -  Sankt Pauli      1-2
+Schalke'04 Amateure  -  Sankt Pauli      1-2
   0:1 Bounoua 33, 0:2 Bounoua (pen) 66, 1:2 Holtheuer 72.
 
 Round 11
@@ -2223,7 +2211,7 @@ Sankt Pauli    -       Dortmund Amateure    1-1
   0:1 Odonkor 34, 1:1 Agu 55.
 Braunschweig    -  Köln Amateure      2-3
   1:0 Rische 12, 1:1 Frederico 34, 2:1 Jansen 67,
-  2:2  2:3 Kennedy 72.-73.
+  2:2 – 2:3 Kennedy 72.-73.
 11.10.03
 Wattenscheid    -  Leipzig        2-3
   0:1 Kujat 4, 1:1 Löbe 40, 1:2 Koslov 75,
@@ -2240,12 +2228,12 @@ Kiel      -  Essen        4-3
 12.10.03
 Hamburg Amateure  -  Chemnitz      1-0
   1:0 Steegmann 17.
-Dresden      -  SchalkeŽ04 Amateure    2-1
-  0:1 Pander 41, 1:1  2:1 Jovanovic 61.-90.
+Dresden      -  Schalke'04 Amateure    2-1
+  0:1 Pander 41, 1:1 – 2:1 Jovanovic 61.-90.
 
 Round 12
 18.10.03
-SchalkeŽ04 Amateure  -  Wuppertal      0-2
+Schalke'04 Amateure  -  Wuppertal      0-2
   0:1 Ebersbach 24, 0:2 Tavarez 41.
 Chemnitz    -  Kiel        1-0
   1:0 Schindler 10.
@@ -2269,14 +2257,14 @@ Dortmund Amateure  -       Dresden        1-1
 Round 13
 24.10.03
 Essen      -  Chemnitz      5-0
-  1:0  2:0 Lintjens 2.-27, 3:0 Goldbaek 41,
+  1:0 – 2:0 Lintjens 2.-27, 3:0 Goldbaek 41,
   4:0 Koen 50, 5:0 Köhler 52.
 Wattenscheid    -  Bremen Amateure      1-6
   0:1 Kuru 8, 0:2 Wittke 11, 0:3 Kuru 17, 0:4 Lenze 40,
   1:4 Löbe 51, 1:5 Friedrich 53, 1:6 Kuru 56.
 Sankt Pauli    -  Köln Amateure      4-0
   1:0 Bounoua 25, 2:0 Bounoua (pen) 57,
-  3:0  4:0 Bounoua 64.-76.
+  3:0 – 4:0 Bounoua 64.-76.
 Kiel      -  Paderborn      1-1
   0:1 Gerov (pen) 81, 1:1 Pukaß 81.
 25.10.03
@@ -2289,7 +2277,7 @@ Münster      -  Uerdingen      1-1
 Braunschweig    -  Neumünster      1-1
   0:1 Blank 89, 1:1 Rische 90.
 26.10.03
-Hamburg Amateure  -  SchalkeŽ04 Amateure    3-2
+Hamburg Amateure  -  Schalke'04 Amateure    3-2
   1:0 Steegmann 6, 2:0 Laas 20, 2:1 Vermant (pen) 22,
   2:2 Cziommer 85, 3:2 Baich 90.
 
@@ -2304,13 +2292,13 @@ Neumünster    -  Wattenscheid      0-0
 Bremen Amateure    -  Sankt Pauli      1-0
   1:0 Friedrich 27.
 Leipzig      -  Wuppertal      4-0
-  1:0  2:0 Geißler 15.-56, 3:0 Bergner 73, 4:0 Kujat 90.
-SchalkeŽ04 Amateure  -  Kiel        1-1
+  1:0 – 2:0 Geißler 15.-56, 3:0 Bergner 73, 4:0 Kujat 90.
+Schalke'04 Amateure  -  Kiel        1-1
   0:1 Teixeira 63, 1:1 Büskens 85.
 Uerdingen    -  Braunschweig      3-0
   1:0 Ze Luis 31, 2:0 Reichenberger 68, 3:0 Feldhoff (pen) 78.
 Paderborn    -  Essen        2-1
-  0:1 Koen 34, 1:1  2:1 Gerov 35.-62.
+  0:1 Koen 34, 1:1 – 2:1 Gerov 35.-62.
 02.11.03
 Dortmund Amateure  -  Hamburg Amateure    2-0
   1:0 Reina 37, 2:0 Hoffmann 78.
@@ -2323,7 +2311,7 @@ Sankt Pauli    -  Neumünster      1-1
   0:1 Hey 53, 1:1 Mölzl (pen) 88.
 08.11.03
 Münster      -  Braunschweig      0-2
-  0:1  0:2 Sümnich 42.-90.
+  0:1 – 0:2 Sümnich 42.-90.
 Kiel      -       Dortmund Amateure    3-1
   0:1 Sirin 18, 1:1 Wojcik 39, 2:1 Teixeira 57,
   3:1 Wojcik 76.
@@ -2334,8 +2322,8 @@ Dresden      -  Bremen Amateure      2-0
 Chemnitz    -  Paderborn      1-2
   0:1 Maaß 16, 1:1 Meissner 35, 1:2 Caruts 83.
 09.11.03
-Essen      -  SchalkeŽ04 Amateure    4-0
-  1:0  2:0 Köhler 14.-40, 3:0 Koen 45, 4:0 Goldbaek 85.
+Essen      -  Schalke'04 Amateure    4-0
+  1:0 – 2:0 Köhler 14.-40, 3:0 Koen 45, 4:0 Goldbaek 85.
 Hamburg Amateure  -  Leipzig        1-1
   0:1 Koslov 30, 1:1 Hanke 37.
 
@@ -2357,13 +2345,13 @@ Neumünster    -       Dresden        0-0
 Köln Amateure    -  Hamburg Amateure    0-0
 Leipzig      -  Kiel        1-1
   0:1 Bach 14, 1:1 Hardt 84.
-SchalkeŽ04 Amateure  -  Chemnitz      2-0
+Schalke'04 Amateure  -  Chemnitz      2-0
   1:0 Büskens 58, 2:0 Iyodo 75.
 
 Round 17
 21.11.03
 Essen      -  Leipzig        3-0
-  1:0  2:0  3:0 Köhler 56.-58.-60.
+  1:0 – 2:0 – 3:0 Köhler 56.-58.-60.
 Wattenscheid    -  Münster        1-1
   0:1 Antwerpen 10, 1:1 Katriniok (pen) 25.
 22.11.03
@@ -2381,7 +2369,7 @@ Dresden      -  Uerdingen      1-0
   1:0 Neubert 76.
 Sankt Pauli    -  Braunschweig      1-0
   1:0 Agu 27.
-Paderborn    -  SchalkeŽ04 Amateure    3-1
+Paderborn    -  Schalke'04 Amateure    3-1
   1:0 Gerov (pen) 15, 2:0 Cartus 35,
   2:1 Varela (pen) 52, 3:1 Krösche 75.
 
@@ -2415,7 +2403,7 @@ Round 19
 06.12.03
 Leipzig      -  Paderborn      0-0
 Münster      -  Sankt Pauli      2-0
-  1:0  2:0 Przondziono 59.-68.
+  1:0 – 2:0 Przondziono 59.-68.
 Köln Amateure    -  Chemnitz      1-2
   1:0 Ende 7, 1:1 Prymula 29, 1:2 Arzt 54.
 Neumünster    -  Kiel        1-2
@@ -2432,7 +2420,7 @@ Wattenscheid    -       Dresden        0-1
 10.12.03
 Dortmund Amateure  -  Schalke Amateure    5-0
   1:0 Kehl 11, 2:0 Brzenska 27,
-  3:0  4:0  5:0 Bugri 35.-43.-48.
+  3:0 – 4:0 – 5:0 Bugri 35.-43.-48.
 
 Round 20
 28.02.04
@@ -2476,7 +2464,7 @@ Sankt Pauli    -  Wuppertal      1-2
   0:1 Kohout 33, 1:1 Palikuca 44, 1:2 Gensler 75.
 Münster      -       Dresden        2-2
   1:0 Przondziono 18, 2:0 Bäumer 27,
-  2:1  2:2 Heidrich 66.- 87.
+  2:1 – 2:2 Heidrich 66.- 87.
 07.03.04
 Sachsen Leipzig    -       Dortmund Amateure    0-1
   0:1 Gambino 50.
@@ -2564,7 +2552,7 @@ Sankt Pauli    -  Chemnitz      1-0
   1:0 Boll 75.
 03.04.04
 Braunschweig    -  Schalke Amateure    2-2
-  0:1 Takyi 49, 1:1  2:1 Rische 54.- 74,
+  0:1 Takyi 49, 1:1 – 2:1 Rische 54.- 74,
   2:2 Hajnal 88.
 Dresden      -  Essen        0-0
 Wuppertal    -  Kiel        2-1
@@ -2600,7 +2588,7 @@ Essen      -  Wuppertal      5-2
 Chemnitz    -       Dresden        0-1
   0:1 Fröhlich 45.
 Bremen Amateure    -  Münster        4-3
-  1:0  2:0 Kuru 3.- 29, 2:1 Bäumer 37,
+  1:0 – 2:0 Kuru 3.- 29, 2:1 Bäumer 37,
   2:2 Küsters (pen) 47, 2:3 Schäper 52,
   3:3 Kuru 62, 4:3 Kacan 70.
 11.04.04
@@ -2619,7 +2607,7 @@ Wuppertal    -  Chemnitz      1-2
 Hamburg Amateure  -  Essen        0-4
   0:1 Wedau 6, 0:2 Schoof 43, 0:3 Köhler 59, 0:4 Koen 74.
 Münster     -  Kiel        2-1
-  1:0  2:0 Hauswald 13.- 76, 2:1 Breitenreiter 77.
+  1:0 – 2:0 Hauswald 13.- 76, 2:1 Breitenreiter 77.
 Neumünster    -  Bremen Amateure      1-4
   1:0 Knappmann 14, 1:1 Schierenbeck 28, 1:2 Kacan 54,
   1:3 Drewes (pen) 58, 1:4 Hunt 80.
@@ -2640,7 +2628,7 @@ Schalke Amateure  -       Dresden        2-1
 24.04.04
 Sachsen Leipzig    -  Wattenscheid      2-4
   0:1 Katriniok 12, 1:1 Koslov 18, 1:2 Teichmann 43,
-  1:3  1:4 Löbe 72.- 77, 2:4 Schönberg 90.
+  1:3 – 1:4 Löbe 72.- 77, 2:4 Schönberg 90.
 Köln Amateure    -  Braunschweig      1-1
   0:1 Mazingu 44, 1:1 Celikovic 78.
 Bremen Amateure    -  Uerdingen      0-1
@@ -2662,7 +2650,7 @@ Braunschweig    -  Bremen Amateure      2-1
 Wuppertal    -  Schalke Amateure    1-1
   1:0 Narewsky 37, 1:1 Iyodo 56.
 Kiel      -  Chemnitz      3-0
-  1:0  2:0 Teixeira 13.- 38, 3:0 Wojcik 64.
+  1:0 – 2:0 Teixeira 13.- 38, 3:0 Wojcik 64.
 Münster      -  Essen        1-3
   0:1 Bilgin 21, 1:1 Hauswald 63, 1:2 Koen (pen) 73,
   1:3 Köhler 83.
@@ -2688,7 +2676,7 @@ Bremen Amateure    -  Wattenscheid      4-2
 08.05.04
 Chemnitz    -  Essen        1-4
   0:1 Göhlert (pen) 47, 1:1 Fillinger 52,
-  1:2 Koen 64, 1:3  1:4 Schoof 72.- 82.
+  1:2 Koen 64, 1:3 – 1:4 Schoof 72.- 82.
 Paderborn    -  Kiel        3-1
   1:0 Lorenz 26, 2:0 Dobry 44, 3:0 Krösche 80,
   3:1 Teixeira 87.
@@ -2700,7 +2688,7 @@ Neumünster    -  Braunschweig      2-2
   1:0 Beck (pen) 11, 2:0 Beck (pen) 19,
   2:1 Graf 31, 2:2 Sümnich 48.
 Schalke Amateure  -  Hamburg Amateure    2-3
-  1:0  2:0 Iyodo 36.- 40, 2:1 Sen 45,
+  1:0 – 2:0 Iyodo 36.- 40, 2:1 Sen 45,
   2:2 Haas (pen) 51, 2:3 Mamoum 68.
 Leipzig      -       Dresden        1-3
   0:1 Wagefeld (pen) 32, 0:2 Wagefeld (pen) 51,
@@ -2730,7 +2718,7 @@ Braunschweig    -  Uerdingen      5-1
   1:0 Rische 15, 2:0 Mazingu 17, 2:1 Feldhoff 23,
   3:1 Graf 38, 4:1 Mazingu (pen) 74, 5:1 Jansen 89.
 Dresden      -  Köln Amateure      3-0
-  1:0  2:0 Wagefeld 23.- 39, 3:0 Fröhlich 88.
+  1:0 – 2:0 Wagefeld 23.- 39, 3:0 Fröhlich 88.
 Hamburg Amateure  -       Dortmund Amateure    1-1
   0:1 Akgün 7, 1:1 Laas 23.
 Essen      -  Paderborn      3-1
@@ -2740,7 +2728,7 @@ Essen      -  Paderborn      3-1
 Round 32
 21.05.04
 Bremen Amateure    -       Dresden        0-4
-  0:1 Fröhlich 4, 0:2  0:3 Jovanovic 24.- 48,
+  0:1 Fröhlich 4, 0:2 – 0:3 Jovanovic 24.- 48,
   0:4 Wagefeld (pen) 59.
 22.05.04
 Uerdingen    -  Wattenscheid      0-3
@@ -2753,7 +2741,7 @@ Schalke Amateure  -   Essen        0-7
   0:4 Koen (pen) 60, 0:5 Köhler 70, 0:6 Wedau 78,
   0:7 Yildirim 84.
 Dortmund Amateure  -  Kiel        2-0
-  1:0  2:0 Akgün 36.- 73.
+  1:0 – 2:0 Akgün 36.- 73.
 Leipzig      -  Hamburg Amateure    0-1
   0:1 Baich 53.
 Köln Amateure    -  Wuppertal      4-0
@@ -2769,7 +2757,7 @@ Round 33
 30.05.04
 Chemnitz    -  Schalke Amateure    0-6
   0:1 Iyodo 34, 0:2 Hajnal (pen) 41, 0:3 Takyi 46,
-  0:4  0:5 Hajnal 73.- 79, 0:6 Koch 86.
+  0:4 – 0:5 Hajnal 73.- 79, 0:6 Koch 86.
 Wattenscheid    -  Braunschweig      0-2
   0:1 Bick 63, 0:2 Fuchs 88.
 Sankt Pauli    -  Uerdingen      1-1
@@ -2797,7 +2785,7 @@ Münster      -  Wattenscheid      1-0
 Dortmund Amateure  -  Chemnitz      0-2
   0:1 Meyer 26, 0:2 Fillinger 63.
 Leipzig      -  Essen        0-2
-  0:1  0:2 Bilgin 44.- 65.
+  0:1 – 0:2 Bilgin 44.- 65.
 Köln Amateure    -  Kiel        1-1
   0:1 Nadj 16, 1:1 Ndjeng 19.
 Bremen Amateure    -  Hamburg Amateure    0-2
@@ -2815,26 +2803,26 @@ Schalke Amateure  -  Paderborn      2-4
 
 Final Table:
 
- 1.SC Rot-Weiß Essen      34 23  5  6  77:26  74  Promoted
- 2.1.FC Dynamo Dresden      34 18 11  5  51:26  65  Promoted
+ 1.SC Rot-Weiß Essen      34 23  5  6  77:26 – 74  Promoted
+ 2.1.FC Dynamo Dresden      34 18 11  5  51:26 – 65  Promoted
 ---------------------------------------------------------------
- 3.SC Paderborn        34 17 11  6  56:40  62
- 4.Wuppertaler SV      34 18  8  8  49:37  62 (+)
- 5.SV Werder Bremen Amateure    34 16  7 11  55:44  55
- 6.TSV Eintracht Braunschweig    34 15  7 12  49:42  52 (-)
- 7.KFC Uerdingen       34 13  7 14  46:48  46
- 8.FC Sankt Pauli Hamburg    34 12  8 14  44:40  44 (-)
- 9.Hamburger SV Amateure    34 11 11 12  33:46  44
-10.BV Borussia Dortmund Amateure  34 12  7 15  43:47  43
-11.Chemnitzer FC      34 13  4 17  31:49  43
-12.FC Holstein Kiel      34 11  9 14  52:56  42
-13.SC Preußen Münster      34 10 12 12  40:45  42
-14.1.FC Köln Amateure      34 10 11 13  53:53  41
+ 3.SC Paderborn        34 17 11  6  56:40 – 62
+ 4.Wuppertaler SV      34 18  8  8  49:37 – 62 (+)
+ 5.SV Werder Bremen Amateure    34 16  7 11  55:44 – 55
+ 6.TSV Eintracht Braunschweig    34 15  7 12  49:42 – 52 (-)
+ 7.KFC Uerdingen       34 13  7 14  46:48 – 46
+ 8.FC Sankt Pauli Hamburg    34 12  8 14  44:40 – 44 (-)
+ 9.Hamburger SV Amateure    34 11 11 12  33:46 – 44
+10.BV Borussia Dortmund Amateure  34 12  7 15  43:47 – 43
+11.Chemnitzer FC      34 13  4 17  31:49 – 43
+12.FC Holstein Kiel      34 11  9 14  52:56 – 42
+13.SC Preußen Münster      34 10 12 12  40:45 – 42
+14.1.FC Köln Amateure      34 10 11 13  53:53 – 41
 ---------------------------------------------------------------
-15.SG Wattenscheid                34 11  7 16  51:60  40  Relegated
-16.FC Schalke 04  Amateure    34 10  8 16  54:70  38 (+)  Relegated
-17.FC Sachsen Leipzig      34  4 12 18  34:56  24 (+)  Relegated
-18.VfR Neumünster      34  4 11 19  32:65  23 (+)  Relegated
+15.SG Wattenscheid                34 11  7 16  51:60 – 40  Relegated
+16.FC Schalke 04  Amateure    34 10  8 16  54:70 – 38 (+)  Relegated
+17.FC Sachsen Leipzig      34  4 12 18  34:56 – 24 (+)  Relegated
+18.VfR Neumünster      34  4 11 19  32:65 – 23 (+)  Relegated
 
 Topscorers:
 Feldhoff (Uerdingen) 22
@@ -2881,16 +2869,16 @@ Pfullendorf    -  Eschborn      0-2
 Hoffenheim    -  Elversberg      1-0
   1:0 Maier 63.
 Erfurt      -  Siegen        2-1
-  0:1 Zott 5, 1:1  2:1 Fuchs 30.-62.
+  0:1 Zott 5, 1:1 – 2:1 Fuchs 30.-62.
 09.08.03
 Wehen      -  Stuttgarter Kickers    1-1
   1:0 Ben Neticha 17, 1:1 Braun 54.
 Mainz Amateure    -  Kaiserslautern Amateure   0-2
-  0:1  0:2 Mifsud 72.-76.
+  0:1 – 0:2 Mifsud 72.-76.
 Augsburg    -  Feucht        3-1
   1:0 Papic 4, 2:0 Löring 54, 2:1 Hampl 63, 3:1 Ehlers 72.
 Saarbrücken    -  Aalen        5-1
-  1:0 Thiebaut 34, 1:1 Noll 43, 2:1  3:1 El Idrissi 46.-55,
+  1:0 Thiebaut 34, 1:1 Noll 43, 2:1 – 3:1 El Idrissi 46.-55,
   4:1 Hagner 68, 5:1 Tarillon 83.
 Stuttgart Amateure  -  Offenbach      0-1
   0:1 Licht 58.
@@ -2907,9 +2895,9 @@ Offenbach    -  Mainz Amateure      1-1
 Eschborn    -  Stuttgart Amateure    0-2
   0:1 Dangelmayr 69, 0:2 Handschuh 90.
 Stuttgarter Kickers  -  Erfurt        2-0
-  1:0  2:0 Obinna 55.-74.
+  1:0 – 2:0 Obinna 55.-74.
 Augsburg    -  Hoffenheim      3-0
-  1:0  2:0 Demir 28.-74, 3:0 Damm 86.
+  1:0 – 2:0 Demir 28.-74, 3:0 Damm 86.
 17.08.03
 Kaiserslautern Amateure  -  Wehen        1-2
   0:1 Ben Neticha 42, 1:1 Boskovic 64, 1:2 Ben Neticha 66.
@@ -2922,9 +2910,9 @@ Bayern München Amateure  -  Saarbrücken      1-1
 Round 4
 22.08.03
 Hoffenheim    -  Feucht        2-2
-  0:1  0:2 Hampl 16.-27, 1:2 Möckel 67, 2:2 Sieger 72.
+  0:1 – 0:2 Hampl 16.-27, 1:2 Möckel 67, 2:2 Sieger 72.
 Aalen      -  Bayern München Amateure   1-6
-  0:1 Misimovic 14, 0:2  0:3 Guerrero 28.-29, 0:4 Misimovic 34,
+  0:1 Misimovic 14, 0:2 – 0:3 Guerrero 28.-29, 0:4 Misimovic 34,
   1:4 Demirkiran 48, 1:5 Trochowski 51, 1:6 Feulner 59.
 23.08.03
 Schweinfurt    -  Suttgarter Kickers    1-1
@@ -2965,7 +2953,7 @@ Augsburg    -  Stuttgart Amateure    3-0
   1:0 Coulibaly 6, 2:0 Bick 90, 3:0 Reeb 90.
 03.09.03
 Siegen      -  Aalen        3-2
-  0:1  0:2 Demirkiran 44.-47, 1:2 van Buskirk 81,
+  0:1 – 0:2 Demirkiran 44.-47, 1:2 van Buskirk 81,
   2:2 Kotula 87, 3:2 Bettenstaedt 90.
 Hoffenheim    -  Pfullendorf      2-1
   1:0 Ollhoff 7, 2:0 Müller 26, 2:1 Blessin 63.
@@ -3027,7 +3015,7 @@ Offenbach    -  Saarbrücken      2-3
 Round 8
 20.09.03
 Siegen      -  Stuttgarter Kickers    4-0
-  1:0 van Buskirk 4, 2:0  3:0 Zott 5.-56, 3:0 Bettenstaedt 84.
+  1:0 van Buskirk 4, 2:0 – 3:0 Zott 5.-56, 3:0 Bettenstaedt 84.
 Schweinfurt    -  Elversberg      1-1
   1:0 Lützler 5, 1:1 Donato 36.
 Erfurt      -  Augsburg      1-0
@@ -3045,7 +3033,7 @@ Saarbrücken    -  Eschborn      3-0
 Stuttgart Amateure  -  Feucht        2-1
   1:0 Famewo 28, 1:1 Rosenwirth 34, 2:1 Müller 68.
 Bayern München Amateure  -  Kaiserslautern Amateure  3-0
-  1:0 Jungwirth 42, 2:0  3:0 Guerrero 56.-59.
+  1:0 Jungwirth 42, 2:0 – 3:0 Guerrero 56.-59.
 
 Round 9
 26.09.03
@@ -3077,7 +3065,7 @@ Aalen      -  Elversberg      0-1
   0:1 Kovacec 5.
 03.10.03
 Siegen      -  Offenbach      0-2
-  0:1  0:2 Petry 30.-41.
+  0:1 – 0:2 Petry 30.-41.
 Stuttgarter Kickers  -  Kaiserslautern Amateure   2-0
   1:0 Mesic 44, 2:0 Obinna 73.
 Erfurt      -  Pfullendorf      1-2
@@ -3089,7 +3077,7 @@ Schweinfurt    -  Hoffenheim      4-0
 Wehen      -  Stuttgart Amateure    1-0
   1:0 Amstätter 74.
 Mainz Amateure    -  Feucht        3-2
-  1:0 Kühne 1, 2:0 Kurbjuweit 8, 2:1  2:2 Hampl 26.-30,
+  1:0 Kühne 1, 2:0 Kurbjuweit 8, 2:1 – 2:2 Hampl 26.-30,
   3:2 Bediako 36.
 Saarbrücken    -  Augsburg      2-3
   0:1 Coulibaly 14, 1:1 El Idrissi 39, 2:1 Hagner 41,
@@ -3119,7 +3107,7 @@ Pfullendorf    -  Schweinfurt      3-1
 Augsburg    -  Aalen        1-1
   0:1 Hentschke 36, 1:1 Damm 89.
 Elversberg    -  Bayern München Amateure   2-2
-  0:1  0:2 Trochowski 55.-74, 1:2 Wittek 78, 2:2 Donato 87.
+  0:1 – 0:2 Trochowski 55.-74, 1:2 Wittek 78, 2:2 Donato 87.
 
 Round 12
 17.10.03
@@ -3145,7 +3133,7 @@ iegen      -  Elversberg      0-2
 21.10.03
 Kaiserslautern Amateure  -  Offenbach      2-2
   0:1 Barletta (pen) 6, 0:2 Policella 18,
-  1:2  2:2 Altintop 23.-65.
+  1:2 – 2:2 Altintop 23.-65.
 
 Round 13
 22.10.03
@@ -3160,13 +3148,13 @@ Hoffenheim    -  Bayern München Amateure   2-2
 Feucht      -  Offenbach      0-3
   0:1 Barletta 73, 0:2 Türker 89, 0:3 Akrapovic 90.
 Eschborn    -  Kaiserslautern Amateure  4-1
-  1:0 Beisel 18, 2:0 Abdel Hag 21, 3:0  4:0 Kolb 24.-35,
+  1:0 Beisel 18, 2:0 Abdel Hag 21, 3:0 – 4:0 Kolb 24.-35,
   4:1 Mifsud (pen) 45.
 Wehen      -  Erfurt        1-6
   0:1 Okic (pen) 18, 0:2 Müller 27, 1:2 Traub (og) 31,
-  1:3 Hebestreit 36, 1:4 Okic (pen) 50, 1:5  1:6 Müller 58.-75.
+  1:3 Hebestreit 36, 1:4 Okic (pen) 50, 1:5 – 1:6 Müller 58.-75.
 Pfullendorf    -  Aalen        2-0
-  1:0  2:0 Blessin 18.-71.
+  1:0 – 2:0 Blessin 18.-71.
 Augsburg    -  Siegen        0-2
   0:1 Löring (og) 2, 0:2 Nauroth 16.
 Elversberg    -  Stuttgarter Kickers    1-0
@@ -3175,10 +3163,10 @@ Elversberg    -  Stuttgarter Kickers    1-0
 Round 14
 31.10.03
 Erfurt      -  Feucht        2-2
-  1:0 Müller 2, 2:0 Kresin 18, 2:1  2:2 Onwuzuruike 30.-90.
+  1:0 Müller 2, 2:0 Kresin 18, 2:1 – 2:2 Onwuzuruike 30.-90.
 Aalen      -  Stuttgart Amateure    5-2
   0:1 Müller 29, 1:1 Busch 30, 2:1 Rogosic 49,
-  2:2 Hleb (pen) 55, 3:2  4:2 Demirkiran 64.-77,
+  2:2 Hleb (pen) 55, 3:2 – 4:2 Demirkiran 64.-77,
   5:2 Rogosic (pen) 90.
 01.11.03
 Schweinfurt    -  Wehen        2-0
@@ -3191,11 +3179,11 @@ Stuttgarter Kickers  -  Augsburg      2-1
 Saarbrücken    -  Mainz Amateure      0-3
   0:1 Babatz 21, 0:2 Maas 33, 0:3 Babatz 77.
 Kaiserslautern Amateure  -  Elversberg      1-3
-  0:1 Donato 13, 1:1 Döring 26, 1:2  1:3 Nuhic 78.-89.
+  0:1 Donato 13, 1:1 Döring 26, 1:2 – 1:3 Nuhic 78.-89.
 02.11.03
 Bayern München Amateure  -  Pfullendorf      5-1
   1:0 Misimovic 15, 2:0 Guerrero 39, 2:1 Blessin 66,
-  3:1  4:1 Misimovic 68.-71, 5:1 Guerrero 75.
+  3:1 – 4:1 Misimovic 68.-71, 5:1 Guerrero 75.
 Siegen      -  Hoffenheim      3-1
   1:0 Schlabach 4, 2:0 Bettenstaedt 21, 2:1 Ollhoff 48,
   3:1 Nauroth 68.
@@ -3212,13 +3200,13 @@ Feucht      -  Eschborn      3-1
   3:1 Onwuzuruike 90.
 Erfurt      -  Schweinfurt      5-0
   1:0 Hebestreit 35, 2:0 Müller 43, 3:0 Hebestreit 56,
-  4:0  5:0 Kresin 82.-83.
+  4:0 – 5:0 Kresin 82.-83.
 Mainz Amateure    -  Aalen        1-3
-  1:0 Maas 45, 1:1  1:2 Demirkiran 49.-77, 1:3 Seeber 83.
+  1:0 Maas 45, 1:1 – 1:2 Demirkiran 49.-77, 1:3 Seeber 83.
 Hoffenheim    -  Stuttgarter Kickers    3-1
   1:0 Theres 2, 2:0 Throm 31, 2:1 Malchow 59, 3:1 Ropic 90.
 Augsburg    -  Kaiserslautern Amateure   3-0
-  1:0 Papic 18, 2:0  3:0 Wenczel 28.-66.
+  1:0 Papic 18, 2:0 – 3:0 Wenczel 28.-66.
 09.11.03
 Stuttgart Amateure  -  Bayern München Amateure   1-3
   0:1 T.Fink 10, 1:1 M.Fink 32, 1:2 Hasenhüttl 67,
@@ -3237,12 +3225,12 @@ Feucht      -  Schweinfurt      2-0
   1:0 Walther (pen) 40, 2:0 Eger 54.
 Eschborn    -  Elversberg      3-2
   0:1 Gibson 24, 1:1 Leifermann 33, 1:2 Neumann 76,
-  2:2  3:2 Abdel Hag 82.-90.
+  2:2 – 3:2 Abdel Hag 82.-90.
 Offenbach    -  Augsburg      3-1
   1:0 Barletta (pen) 3, 2:0 Türker 31,
   3:0 Türker (pen) 49, 3:1 Bode 85.
 Kaiserslautern Amateure  -  Hoffenheim      1-4
-  0:1  0:2 Möckel 14.-31, 0:3 Bindnagel 37, 0:4 Throm 78,
+  0:1 – 0:2 Möckel 14.-31, 0:3 Bindnagel 37, 0:4 Throm 78,
   1:4 Malz 85.
 Stuttgarter Kickers  -  Pfullendorf      3-1
   1:0 Benda 45, 2:0 Milchraum 45, 2:1 Blessin 82,
@@ -3301,7 +3289,7 @@ Augsburg    -  Elversberg      2-1
   1:0 Coulibaly 35, 2:0 Wenczel 58, 2:1 Mason 67.
 02.12.03
 Pfullendorf    -  Offenbach      2-0
-  1:0  2:0 Fuchs 18.-43.
+  1:0 – 2:0 Fuchs 18.-43.
 
 Round 19
 05.12.03
@@ -3323,7 +3311,7 @@ Aalen      -  Saarbrücken      1-1
 Kaiserslautern Amateure  -  Mainz Amateure      0-1
   0:1 Ziegner 45.
 Siegen      -  Erfurt        2-3
-  0:1  0:2 Müller 20.-34, 1:2 Bettenstaedt 55,
+  0:1 – 0:2 Müller 20.-34, 1:2 Bettenstaedt 55,
   1:3 Okic 67, 2:3 van Buskirk 79.
 20.02.04
 München Amateure  -  Schweinfurt                     0-1
@@ -3346,7 +3334,7 @@ Schweinfurt    -  Siegen        5-1
   3:0 Galuschka 62, 3:1 van Buskirk 69,
   4:1 Lützler 75, 5:1 Gorgiev 88.
 Stuttgart Amateure  -  Eschborn      3-0
-  1:0 Guscinas (pen) 33, 2:0  3:0 Gomez 39.- 72.
+  1:0 Guscinas (pen) 33, 2:0 – 3:0 Gomez 39.- 72.
 29.02.04
 Mainz Amateure    -  Offenbach      1-0
   1:0 Kühne 45.
@@ -3422,9 +3410,9 @@ Pfullendorf    -  Hoffenheim      1-2
 Round 23
 19.03.04
 Hoffenheim    -  Stuttgart Amateure    3-0
-  1:0  2:0 Ropic 5.- 47, 3:0 Müller 68.
+  1:0 – 2:0 Ropic 5.- 47, 3:0 Müller 68.
 Offenbach    -  Schweinfurt      0-5
-  0:1  0:2 Popovic 40.- 45, 0:3 Lützler 65,
+  0:1 – 0:2 Popovic 40.- 45, 0:3 Lützler 65,
   0:4 Brendel 81, 0:5 Kanyuk 83.
 Siegen      -  München Amateure    2-2
   0:1 Oswald 18, 1:1 Bettenstaedt 31, 1:2 Oswald 57,
@@ -3480,7 +3468,7 @@ Elversberg    -  Schweinfurt      1-2
 Pfullendorf    -  Mainz Amateure      1-1
   0:1 Maas (pen) 66, 1:1 Ortlieb 83.
 Stuttgarter Kickers  -  Siegen        3-2
-  1:0  2:0  3:0 Mesic 2.- 56.- 69,
+  1:0 – 2:0 – 3:0 Mesic 2.- 56.- 69,
   3:1 Bettenstaedt 75, 3:2 Zott 88.
 Offenbach    -  Aalen        1-1
   1:0 Barletta (pen) 30, 1:1 Rogosic 73.
@@ -3496,7 +3484,7 @@ Eschborn    -  Saarbrücken      1-1
 04.04.04
 Kaiserslautern Amateure  -  München Amateure    1-4
   0:1 Ochs 16, 1:1 Berndt 34,
-  1:2  1:3  1:4 Guerrero 71.- 72.- 77.
+  1:2 – 1:3 – 1:4 Guerrero 71.- 72.- 77.
 
 Round 26
 08.04.04
@@ -3509,19 +3497,19 @@ Siegen      -  Kaiserslautern Amateure   2-5
   2:4 Akten 80, 2:5 König 87.
 10.04.04
 Erfurt      -  Hoffenheim      2-0
-  1:0  2:0 Neitzel 49.- 52.
+  1:0 – 2:0 Neitzel 49.- 52.
 Stuttgarter Kickers  -  Feucht        1-1
   0:1 Hampl 25, 1:1 Braun 26.
 Aalen      -  Eschborn      3-2
-  0:1  0:2 Leifermann 6.- 20, 1:2  2:2 Demirkiran 68.- 82,
+  0:1 – 0:2 Leifermann 6.- 20, 1:2 – 2:2 Demirkiran 68.- 82,
   3:2 Rogosic 84.
 Wehen      -  Pfullendorf      4-0
-  1:0 Ben Neticha 14, 2:0  3:0 Melunovic 34.- 56,
+  1:0 Ben Neticha 14, 2:0 – 3:0 Melunovic 34.- 56,
   4:0 Mehic 88.
 Schweinfurt    -  Augsburg      2-2
   1:0 Kolinger 9, 2:0 Miedl 40, 2:1 Zani 61, 2:2 Manislavic 80.
 Saarbrücken    -  Elversberg      3-1
-  1:0  2:0 El Idrissi 35.- 64, 3:0 Thiebaut 68, 3:1 Fick 78.
+  1:0 – 2:0 El Idrissi 35.- 64, 3:0 Thiebaut 68, 3:1 Fick 78.
 12.04.04
 Mainz Amateure    -  Stuttgart Amateure    1-0
   1:0 Kühne 69.
@@ -3544,7 +3532,7 @@ Offenbach    -  Siegen        5-2
   3:1 Policella 81, 3:2 Bettenstaedt 83, 4:2 Naciri 86,
   5:2 Policella 90.
 Eschborn    -  München Amateure    2-2
-  1:0 Leifermann 13, 1:1  1:2 Misimovic 63.- 73,
+  1:0 Leifermann 13, 1:1 – 1:2 Misimovic 63.- 73,
   2:2 Mbock (og) 80.
 Augsburg    -  Saarbrücken      3-0
   1:0 Haller 44, 2:0 Wenczel 51, 3:0 Konjevic 85.
@@ -3571,7 +3559,7 @@ Aalen      -  Augsburg      2-1
   1:0 Seeber 33, 2:0 Schmiedel 51, 2:1 Abazi 80.
 25.04.04
 Kaiserslautern Amateure  -  Feucht        2-2
-  0:1 Onwuzuruike 11, 0:2 Hilbert 63, 1:2  2:2 König 81.- 82.
+  0:1 Onwuzuruike 11, 0:2 Hilbert 63, 1:2 – 2:2 König 81.- 82.
 Saarbrücken    -  Hoffenheim      2-1
   1:0 Hagner 62, 1:1 Ollhoff 71, 2:1 Thiebaut 78.
 
@@ -3629,9 +3617,9 @@ Eschborn    -  Offenbach      2-3
 Feucht      -  Erfurt        1-1
   1:0 Hilbert 6, 1:1 Müller 78.
 Hoffenheim    -  Siegen        2-0
-  1:0  2:0 Ropic 81.- 83.
+  1:0 – 2:0 Ropic 81.- 83.
 Stuttgart Amateure  -  Aalen        4-2
-  1:0 Tiffert 7, 1:1  1:2 Rogosic 9.- 50, 2:2 Fink 63,
+  1:0 Tiffert 7, 1:1 – 1:2 Rogosic 9.- 50, 2:2 Fink 63,
   3:2 Berger 73, 4:2 Butscher 84.
 15.05.04
 Wehen      -  Schweinfurt      1-1
@@ -3639,7 +3627,7 @@ Wehen      -  Schweinfurt      1-1
 Elversberg    -  Kaiserslautern Amateure    2-0
   1:0 Deißenberger 24, 2:0 Tuma 74.
 Augsburg    -  Stuttgarter Kickers    2-2
-  1:0 Coulibaly 10, 2:0 Okpala 67, 2:1  2:2 Mesic 72.- 85.
+  1:0 Coulibaly 10, 2:0 Okpala 67, 2:1 – 2:2 Mesic 72.- 85.
 Pfullendorf    -  München Amateure    0-1
   0:1 Guerrero 7.
 Mainz Amateure    -  Saarbrücken      1-0
@@ -3653,15 +3641,15 @@ Offenbach    -  Elversberg      2-3
   2:2 Deißenberger 38, 2:3 Mason 67.
 22.05.04
 Eschborn    -  Feucht        1-5
-  0:1 Hilbert 15, 1:1 Guerrera 30, 1:2  1:3 Hilbert 62.- 74,
+  0:1 Hilbert 15, 1:1 Guerrera 30, 1:2 – 1:3 Hilbert 62.- 74,
   1:4 Perchtold 78, 1:5 Huber 83.
 Schweinfurt    -  Erfurt        1-1
   1:0 Brendel 23, 1:1 Müller 83.
 Saarbrücken    -  Wehen        3-1
   0:1 Nagorny 4, 1:1 Thiebaut (pen) 45,
-  2:1  3:1 Caruso 59.- 73.
+  2:1 – 3:1 Caruso 59.- 73.
 Aalen      -  Mainz Amateure      3-2
-  0:1  0:2 El Bousidi 7.- 43, 1:2 Demirkiran 53,
+  0:1 – 0:2 El Bousidi 7.- 43, 1:2 Demirkiran 53,
   2:2 Schmiedel 81, 3:2 Seeber 88.
 Stuttgarter Kickers  -  Hoffenheim      3-0
   1:0 Rahmanovic 23, 2:0 Akcay 30, 3:0 Braun 57.
@@ -3678,7 +3666,7 @@ Schweinfurt    -  Feucht        2-5
   1:3 Kanyuk 46, 2:3 Rinbergas 50, 2:4 Huber 65,
   2:5 Schrepel 78.
 Elversberg    -  Eschborn      3-0
-  1:0  2:0 Deißenberger 52.- 81, 3:0 Petri 87.
+  1:0 – 2:0 Deißenberger 52.- 81, 3:0 Petri 87.
 Augsburg    -  Offenbach          1-2
   0:1 Müller 15, 0:2 Budtz 20, 1:2 Löring 87.
 Hoffenheim    -  Kaiserslautern Amateure    3-2
@@ -3705,7 +3693,7 @@ Aalen      -  Erfurt        4-1
 München Amateure  -  Wehen        1-0
   1:0 Misimovic 13.
 Siegen      -  Mainz Amateure      4-0
-  1:0  2:0 Toborg 21.- 39, 3:0 Unsöld 45, 4:0 van Buskirk 75.
+  1:0 – 2:0 Toborg 21.- 39, 3:0 Unsöld 45, 4:0 van Buskirk 75.
 Stuttgarter Kickers  -  Stuttgart Amateure    1-4
   0:1 Schulz 14, 0:2 Müller 51, 1:2 Benda 59,
   1:3 Kocholl 62, 1:4 Jurkovic 73.
@@ -3715,33 +3703,33 @@ Offenbach    -  Hoffenheim      1-2
   1:0 Türker 24, 1:1 Ollhoff (pen) 45, 1:2 Ropic 80.
 Eschborn     -  Augsburg      0-6
   0:1 Thorandt 8, 0:2 Coulibaly 30, 0:3 Löring 39,
-  0:4  0:5  0:6 Okpala 42.- 65.- 76.
+  0:4 – 0:5 – 0:6 Okpala 42.- 65.- 76.
 Feucht      -  Elversberg      5-0
   1:0 Onwuzuruike 32, 2:0 Schiller 34, 3:0 Hilbert 47,
   4:0 Saur 58, 5:0 Schmid 63.
 
 Final Table:
 
- 1.FC Bayern München Amateure    34 17 13  4  71:33  64
- 2.FC Rot-Weiß Erfurt      34 15 10  9  52:39  55  Promoted
- 3.1.FC Saarbrücken      34 13 14  7  53:44  53  Promoted
+ 1.FC Bayern München Amateure    34 17 13  4  71:33 – 64
+ 2.FC Rot-Weiß Erfurt      34 15 10  9  52:39 – 55  Promoted
+ 3.1.FC Saarbrücken      34 13 14  7  53:44 – 53  Promoted
 ---------------------------------------------------------------
- 4.FC Augsburg         34 15  7 12  57:41  52
- 5.TSG Hoffenheim      34 15  7 12  54:58  52
- 6.VfR Aalen              34 14  9 11  61:63  51
- 7.SV Taunusstein Wehen            34 12 13  9  47:47  49
- 8.1.SC Feucht        34 12 12 10  62:51  48 (+)
- 9.Stuttgarter Kickers SV    34 13  8 13  47:43  47
-10.SC Pfullendorf      34 13  7 14  45:48  46
-11.VfB Stuttgart Amateure    34 13  5 16  44:40  44 (+)
-12.SV Elversberg      34 11 11 12  41:47  44
-13.Kickers FC Offenbach            34 11 10 13  47:53  43
-14.1.FSV Mainz 05 Amateure    34 11  9 14  40:48  42 (+)
-15.1.FC Schweinfurt              34 10 11 13  53:58  41  Lost License
+ 4.FC Augsburg         34 15  7 12  57:41 – 52
+ 5.TSG Hoffenheim      34 15  7 12  54:58 – 52
+ 6.VfR Aalen              34 14  9 11  61:63 – 51
+ 7.SV Taunusstein Wehen            34 12 13  9  47:47 – 49
+ 8.1.SC Feucht        34 12 12 10  62:51 – 48 (+)
+ 9.Stuttgarter Kickers SV    34 13  8 13  47:43 – 47
+10.SC Pfullendorf      34 13  7 14  45:48 – 46
+11.VfB Stuttgart Amateure    34 13  5 16  44:40 – 44 (+)
+12.SV Elversberg      34 11 11 12  41:47 – 44
+13.Kickers FC Offenbach            34 11 10 13  47:53 – 43
+14.1.FSV Mainz 05 Amateure    34 11  9 14  40:48 – 42 (+)
+15.1.FC Schweinfurt              34 10 11 13  53:58 – 41  Lost License
 ---------------------------------------------------------------
-16.Sportfreunde Siegen          34 10  7 17  53:63  37
-17.1.FC Eschborn       34  8  9 17  47:74  33 (+)  Relegated
-18.1.FC Kaiserslautern Amateure    34  8  8 18  43:67  32  Relegated
+16.Sportfreunde Siegen          34 10  7 17  53:63 – 37
+17.1.FC Eschborn       34  8  9 17  47:74 – 33 (+)  Relegated
+18.1.FC Kaiserslautern Amateure    34  8  8 18  43:67 – 32  Relegated
 
 Notes:
 SSV Reutlingen and SV Waldhof Mannheim did not obtain a license and were
@@ -3765,161 +3753,161 @@ Fourth Level (Oberligen) 2003/04
 
    Bayern
 
- 1.TSVŽ1860 München Amateure    34 21  5  8  71:40  68
+ 1.TSV'1860 München Amateure    34 21  5  8  71:40 – 68
 ---------------------------------------------------------------
- 2.1.FC Nürnberg Amateure    34 21  4  9  68:39  67
- 3.FC Ismaning        34 17  8  9  63:47  59
- 4.SpVgg Greuther Fürth Amateure  34 16  7 11  69:46  55
- 5.SpVgg Unterhaching München Amateure  34 16  7 11  55:32  55
- 6.SC FürstenfeldbruckŽ1919    34 15  9 10  49:47  54
- 7.SpVggŽ1921 Bayreuth      34 14 10 10  56:41  52
- 8.SSVŽ2000 Jahn Regensburg Amateure  34 11 16  7  54:40  49
- 9.SCŽ1904 Schwabach      34 12 11 11  48:43  47
-10.TSVŽ1946 Aindling      34 12 10 12  43:49  46
-11.FC MemmingenŽ1907      34 11 12 11  45:40  45 (+)
-12.TSVŽ1923 Großbarsdorf    34 12  8 14  67:72  44 (+)
-13.SpVggŽ1924 Weiden      34 10 12 12  41:46  42
-14.SpVggŽ1909 Ansbach      34 10 10 14  42:45  40
-15.1.FCŽ1911 Passau      34  7 11 16  38:68  32 (+)
+ 2.1.FC Nürnberg Amateure    34 21  4  9  68:39 – 67
+ 3.FC Ismaning        34 17  8  9  63:47 – 59
+ 4.SpVgg Greuther Fürth Amateure  34 16  7 11  69:46 – 55
+ 5.SpVgg Unterhaching München Amateure  34 16  7 11  55:32 – 55
+ 6.SC Fürstenfeldbruck'1919    34 15  9 10  49:47 – 54
+ 7.SpVgg'1921 Bayreuth      34 14 10 10  56:41 – 52
+ 8.SSV'2000 Jahn Regensburg Amateure  34 11 16  7  54:40 – 49
+ 9.SC'1904 Schwabach      34 12 11 11  48:43 – 47
+10.TSV'1946 Aindling      34 12 10 12  43:49 – 46
+11.FC Memmingen'1907      34 11 12 11  45:40 – 45 (+)
+12.TSV'1923 Großbarsdorf    34 12  8 14  67:72 – 44 (+)
+13.SpVgg'1924 Weiden      34 10 12 12  41:46 – 42
+14.SpVgg'1909 Ansbach      34 10 10 14  42:45 – 40
+15.1.FC'1911 Passau      34  7 11 16  38:68 – 32 (+)
 ---------------------------------------------------------------
-16.FV WürzburgŽ1904      34  5 13 16  37:69  28 (+)
-17.FC BayernŽ1910 Hof      34  5 13 16  36:71  28
-18.SpVggŽ1919 Landshut      34  4  6 24  36:86  18 (+)
+16.FV Würzburg'1904      34  5 13 16  37:69 – 28 (+)
+17.FC Bayern'1910 Hof      34  5 13 16  36:71 – 28
+18.SpVgg'1919 Landshut      34  4  6 24  36:86 – 18 (+)
 
 Promotion/Relegation Playoff
 1.FC Passau    1-1  1.FC Bamberg    [aet, 6-5 pen]
 
-Promoted: BCF Wolfratshausen, 1.FC Kötzting, FC IngolstadtŽ04,
+Promoted: BCF Wolfratshausen, 1.FC Kötzting, FC Ingolstadt'04,
           VFL Frohnlach.
 
   Baden-Württemberg
 
- 1.FC NöttingenŽ1967      34 20  7  7  66:35  67
+ 1.FC Nöttingen'1967      34 20  7  7  66:35 – 67
 ---------------------------------------------------------------
- 2.TSVŽ1846 Crailsheim      34 20  6  8  71:38  66 (+)
- 3.SV WaldhofŽ1907 Mannheim    34 19  8  7  58:32  65 (-)
- 4.Karlsruher SC Amateure    34 19  6  9  67:41  63
- 5.SC Freiburg Amateure      34 18  8  8  58:35  62
- 6.SSV UlmŽ1846        34 17  4 13  60:55  55
- 7.SV SandhausenŽ1916      34 14  9 11  49:39  51
- 8.SV Bonlanden        34 15  5 14  51:64  50
- 9.SSV ReutlingenŽ1905      34 11 12 11  41:40  45 (-)
-10.TSG Hoffenheim II      34 12  8 14  45:49  44 (+)
-11.SpVggŽ1907 Ludwigsburg    34 14  2 18  52:69  44
-12.Stuttgarter Kickers II    34 10 10 14  36:46  40
-13.FV LaudaŽ1913      34  9 12 13  32:38  39
-14.SGV Freiburg        34 10  7 17  39:46  37
+ 2.TSV'1846 Crailsheim      34 20  6  8  71:38 – 66 (+)
+ 3.SV Waldhof'1907 Mannheim    34 19  8  7  58:32 – 65 (-)
+ 4.Karlsruher SC Amateure    34 19  6  9  67:41 – 63
+ 5.SC Freiburg Amateure      34 18  8  8  58:35 – 62
+ 6.SSV Ulm'1846        34 17  4 13  60:55 – 55
+ 7.SV Sandhausen'1916      34 14  9 11  49:39 – 51
+ 8.SV Bonlanden        34 15  5 14  51:64 – 50
+ 9.SSV Reutlingen'1905      34 11 12 11  41:40 – 45 (-)
+10.TSG Hoffenheim II      34 12  8 14  45:49 – 44 (+)
+11.SpVgg'1907 Ludwigsburg    34 14  2 18  52:69 – 44
+12.Stuttgarter Kickers II    34 10 10 14  36:46 – 40
+13.FV Lauda'1913      34  9 12 13  32:38 – 39
+14.SGV Freiburg        34 10  7 17  39:46 – 37
 ---------------------------------------------------------------
-15.Bahlinger SCŽ1929      34  9 10 15  41:55  37
-16.SV LinxŽ1949        34  9  7 18  45:64  34 (+)
-17.SpVggŽ1928 Au an der Iller    34  7  8 19  43:77  29
-18.TSGŽ1862/1909 Weinheim    34  4  9 21  43:74  21 (+)
-19.1.FCŽ1896 Pforzheim      withdrew
+15.Bahlinger SC'1929      34  9 10 15  41:55 – 37
+16.SV Linx'1949        34  9  7 18  45:64 – 34 (+)
+17.SpVgg'1928 Au an der Iller    34  7  8 19  43:77 – 29
+18.TSG'1862/1909 Weinheim    34  4  9 21  43:74 – 21 (+)
+19.1.FC'1896 Pforzheim      withdrew
 
-NB: 1.FCŽ1896 Pforzheim went bankrupt and withdrew
+NB: 1.FC'1896 Pforzheim went bankrupt and withdrew
 
-Promoted: FC VillingenŽ08, 1.FC Normannia Gmünd, Heidenheimer SB
+Promoted: FC Villingen'08, 1.FC Normannia Gmünd, Heidenheimer SB
 
   Hessen
 
- 1.SV DarmstadtŽ1898      34 27  4  3  78:28  85 (-)
+ 1.SV Darmstadt'1898      34 27  4  3  78:28 – 85 (-)
 ---------------------------------------------------------------
- 2.KSV Hessen Kassel      34 26  6  2  93:35  84
- 3.SC BorussiaŽ1904 Fulda    34 23  7  4  85:37  76
- 4.SV ErzhausenŽ1913      34 19 11  4  72:34  68
- 5.1.FCŽ1908 Germania Ober-Roden  34 17  7 10  64:41  58 (+)
- 6.FSVŽ1899 Frankfurt/Main    34 16  5 13  58:40  53
- 7.SpVggŽ1912 Buchonia Flieden    34 14  7 13  58:53  49
- 8.FV Bad VilbelŽ1919      34 14  5 15  56:55  57
- 9.TSGŽ1887 Wörsdorf      34 12  9 13  42:42  45
-10.SG Eintracht Frankfurt/Main Amateure  34 12  6 16  63:75  42 (-)
-11.KSVŽ1964 Baunatal      34 10  9 15  51:60  39
-12.KSVŽ1920/1945 Klein Karben    34  8 11 15  38:63  35
-13.SV EintrachtŽ1956 Wald Michelbach  34 10  5 19  46:79  35
-14.SV BernbachŽ1919      34  8  9 17  37:63  33
-15.VFBŽ1905 Marburg      34  7 11 16  42:55  32
+ 2.KSV Hessen Kassel      34 26  6  2  93:35 – 84
+ 3.SC Borussia'1904 Fulda    34 23  7  4  85:37 – 76
+ 4.SV Erzhausen'1913      34 19 11  4  72:34 – 68
+ 5.1.FC'1908 Germania Ober-Roden  34 17  7 10  64:41 – 58 (+)
+ 6.FSV'1899 Frankfurt/Main    34 16  5 13  58:40 – 53
+ 7.SpVgg'1912 Buchonia Flieden    34 14  7 13  58:53 – 49
+ 8.FV Bad Vilbel'1919      34 14  5 15  56:55 – 57
+ 9.TSG'1887 Wörsdorf      34 12  9 13  42:42 – 45
+10.SG Eintracht Frankfurt/Main Amateure  34 12  6 16  63:75 – 42 (-)
+11.KSV'1964 Baunatal      34 10  9 15  51:60 – 39
+12.KSV'1920/1945 Klein Karben    34  8 11 15  38:63 – 35
+13.SV Eintracht'1956 Wald Michelbach  34 10  5 19  46:79 – 35
+14.SV Bernbach'1919      34  8  9 17  37:63 – 33
+15.VFB'1905 Marburg      34  7 11 16  42:55 – 32
 ---------------------------------------------------------------
-16.FSVŽ1918 Braunfels      34  4 14 16  38:62  26 (+)
-17.Hünfelder SVŽ1919      34  4 10 20  39:73  22 (+)
-18.SV ViktoriaŽ1906 Griesheim    34  3  8 23  33:98  17 (+)
+16.FSV'1918 Braunfels      34  4 14 16  38:62 – 26 (+)
+17.Hünfelder SV'1919      34  4 10 20  39:73 – 22 (+)
+18.SV Viktoria'1906 Griesheim    34  3  8 23  33:98 – 17 (+)
 
 NB: SC Neukirchen did not obtain a license
 
-Promoted: SV Viktoria Aschaffenburg, OSCŽ1897 Vellmar, 1.FC Schwalmstadt
+Promoted: SV Viktoria Aschaffenburg, OSC'1897 Vellmar, 1.FC Schwalmstadt
 
   Südwest
 
- 1.TuSŽ1911 Koblenz      34 22  7  5  69:19  73
+ 1.TuS'1911 Koblenz      34 22  7  5  69:19 – 73
 ---------------------------------------------------------------
- 2.SV WeingartenŽ1946      34 20  9  5  70:31  69
- 3.VFRŽ1908 Wormatia Worms    34 17 10  7  47:38  61
- 4.FC Homburg an der Saar    34 18  6 10  52:44  60
- 5.1.FC Saarbrücken II      34 16 11  7  68:37  59
- 6.SG EintrachtŽ1902 Bad Kreuznach  34 18  4 12  59:51  58
- 7.SpVgg Eintracht Chemie Glas Wirges  34 16  8 10  68:38  56
- 8.SC HauensteinŽ1919      34 15 11  8  57:40  56
- 9.TuSŽ1886/1914 Mayen      34 13  6 15  42:55  45
-10.VFBŽ1905 Borussia Neunkirchen  34 11 10 13  48:46  43 (-)
-11.FV EngersŽ1907      34 13  4 17  44:60  43
-12.FK PirmasensŽ1903      34 11  8 15  50:56  41
-13.FV HassiaŽ1910 Bingen    34 10  9 15  43:48  39 (+)
-14.SpVggŽ1903 Ingelheim      34 10  9 15  47:56  39
-15.SCŽ1907 Idar-Oberstein    34 11  3 20  38:71  36
-16.FSVŽ1921 Salmrohr      34  9  7 18  40:62  34
+ 2.SV Weingarten'1946      34 20  9  5  70:31 – 69
+ 3.VFR'1908 Wormatia Worms    34 17 10  7  47:38 – 61
+ 4.FC Homburg an der Saar    34 18  6 10  52:44 – 60
+ 5.1.FC Saarbrücken II      34 16 11  7  68:37 – 59
+ 6.SG Eintracht'1902 Bad Kreuznach  34 18  4 12  59:51 – 58
+ 7.SpVgg Eintracht Chemie Glas Wirges  34 16  8 10  68:38 – 56
+ 8.SC Hauenstein'1919      34 15 11  8  57:40 – 56
+ 9.TuS'1886/1914 Mayen      34 13  6 15  42:55 – 45
+10.VFB'1905 Borussia Neunkirchen  34 11 10 13  48:46 – 43 (-)
+11.FV Engers'1907      34 13  4 17  44:60 – 43
+12.FK Pirmasens'1903      34 11  8 15  50:56 – 41
+13.FV Hassia'1910 Bingen    34 10  9 15  43:48 – 39 (+)
+14.SpVgg'1903 Ingelheim      34 10  9 15  47:56 – 39
+15.SC'1907 Idar-Oberstein    34 11  3 20  38:71 – 36
+16.FSV'1921 Salmrohr      34  9  7 18  40:62 – 34
 ---------------------------------------------------------------
-17.FV Sportfreunde Köllerbach    34  6  5 23  40:76  23 (+)
-18.SV Klausen        34  2  7 25  18:75  13 (+)
+17.FV Sportfreunde Köllerbach    34  6  5 23  40:76 – 23 (+)
+18.SV Klausen        34  2  7 25  18:75 – 13 (+)
 
 Promoted: TuS Mechtersheim, SC Halberg-Brebach, 1.FC Saarbrücken Amateure
 
   Nordrhein
 
- 1.SSV VelbertŽ1902      34 22  5  7  72:38  71
+ 1.SSV Velbert'1902      34 22  5  7  72:38 – 71
 ---------------------------------------------------------------
- 2.TSVŽ1895 Fortuna Düsseldorf    34 21  8  5  60:30  71
- 3.VFL Borussia Mönchengladbach Amat.  34 19  5 10  72:44  62
- 4.TSV BayerŽ1904 Leverkusen Amateure  34 18  6 10  72:36  60 (-)
- 5.SV AdlerŽ1922 Osterfeld    34 14 12  8  44:33  54
- 6.SV BorussiaŽ1907/1912 Wuppertal  34 13 12  9  59:56  51
- 7.PSIŽ1974 Yurdumspor Köln    34 14  9 11  49:48  51 (+)
- 8.SC Fortuna Köln      34 13  8 13  48:61  47
- 9.1.FC KleveŽ1863/1903      34 11 12 11  62:52  45 (+)
-10.1.FCŽ1900 Bocholt      34 12  9 13  43:52  45
-11.Gürzenich FCŽ1909 Düren    34 10 12 12  43:46  42
-12.ETBŽ1881 Schwarz-Weiß Essen    34 11  8 15  42:45  41
-13.1.FCŽ1990 Union Solingen    34 11  8 15  47:58  41
-14.SC BorussiaŽ1912 Freialdenhoven  34 10  7 17  70:73  37
-15.Bonner SCŽ1901/1904      34 10  6 18  43:66  36
+ 2.TSV'1895 Fortuna Düsseldorf    34 21  8  5  60:30 – 71
+ 3.VFL Borussia Mönchengladbach Amat.  34 19  5 10  72:44 – 62
+ 4.TSV Bayer'1904 Leverkusen Amateure  34 18  6 10  72:36 – 60 (-)
+ 5.SV Adler'1922 Osterfeld    34 14 12  8  44:33 – 54
+ 6.SV Borussia'1907/1912 Wuppertal  34 13 12  9  59:56 – 51
+ 7.PSI'1974 Yurdumspor Köln    34 14  9 11  49:48 – 51 (+)
+ 8.SC Fortuna Köln      34 13  8 13  48:61 – 47
+ 9.1.FC Kleve'1863/1903      34 11 12 11  62:52 – 45 (+)
+10.1.FC'1900 Bocholt      34 12  9 13  43:52 – 45
+11.Gürzenich FC'1909 Düren    34 10 12 12  43:46 – 42
+12.ETB'1881 Schwarz-Weiß Essen    34 11  8 15  42:45 – 41
+13.1.FC'1990 Union Solingen    34 11  8 15  47:58 – 41
+14.SC Borussia'1912 Freialdenhoven  34 10  7 17  70:73 – 37
+15.Bonner SC'1901/1904      34 10  6 18  43:66 – 36
 ---------------------------------------------------------------
-16.SC Brück ViktoriaŽ1994 Köln    34 10  6 18  45:74  36
-17.SpVggŽ1904/1919 Germania Ratingen  34  9  8 17  34:47  35
-18.SSGŽ1909 Bergisch Gladbach    34  6  3 25  30:76  21 (+)
+16.SC Brück Viktoria'1994 Köln    34 10  6 18  45:74 – 36
+17.SpVgg'1904/1919 Germania Ratingen  34  9  8 17  34:47 – 35
+18.SSG'1909 Bergisch Gladbach    34  6  3 25  30:76 – 21 (+)
 
 Promoted: FC Junkersdorf, TuRu Düsseldorf, MSV Duisburg Amateure,
           TSV Alemannia Aachen Amateure
 
   Westfalen
 
- 1.DSC Arminia Bielefeld Amateure  34 18  8  8  74:44  62 (-)
+ 1.DSC Arminia Bielefeld Amateure  34 18  8  8  74:44 – 62 (-)
 ---------------------------------------------------------------
- 2.SC VerlŽ1924        34 17  9  8  68:41  60 (-)
- 3.VFL Bochum Amateure      34 17  8  9  63:39  59
- 4.VFBŽ1919 Fichte Bielefeld    34 16  9  9  55:48  57
- 5.LR Ahlen Amateure      34 16  7 11  75:42  55 (+)
- 6.VFBŽ1948/1964 Hüls      34 13 12  9  53:45  51
- 7.SC Buer-HasselŽ1919      34 14  7 13  49:52  49
- 8.FC GüterslohŽ2000      34 14  7 13  47:50  49
- 9.SV VorwärtsŽ1929 Kornharpen    34 13  8 13  52:52  47 (+)
-10.FC Eintracht Rheine      34 12 11 11  50:55  47
-11.SV LippstadtŽ1908      34 13  7 14  51:51  46
-12.SG WattenscheidŽ09 Amateure    34 13  6 15  51:56  45 r
-13.SV SchermbeckŽ1912       34 12  8 14  53:51  44 (+)
-14.SpVggŽ1905 Emsdetten      34 12  7 15  54:57  43
-15.SportfreundeŽ1899 Siegen Amateure  34 11  8 15  58:61  41
-16.TSGŽ1881 Sprockhövel      34 10 11 13  56:71  41
+ 2.SC Verl'1924        34 17  9  8  68:41 – 60 (-)
+ 3.VFL Bochum Amateure      34 17  8  9  63:39 – 59
+ 4.VFB'1919 Fichte Bielefeld    34 16  9  9  55:48 – 57
+ 5.LR Ahlen Amateure      34 16  7 11  75:42 – 55 (+)
+ 6.VFB'1948/1964 Hüls      34 13 12  9  53:45 – 51
+ 7.SC Buer-Hassel'1919      34 14  7 13  49:52 – 49
+ 8.FC Gütersloh'2000      34 14  7 13  47:50 – 49
+ 9.SV Vorwärts'1929 Kornharpen    34 13  8 13  52:52 – 47 (+)
+10.FC Eintracht Rheine      34 12 11 11  50:55 – 47
+11.SV Lippstadt'1908      34 13  7 14  51:51 – 46
+12.SG Wattenscheid'09 Amateure    34 13  6 15  51:56 – 45 r
+13.SV Schermbeck'1912       34 12  8 14  53:51 – 44 (+)
+14.SpVgg'1905 Emsdetten      34 12  7 15  54:57 – 43
+15.Sportfreunde'1899 Siegen Amateure  34 11  8 15  58:61 – 41
+16.TSG'1881 Sprockhövel      34 10 11 13  56:71 – 41
 ---------------------------------------------------------------
-17.SuSŽ1919/1920 Stadtlohn    34 10 10 14  46:58  40
-18.Lüner SVŽ1945 Fußball    34  2  3 29  28:110-  9
+17.SuS'1919/1920 Stadtlohn    34 10 10 14  46:58 – 40
+18.Lüner SV'1945 Fußball    34  2  3 29  28:110-  9
 
 NB: as Wattenscheid's first team were relegated from the 3rd level,
     their second team were forcibly relegated
@@ -3928,51 +3916,51 @@ Promoted: SpVgg Erkenschwick, Sportfreunde Lotte
 
   Niedersachsen/Bremen
 
- 1.VFLŽ1945 Wolfsburg Amateure    34 26  4  4  93:29  82
+ 1.VFL'1945 Wolfsburg Amateure    34 26  4  4  93:29 – 82
 ---------------------------------------------------------------
- 2.SV EintrachtŽ1945 Nordhorn    34 26  4  4  90:33  82
- 3.SV Wilhelmshaven      34 22  6  6  78:35  72
- 4.BV CloppenburgŽ1919      34 19  6  9  56:39  63
- 5.HannoverŽ1896 SC Amateure    34 19  4 11  82:47  61
- 6.BSVŽ1946 Kickers Emden    34 17  8  9  52:42  59
- 7.SV ArminiaŽ1910 Hannover    34 19  1 14  70:58  58
- 8.SV MeppenŽ1912      34 15  8 11  49:44  53
+ 2.SV Eintracht'1945 Nordhorn    34 26  4  4  90:33 – 82
+ 3.SV Wilhelmshaven      34 22  6  6  78:35 – 72
+ 4.BV Cloppenburg'1919      34 19  6  9  56:39 – 63
+ 5.Hannover'1896 SC Amateure    34 19  4 11  82:47 – 61
+ 6.BSV'1946 Kickers Emden    34 17  8  9  52:42 – 59
+ 7.SV Arminia'1910 Hannover    34 19  1 14  70:58 – 58
+ 8.SV Meppen'1912      34 15  8 11  49:44 – 53
 ---------------------------------------------------------------
- 9.VFBŽ1897 Oldenburg      34 15  6 13  62:50  51
-10.TSVŽ1895 Eintracht Braunschweig II  34 13  4 17  61:54  43
-11.SV ConcordiaŽ1945 Ihrhove    34 13  4 17  44:49  43
-12.FC OberneulandŽ1848 Bremen    34 12  5 17  52:72  41
-13.Rotenburger SVŽ1977      34 11  5 18  52:71  38
-14.SC LangenhagenŽ1945      34 10  4 20  54:78  34
-15.VFVŽ1907 Hildesheim      34  8  7 19  39:68  31
-16.SSVŽ1921 Vorsfelde      34  5  8 21  26:78  23 (+)
-17.Lüneburger SKŽ1901      34  6  1 27  40:96  19
-18.SC WeyheŽ1913      34  4  6 24  31:90  18 (+)
+ 9.VFB'1897 Oldenburg      34 15  6 13  62:50 – 51
+10.TSV'1895 Eintracht Braunschweig II  34 13  4 17  61:54 – 43
+11.SV Concordia'1945 Ihrhove    34 13  4 17  44:49 – 43
+12.FC Oberneuland'1848 Bremen    34 12  5 17  52:72 – 41
+13.Rotenburger SV'1977      34 11  5 18  52:71 – 38
+14.SC Langenhagen'1945      34 10  4 20  54:78 – 34
+15.VFV'1907 Hildesheim      34  8  7 19  39:68 – 31
+16.SSV'1921 Vorsfelde      34  5  8 21  26:78 – 23 (+)
+17.Lüneburger SK'1901      34  6  1 27  40:96 – 19
+18.SC Weyhe'1913      34  4  6 24  31:90 – 18 (+)
 
 NB: teams 2-8 to new Oberliga Nord, remaining teams relegated
 
   Hamburg/Schleswig-Holstein
 
- 1.FC HolsteinŽ1900 Kiel II    34 20  8  6  75:42  68 [*]
- 2.Altonaer FCŽ1893 Hamburg    34 19  8  7  72:31  65
+ 1.FC Holstein'1900 Kiel II    34 20  8  6  75:42 – 68 [*]
+ 2.Altonaer FC'1893 Hamburg    34 19  8  7  72:31 – 65
 ---------------------------------------------------------------
- 3.SC ConcordiaŽ1907 Hamburg    34 17 12  5  51:18  63
- 4.Meiendorfer SVŽ1949      34 18  8  8  75:43  62
- 5.FC Sankt PauliŽ1910 Hamburg II  34 17 10  7  62:31  61
- 6.ASV Bergedorf-LohbrüggeŽ1885    34 17  5 12  74:50  56
- 7.FT Eider Büdelsdorf      34 14 12  8  58:46  54 (+)
- 8.SC VictoriaŽ1895 Hamburg    34 15  5 14  50:54  50 (+)
- 9.VFLŽ1845 Pinneberg      34 14  7 13  61:46  49
+ 3.SC Concordia'1907 Hamburg    34 17 12  5  51:18 – 63
+ 4.Meiendorfer SV'1949      34 18  8  8  75:43 – 62
+ 5.FC Sankt Pauli'1910 Hamburg II  34 17 10  7  62:31 – 61
+ 6.ASV Bergedorf-Lohbrügge'1885    34 17  5 12  74:50 – 56
+ 7.FT Eider Büdelsdorf      34 14 12  8  58:46 – 54 (+)
+ 8.SC Victoria'1895 Hamburg    34 15  5 14  50:54 – 50 (+)
+ 9.VFL'1845 Pinneberg      34 14  7 13  61:46 – 49
 ---------------------------------------------------------------
-10.Husumer SVŽ1994      34 14  7 13  56:58  49
-11.SV LurupŽ1923 Hamburg    34 12 10 12  44:44  46
-12.TSVŽ1925 Sasel      34 14  4 16  44:58  46 (+)
-13.TSVŽ1946 Kropp      34 11  8 15  70:71  41 (+)
-14.SV FlensburgŽ1908      34 12  5 17  50:59  41
-15.SC Vorwärts-WackerŽ1904 Billstedt  34 11  6 17  59:74  39
-16.FTSVŽ1890 Rasensport Elmshorn  34  8  6 20  39:87  30
-17.TSVŽ1863 Wedel      34  2 13 19  30:83  19 (+)
-18.Heider SVŽ1925      34  2  3 29  19:96 -  9
+10.Husumer SV'1994      34 14  7 13  56:58 – 49
+11.SV Lurup'1923 Hamburg    34 12 10 12  44:44 – 46
+12.TSV'1925 Sasel      34 14  4 16  44:58 – 46 (+)
+13.TSV'1946 Kropp      34 11  8 15  70:71 – 41 (+)
+14.SV Flensburg'1908      34 12  5 17  50:59 – 41
+15.SC Vorwärts-Wacker'1904 Billstedt  34 11  6 17  59:74 – 39
+16.FTSV'1890 Rasensport Elmshorn  34  8  6 20  39:87 – 30
+17.TSV'1863 Wedel      34  2 13 19  30:83 – 19 (+)
+18.Heider SV'1925      34  2  3 29  19:96 -  9
  -.TSV Altenholz                        withdrew to Bezirksoberliga
 
 [*] ineligible for promotion since Holstein Kiel's first team are at 3rd
@@ -3984,56 +3972,56 @@ Promoted to Oberliga Nord: VFB Lübeck Amateure, HSV Barmbek-Uhlenhorst
 
   Nordost Nord
 
- 1.Hertha BSC Berlin Amateure    36 29  2  5  85:26  89
+ 1.Hertha BSC Berlin Amateure    36 29  2  5  85:26 – 89
 ---------------------------------------------------------------
- 2.SV BabelsbergŽ1903 Potsdam    36 27  3  6  91:33  84 (-)
- 3.FC Hansa Rostock Amateure    36 25  4  7  70:36  79
- 4.SV Yesilyurt SK BerlinŽ1973    36 20 11  5  67:33  71 (+)
- 5.Tennis Club Borussia Berlin    36 18  5 13  55:39  59
- 6.FC SchönbergŽ1995      36 16  8 12  76:44  56
- 7.BFC TürkiyemsporŽ1978 Berlin    36 15  4 17  59:59  49
- 8.MSVŽ1919 Neuruppin      36 12 12 12  55:55  48
- 9.BTSVŽ1891 Reinickendorfer Füchse     36 12  7 17  56:59  43
-10.TSG Neustrelitz      36 11 10 15  41:50  43
-11.EFC Stahl Eisenhüttenstadt    36 10 12 14  44:57  42
-12.FSV Optik Rathenow      36 10 12 14  45:61  42
-13.Berliner AKŽ1907      36 12  6 18  52:82  42
-14.FV Motor Eberswalde      36 12  6 18  45:79  42
-15.SV LichtenbergŽ1947 Berlin    36 11  6 19  44:65  39
+ 2.SV Babelsberg'1903 Potsdam    36 27  3  6  91:33 – 84 (-)
+ 3.FC Hansa Rostock Amateure    36 25  4  7  70:36 – 79
+ 4.SV Yesilyurt SK Berlin'1973    36 20 11  5  67:33 – 71 (+)
+ 5.Tennis Club Borussia Berlin    36 18  5 13  55:39 – 59
+ 6.FC Schönberg'1995      36 16  8 12  76:44 – 56
+ 7.BFC Türkiyemspor'1978 Berlin    36 15  4 17  59:59 – 49
+ 8.MSV'1919 Neuruppin      36 12 12 12  55:55 – 48
+ 9.BTSV'1891 Reinickendorfer Füchse     36 12  7 17  56:59 – 43
+10.TSG Neustrelitz      36 11 10 15  41:50 – 43
+11.EFC Stahl Eisenhüttenstadt    36 10 12 14  44:57 – 42
+12.FSV Optik Rathenow      36 10 12 14  45:61 – 42
+13.Berliner AK'1907      36 12  6 18  52:82 – 42
+14.FV Motor Eberswalde      36 12  6 18  45:79 – 42
+15.SV Lichtenberg'1947 Berlin    36 11  6 19  44:65 – 39
 ---------------------------------------------------------------
-16.VFBŽ1892 Lichterfelde Berlin    36  9 10 17  41:54  37
-17.BSC SüdŽ1905 Brandenburg    36  9  7 20  38:72  34
-18.Sievershäger SV      36  7 10 19  45:71  31 (+)
-19.FFC Viktoria Frankfurt/Oder    36  6  7 23  40:74  25 (+)
+16.VFB'1892 Lichterfelde Berlin    36  9 10 17  41:54 – 37
+17.BSC Süd'1905 Brandenburg    36  9  7 20  38:72 – 34
+18.Sievershäger SV      36  7 10 19  45:71 – 31 (+)
+19.FFC Viktoria Frankfurt/Oder    36  6  7 23  40:74 – 25 (+)
 
 Promoted: BFC Dynamo Berlin, FC Anker Wismar, Ludwigsfelder FC
 
   Nordost Süd
 
- 1.VFC Plauen        30 21  6  3  66:24  69
+ 1.VFC Plauen        30 21  6  3  66:24 – 69
 ---------------------------------------------------------------
- 2.FC Carl-Zeiss Jena      30 20  8  2  67:18  68
- 3.1.FC Magdeburg      30 18  8  4  51:16  62
- 4.FC Halle        30 16  9  5  56:32  57
- 5.FV Dresden-Nord      30 17  5  8  48:31  56
- 6.FC Energie Cottbus Amateure    30 15  3 12  53:41  48
- 7.VFBŽ1909 Pößneck      30  9  9 12  38:46  36
- 8.FSV Zwickau        30  9  9 12  29:39  36
- 9.Oberlausitzer FC Neugersdorf    30  9  7 14  44:48  34
-10.SV GrimmaŽ1919      30  8  9 13  34:48  33
-11.FV Dresden-LaubegastŽ1906    30  9  6 15  38:56  33
-12.VFBŽ1900 Germania Halberstadt  30  6 13 11  31:44  31 (+)
-13.VFBŽ1907 Vogtland Auerbach    30  5 11 14  29:49  26 (+)
-14.BSV Eintracht Sonderhausen    30  5 11 14  39:64  26
-15.FC Erfurt-Nord      30  5  5 20  26:67  20 (+)
+ 2.FC Carl-Zeiss Jena      30 20  8  2  67:18 – 68
+ 3.1.FC Magdeburg      30 18  8  4  51:16 – 62
+ 4.FC Halle        30 16  9  5  56:32 – 57
+ 5.FV Dresden-Nord      30 17  5  8  48:31 – 56
+ 6.FC Energie Cottbus Amateure    30 15  3 12  53:41 – 48
+ 7.VFB'1909 Pößneck      30  9  9 12  38:46 – 36
+ 8.FSV Zwickau        30  9  9 12  29:39 – 36
+ 9.Oberlausitzer FC Neugersdorf    30  9  7 14  44:48 – 34
+10.SV Grimma'1919      30  8  9 13  34:48 – 33
+11.FV Dresden-Laubegast'1906    30  9  6 15  38:56 – 33
+12.VFB'1900 Germania Halberstadt  30  6 13 11  31:44 – 31 (+)
+13.VFB'1907 Vogtland Auerbach    30  5 11 14  29:49 – 26 (+)
+14.BSV Eintracht Sonderhausen    30  5 11 14  39:64 – 26
+15.FC Erfurt-Nord      30  5  5 20  26:67 – 20 (+)
 ---------------------------------------------------------------
-16.Dresdener SC        30  3 10 17  26:54  19 (-)
+16.Dresdener SC        30  3 10 17  26:54 – 19 (-)
 17.FC Anhalt Dessau      withdrew
 18.VFB Leipzig        withdrew
 
 NB: FC Anhalt Dessau and VFB Leipzig went bankrupt
 
-Promoted: FC Eilenburg, SV DessauŽ05, ZFC Meuselwitz
+Promoted: FC Eilenburg, SV Dessau'05, ZFC Meuselwitz
 
 Promotion Playoff Nordost
 
@@ -4043,51 +4031,51 @@ VFC Plauen    2-4  Hertha BSC Berlin Amateure
 Second Leg [Jun 6]
 Hertha BSC Berlin  2-3  VFC Plauen
 
-‹2002/03›
+‹2002/03, see page duit03›
 
-‹2004/05›
+‹2004/05, see page duit05›
 
-‹list of champions›
+‹list of champions, see page duitchamp›
 
-‹all-time table›
+‹all-time table, see page duialltime›
 
-‹list of 2nd level champions›
+‹list of 2nd level champions, see page duit2champ›
 
-‹list of amateur champions›
+‹list of amateur champions, see page duitamachamp›
 
-‹oberliga berlin 1945-1963›
+‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
 
-‹oberliga nord 1945-1963›
+‹oberliga nord 1945-1963, see page duit-ol-nord4563›
 
-‹oberliga süd 1945-1963›
+‹oberliga süd 1945-1963, see page duit-ol-sued4563›
 
-‹oberliga südwest 1945-1963›
+‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
 
-‹oberliga südwest süd 1945-1950›
+‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
 
-‹oberliga west 1945-1963›
+‹oberliga west 1945-1963, see page duit-ol-west4563›
 
-‹regionalliga nord 63-74›
+‹regionalliga nord 63-74, see page dui3nordhist›
 
-‹regionalliga süd 63-74›
+‹regionalliga süd 63-74, see page dui3suedhist›
 
-‹regionalliga west 63-74›
+‹regionalliga west 63-74, see page dui3westhist›
 
-‹list of cup finals›
+‹list of cup finals, see page duitcuphist›
 
-‹list of super and league cup finals›
+‹list of super and league cup finals, see page duitsupcuphist›
 
-‹list of topscorers›
+‹list of topscorers, see page duittops›
 
-‹list of 2nd level topscorers›
+‹list of 2nd level topscorers, see page duit2tops›
 
-‹list of foundation dates›
+‹list of foundation dates, see page duitfound›
 
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 Prepared and maintained by Lars Kubusch for the
 ‹Rec.Sport.Soccer Statistics Foundation›

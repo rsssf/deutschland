@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit93.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit93.html
+    -->
+  
 
 
 ## Germany 1992/93
@@ -684,7 +684,7 @@ Werder Bremen 1992/93
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

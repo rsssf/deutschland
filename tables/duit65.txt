@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit65.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit65.html
+    -->
+  
 
 
 ## Germany 1964/65
@@ -495,7 +495,7 @@ Werder Bremen 1964/65
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

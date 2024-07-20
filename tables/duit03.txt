@@ -1,18 +1,14 @@
-<!--
-   source: http://rsssf.com/tablesd/duit03.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit03.html
+    -->
+  
 
 
 ## Germany 2002/03
 
 
 
-
-
-#### 1. Bundesliga
-
-
+1.Bundesliga
 
 Final Table:
 
@@ -99,7 +95,7 @@ M'gladbach     3-0 K'lautern
   [Van Hout 23, 48, Münch 36]
 [Aug 25]
 Nürnberg       3-1 Hannover
-  [Ciric 16 pen, 36, Cacau 49; NDiaye 82 pen]
+  [Ciric 16 pen, 36, Cacau 49; N'Diaye 82 pen]
 Schalke        0-0 Hertha
 
 Round 4
@@ -109,10 +105,10 @@ Bremen         4-1 Nürnberg
 Bochum         0-0 Dortmund
 Bayern         3-1 1860
   [Salihamidzic 41, Pizarro 52, Elber 76; Max 14]
-Hertha         1-2 Mgladbach
+Hertha         1-2 M'gladbach
   [Preetz 80; Münch 9 pen, Van Hout 58]
 [Sep 11]
-Klautern      1-1 Bielefeld
+K'lautern      1-1 Bielefeld
   [Basler 56; Diabang 59]
 Stuttgart      1-1 Schalke
   [Bordon 33; Hajto 87 pen]
@@ -543,11 +539,7 @@ Final Table:
 18.FC Energie Cottbus           34  7  9 18  34-64  30  Relegated
 
 
-
-
-#### DFB Pokal
-
-
+Germany Cup (DFB Pokal) 2002/03
 
 
 Round 1                                                                   Spectators
@@ -570,7 +562,7 @@ SC Paderborn 07              1-4 VfB Stuttgart                                 3
 FC Erzgebirge Aue            1-3 VfL Bochum                                    6,500
   [Broum 3; Buckley 24, Freier 43, Hashemian 60]
 VfR Aalen                    2-3 Hannover 96                      [aet]        4,950
-  [Hering 8, 45; Linke 10, NKufo 83, Gorges 98]
+  [Hering 8, 45; Linke 10, N'Kufo 83, Gorges 98]
 [Sep 1]
 Holstein Kiel                1-1 Hertha BSC Berlin           [aet, 3-0 pen]    9,300
   [Rose 44; Preetz 53]
@@ -659,7 +651,7 @@ First Level vs First Level
 VfL:  Maric, Karhan, (Ponte), (Klimowicz), Petrov, Schnoor, Biliskov, (Rau), Sarpei, Rytter, (Reitmaier)
 [Nov 6]
 FC Bayern München            2-1 Hannover 96                                   8,000
-  [Salihamidzic 56 pen, Santa Cruz 58; NKufo 90+1 pen]
+  [Salihamidzic 56 pen, Santa Cruz 58; N'Kufo 90+1 pen]
 Energie Cottbus              0-1 1.FC Kaiserslautern                           6,774
   [Timm 83]
 Bayer 04 Leverkusen          3-0 VfB Stuttgart                                22,500
@@ -780,11 +772,11 @@ Venue: Berlin, Olympiastadion
 Spectators: 70,490
 
 FC Bayern München:
-Kahn  Kuffour, Linke, Sagnol, Lizarazu (84 Tarnat)  Jeremies (76 Fink), Hargreaves, Ballack, Zé Roberto (76 Scholl)  Pizarro, Elber
+Kahn – Kuffour, Linke, Sagnol, Lizarazu (84 Tarnat) – Jeremies (76 Fink), Hargreaves, Ballack, Zé Roberto (76 Scholl) – Pizarro, Elber
 Coach: Hitzfeld
 
 1.FC Kaiserslautern:
-Wiese  H Koch (46 Riedl), Klos, Lembi, Tchato  Anfang, Hristov, Lincoln (63 Timm)  Klose, Dominguez (81 Teber)  Lokvenc
+Wiese – H Koch (46 Riedl), Klos, Lembi, Tchato – Anfang, Hristov, Lincoln (63 Timm) – Klose, Dominguez (81 Teber) – Lokvenc
 Coach: Gerets
 
 Referee: Lutz-Michael Fröhlich (Berlin)
@@ -794,11 +786,7 @@ Red Card: Hristov (78)
 
 
 
-
-
-#### 2. Bundesliga
-
-
+2.Bundesliga
 
 Final Table:
 
@@ -2273,51 +2261,51 @@ Group Bayern Süd
 17.FC 1920 Gundelfingen/Donau  34   6  8 20   27- 67  26 Relegated
 18.TSG 1890 Thannhausen   34   4  7 23   38- 87  19 Relegated
 
-‹2001/02›
+‹2001/02, see page duit02›
 
-‹2003/04›
+‹2003/04, see page duit04›
 
-‹list of champions›
+‹list of champions, see page duitchamp›
 
-‹all-time table›
+‹all-time table, see page duialltime›
 
-‹list of 2nd level champions›
+‹list of 2nd level champions, see page duit2champ›
 
-‹list of amateur champions›
+‹list of amateur champions, see page duitamachamp›
 
-‹oberliga berlin 1945-1963›
+‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
 
-‹oberliga nord 1945-1963›
+‹oberliga nord 1945-1963, see page duit-ol-nord4563›
 
-‹oberliga süd 1945-1963›
+‹oberliga süd 1945-1963, see page duit-ol-sued4563›
 
-‹oberliga südwest 1945-1963›
+‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
 
-‹oberliga südwest süd 1945-1950›
+‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
 
-‹oberliga west 1945-1963›
+‹oberliga west 1945-1963, see page duit-ol-west4563›
 
-‹regionalliga nord 63-74›
+‹regionalliga nord 63-74, see page dui3nordhist›
 
-‹regionalliga süd 63-74›
+‹regionalliga süd 63-74, see page dui3suedhist›
 
-‹regionalliga west 63-74›
+‹regionalliga west 63-74, see page dui3westhist›
 
-‹list of cup finals›
+‹list of cup finals, see page duitcuphist›
 
-‹list of super and league cup finals›
+‹list of super and league cup finals, see page duitsupcuphist›
 
-‹list of topscorers›
+‹list of topscorers, see page duittops›
 
-‹list of 2nd level topscorers›
+‹list of 2nd level topscorers, see page duit2tops›
 
-‹list of foundation dates›
+‹list of foundation dates, see page duitfound›
 
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 Prepared and maintained by Pierre Winkler,
 Daniel Dalence Garcia and Manuel Schmidt for the
@@ -2325,8 +2313,7 @@ Daniel Dalence Garcia and Manuel Schmidt for the
 
 
 Authors:
-Pierre Winkler
-,
+Pierre Winkler,
 Daniel Dalence Garcia
 and Manuel Schmidt
 

@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit82.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit82.html
+    -->
+  
 
 
 ## Germany 1981/82
@@ -667,7 +667,7 @@ Hamburger SV 1981/82
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

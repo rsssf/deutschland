@@ -1,17 +1,13 @@
-<!--
-   source: http://rsssf.com/tablesd/duit08.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit08.html
+    -->
+  
 
 
 ## Germany 2007/08
 
 
-
-
-#### 1. Bundesliga
-
-
+1.Bundesliga
 
 Final Table:
 
@@ -529,11 +525,7 @@ Final Table:
 
 
 
-
-
-#### DFB Pokal
-
-
+DFB Pokal 2007/08
 
 Round 1
 [Aug 3]
@@ -624,11 +616,10 @@ Borussia Dortmund        1-2 Bayern München            [aet]
 
 
 
+Second Level 2007/08
 
 
-#### 2. Bundesliga
-
-
+2.Bundesliga
 
 Final Table:
 
@@ -2031,51 +2022,51 @@ Württemberg
 15.FV Ravensburg     30  5  7 18 27:61 22
 16.SV Fellbach       30  3 11 16 28:54 20 Relegated
 
-‹2006/07›
+‹2006/07, see page duit07›
 
-‹2008/09›
+‹2008/09, see page duit09›
 
-‹list of champions›
+‹list of champions, see page duitchamp›
 
-‹all-time table›
+‹all-time table, see page duialltime›
 
-‹list of 2nd level champions›
+‹list of 2nd level champions, see page duit2champ›
 
-‹list of amateur champions›
+‹list of amateur champions, see page duitamachamp›
 
-‹oberliga berlin 1945-1963›
+‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
 
-‹oberliga nord 1945-1963›
+‹oberliga nord 1945-1963, see page duit-ol-nord4563›
 
-‹oberliga süd 1945-1963›
+‹oberliga süd 1945-1963, see page duit-ol-sued4563›
 
-‹oberliga südwest 1945-1963›
+‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
 
-‹oberliga südwest süd 1945-1950›
+‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
 
-‹oberliga west 1945-1963›
+‹oberliga west 1945-1963, see page duit-ol-west4563›
 
-‹regionalliga nord 63-74›
+‹regionalliga nord 63-74, see page dui3nordhist›
 
-‹regionalliga süd 63-74›
+‹regionalliga süd 63-74, see page dui3suedhist›
 
-‹regionalliga west 63-74›
+‹regionalliga west 63-74, see page dui3westhist›
 
-‹list of cup finals›
+‹list of cup finals, see page duitcuphist›
 
-‹list of super and league cup finals›
+‹list of super and league cup finals, see page duitsupcuphist›
 
-‹list of topscorers›
+‹list of topscorers, see page duittops›
 
-‹list of 2nd level topscorers›
+‹list of 2nd level topscorers, see page duit2tops›
 
-‹list of foundation dates›
+‹list of foundation dates, see page duitfound›
 
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 and Daniel Dalence for the

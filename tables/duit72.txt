@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit72.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit72.html
+    -->
+  
 
 
 ## Germany 1971/72
@@ -641,7 +641,7 @@ FC Bayern München 1971/72
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

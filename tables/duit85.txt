@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit85.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit85.html
+    -->
+  
 
 
 ## Germany 1984/85
@@ -685,7 +685,7 @@ FC Bayern München 1984/85
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

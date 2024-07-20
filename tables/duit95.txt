@@ -1,7 +1,7 @@
-<!--
-   source: http://rsssf.com/tablesd/duit95.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit95.html
+    -->
+  
 
 
 ## Germany 1994/95
@@ -731,7 +731,7 @@ Borussia Dortmund 1994/95
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 With thanks to Gerd Heuser
 

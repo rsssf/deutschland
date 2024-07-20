@@ -1,19 +1,19 @@
-<!--
-   source: http://rsssf.com/tablesd/duit2012.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesd/duit2012.html
+    -->
+  
 
 
 ## Germany 2011/12
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹1. Bundesliga›
-‹DFB Pokal›
-‹2. Bundesliga›
-‹3. Bundesliga›
+‹1. Bundesliga, see §1bl›
+‹DFB Pokal, see §dfbpokal›
+‹2. Bundesliga, see §2bl›
+‹3. Liga, see §3bl›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga
+#### 1. Bundesliga  ‹§1bl›
 
 
 Final Table:
@@ -34,12 +34,12 @@ Final Table:
 14.FC Augsburg                  34   8 14 12  36-49  38
 15.Hamburger SV                 34   8 12 14  35-57  36
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.Hertha BSC Berlin            34   7 10 17  38-64  31  ‹Relegation Playoff›
+16.Hertha BSC Berlin            34   7 10 17  38-64  31  ‹Relegation Playoff, see §1prorel›
 ------------------------------------------------------ -
 17.1.FC Köln                    34   8  6 20  39-75  30  Relegated
 18.1.FC Kaiserslautern          34   4 11 19  24-54  23  Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga**
+**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
 
 First Leg [May 10]
 Hertha          1-2 Düsseldorf
@@ -51,7 +51,7 @@ NB: Fortuna Düsseldorf promoted, Hertha BSC relegated
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal
+#### DFB Pokal  ‹§dfbpokal›
 
 
 
@@ -72,7 +72,7 @@ Eintracht Trier        2-1 Sankt Pauli
 Hallescher FC          0-2 Eintracht Frankfurt
 RW Ahlen              0-10 Paderborn
 SV Babelsberg 03       0-2 MSV Duisburg
-Oldenburg              1-2 Hamburg
+VfB Oldenburg          1-2 Hamburg
 Hansa Rostock          2-2 Bochum                 [aet, 3-5 pen]
 Holstein Kiel          3-0 Energie Cottbus
 Kickers Emden          1-5 FSV Frankfurt          [aet]
@@ -145,7 +145,7 @@ Borussia Dortmund      5-2 Bayern München
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga
+#### 2. Bundesliga  ‹§2bl›
 
 
 
@@ -154,7 +154,7 @@ Final Table:
  1.SpVgg Greuther Fürth         34  20 10  4  73-27  70  Promoted
  2.Eintracht Frankfurt          34  20  8  6  76-33  68  Promoted
 -------------------------------------------------------
- 3.Fortuna Düsseldorf           34  16 14  4  64-35  62  ‹Promotion Playoff›
+ 3.Fortuna Düsseldorf           34  16 14  4  64-35  62  ‹Promotion Playoff, see §1prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.FC Sankt Pauli               34  18  8  8  59-34  62
  5.SC Paderborn 07              34  17 10  7  51-42  61
@@ -169,12 +169,12 @@ Final Table:
 14.FC Energie Cottbus           34   8 11 15  30-49  35
 15.FC Erzgebirge Aue            34   8 11 15  31-55  35
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.Karlsruher SC                34   9  6 19  34-60  33  ‹Relegation Playoff›
+16.Karlsruher SC                34   9  6 19  34-60  33  ‹Relegation Playoff, see §2prorel›
 -------------------------------------------------------
 17.TSV Alemannia Aachen         34   6 13 15  30-47  31  Relegated
 18.FC Hansa Rostock             34   5 12 17  34-63  27  Relegated
 
-**Promotion/Relegation Playoff 2./3. Bundesliga**
+**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
 
 First Leg [May 11]
 Regensburg      1-1 Karlsruhe
@@ -187,7 +187,7 @@ NB: Jahn Regensburg promoted, Karlsruher SC relegated
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Bundesliga
+#### 3. Liga  ‹§3bl›
 
 
 Final Table:
@@ -195,7 +195,7 @@ Final Table:
  1.SV Sandhausen                38  19  9 10  57-42  66  Promoted
  2.VfR Aalen                    38  18 10 10  50-42  64  Promoted
 -------------------------------------------------------
- 3.Jahn Regensburg              38  16 13  9  55-41  61  ‹Promotion Playoff›
+ 3.Jahn Regensburg              38  16 13  9  55-41  61  ‹Promotion Playoff, see §2prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  4.1. FC Heidenheim             38  16 12 10  48-36  60
  5.Rot-Weiß Erfurt              38  15 14  9  54-41  59
@@ -220,48 +220,48 @@ Final Table:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2010/11›
+‹2010/11, see page duit2011›
 
-‹2012/13›
+‹2012/13, see page duit2013›
 
-‹list of champions›
+‹list of champions, see page duitchamp›
 
-‹all-time table›
+‹all-time table, see page duialltime›
 
-‹list of 2nd level champions›
+‹list of 2nd level champions, see page duit2champ›
 
-‹list of amateur champions›
+‹list of amateur champions, see page duitamachamp›
 
-‹oberliga berlin 1945-1963›
+‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
 
-‹oberliga nord 1945-1963›
+‹oberliga nord 1945-1963, see page duit-ol-nord4563›
 
-‹oberliga süd 1945-1963›
+‹oberliga süd 1945-1963, see page duit-ol-sued4563›
 
-‹oberliga südwest 1945-1963›
+‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
 
-‹oberliga südwest süd 1945-1950›
+‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
 
-‹oberliga west 1945-1963›
+‹oberliga west 1945-1963, see page duit-ol-west4563›
 
-‹regionalliga nord 63-74›
+‹regionalliga nord 63-74, see page dui3nordhist›
 
-‹regionalliga süd 63-74›
+‹regionalliga süd 63-74, see page dui3suedhist›
 
-‹regionalliga west 63-74›
+‹regionalliga west 63-74, see page dui3westhist›
 
-‹list of cup finals›
+‹list of cup finals, see page duitcuphist›
 
-‹list of super and league cup finals›
+‹list of super and league cup finals, see page duitsupcuphist›
 
-‹list of topscorers›
+‹list of topscorers, see page duittops›
 
-‹list of 2nd level topscorers›
+‹list of 2nd level topscorers, see page duit2tops›
 
-‹list of foundation dates›
+‹list of foundation dates, see page duitfound›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -269,9 +269,9 @@ for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 Author: Karel Stokkermans
 
-Last updated: 5 Feb 2015
+Last updated: 23 Sep 2021
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2012/15**
+**(C) Copyright Karel Stokkermans and RSSSF 2012/21**
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.
