@@ -1,0 +1,476 @@
+= Deutsche Bundesliga 2020/21
+
+Round 1
+[Sep 18]
+Bayern          8-0 Schalke
+[Sep 19]
+Frankfurt       1-1 Bielefeld
+Stuttgart       2-3 Freiburg
+Union           1-3 Augsburg
+Köln            2-3 Hoffenheim
+Bremen          1-4 Hertha
+Dortmund        3-0 Mönchengladbach
+[Sep 20]
+Leipzig         3-1 Mainz
+Wolfsburg       0-0 Leverkusen
+
+Round 2
+[Sep 25]
+Hertha          1-3 Frankfurt
+[Sep 26]
+Mainz           1-4 Stuttgart
+Mönchengladbach 1-1 Union
+Augsburg        2-0 Dortmund
+Leverkusen      1-1 Leipzig
+Bielefeld       1-0 Köln
+Schalke         1-3 Bremen
+[Sep 27]
+Hoffenheim      4-1 Bayern
+Freiburg        1-1 Wolfsburg
+
+Round 3
+[Oct 2]
+Union           4-0 Mainz
+[Oct 3]
+Köln            1-3 Mönchengladbach
+Stuttgart       1-1 Leverkusen
+Dortmund        4-0 Freiburg
+Bremen          1-0 Bielefeld
+Frankfurt       2-1 Hoffenheim
+Leipzig         4-0 Schalke
+[Oct 4]
+Wolfsburg       0-0 Augsburg
+Bayern          4-3 Hertha
+
+Round 4
+[Oct 17]
+Hoffenheim      0-1 Dortmund
+Freiburg        1-1 Bremen
+Hertha          0-2 Stuttgart
+Mainz           0-1 Leverkusen
+Augsburg        0-2 Leipzig
+Bielefeld       1-4 Bayern
+Mönchengladbach 1-1 Wolfsburg
+[Oct 18]
+Köln            1-1 Frankfurt
+Schalke         1-1 Union
+
+Round 5
+[Oct 23]
+Stuttgart       1-1 Köln
+[Oct 24]
+Mainz           2-3 Mönchengladbach
+Bayern          5-0 Frankfurt
+Union           1-1 Freiburg
+Leipzig         2-1 Hertha
+Dortmund        3-0 Schalke
+[Oct 25]
+Wolfsburg       2-1 Bielefeld
+Bremen          1-1 Hoffenheim
+[Oct 26]
+Leverkusen      3-1 Augsburg
+
+Round 6
+[Oct 30]
+Schalke         1-1 Stuttgart
+[Oct 31]
+Bielefeld       0-2 Dortmund
+Köln            1-2 Bayern
+Frankfurt       1-1 Bremen
+Augsburg        3-1 Mainz
+Mönchengladbach 1-0 Leipzig
+[Nov 1]
+Freiburg        2-4 Leverkusen
+Hertha          1-1 Wolfsburg
+[Nov 2]
+Hoffenheim      1-3 Union
+
+Round 7
+[Nov 6]
+Bremen          1-1 Köln
+[Nov 7]
+Augsburg        0-3 Hertha
+Leipzig         3-0 Freiburg
+Union           5-0 Bielefeld
+Stuttgart       2-2 Frankfurt
+Mainz           2-2 Schalke
+Dortmund        2-3 Bayern
+[Nov 8]
+Wolfsburg       2-1 Hoffenheim
+Leverkusen      4-3 Mönchengladbach
+
+Round 8
+[Nov 21]
+Mönchengladbach 1-1 Augsburg
+Bielefeld       1-2 Leverkusen
+Schalke         0-2 Wolfsburg
+Bayern          1-1 Bremen
+Hoffenheim      3-3 Stuttgart
+Frankfurt       1-1 Leipzig
+Hertha          2-5 Dortmund
+[Nov 22]
+Freiburg        1-3 Mainz
+Köln            1-2 Union
+
+Round 9
+[Nov 27]
+Wolfsburg       5-3 Bremen
+[Nov 28]
+Augsburg        1-1 Freiburg
+Dortmund        1-2 Köln
+Union           3-3 Frankfurt
+Stuttgart       1-3 Bayern
+Leipzig         2-1 Bielefeld
+Mönchengladbach 4-1 Schalke
+[Nov 29]
+Leverkusen      0-0 Hertha
+Mainz           1-1 Hoffenheim
+
+Round 10
+[Dec 4]
+Hertha          3-1 Union
+[Dec 5]
+Freiburg        2-2 Mönchengladbach
+Bielefeld       2-1 Mainz
+Frankfurt       1-1 Dortmund
+Köln            2-2 Wolfsburg
+Bayern          3-3 Leipzig
+[Dec 6]
+Bremen          1-2 Stuttgart
+Schalke         0-3 Leverkusen
+[Dec 7]
+Hoffenheim      3-1 Augsburg
+
+Round 11
+[Dec 11]
+Wolfsburg       2-1 Frankfurt
+[Dec 12]
+Leipzig         2-0 Bremen
+Dortmund        1-5 Stuttgart
+Mainz           0-1 Köln
+Mönchengladbach 1-1 Hertha
+Freiburg        2-0 Bielefeld
+Union           1-1 Bayern
+[Dec 13]
+Augsburg        2-2 Schalke
+Leverkusen      4-1 Hoffenheim
+
+Round 12
+[Dec 15]
+Frankfurt       3-3 Mönchengladbach
+Hertha          0-0 Mainz
+Bremen          1-2 Dortmund
+Stuttgart       2-2 Union
+[Dec 16]
+Schalke         0-2 Freiburg
+Bielefeld       0-1 Augsburg
+Hoffenheim      0-1 Leipzig
+Köln            0-4 Leverkusen
+Bayern          2-1 Wolfsburg
+
+Round 13
+[Dec 18]
+Union           2-1 Dortmund
+[Dec 19]
+Mönchengladbach 1-2 Hoffenheim
+Leipzig         0-0 Köln
+Schalke         0-1 Bielefeld
+Augsburg        0-2 Frankfurt
+Mainz           0-1 Bremen
+Leverkusen      1-2 Bayern
+[Dec 20]
+Freiburg        4-1 Hertha
+Wolfsburg       1-0 Stuttgart
+
+Round 14
+[Jan 2]
+Hoffenheim      1-3 Freiburg
+Köln            0-1 Augsburg
+Bremen          0-2 Union
+Bielefeld       0-1 Mönchengladbach
+Frankfurt       2-1 Leverkusen
+Hertha          3-0 Schalke
+Stuttgart       0-1 Leipzig
+[Jan 3]
+Dortmund        2-0 Wolfsburg
+Bayern          5-2 Mainz
+
+Round 15
+[Jan 8]
+Mönchengladbach 3-2 Bayern
+[Jan 9]
+Union           2-2 Wolfsburg
+Mainz           0-2 Frankfurt
+Leverkusen      1-1 Bremen
+Schalke         4-0 Hoffenheim
+Freiburg        5-0 Köln
+Leipzig         1-3 Dortmund
+[Jan 10]
+Augsburg        1-4 Stuttgart
+Bielefeld       1-0 Hertha
+
+Round 16
+[Jan 15]
+Union           1-0 Leverkusen
+[Jan 16]
+Hoffenheim      0-0 Bielefeld
+Wolfsburg       2-2 Leipzig
+Dortmund        1-1 Mainz
+Bremen          2-0 Augsburg
+Köln            0-0 Hertha
+Stuttgart       2-2 Mönchengladbach
+[Jan 17]
+Bayern          2-1 Freiburg
+Frankfurt       3-1 Schalke
+
+Round 17
+[Jan 19]
+Mönchengladbach 1-0 Bremen
+Hertha          0-3 Hoffenheim
+Mainz           0-2 Wolfsburg
+Leverkusen      2-1 Dortmund
+[Jan 20]
+Schalke         1-2 Köln
+Bielefeld       3-0 Stuttgart
+Augsburg        0-1 Bayern
+Leipzig         1-0 Union
+Freiburg        2-2 Frankfurt
+
+Round 18
+[Jan 22]
+Mönchengladbach 4-2 Dortmund
+[Jan 23]
+Bielefeld       1-5 Frankfurt
+Augsburg        2-1 Union
+Freiburg        2-1 Stuttgart
+Mainz           3-2 Leipzig
+Leverkusen      0-1 Wolfsburg
+Hertha          1-4 Bremen
+[Jan 24]
+Schalke         0-4 Bayern
+Hoffenheim      3-0 Köln
+
+Round 19
+[Jan 29]
+Stuttgart       2-0 Mainz
+[Jan 30]
+Bayern          4-1 Hoffenheim
+Bremen          1-1 Schalke
+Union           1-1 Mönchengladbach
+Frankfurt       3-1 Hertha
+Dortmund        3-1 Augsburg
+Leipzig         1-0 Leverkusen
+[Jan 31]
+Köln            3-1 Bielefeld
+Wolfsburg       3-0 Freiburg
+
+Round 20
+[Feb 5]
+Hertha          0-1 Bayern
+[Feb 6]
+Mainz           1-0 Union
+Leverkusen      5-2 Stuttgart
+Augsburg        0-2 Wolfsburg
+Schalke         0-3 Leipzig
+Freiburg        2-1 Dortmund
+Mönchengladbach 1-2 Köln
+[Feb 7]
+Hoffenheim      1-3 Frankfurt
+[Mar 10]
+Bielefeld       0-2 Bremen
+
+Round 21
+[Feb 12]
+Leipzig         2-1 Augsburg
+[Feb 13]
+Leverkusen      2-2 Mainz
+Dortmund        2-2 Hoffenheim
+Stuttgart       1-1 Hertha
+Bremen          0-0 Freiburg
+Union           0-0 Schalke
+[Feb 14]
+Frankfurt       2-0 Köln
+Wolfsburg       0-0 Mönchengladbach
+[Feb 15]
+Bayern          3-3 Bielefeld
+
+Round 22
+[Feb 19]
+Bielefeld       0-3 Wolfsburg
+[Feb 20]
+Köln            0-1 Stuttgart
+Mönchengladbach 1-2 Mainz
+Frankfurt       2-1 Bayern
+Freiburg        0-1 Union
+Schalke         0-4 Dortmund
+[Feb 21]
+Augsburg        1-1 Leverkusen
+Hertha          0-3 Leipzig
+Hoffenheim      4-0 Bremen
+
+Round 23
+[Feb 26]
+Bremen          2-1 Frankfurt
+[Feb 27]
+Dortmund        3-0 Bielefeld
+Bayern          5-1 Köln
+Stuttgart       5-1 Schalke
+Wolfsburg       2-0 Hertha
+Leipzig         3-2 Mönchengladbach
+[Feb 28]
+Union           1-1 Hoffenheim
+Mainz           0-1 Augsburg
+Leverkusen      1-2 Freiburg
+
+Round 24
+[Mar 5]
+Schalke         0-0 Mainz
+[Mar 6]
+Mönchengladbach 0-1 Leverkusen
+Frankfurt       1-1 Stuttgart
+Hertha          2-1 Augsburg
+Freiburg        0-3 Leipzig
+Hoffenheim      2-1 Wolfsburg
+Bayern          4-2 Dortmund
+Köln            1-1 Bremen
+[Mar 7]
+Bielefeld       0-0 Union
+
+Round 25
+[Mar 12]
+Augsburg        3-1 Mönchengladbach
+[Mar 13]
+Union           2-1 Köln
+Mainz           1-0 Freiburg
+Wolfsburg       5-0 Schalke
+Bremen          1-3 Bayern
+Dortmund        2-0 Hertha
+[Mar 14]
+Leverkusen      1-2 Bielefeld
+Leipzig         1-1 Frankfurt
+Stuttgart       2-0 Hoffenheim
+
+Round 26
+[Mar 19]
+Bielefeld       0-1 Leipzig
+[Mar 20]
+Köln            2-2 Dortmund
+Frankfurt       5-2 Union
+Bayern          4-0 Stuttgart
+Bremen          1-2 Wolfsburg
+Schalke         0-3 Mönchengladbach
+[Mar 21]
+Hoffenheim      1-2 Mainz
+Hertha          3-0 Leverkusen
+Freiburg        2-0 Augsburg
+
+Round 27
+[Apr 3]
+Augsburg        2-1 Hoffenheim
+Leverkusen      2-1 Schalke
+Dortmund        1-2 Frankfurt
+Wolfsburg       1-0 Köln
+Mainz           1-1 Bielefeld
+Leipzig         0-1 Bayern
+Mönchengladbach 2-1 Freiburg
+[Apr 4]
+Stuttgart       1-0 Bremen
+Union           1-1 Hertha
+
+Round 28
+[Apr 9]
+Bielefeld       1-0 Freiburg
+[Apr 10]
+Bayern          1-1 Union
+Frankfurt       4-3 Wolfsburg
+Bremen          1-4 Leipzig
+Hertha          2-2 Mönchengladbach
+Stuttgart       2-3 Dortmund
+[Apr 11]
+Schalke         1-0 Augsburg
+Köln            2-3 Mainz
+[Apr 12]
+Hoffenheim      0-0 Leverkusen
+
+Round 29
+[Apr 16]
+Leipzig         0-0 Hoffenheim
+[Apr 17]
+Augsburg        0-0 Bielefeld
+Freiburg        4-0 Schalke
+Wolfsburg       2-3 Bayern
+Mönchengladbach 4-0 Frankfurt
+Union           2-1 Stuttgart
+Leverkusen      3-0 Köln
+[Apr 18]
+Dortmund        4-1 Bremen
+[May 3]
+Mainz           1-1 Hertha
+
+Round 30
+[Apr 20]
+Köln            2-1 Leipzig
+Bayern          2-0 Leverkusen
+Frankfurt       2-0 Augsburg
+Bielefeld       1-0 Schalke
+[Apr 21]
+Stuttgart       1-3 Wolfsburg
+Bremen          0-1 Mainz
+Hoffenheim      3-2 Mönchengladbach
+Dortmund        2-0 Union
+[May 6]
+Hertha          3-0 Freiburg
+
+Round 31
+[Apr 23]
+Augsburg        2-3 Köln
+[Apr 24]
+Union           3-1 Bremen
+Wolfsburg       0-2 Dortmund
+Freiburg        1-1 Hoffenheim
+Mainz           2-1 Bayern
+Leverkusen      3-1 Frankfurt
+[Apr 25]
+Leipzig         2-0 Stuttgart
+Mönchengladbach 5-0 Bielefeld
+[May 12]
+Schalke         1-2 Hertha
+
+Round 32
+[May 7]
+Stuttgart       2-1 Augsburg
+[May 8]
+Dortmund        3-2 Leipzig
+Hoffenheim      4-2 Schalke
+Wolfsburg       3-0 Union
+Bremen          0-0 Leverkusen
+Bayern          6-0 Mönchengladbach
+[May 9]
+Köln            1-4 Freiburg
+Frankfurt       1-1 Mainz
+Hertha          0-0 Bielefeld
+
+Round 33
+[May 15]
+Bielefeld       1-1 Hoffenheim
+Leverkusen      1-1 Union
+Mönchengladbach 1-2 Stuttgart
+Augsburg        2-0 Bremen
+Schalke         4-3 Frankfurt
+Hertha          0-0 Köln
+Freiburg        2-2 Bayern
+[May 16]
+Mainz           1-3 Dortmund
+Leipzig         2-2 Wolfsburg
+
+Round 34 [May 22]
+Köln            1-0 Schalke
+Union           2-1 Leipzig
+Dortmund        3-1 Leverkusen
+Frankfurt       3-1 Freiburg
+Bayern          5-2 Augsburg
+Hoffenheim      2-1 Hertha
+Stuttgart       0-2 Bielefeld
+Wolfsburg       2-3 Mainz
+Bremen          2-4 Mönchengladbach
+

@@ -1,4 +1,4 @@
-## DFB Pokal
+= DFB Pokal 2011/12
 
 Round 1
 [Jul 29]
@@ -17,7 +17,7 @@ Eintracht Trier        2-1 Sankt Pauli
 Hallescher FC          0-2 Eintracht Frankfurt
 RW Ahlen              0-10 Paderborn
 SV Babelsberg 03       0-2 MSV Duisburg
-Oldenburg              1-2 Hamburg
+VfB Oldenburg          1-2 Hamburg
 Hansa Rostock          2-2 Bochum                 [aet, 3-5 pen]
 Holstein Kiel          3-0 Energie Cottbus
 Kickers Emden          1-5 FSV Frankfurt          [aet]

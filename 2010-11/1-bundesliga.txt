@@ -1,4 +1,4 @@
-## 1. Bundesliga
+= Deutsche Bundesliga 2010/11
 
 Round 1
 [Aug 20]
@@ -89,7 +89,7 @@ Hannover 96          0-1  FC St. Pauli
 [Oct 2]
 Hamburger SV         2-1  1. FC Kaiserslautern
 1. FSV Mainz 05      4-2  1899 Hoffenheim
-Borussia M'gladbach  1-1 =VfL Wolfsburg
+Borussia M'gladbach  1-1  VfL Wolfsburg
 SC Freiburg          3-2  1. FC Köln
 1. FC Nürnberg       2-1  FC Schalke 04
 [Oct 3]

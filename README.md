@@ -4,86 +4,182 @@
 football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for
 Germany (Deutschland)
 
-_Last Update: 2015-09-13 13:32:13 +0200_
+| Season | League, Cup | Errors |
+| :----- | :---------- | -----: |
+| 2023-24 | [1-bundesliga.txt](2023-24/1-bundesliga.txt) |  OK  |
+| 2023-24 | [cup.txt](2023-24/cup.txt) |  **!! 1**  |
+| 2022-23 | [1-bundesliga.txt](2022-23/1-bundesliga.txt) |  OK  |
+| 2022-23 | [cup.txt](2022-23/cup.txt) |  **!! 1**  |
+| 2021-22 | [1-bundesliga.txt](2021-22/1-bundesliga.txt) |  **!! 1**  |
+| 2021-22 | [cup.txt](2021-22/cup.txt) |  **!! 1**  |
+| 2020-21 | [1-bundesliga.txt](2020-21/1-bundesliga.txt) |  OK  |
+| 2020-21 | [cup.txt](2020-21/cup.txt) |  OK  |
+| 2019-20 | [1-bundesliga.txt](2019-20/1-bundesliga.txt) |  OK  |
+| 2018-19 | [1-bundesliga.txt](2018-19/1-bundesliga.txt) |  OK  |
+| 2018-19 | [cup.txt](2018-19/cup.txt) |  OK  |
+| 2017-18 | [1-bundesliga.txt](2017-18/1-bundesliga.txt) |  OK  |
+| 2017-18 | [cup.txt](2017-18/cup.txt) |  OK  |
+| 2016-17 | [1-bundesliga.txt](2016-17/1-bundesliga.txt) |  OK  |
+| 2016-17 | [cup.txt](2016-17/cup.txt) |  OK  |
+| 2015-16 | [1-bundesliga.txt](2015-16/1-bundesliga.txt) |  OK  |
+| 2015-16 | [cup.txt](2015-16/cup.txt) |  **!! 3**  |
+| 2014-15 | [1-bundesliga.txt](2014-15/1-bundesliga.txt) |  OK  |
+| 2014-15 | [cup.txt](2014-15/cup.txt) |  OK  |
+| 2013-14 | [1-bundesliga.txt](2013-14/1-bundesliga.txt) |  OK  |
+| 2013-14 | [cup.txt](2013-14/cup.txt) |  OK  |
+| 2012-13 | [1-bundesliga.txt](2012-13/1-bundesliga.txt) |  OK  |
+| 2012-13 | [cup.txt](2012-13/cup.txt) |  OK  |
+| 2011-12 | [1-bundesliga.txt](2011-12/1-bundesliga.txt) |  **!! 1**  |
+| 2011-12 | [cup.txt](2011-12/cup.txt) |  OK  |
+| 2010-11 | [1-bundesliga.txt](2010-11/1-bundesliga.txt) |  OK  |
+| 2010-11 | [cup.txt](2010-11/cup.txt) |  **!! 6**  |
+| 2009-10 | [1-bundesliga.txt](2009-10/1-bundesliga.txt) |  OK  |
+| 2009-10 | [cup.txt](2009-10/cup.txt) |  OK  |
+| 2008-09 | [1-bundesliga.txt](2008-09/1-bundesliga.txt) |  **!! 1**  |
+| 2008-09 | [cup.txt](2008-09/cup.txt) |  **!! 1**  |
+| 2007-08 | [1-bundesliga.txt](2007-08/1-bundesliga.txt) |  **!! 1**  |
+| 2007-08 | [cup.txt](2007-08/cup.txt) |  **!! 1**  |
+| 2006-07 | [1-bundesliga.txt](2006-07/1-bundesliga.txt) |  **!! 1**  |
+| 2006-07 | [cup.txt](2006-07/cup.txt) |  **!! 1**  |
+| 2005-06 | [1-bundesliga.txt](2005-06/1-bundesliga.txt) |  **!! 1**  |
+| 2005-06 | [cup.txt](2005-06/cup.txt) |  **!! 1**  |
+| 2004-05 | [1-bundesliga.txt](2004-05/1-bundesliga.txt) |  **!! 1**  |
+| 2004-05 | [cup.txt](2004-05/cup.txt) |  **!! 1**  |
+| 2003-04 | [1-bundesliga.txt](2003-04/1-bundesliga.txt) |  **!! 1**  |
+| 2003-04 | [cup.txt](2003-04/cup.txt) |  **!! 1**  |
+| 2002-03 | [1-bundesliga.txt](2002-03/1-bundesliga.txt) |  **!! 1**  |
+| 2002-03 | [cup.txt](2002-03/cup.txt) |  **!! 1**  |
+| 2001-02 | [1-bundesliga.txt](2001-02/1-bundesliga.txt) |  **!! 1**  |
+| 2001-02 | [cup.txt](2001-02/cup.txt) |  **!! 1**  |
+| 2000-01 | [1-bundesliga.txt](2000-01/1-bundesliga.txt) |  **!! 1**  |
+| 2000-01 | [cup.txt](2000-01/cup.txt) |  **!! 1**  |
+| 1999-00 | [1-bundesliga.txt](1999-00/1-bundesliga.txt) |  **!! 1**  |
+| 1999-00 | [cup.txt](1999-00/cup.txt) |  **!! 1**  |
+| 1998-99 | [1-bundesliga.txt](1998-99/1-bundesliga.txt) |  **!! 1**  |
+| 1998-99 | [cup.txt](1998-99/cup.txt) |  **!! 1**  |
+| 1997-98 | [1-bundesliga.txt](1997-98/1-bundesliga.txt) |  **!! 1**  |
+| 1997-98 | [cup.txt](1997-98/cup.txt) |  **!! 1**  |
+| 1996-97 | [1-bundesliga.txt](1996-97/1-bundesliga.txt) |  **!! 1**  |
+| 1996-97 | [cup.txt](1996-97/cup.txt) |  **!! 1**  |
+| 1995-96 | [1-bundesliga.txt](1995-96/1-bundesliga.txt) |  **!! 1**  |
+| 1994-95 | [1-bundesliga.txt](1994-95/1-bundesliga.txt) |  **!! 1**  |
+| 1993-94 | [1-bundesliga.txt](1993-94/1-bundesliga.txt) |  **!! 1**  |
+| 1992-93 | [1-bundesliga.txt](1992-93/1-bundesliga.txt) |  **!! 1**  |
+| 1991-92 | [1-bundesliga.txt](1991-92/1-bundesliga.txt) |  **!! 1**  |
+| 1990-91 | [1-bundesliga.txt](1990-91/1-bundesliga.txt) |  **!! 1**  |
+| 1989-90 | [1-bundesliga.txt](1989-90/1-bundesliga.txt) |  **!! 1**  |
+| 1988-89 | [1-bundesliga.txt](1988-89/1-bundesliga.txt) |  **!! 1**  |
+| 1987-88 | [1-bundesliga.txt](1987-88/1-bundesliga.txt) |  **!! 1**  |
+| 1986-87 | [1-bundesliga.txt](1986-87/1-bundesliga.txt) |  **!! 1**  |
+| 1985-86 | [1-bundesliga.txt](1985-86/1-bundesliga.txt) |  **!! 1**  |
+| 1984-85 | [1-bundesliga.txt](1984-85/1-bundesliga.txt) |  **!! 1**  |
+| 1983-84 | [1-bundesliga.txt](1983-84/1-bundesliga.txt) |  **!! 1**  |
+| 1982-83 | [1-bundesliga.txt](1982-83/1-bundesliga.txt) |  **!! 1**  |
+| 1981-82 | [1-bundesliga.txt](1981-82/1-bundesliga.txt) |  **!! 1**  |
+| 1980-81 | [1-bundesliga.txt](1980-81/1-bundesliga.txt) |  **!! 1**  |
+| 1979-80 | [1-bundesliga.txt](1979-80/1-bundesliga.txt) |  **!! 1**  |
+| 1978-79 | [1-bundesliga.txt](1978-79/1-bundesliga.txt) |  **!! 1**  |
+| 1977-78 | [1-bundesliga.txt](1977-78/1-bundesliga.txt) |  **!! 1**  |
+| 1976-77 | [1-bundesliga.txt](1976-77/1-bundesliga.txt) |  **!! 1**  |
+| 1975-76 | [1-bundesliga.txt](1975-76/1-bundesliga.txt) |  **!! 1**  |
+| 1974-75 | [1-bundesliga.txt](1974-75/1-bundesliga.txt) |  **!! 1**  |
+| 1973-74 | [1-bundesliga.txt](1973-74/1-bundesliga.txt) |  **!! 1**  |
+| 1972-73 | [1-bundesliga.txt](1972-73/1-bundesliga.txt) |  **!! 1**  |
+| 1971-72 | [1-bundesliga.txt](1971-72/1-bundesliga.txt) |  **!! 1**  |
+| 1970-71 | [1-bundesliga.txt](1970-71/1-bundesliga.txt) |  **!! 1**  |
+| 1969-70 | [1-bundesliga.txt](1969-70/1-bundesliga.txt) |  **!! 1**  |
+| 1968-69 | [1-bundesliga.txt](1968-69/1-bundesliga.txt) |  **!! 1**  |
+| 1967-68 | [1-bundesliga.txt](1967-68/1-bundesliga.txt) |  **!! 1**  |
+| 1966-67 | [1-bundesliga.txt](1966-67/1-bundesliga.txt) |  **!! 1**  |
+| 1965-66 | [1-bundesliga.txt](1965-66/1-bundesliga.txt) |  **!! 1**  |
+| 1964-65 | [1-bundesliga.txt](1964-65/1-bundesliga.txt) |  **!! 1**  |
+| 1963-64 | [1-bundesliga.txt](1963-64/1-bundesliga.txt) |  **!! 1**  |
 
-| Season | League, Cup | Rounds |
-|:------ | :---------- | -----: |
-| 2014-15 | [1-bundesliga.txt](2014-15/1-bundesliga.txt) | 34 |
-| 2014-15 | [cup.txt](2014-15/cup.txt) | 6 |
-| 2013-14 | [1-bundesliga.txt](2013-14/1-bundesliga.txt) | 34 |
-| 2013-14 | [cup.txt](2013-14/cup.txt) | 6 |
-| 2012-13 | [1-bundesliga.txt](2012-13/1-bundesliga.txt) | 34 |
-| 2012-13 | [cup.txt](2012-13/cup.txt) | 6 |
-| 2011-12 | [1-bundesliga.txt](2011-12/1-bundesliga.txt) | 0 |
-| 2011-12 | [cup.txt](2011-12/cup.txt) | 6 |
-| 2010-11 | [1-bundesliga.txt](2010-11/1-bundesliga.txt) | 34 |
-| 2010-11 | [cup.txt](2010-11/cup.txt) | 6 |
-| 2009-10 | [1-bundesliga.txt](archive/2000s/2009-10/1-bundesliga.txt) | 33 |
-| 2009-10 | [cup.txt](archive/2000s/2009-10/cup.txt) | 6 |
-| 2008-09 | [1-bundesliga.txt](archive/2000s/2008-09/1-bundesliga.txt) | 108 |
-| 2008-09 | [cup.txt](archive/2000s/2008-09/cup.txt) | 85 |
-| 2007-08 | [1-bundesliga.txt](archive/2000s/2007-08/1-bundesliga.txt) | 75 |
-| 2007-08 | [cup.txt](archive/2000s/2007-08/cup.txt) | 55 |
-| 2006-07 | [1-bundesliga.txt](archive/2000s/2006-07/1-bundesliga.txt) | 70 |
-| 2006-07 | [cup.txt](archive/2000s/2006-07/cup.txt) | 42 |
-| 2005-06 | [1-bundesliga.txt](archive/2000s/2005-06/1-bundesliga.txt) | 70 |
-| 2005-06 | [cup.txt](archive/2000s/2005-06/cup.txt) | 42 |
-| 2004-05 | [1-bundesliga.txt](archive/2000s/2004-05/1-bundesliga.txt) | 143 |
-| 2004-05 | [cup.txt](archive/2000s/2004-05/cup.txt) | 119 |
-| 2003-04 | [1-bundesliga.txt](archive/2000s/2003-04/1-bundesliga.txt) | 139 |
-| 2003-04 | [cup.txt](archive/2000s/2003-04/cup.txt) | 112 |
-| 2002-03 | [1-bundesliga.txt](archive/2000s/2002-03/1-bundesliga.txt) | 74 |
-| 2002-03 | [cup.txt](archive/2000s/2002-03/cup.txt) | 55 |
-| 2001-02 | [1-bundesliga.txt](archive/2000s/2001-02/1-bundesliga.txt) | 138 |
-| 2001-02 | [cup.txt](archive/2000s/2001-02/cup.txt) | 111 |
-| 2000-01 | [1-bundesliga.txt](archive/2000s/2000-01/1-bundesliga.txt) | 71 |
-| 2000-01 | [cup.txt](archive/2000s/2000-01/cup.txt) | 43 |
-| 1999-00 | [1-bundesliga.txt](archive/1990s/1999-00/1-bundesliga.txt) | 78 |
-| 1999-00 | [cup.txt](archive/1990s/1999-00/cup.txt) | 55 |
-| 1998-99 | [1-bundesliga.txt](archive/1990s/1998-99/1-bundesliga.txt) | 37 |
-| 1998-99 | [cup.txt](archive/1990s/1998-99/cup.txt) | 10 |
-| 1997-98 | [1-bundesliga.txt](archive/1990s/1997-98/1-bundesliga.txt) | 37 |
-| 1997-98 | [cup.txt](archive/1990s/1997-98/cup.txt) | 7 |
-| 1996-97 | [1-bundesliga.txt](archive/1990s/1996-97/1-bundesliga.txt) | 36 |
-| 1996-97 | [cup.txt](archive/1990s/1996-97/cup.txt) | 10 |
-| 1995-96 | [1-bundesliga.txt](archive/1990s/1995-96/1-bundesliga.txt) | 34 |
-| 1994-95 | [1-bundesliga.txt](archive/1990s/1994-95/1-bundesliga.txt) | 34 |
-| 1993-94 | [1-bundesliga.txt](archive/1990s/1993-94/1-bundesliga.txt) | 35 |
-| 1992-93 | [1-bundesliga.txt](archive/1990s/1992-93/1-bundesliga.txt) | 34 |
-| 1991-92 | [1-bundesliga.txt](archive/1990s/1991-92/1-bundesliga.txt) | 38 |
-| 1990-91 | [1-bundesliga.txt](archive/1990s/1990-91/1-bundesliga.txt) | 34 |
-| 1989-90 | [1-bundesliga.txt](archive/1980s/1989-90/1-bundesliga.txt) | 34 |
-| 1988-89 | [1-bundesliga.txt](archive/1980s/1988-89/1-bundesliga.txt) | 33 |
-| 1987-88 | [1-bundesliga.txt](archive/1980s/1987-88/1-bundesliga.txt) | 34 |
-| 1986-87 | [1-bundesliga.txt](archive/1980s/1986-87/1-bundesliga.txt) | 34 |
-| 1985-86 | [1-bundesliga.txt](archive/1980s/1985-86/1-bundesliga.txt) | 34 |
-| 1984-85 | [1-bundesliga.txt](archive/1980s/1984-85/1-bundesliga.txt) | 34 |
-| 1983-84 | [1-bundesliga.txt](archive/1980s/1983-84/1-bundesliga.txt) | 34 |
-| 1982-83 | [1-bundesliga.txt](archive/1980s/1982-83/1-bundesliga.txt) | 34 |
-| 1981-82 | [1-bundesliga.txt](archive/1980s/1981-82/1-bundesliga.txt) | 34 |
-| 1980-81 | [1-bundesliga.txt](archive/1980s/1980-81/1-bundesliga.txt) | 34 |
-| 1979-80 | [1-bundesliga.txt](archive/1970s/1979-80/1-bundesliga.txt) | 34 |
-| 1978-79 | [1-bundesliga.txt](archive/1970s/1978-79/1-bundesliga.txt) | 34 |
-| 1977-78 | [1-bundesliga.txt](archive/1970s/1977-78/1-bundesliga.txt) | 34 |
-| 1976-77 | [1-bundesliga.txt](archive/1970s/1976-77/1-bundesliga.txt) | 34 |
-| 1975-76 | [1-bundesliga.txt](archive/1970s/1975-76/1-bundesliga.txt) | 34 |
-| 1974-75 | [1-bundesliga.txt](archive/1970s/1974-75/1-bundesliga.txt) | 34 |
-| 1973-74 | [1-bundesliga.txt](archive/1970s/1973-74/1-bundesliga.txt) | 34 |
-| 1972-73 | [1-bundesliga.txt](archive/1970s/1972-73/1-bundesliga.txt) | 34 |
-| 1971-72 | [1-bundesliga.txt](archive/1970s/1971-72/1-bundesliga.txt) | 34 |
-| 1970-71 | [1-bundesliga.txt](archive/1970s/1970-71/1-bundesliga.txt) | 34 |
-| 1969-70 | [1-bundesliga.txt](archive/1960s/1969-70/1-bundesliga.txt) | 35 |
-| 1968-69 | [1-bundesliga.txt](archive/1960s/1968-69/1-bundesliga.txt) | 34 |
-| 1967-68 | [1-bundesliga.txt](archive/1960s/1967-68/1-bundesliga.txt) | 34 |
-| 1966-67 | [1-bundesliga.txt](archive/1960s/1966-67/1-bundesliga.txt) | 34 |
-| 1965-66 | [1-bundesliga.txt](archive/1960s/1965-66/1-bundesliga.txt) | 34 |
-| 1964-65 | [1-bundesliga.txt](archive/1960s/1964-65/1-bundesliga.txt) | 30 |
-| 1963-64 | [1-bundesliga.txt](archive/1960s/1963-64/1-bundesliga.txt) | 30 |
 
+73 errors in 88 datafile(s)
 
-
-## Questions? Comments?
-
-Send them along to the
-[Open Sports & Friends Forum](http://groups.google.com/group/opensport).
-Thanks!
+```
+2023-24/cup.txt -- warn - heading with no text paragraph(s)
+2022-23/cup.txt -- warn - heading with no text paragraph(s)
+2021-22/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @52,53
+     in line >Bochum          0-2 Mönchengladbach [abandoned at 0-2 in 70' due to crowd<
+2021-22/cup.txt -- warn - heading with no text paragraph(s)
+2015-16/cup.txt -- parse error (INSIDE_RE) - skipping >0-< @61,62
+     in line >Osnabrück              awd RB Leipzig             [awarded 0-2; abandoned at 1-0 in 71'<
+2015-16/cup.txt -- parse error (INSIDE_RE) - skipping >1-< @79,80
+     in line >Osnabrück              awd RB Leipzig             [awarded 0-2; abandoned at 1-0 in 71'<
+2015-16/cup.txt -- parse error (INSIDE_RE) - skipping >1-< @25,26
+     in line >Sankt Pauli            1-4 Borussia M'gladbach     after referee was hit by lighter]<
+2011-12/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+2010-11/cup.txt -- parse error (RE) - skipping >(18'< @4,5
+     in line >(18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)<
+2010-11/cup.txt -- parse error (RE) - skipping >22'< @17,18
+     in line >(18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)<
+2010-11/cup.txt -- parse error (RE) - skipping >42'< @32,33
+     in line >(18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)<
+2010-11/cup.txt -- parse error (RE) - skipping >55'< @45,46
+     in line >(18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)<
+2010-11/cup.txt -- parse error (RE) - skipping >70'< @57,58
+     in line >(18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)<
+2010-11/cup.txt -- parse error (RE) - skipping >Huntelaar)< @58,68
+     in line >(18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)<
+2008-09/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+2008-09/cup.txt -- warn - heading with no text paragraph(s)
+2007-08/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+2007-08/cup.txt -- warn - heading with no text paragraph(s)
+2006-07/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+2006-07/cup.txt -- warn - heading with no text paragraph(s)
+2005-06/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+2005-06/cup.txt -- warn - heading with no text paragraph(s)
+2004-05/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+2004-05/cup.txt -- warn - heading with no text paragraph(s)
+2003-04/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+2003-04/cup.txt -- warn - heading with no text paragraph(s)
+2002-03/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+2002-03/cup.txt -- warn - heading with no text paragraph(s)
+2001-02/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+2001-02/cup.txt -- warn - heading with no text paragraph(s)
+2000-01/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+2000-01/cup.txt -- warn - heading with no text paragraph(s)
+1999-00/1-bundesliga.txt -- warn - heading with no text paragraph(s)
+1999-00/cup.txt -- warn - heading with no text paragraph(s)
+1998-99/1-bundesliga.txt -- warn - no heading for 101 text paragraph(s); skipping parse
+1998-99/cup.txt -- warn - no heading for 10 text paragraph(s); skipping parse
+1997-98/1-bundesliga.txt -- warn - no heading for 100 text paragraph(s); skipping parse
+1997-98/cup.txt -- warn - no heading for 7 text paragraph(s); skipping parse
+1996-97/1-bundesliga.txt -- warn - no heading for 95 text paragraph(s); skipping parse
+1996-97/cup.txt -- warn - no heading for 10 text paragraph(s); skipping parse
+1995-96/1-bundesliga.txt -- warn - no heading for 99 text paragraph(s); skipping parse
+1994-95/1-bundesliga.txt -- warn - no heading for 93 text paragraph(s); skipping parse
+1993-94/1-bundesliga.txt -- warn - no heading for 97 text paragraph(s); skipping parse
+1992-93/1-bundesliga.txt -- warn - no heading for 76 text paragraph(s); skipping parse
+1991-92/1-bundesliga.txt -- warn - no heading for 80 text paragraph(s); skipping parse
+1990-91/1-bundesliga.txt -- warn - no heading for 84 text paragraph(s); skipping parse
+1989-90/1-bundesliga.txt -- warn - no heading for 68 text paragraph(s); skipping parse
+1988-89/1-bundesliga.txt -- warn - no heading for 72 text paragraph(s); skipping parse
+1987-88/1-bundesliga.txt -- warn - no heading for 70 text paragraph(s); skipping parse
+1986-87/1-bundesliga.txt -- warn - no heading for 70 text paragraph(s); skipping parse
+1985-86/1-bundesliga.txt -- warn - no heading for 74 text paragraph(s); skipping parse
+1984-85/1-bundesliga.txt -- warn - no heading for 77 text paragraph(s); skipping parse
+1983-84/1-bundesliga.txt -- warn - no heading for 68 text paragraph(s); skipping parse
+1982-83/1-bundesliga.txt -- warn - no heading for 66 text paragraph(s); skipping parse
+1981-82/1-bundesliga.txt -- warn - no heading for 68 text paragraph(s); skipping parse
+1980-81/1-bundesliga.txt -- warn - no heading for 66 text paragraph(s); skipping parse
+1979-80/1-bundesliga.txt -- warn - no heading for 59 text paragraph(s); skipping parse
+1978-79/1-bundesliga.txt -- warn - no heading for 70 text paragraph(s); skipping parse
+1977-78/1-bundesliga.txt -- warn - no heading for 54 text paragraph(s); skipping parse
+1976-77/1-bundesliga.txt -- warn - no heading for 62 text paragraph(s); skipping parse
+1975-76/1-bundesliga.txt -- warn - no heading for 58 text paragraph(s); skipping parse
+1974-75/1-bundesliga.txt -- warn - no heading for 67 text paragraph(s); skipping parse
+1973-74/1-bundesliga.txt -- warn - no heading for 57 text paragraph(s); skipping parse
+1972-73/1-bundesliga.txt -- warn - no heading for 56 text paragraph(s); skipping parse
+1971-72/1-bundesliga.txt -- warn - no heading for 53 text paragraph(s); skipping parse
+1970-71/1-bundesliga.txt -- warn - no heading for 62 text paragraph(s); skipping parse
+1969-70/1-bundesliga.txt -- warn - no heading for 71 text paragraph(s); skipping parse
+1968-69/1-bundesliga.txt -- warn - no heading for 59 text paragraph(s); skipping parse
+1967-68/1-bundesliga.txt -- warn - no heading for 43 text paragraph(s); skipping parse
+1966-67/1-bundesliga.txt -- warn - no heading for 40 text paragraph(s); skipping parse
+1965-66/1-bundesliga.txt -- warn - no heading for 41 text paragraph(s); skipping parse
+1964-65/1-bundesliga.txt -- warn - no heading for 33 text paragraph(s); skipping parse
+1963-64/1-bundesliga.txt -- warn - no heading for 40 text paragraph(s); skipping parse
+```

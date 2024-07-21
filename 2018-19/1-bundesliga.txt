@@ -1,0 +1,476 @@
+= Deutsche Bundesliga 2018/19
+
+Round 1
+[Aug 24]
+Bayern          3-1 Hoffenheim
+[Aug 25]
+Düsseldorf      1-2 Augsburg
+Hertha          1-0 Nürnberg
+Freiburg        0-2 Frankfurt
+Wolfsburg       2-1 Schalke
+Bremen          1-1 Hannover
+Mönchengladbach 2-0 Leverkusen
+[Aug 26]
+Mainz           1-0 Stuttgart
+Dortmund        4-1 Leipzig
+
+Round 2
+[Aug 31]
+Hannover        0-0 Dortmund
+[Sep 1]
+Nürnberg        1-1 Mainz
+Leverkusen      1-3 Wolfsburg
+Frankfurt       1-2 Bremen
+Augsburg        1-1 Mönchengladbach
+Hoffenheim      3-1 Freiburg
+Stuttgart       0-3 Bayern
+[Sep 2]
+Leipzig         1-1 Düsseldorf
+Schalke         0-2 Hertha
+
+Round 3
+[Sep 14]
+Dortmund        3-1 Frankfurt
+[Sep 15]
+Düsseldorf      2-1 Hoffenheim
+Bayern          3-1 Leverkusen
+Wolfsburg       2-2 Hertha
+Leipzig         3-2 Hannover
+Mainz           2-1 Augsburg
+Mönchengladbach 2-1 Schalke
+[Sep 16]
+Bremen          1-1 Nürnberg
+Freiburg        3-3 Stuttgart
+
+Round 4
+[Sep 21]
+Stuttgart       0-0 Düsseldorf
+[Sep 22]
+Nürnberg        2-0 Hannover
+Wolfsburg       1-3 Freiburg
+Hoffenheim      1-1 Dortmund
+Hertha          4-2 Mönchengladbach
+Augsburg        2-3 Bremen
+Schalke         0-2 Bayern
+[Sep 23]
+Leverkusen      1-0 Mainz
+Frankfurt       1-1 Leipzig
+
+Round 5
+[Sep 25]
+Bremen          3-1 Hertha
+Bayern          1-1 Augsburg
+Hannover        1-3 Hoffenheim
+Freiburg        1-0 Schalke
+[Sep 26]
+Düsseldorf      1-2 Leverkusen
+Mainz           0-0 Wolfsburg
+Dortmund        7-0 Nürnberg
+Mönchengladbach 3-1 Frankfurt
+Leipzig         2-0 Stuttgart
+
+Round 6
+[Sep 28]
+Hertha          2-0 Bayern
+[Sep 29]
+Nürnberg        3-0 Düsseldorf
+Schalke         1-0 Mainz
+Hoffenheim      1-2 Leipzig
+Stuttgart       2-1 Bremen
+Wolfsburg       2-2 Mönchengladbach
+Leverkusen      2-4 Dortmund
+[Sep 30]
+Frankfurt       4-1 Hannover
+Augsburg        4-1 Freiburg
+
+Round 7
+[Oct 5]
+Bremen          2-0 Wolfsburg
+[Oct 6]
+Mainz           0-0 Hertha
+Dortmund        4-3 Augsburg
+Düsseldorf      0-2 Schalke
+Hannover        3-1 Stuttgart
+Bayern          0-3 Mönchengladbach
+[Oct 7]
+Freiburg        0-0 Leverkusen
+Hoffenheim      1-2 Frankfurt
+Leipzig         6-0 Nürnberg
+
+Round 8
+[Oct 19]
+Frankfurt       7-1 Düsseldorf
+[Oct 20]
+Nürnberg        1-3 Hoffenheim
+Leverkusen      2-2 Hannover
+Augsburg        0-0 Leipzig
+Stuttgart       0-4 Dortmund
+Wolfsburg       1-3 Bayern
+Schalke         0-2 Bremen
+[Oct 21]
+Hertha          1-1 Freiburg
+Mönchengladbach 4-0 Mainz
+
+Round 9
+[Oct 26]
+Freiburg        3-1 Mönchengladbach
+[Oct 27]
+Mainz           1-2 Bayern
+Dortmund        2-2 Hertha
+Düsseldorf      0-3 Wolfsburg
+Hannover        1-2 Augsburg
+Hoffenheim      4-0 Stuttgart
+[Oct 28]
+Nürnberg        1-1 Frankfurt
+Leipzig         0-0 Schalke
+Bremen          2-6 Leverkusen
+
+Round 10
+[Nov 2]
+Stuttgart       0-3 Frankfurt
+[Nov 3]
+Leverkusen      1-4 Hoffenheim
+Augsburg        2-2 Nürnberg
+Bayern          1-1 Freiburg
+Schalke         3-1 Hannover
+Wolfsburg       0-1 Dortmund
+Hertha          0-3 Leipzig
+[Nov 4]
+Mönchengladbach 3-0 Düsseldorf
+Mainz           2-1 Bremen
+
+Round 11
+[Nov 9]
+Hannover        2-1 Wolfsburg
+[Nov 10]
+Nürnberg        0-2 Stuttgart
+Düsseldorf      4-1 Hertha
+Freiburg        1-3 Mainz
+Hoffenheim      2-1 Augsburg
+Bremen          1-3 Mönchengladbach
+Dortmund        3-2 Bayern
+[Nov 11]
+Leipzig         3-0 Leverkusen
+Frankfurt       3-0 Schalke
+
+Round 12
+[Nov 23]
+Leverkusen      2-0 Stuttgart
+[Nov 24]
+Mainz           1-2 Dortmund
+Augsburg        1-3 Frankfurt
+Bayern          3-3 Düsseldorf
+Hertha          3-3 Hoffenheim
+Wolfsburg       1-0 Leipzig
+Schalke         5-2 Nürnberg
+[Nov 25]
+Freiburg        1-1 Bremen
+Mönchengladbach 4-1 Hannover
+
+Round 13
+[Nov 30]
+Düsseldorf      0-1 Mainz
+[Dec 1]
+Dortmund        2-0 Freiburg
+Hannover        0-2 Hertha
+Stuttgart       1-0 Augsburg
+Bremen          1-2 Bayern
+Hoffenheim      1-1 Schalke
+[Dec 2]
+Leipzig         2-0 Mönchengladbach
+Frankfurt       1-2 Wolfsburg
+[Dec 3]
+Nürnberg        1-1 Leverkusen
+
+Round 14
+[Dec 7]
+Bremen          3-1 Düsseldorf
+[Dec 8]
+Leverkusen      1-0 Augsburg
+Bayern          3-0 Nürnberg
+Schalke         1-2 Dortmund
+Freiburg        3-0 Leipzig
+Wolfsburg       2-2 Hoffenheim
+Hertha          1-0 Frankfurt
+[Dec 9]
+Mainz           1-1 Hannover
+Mönchengladbach 3-0 Stuttgart
+
+Round 15
+[Dec 14]
+Nürnberg        0-2 Wolfsburg
+[Dec 15]
+Augsburg        1-1 Schalke
+Düsseldorf      2-0 Freiburg
+Hannover        0-4 Bayern
+Hoffenheim      0-0 Mönchengladbach
+Stuttgart       2-1 Hertha
+Dortmund        2-1 Bremen
+[Dec 16]
+Leipzig         4-1 Mainz
+Frankfurt       2-1 Leverkusen
+
+Round 16
+[Dec 18]
+Mönchengladbach 2-0 Nürnberg
+Düsseldorf      2-1 Dortmund
+Hertha          2-2 Augsburg
+Wolfsburg       2-0 Stuttgart
+[Dec 19]
+Schalke         1-2 Leverkusen
+Mainz           2-2 Frankfurt
+Bayern          1-0 Leipzig
+Freiburg        1-1 Hannover
+Bremen          1-1 Hoffenheim
+
+Round 17
+[Dec 21]
+Dortmund        2-1 Mönchengladbach
+[Dec 22]
+Nürnberg        0-1 Freiburg
+Leverkusen      3-1 Hertha
+Hannover        0-1 Düsseldorf
+Leipzig         3-2 Bremen
+Stuttgart       1-3 Schalke
+Frankfurt       0-3 Bayern
+[Dec 23]
+Augsburg        2-3 Wolfsburg
+Hoffenheim      1-1 Mainz
+
+Round 18
+[Jan 18]
+Hoffenheim      1-3 Bayern
+[Jan 19]
+Leverkusen      0-1 Mönchengladbach
+Stuttgart       2-3 Mainz
+Frankfurt       3-1 Freiburg
+Augsburg        1-2 Düsseldorf
+Hannover        0-1 Bremen
+Leipzig         0-1 Dortmund
+[Jan 20]
+Nürnberg        1-3 Hertha
+Schalke         2-1 Wolfsburg
+
+Round 19
+[Jan 25]
+Hertha          2-2 Schalke
+[Jan 26]
+Mainz           2-1 Nürnberg
+Dortmund        5-1 Hannover
+Mönchengladbach 2-0 Augsburg
+Freiburg        2-4 Hoffenheim
+Wolfsburg       0-3 Leverkusen
+Bremen          2-2 Frankfurt
+[Jan 27]
+Bayern          4-1 Stuttgart
+Düsseldorf      0-4 Leipzig
+
+Round 20
+[Feb 1]
+Hannover        0-3 Leipzig
+[Feb 2]
+Nürnberg        1-1 Bremen
+Leverkusen      3-1 Bayern
+Frankfurt       1-1 Dortmund
+Hertha          0-1 Wolfsburg
+Hoffenheim      1-1 Düsseldorf
+Schalke         0-2 Mönchengladbach
+[Feb 3]
+Augsburg        3-0 Mainz
+Stuttgart       2-2 Freiburg
+
+Round 21
+[Feb 8]
+Mainz           1-5 Leverkusen
+[Feb 9]
+Dortmund        3-3 Hoffenheim
+Mönchengladbach 0-3 Hertha
+Hannover        2-0 Nürnberg
+Leipzig         0-0 Frankfurt
+Freiburg        3-3 Wolfsburg
+Bayern          3-1 Schalke
+[Feb 10]
+Bremen          4-0 Augsburg
+Düsseldorf      3-0 Stuttgart
+
+Round 22
+[Feb 15]
+Augsburg        2-3 Bayern
+[Feb 16]
+Schalke         0-0 Freiburg
+Hoffenheim      3-0 Hannover
+Stuttgart       1-3 Leipzig
+Wolfsburg       3-0 Mainz
+Hertha          1-1 Bremen
+[Feb 17]
+Frankfurt       1-1 Mönchengladbach
+Leverkusen      2-0 Düsseldorf
+[Feb 18]
+Nürnberg        0-0 Dortmund
+
+Round 23
+[Feb 22]
+Bremen          1-1 Stuttgart
+[Feb 23]
+Mainz           3-0 Schalke
+Mönchengladbach 0-3 Wolfsburg
+Bayern          1-0 Hertha
+Freiburg        5-1 Augsburg
+Düsseldorf      2-1 Nürnberg
+[Feb 24]
+Hannover        0-3 Frankfurt
+Dortmund        3-2 Leverkusen
+[Feb 25]
+Leipzig         1-1 Hoffenheim
+
+Round 24
+[Mar 1]
+Augsburg        2-1 Dortmund
+[Mar 2]
+Nürnberg        0-1 Leipzig
+Leverkusen      2-0 Freiburg
+Frankfurt       3-2 Hoffenheim
+Schalke         0-4 Düsseldorf
+Hertha          2-1 Mainz
+Mönchengladbach 1-5 Bayern
+[Mar 3]
+Stuttgart       5-1 Hannover
+Wolfsburg       1-1 Bremen
+
+Round 25
+[Mar 8]
+Bremen          4-2 Schalke
+[Mar 9]
+Dortmund        3-1 Stuttgart
+Bayern          6-0 Wolfsburg
+Leipzig         0-0 Augsburg
+Freiburg        2-1 Hertha
+Mainz           0-1 Mönchengladbach
+[Mar 10]
+Hoffenheim      2-1 Nürnberg
+Hannover        2-3 Leverkusen
+[Mar 11]
+Düsseldorf      0-3 Frankfurt
+
+Round 26
+[Mar 15]
+Mönchengladbach 1-1 Freiburg
+[Mar 16]
+Augsburg        3-1 Hannover
+Schalke         0-1 Leipzig
+Stuttgart       1-1 Hoffenheim
+Wolfsburg       5-2 Düsseldorf
+Hertha          2-3 Dortmund
+[Mar 17]
+Leverkusen      1-3 Bremen
+Frankfurt       1-0 Nürnberg
+Bayern          6-0 Mainz
+
+Round 27
+[Mar 29]
+Hoffenheim      4-1 Leverkusen
+[Mar 30]
+Nürnberg        3-0 Augsburg
+Dortmund        2-0 Wolfsburg
+Düsseldorf      3-1 Mönchengladbach
+Freiburg        1-1 Bayern
+Bremen          3-1 Mainz
+Leipzig         5-0 Hertha
+[Mar 31
+Hannover        0-1 Schalke
+Frankfurt       3-0 Stuttgart
+
+Round 28
+[Apr 5]
+Mainz           5-0 Freiburg
+[Apr 6]
+Leverkusen      2-4 Leipzig
+Schalke         1-2 Frankfurt
+Hertha          1-2 Düsseldorf
+Stuttgart       1-1 Nürnberg
+Wolfsburg       3-1 Hannover
+Bayern          5-0 Dortmund
+[Apr 7]
+Augsburg        0-4 Hoffenheim
+Mönchengladbach 1-1 Bremen
+
+Round 29
+[Apr 12]
+Nürnberg        1-1 Schalke
+[Apr 13]
+Hannover        0-1 Mönchengladbach
+Leipzig         2-0 Wolfsburg
+Stuttgart       0-1 Leverkusen
+Bremen          2-1 Freiburg
+Dortmund        2-1 Mainz
+[Apr 14]
+Hoffenheim      2-0 Hertha
+Düsseldorf      1-4 Bayern
+Frankfurt       1-3 Augsburg
+
+Round 30
+[Apr 20]
+Mainz           3-1 Düsseldorf
+Leverkusen      2-0 Nürnberg
+Augsburg        6-0 Stuttgart
+Bayern          1-0 Bremen
+Mönchengladbach 1-2 Leipzig
+Schalke         2-5 Hoffenheim
+[Apr 21]
+Freiburg        0-4 Dortmund
+Hertha          0-0 Hannover
+[Apr 22]
+Wolfsburg       1-1 Frankfurt
+
+Round 31
+[Apr 26]
+Augsburg        1-4 Leverkusen
+[Apr 27]
+Dortmund        2-4 Schalke
+Frankfurt       0-0 Hertha
+Düsseldorf      4-1 Bremen
+Hannover        1-0 Mainz
+Leipzig         2-1 Freiburg
+Stuttgart       1-0 Mönchengladbach
+[Apr 28]
+Hoffenheim      1-4 Wolfsburg
+Nürnberg        1-1 Bayern
+
+Round 32
+[May 3]
+Mainz           3-3 Leipzig
+[May 4]
+Mönchengladbach 2-2 Hoffenheim
+Bayern          3-1 Hannover
+Hertha          3-1 Stuttgart
+Wolfsburg       2-0 Nürnberg
+Bremen          2-2 Dortmund
+[May 5]
+Schalke         0-0 Augsburg
+Freiburg        1-1 Düsseldorf
+Leverkusen      6-1 Frankfurt
+
+Round 33
+[May 11]
+Nürnberg        0-4 Mönchengladbach
+Leverkusen      1-1 Schalke
+Dortmund        3-2 Düsseldorf
+Augsburg        3-4 Hertha
+Hannover        3-0 Freiburg
+Leipzig         0-0 Bayern
+Hoffenheim      0-1 Bremen
+Stuttgart       3-0 Wolfsburg
+[May 12]
+Frankfurt       0-2 Mainz
+
+Round 34 [May 18]
+Mainz           4-2 Hoffenheim
+Mönchengladbach 0-2 Dortmund
+Bayern          5-1 Frankfurt
+Schalke         0-0 Stuttgart
+Düsseldorf      2-1 Hannover
+Hertha          1-5 Leverkusen
+Freiburg        5-1 Nürnberg
+Wolfsburg       8-1 Augsburg
+Bremen          2-1 Leipzig
+
