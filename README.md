@@ -10,7 +10,7 @@ Germany (Deutschland)
 | 2023-24 | [cup.txt](2023-24/cup.txt) |  **!! 1**  |
 | 2022-23 | [1-bundesliga.txt](2022-23/1-bundesliga.txt) |  OK  |
 | 2022-23 | [cup.txt](2022-23/cup.txt) |  **!! 1**  |
-| 2021-22 | [1-bundesliga.txt](2021-22/1-bundesliga.txt) |  **!! 1**  |
+| 2021-22 | [1-bundesliga.txt](2021-22/1-bundesliga.txt) |  OK  |
 | 2021-22 | [cup.txt](2021-22/cup.txt) |  **!! 1**  |
 | 2020-21 | [1-bundesliga.txt](2020-21/1-bundesliga.txt) |  OK  |
 | 2020-21 | [cup.txt](2020-21/cup.txt) |  OK  |
@@ -22,7 +22,7 @@ Germany (Deutschland)
 | 2016-17 | [1-bundesliga.txt](2016-17/1-bundesliga.txt) |  OK  |
 | 2016-17 | [cup.txt](2016-17/cup.txt) |  OK  |
 | 2015-16 | [1-bundesliga.txt](2015-16/1-bundesliga.txt) |  OK  |
-| 2015-16 | [cup.txt](2015-16/cup.txt) |  **!! 3**  |
+| 2015-16 | [cup.txt](2015-16/cup.txt) |  OK  |
 | 2014-15 | [1-bundesliga.txt](2014-15/1-bundesliga.txt) |  OK  |
 | 2014-15 | [cup.txt](2014-15/cup.txt) |  OK  |
 | 2013-14 | [1-bundesliga.txt](2013-14/1-bundesliga.txt) |  OK  |
@@ -96,20 +96,12 @@ Germany (Deutschland)
 | 1963-64 | [1-bundesliga.txt](1963-64/1-bundesliga.txt) |  **!! 1**  |
 
 
-73 errors in 88 datafile(s)
+69 errors in 88 datafile(s)
 
 ```
 2023-24/cup.txt -- warn - heading with no text paragraph(s)
 2022-23/cup.txt -- warn - heading with no text paragraph(s)
-2021-22/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @52,53
-     in line >Bochum          0-2 Mönchengladbach [abandoned at 0-2 in 70' due to crowd<
 2021-22/cup.txt -- warn - heading with no text paragraph(s)
-2015-16/cup.txt -- parse error (INSIDE_RE) - skipping >0-< @61,62
-     in line >Osnabrück              awd RB Leipzig             [awarded 0-2; abandoned at 1-0 in 71'<
-2015-16/cup.txt -- parse error (INSIDE_RE) - skipping >1-< @79,80
-     in line >Osnabrück              awd RB Leipzig             [awarded 0-2; abandoned at 1-0 in 71'<
-2015-16/cup.txt -- parse error (INSIDE_RE) - skipping >1-< @25,26
-     in line >Sankt Pauli            1-4 Borussia M'gladbach     after referee was hit by lighter]<
 2011-12/1-bundesliga.txt -- warn - heading with no text paragraph(s)
 2010-11/cup.txt -- parse error (RE) - skipping >(18'< @4,5
      in line >(18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)<
