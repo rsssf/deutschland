@@ -1,2 +1,814 @@
 = DFB Pokal 2002/03
 
+Round 1                                                                   Spectators
+First Level vs Second Level
+[Aug 31]
+Eintracht Trier              0-2 1.FC Nürnberg                                10,500
+  [Popovic 19, Ciric 51]
+Wacker Burghausen            0-2 FC Energie Cottbus                            6,200
+  [Kaluzny 33, Miriuta 38]
+
+Round 2
+First Level vs First Level
+[Nov 5]
+1860 München                 2-2 VfL Wolfsburg               [aet, 8-7 pen]    5,000
+  [Max 17, Costa 20; Munteanu 21, Klimowicz 50]
+1860: Häßler, (Borimirov), (Meyer), Hoffmann, Suker, Lauth, Costa, (Cerny), Schroth, Votava, Jentzsch
+VfL:  Maric, Karhan, (Ponte), (Klimowicz), Petrov, Schnoor, Biliskov, (Rau), Sarpei, Rytter, (Reitmaier)
+[Nov 6]
+FC Bayern München            2-1 Hannover 96                                   8,000
+  [Salihamidzic 56 pen, Santa Cruz 58; N'Kufo 90+1 pen]
+Energie Cottbus              0-1 1.FC Kaiserslautern                           6,774
+  [Timm 83]
+Bayer 04 Leverkusen          3-0 VfB Stuttgart                                22,500
+  [Sebescen 46, Bierofka 62, 82]
+FC Schalke 04                5-0 Borussia Mönchengladbach                     60,600
+  [Asamoah 22, Sand 30, 33, 55, Mpenza 50]
+
+Round 3
+First Level vs First Level
+[Dec 3]
+Hamburger SV                 0-1 VfL Bochum                                   35,136
+  [Freier 35]
+[Dec 4]
+FC Bayern München            0-0 FC Schalke 04               [aet, 5-4 pen]   20,000
+FCB: Ballack, Jeremies, Hargreaves, N Kovac, Santa Cruz
+S04: (Sand), Möller, Vermant, Hajto, Wilmots
+
+Quarterfinals
+First Level vs First Level
+[Feb 5]
+VfL Bochum                   3-3 1.FC Kaiserslautern         [aet, 3-4 pen]   22,199
+  [Fahrenhorst 8, Reis 33, Christiansen 105 pen; Lokvenc 22, 27, 102]
+VfL: (Schindzielorz), (Reis), Colding, Gudjonsson, Christiansen
+FCK: (H Koch), Klose, Lokvenc, Grammozis, Bjelica
+1860 München                 1-4 SV Werder Bremen            [aet]
+  [Lauth 80; Klasnic 85, 105, Charisteas 94, 120]                              5,000
+
+Semifinals
+First Level vs First Level
+[Mar 4]
+1.FC Kaiserslautern          3-0 SV Werder Bremen                             28,335
+  [Lincoln 8, Klose 52, Timm 80]
+[Mar 5]
+FC Bayern München            3-1 Bayer 04 Leverkusen                          16,000
+  [Ballack 30, Elber 57, 58; Ramelow 52]
+
+Final
+FC Bayern München            3-1 1.FC Kaiserslautern
+[Ballack 3, 10pen, Pizarro 50; Klose 80]
+
+Final Table:
+ 1.SC Freiburg                  34 20  7  7  58-32  67 Promoted
+ 2.1.FC Köln                    34 18 11  5  63-45  65 Promoted
+ 3.Eintracht Frankfurt          34 17 11  6  59-33  62 Promoted
+------------------------------------------------------
+ 4.FSV Mainz 05                 34 19  5 10  64-39  62
+ 5.SpVgg Greuther Fürth         34 15 12  7  55-35  57
+ 6.Alemannia Aachen             34 14  9 11  57-48  51
+ 7.Eintracht Trier              34 14  6 14  53-46  48
+ 8.MSV Duisburg                 34 12 10 12  42-47  46
+ 9.1.FC Union Berlin            34 10 15  9  36-48  45
+10.Wacker Burghausen            34 10 14 10  48-41  44
+11.VfB Lübeck                   34 13  5 16  51-50  44
+12.LR Ahlen                     34 11  7 16  48-60  40
+13.Karlsruher SC                34  9 12 13  35-47  39
+14.Rot-Weiß Oberhausen          34 10  7 17  38-48  37
+------------------------------------------------------
+15.Eintracht Braunschweig       34  8 10 16  33-53  34 Relegated
+16.SSV Reutlingen               34 11  6 17  43-53  33 Relegated [-6]
+17.FC St. Pauli                 34  7 10 17  48-67  31 Relegated
+18.SV Waldhof Mannheim          34  6  7 21  32-71  25 Relegated
+
+Round 1
+[Aug 10]
+Union          0-2 Mainz
+Duisburg       1-0 Fürth
+Trier          2-1 Burghausen
+[Aug 11]
+Lübeck         1-0 Oberhausen
+Ahlen          2-0 Reutlingen
+Aachen         0-1 Freiburg
+Frankfurt      4-0 St Pauli
+Braunschweig   4-2 Mannheim
+[Aug 12]
+Karlsruhe      0-1 Köln
+
+Round 2
+[Aug 16]
+Köln           4-3 Duisburg
+Mannheim       1-2 Union
+Fürth          0-0 Aachen
+[Aug 18]
+St Pauli       1-4 Ahlen
+Burghausen     0-0 Karlsruhe
+Reutlingen     1-3 Lübeck
+Oberhausen     2-0 Braunschweig
+[Aug 19]
+Freiburg       0-2 Frankfurt
+[Sep 18]
+Mainz          2-0 Trier
+
+Round 3
+[Aug 23]
+Trier          3-0 Karlsruhe
+Lübeck         6-0 St Pauli
+Frankfurt      2-0 Fürth
+[Aug 25]
+Braunschweig   1-2 Reutlingen
+Duisburg       0-0 Burghausen
+Union          0-0 Oberhausen
+Mainz          2-0 Mannheim
+Ahlen          1-3 Freiburg
+[Aug 26]
+Aachen         0-0 Köln
+
+Round 4
+[Sep 10]
+Burghausen     2-2 Aachen
+Mannheim       0-2 Trier
+Fürth          1-1 Ahlen
+Karlsruhe      1-1 Duisburg
+Köln           3-2 Frankfurt
+[Sep 11]
+St Pauli       7-1 Braunschweig
+Freiburg       2-1 Lübeck
+Reutlingen     0-1 Union
+Oberhausen     1-0 Mainz
+
+Round 5
+[Sep 13]
+Ahlen          0-0 Köln
+Trier          3-0 Duisburg
+Aachen         2-0 Karlsruhe
+[Sep 15]
+Union          4-2 St Pauli
+Lübeck         1-2 Fürth
+Mainz          1-3 Reutlingen
+Frankfurt      0-2 Burghausen
+Mannheim       1-0 Oberhausen
+[Sep 16]
+Braunschweig   0-2 Freiburg
+
+Round 6
+[Sep 20]
+Burghausen     3-1 Ahlen
+Reutlingen     3-2 Mannheim
+Duisburg       3-3 Aachen
+[Sep 22]
+Oberhausen     2-1 Trier
+Fürth          3-0 Braunschweig
+Freiburg       4-0 Union
+St Pauli       1-4 Mainz
+Köln           2-1 Lübeck
+[Sep 23]
+Karlsruhe      0-2 Frankfurt
+
+Round 7
+[Sep 27]
+Union          2-2 Fürth
+Braunschweig   1-1 Köln
+Mannheim       2-5 St Pauli
+[Sep 29]
+Trier          4-1 Aachen
+Lübeck         3-1 Burghausen
+Ahlen          2-2 Karlsruhe
+Frankfurt      2-1 Duisburg
+Oberhausen     3-1 Reutlingen
+[Sep 30]
+Mainz          0-0 Freiburg
+
+Round 8
+[Oct 4]
+Burghausen     4-2 Braunschweig
+Freiburg       4-1 Mannheim
+St Pauli       0-0 Oberhausen
+[Oct 6]
+Reutlingen     3-2 Trier
+Aachen         1-0 Frankfurt
+Duisburg       2-1 Ahlen
+Karlsruhe      1-2 Lübeck
+Fürth          2-0 Mainz
+[Oct 7]
+Köln           7-0 Union
+
+Round 9
+[Oct 18]
+Lübeck         1-1 Duisburg
+Ahlen          1-2 Aachen
+Trier          2-2 Frankfurt
+[Oct 20]
+Union          2-2 Burghausen
+Braunschweig   1-2 Karlsruhe
+Reutlingen     2-0 St Pauli
+Oberhausen     1-0 Freiburg
+Mannheim       0-0 Fürth
+[Oct 21]
+Mainz          2-2 Köln
+
+Round 10
+[Oct 25]
+Burghausen     0-2 Mainz
+Aachen         4-1 Lübeck
+Köln           3-1 Mannheim
+[Oct 27]
+Fürth          2-2 Oberhausen
+Freiburg       1-4 Reutlingen
+Frankfurt      4-1 Ahlen
+St Pauli       0-0 Trier
+Karlsruhe      3-2 Union
+[Oct 28]
+Duisburg       1-1 Braunschweig
+
+Round 11
+[Nov 1]
+Union          0-0 Duisburg
+Lübeck         1-3 Frankfurt
+St Pauli       0-1 Freiburg
+Oberhausen     2-2 Köln
+[Nov 3]
+Braunschweig   2-3 Aachen
+Reutlingen     2-4 Fürth
+Mannheim       0-4 Burghausen
+Trier          2-1 Ahlen
+[Nov 4]
+Mainz          2-2 Karlsruhe
+
+Round 12
+[Nov 8]
+Burghausen     3-0 Oberhausen
+Frankfurt      0-0 Braunschweig
+Aachen         3-0 Union
+[Nov 10]
+Fürth          2-1 St Pauli
+Ahlen          1-0 Lübeck
+Duisburg       1-0 Mainz
+Karlsruhe      1-1 Mannheim
+Köln           1-1 Reutlingen
+[Nov 11]
+Freiburg       1-0 Trier
+
+Round 13
+[Nov 15]
+Union          1-1 Frankfurt
+Braunschweig   1-0 Ahlen
+Mainz          3-1 Aachen
+[Nov 17]
+Freiburg       1-1 Fürth
+Reutlingen     0-0 Burghausen
+Oberhausen     3-1 Karlsruhe
+Mannheim       1-2 Duisburg
+Trier          1-3 Lübeck
+[Nov 18]
+St Pauli       2-3 Köln
+
+Round 14
+[Nov 22]
+Ahlen          1-1 Union
+Frankfurt      1-0 Mainz
+Aachen         1-2 Mannheim
+Duisburg       3-0 Oberhausen
+[Nov 24]
+Burghausen     1-1 St Pauli
+Fürth          1-2 Trier
+Lübeck         2-1 Braunschweig
+Karlsruhe      0-0 Reutlingen
+[Nov 25]
+Köln           1-0 Freiburg
+
+Round 15
+[Nov 29]
+Reutlingen     2-4 Duisburg
+Oberhausen     1-1 Aachen
+Mannheim       0-1 Frankfurt
+[Dec 1]
+Union          3-1 Lübeck
+Braunschweig   1-1 Trier
+Freiburg       2-1 Burghausen
+Mainz          1-0 Ahlen
+Köln           3-2 Fürth
+[Dec 2]
+St Pauli       1-2 Karlsruhe
+
+Round 16
+[Dec 6]
+Burghausen     1-3 Fürth
+Lübeck         1-3 Mainz
+Duisburg       2-1 St Pauli
+[Dec 8]
+Braunschweig   1-2 Union
+Ahlen          1-4 Mannheim
+Frankfurt      1-0 Oberhausen
+Aachen         3-1 Reutlingen
+Trier          2-3 Köln
+[Dec 9]
+Karlsruhe      1-1 Freiburg
+
+Round 17
+[Dec 13]
+Fürth          0-0 Karlsruhe
+St Pauli       1-4 Aachen
+Mainz          3-1 Braunschweig
+Köln           1-0 Burghausen
+[Dec 15]
+Union          1-3 Trier
+Freiburg       3-1 Duisburg
+Reutlingen     1-0 Frankfurt
+Oberhausen     2-1 Ahlen
+Mannheim       2-1 Lübeck
+
+Round 18
+[Jan 24]
+Köln         3-0 Karlsruhe
+St Pauli       1-1 Frankfurt
+Mannheim       1-1 Braunschweig
+[Jan 26]
+Mainz          1-0 Union
+Fürth          1-0 Duisburg
+Reutlingen     1-2 Ahlen
+Burghausen     1-1 Trier
+Oberhausen     3-1 Lübeck
+[Jan 27]
+Freiburg       1-1 Aachen
+
+Round 19
+[Jan 31]
+Frankfurt      1-1 Freiburg
+[Feb 2]
+Karlsruhe      2-1 Burghausen
+Lübeck         0-0 Reutlingen
+Union          1-1 Mannheim
+Ahlen          3-2 St Pauli
+[Feb 03]
+Trier          2-1 Mainz
+[Feb 05]
+Duisburg       2-2 Köln
+Aachen         0-0 Fürth
+Braunschweig   2-1 Oberhausen
+
+Round 20
+[Feb 7]
+Mannheim       1-5 Mainz
+Burghausen     1-1 Duisburg
+[Feb 9]
+Oberhausen     2-2 Union
+St Pauli       2-0 Lübeck
+Fürth          0-1 Frankfurt
+Karlsruhe      1-1 Trier
+Freiburg       4-0 Ahlen
+[Feb 10]
+Köln           3-3 Aachen
+[Feb 19]
+Reutlingen     0-1 Braunschweig
+
+Round 21
+[Feb 14]
+Duisburg       2-0 Karlsruhe
+Lübeck         2-0 Freiburg
+Braunschweig   0-1 St Pauli
+[Feb 16]
+Trier          2-2 Mannheim
+Ahlen          3-0 Fürth
+Aachen         2-3 Burghausen
+Mainz          2-1 Oberhausen
+[Feb 17]
+Frankfurt      1-1 Köln
+[Mar 26]
+Union          0-0 Reutlingen
+
+Round 22
+[Feb 21]
+Köln           2-1 Ahlen
+Karlsruhe      1-2 Aachen
+Oberhausen     0-1 Mannheim
+[Feb 23]
+Duisburg       2-4 Trier
+St Pauli       2-2 Union
+Fürth          2-1 Lübeck
+Reutlingen     1-2 Mainz
+Burghausen     3-3 Frankfurt
+[Feb 24]
+Freiburg       2-0 Braunschweig
+
+Round 23
+[Feb 28]
+Braunschweig   1-1 Fürth
+Mannheim       0-0 Reutlingen
+Mainz          1-1 St Pauli
+Frankfurt      2-1 Karlsruhe
+[Mar 2]
+Aachen         1-0 Duisburg
+Trier          1-0 Oberhausen
+Ahlen          2-4 Burghausen
+Lübeck         1-1 Köln
+[Mar 3]
+Union          1-1 Freiburg
+
+Round 24
+[Mar 7]
+St Pauli       2-1 Mannheim
+Karlsruhe      2-4 Ahlen
+Freiburg       1-0 Mainz
+[Mar 9]
+Köln           1-1 Braunschweig
+Fürth          1-1 Union
+Reutlingen     2-0 Oberhausen
+Burghausen     0-0 Lübeck
+Aachen         0-1 Trier
+[Mar 10]
+Duisburg       0-2 Frankfurt
+
+Round 25
+[Mar 14]
+Mainz          1-3 Fürth
+Ahlen          0-0 Duisburg
+Trier          1-2 Reutlingen
+[Mar 16]
+Lübeck         2-0 Karlsruhe
+Frankfurt      1-1 Aachen
+Braunschweig   0-0 Burghausen
+Union          0-3 Köln
+Oberhausen     3-0 St Pauli
+[Mar 17]
+Mannheim       0-3 Freiburg
+
+Round 26
+[Mar 21]
+St Pauli       1-2 Reutlingen
+Frankfurt      2-3 Trier
+Aachen         3-0 Ahlen
+[Mar 23]
+Fürth          5-0 Mannheim
+Burghausen     0-1 Union
+Duisburg       1-0 Lübeck
+Karlsruhe      1-0 Braunschweig
+Freiburg       5-2 Oberhausen
+[Mar 24]
+Köln           1-4 Mainz
+
+Round 27
+[Apr 4]
+Mannheim       1-2 Köln
+Mainz          2-0 Burghausen
+Braunschweig   0-1 Duisburg
+[Apr 6]
+Union          0-0 Karlsruhe
+Lübeck         2-0 Aachen
+Oberhausen     2-3 Fürth
+Ahlen          1-1 Frankfurt
+Trier          1-2 St Pauli
+[Apr 7]
+Reutlingen     0-2 Freiburg
+
+Round 28
+[Apr 11]
+Karlsruhe      0-0 Mainz
+Burghausen     2-0 Mannheim
+Aachen         1-3 Braunschweig
+[Apr 13]
+Duisburg       0-1 Union
+Ahlen          2-1 Trier
+Freiburg       1-1 St Pauli
+Frankfurt      3-1 Lübeck
+Fürth          2-0 Reutlingen
+[Apr 14]
+Köln           2-0 Oberhausen
+
+Round 29
+[Apr 17]
+Lübeck         4-1 Ahlen
+St Pauli       1-1 Fürth
+Mannheim       0-2 Karlsruhe
+[Apr 20]
+Braunschweig   0-0 Frankfurt
+Union          3-2 Aachen
+Reutlingen     1-2 Köln
+Oberhausen     0-0 Burghausen
+Trier          0-1 Freiburg
+[Apr 21]
+Mainz          3-1 Duisburg
+
+Round 30
+[Apr 25]
+Frankfurt      0-0 Union
+Fürth          4-0 Freiburg
+Duisburg       0-0 Mannheim
+[Apr 27]
+Karlsruhe      2-1 Oberhausen
+Lübeck         3-1 Trier
+Burghausen     1-0 Reutlingen
+Ahlen          1-2 Braunschweig
+Aachen         3-0 Mainz
+[Apr 28]
+Köln           2-1 St Pauli
+
+Round 31
+[May 2]
+Freiburg       3-0 Köln
+St Pauli       2-2 Burghausen
+Union          1-1 Ahlen
+[May 4]
+Reutlingen     0-3 Karlsruhe
+Oberhausen     3-1 Duisburg
+Trier          1-2 Fürth
+Mannheim       2-1 Aachen
+Braunschweig   1-1 Lübeck
+[May 5]
+Mainz          3-2 Frankfurt
+
+Round 32
+[May 8]
+Fürth          2-0 Köln
+[May 9]
+Duisburg       2-0 Reutlingen
+Lübeck         0-1 Union
+Frankfurt      4-1 Mannheim
+[May 11]
+Karlsruhe      1-1 St Pauli
+Burghausen     1-2 Freiburg
+Aachen         2-0 Oberhausen
+Trier          0-1 Braunschweig
+[May 12]
+Ahlen          4-3 Mainz
+
+Round 33
+[May 18]
+Freiburg       3-1 Karlsruhe
+Köln           1-3 Trier
+St Pauli       4-0 Duisburg
+Mannheim       0-2 Ahlen
+Mainz          5-1 Lübeck
+Union          0-1 Braunschweig
+Fürth          2-2 Burghausen
+Reutlingen     5-0 Aachen
+Oberhausen     0-2 Frankfurt
+
+Round 34
+[May 25]
+Duisburg       3-2 Freiburg
+Karlsruhe      2-1 Fürth
+Lübeck         3-1 Mannheim
+Frankfurt      6-3 Reutlingen
+Braunschweig   1-4 Mainz
+Burghausen     2-0 Köln
+Ahlen          2-1 Oberhausen
+Aachen         4-1 St Pauli
+Trier          0-1 Union
+
+Final Table:
+ 1.SC Freiburg                  34 20  7  7  58-32  67 Promoted
+ 2.1.FC Köln                    34 18 11  5  63-45  65 Promoted
+ 3.Eintracht Frankfurt          34 17 11  6  59-33  62 Promoted
+------------------------------------------------------
+ 4.FSV Mainz 05                 34 19  5 10  64-39  62
+ 5.SpVgg Greuther Fürth         34 15 12  7  55-35  57
+ 6.Alemannia Aachen             34 14  9 11  57-48  51
+ 7.Eintracht Trier              34 14  6 14  53-46  48
+ 8.MSV Duisburg                 34 12 10 12  42-47  46
+ 9.1.FC Union Berlin            34 10 15  9  36-48  45
+10.Wacker Burghausen            34 10 14 10  48-41  44
+11.VfB Lübeck                   34 13  5 16  51-50  44
+12.LR Ahlen                     34 11  7 16  48-60  40
+13.Karlsruher SC                34  9 12 13  35-47  39
+14.Rot-Weiß Oberhausen          34 10  7 17  38-48  37
+------------------------------------------------------
+15.Eintracht Braunschweig       34  8 10 16  33-53  34 Relegated
+16.SSV Reutlingen               34 11  6 17  43-53  33 Relegated [-6]
+17.FC St. Pauli                 34  7 10 17  48-67  31 Relegated
+18.SV Waldhof Mannheim          34  6  7 21  32-71  25 Relegated
+
+Final Table:
+ 1.FC St. Pauli 1910 Amat.  32  24  4  4   82-31  76  [1]
+--------------------------------------------------------
+ 2.VfR 1910 Neumünster     32  19  9  4   75-40  66  Promotion Play-Off
+ 3.SC Concordia von 1907   32  19  7  6   68-34  64
+ 4.ASV Bergedorf-Lohbrügge 1885  32  19  5  8   72-41  62
+ 5.SV Lurup von 1923 Hamburg  32  16  6 10   65-40  54
+ 6.Meiendorfer SV 1949     32  15  6 11   64-53  51
+ 7.FTSV Rasensport Elmshorn  32  14  5 13   40-55  47
+ 8.Altonaer FC von 1893      32  13  7 12   66-50  46
+ 9.VfL 1945 Pinneberg     32  13  6 13   64-55  45
+10.Husumer Sportvereinigung   32  13  6 13   41-47  45
+11.Flensburger SpVgg 08     32  13  4 15   50-68  43
+12.TSV Altenholz von 1948     32  12  5 15   51-73  41  Withdrew after saison, Relegated
+13.Heider SV 1925             32   8 10 14   41-53  34
+14.SC Vorwärts-Wacker 04      32  10  2 20   51-76  32
+15.Kieler SVgg Holstein [2]  32   7  8 17   49-66  29
+---------------------------------------------------------
+16.Eimsbütteler TV Hamburg     32   5  4 23   39-84  19  Relegated
+17.TSB 1865 Flensburg     32   4  2 26   41-93  14  Relegated
+18.1.SC Norderstedt        0   0  0  0    0- 0   0  Withdrew, Relegated
+
+Final Table:
+ 1.BSV Kickers 1946 Emden     34  22  5  7   83- 43   71  Promotion Play-Off
+----------------------------------------------------------
+ 2.SV Wilhelmshaven            34  20  9  5   70- 40   69
+ 3.VfL 1945 Wolfsburg Amat.    34  19 11  4   69- 31   68
+ 4.SV Eintracht 1945 Nordhorn    34  18 11  5   80- 48   65
+ 5.BV 1919 Cloppenburg     34  17 10  7   59- 28   61
+ 6.VfB von 1897 Oldenburg     34  17  8  9   65- 36   59
+ 7.SV Arminia 1910 Hannover     34  16  8 10   69- 50   56
+ 8.SV Meppen 1912             34  14 12  8   51- 37   54
+ 9.Braunschweiger TSV E. Amat.  34  14 12  8   61- 49   54
+10.FC Oberneuland von 1948     34  12  8 14   53- 59   44
+11.SC 1945 Langenhagen     34  11  9 14   40- 43   42
+12.VfV 1907 Hildesheim     34  10  5 19   45- 71   35
+13.Rotenburger SV 1977     34   6 12 16   45- 64   30
+14.SV Concordia Ihrhove 1945    34   8  6 20   37- 58   30
+15.Lüneburger Sport-Klub 1901  34   8  6 20   37- 70   30
+----------------------------------------------------------
+16.1.SC Göttingen von 1905     34   5 11 18   27- 59   26  Relegated
+17.FC Schüttorf 09             34   6  6 22   36- 79   24  Relegated
+18.FC Bremerhaven 1899     34   6  5 23   40-102   23  Relegated
+
+Final Table:
+ 1.FC Schönberg 95             36  29  4  3  122- 29   91  Promotion Play-Off
+----------------------------------------------------------
+ 2.Hertha BSC Berlin Amat.     36  29  2  5  121- 22   89
+ 3.FC Hansa Rostock Amat.     36  28  5  3   93- 24   89
+ 4.Berliner TC Borussia 02     36  20  7  9   63- 39   67
+ 5.Eisenhüttenstädter FC Stahl  36  18  7 11   62- 50   61
+ 6.VfB Lichterfelde 1892     36  17  6 13   53- 42   57
+ 7.Märkischer SV Neuruppin  36  17  1 18   55- 60   52
+ 8.Brandenburger SC Süd 05     36  13 10 13   49- 50   49
+ 9.SV Lichtenberg 47      36  14  7 15   49- 51   49
+10.FV Motor Eberswalde     36  14  6 16   44- 66   48
+11.BTSV Reinickendorfer Füchse  36  13  7 16   60- 56   46
+12.Berliner FC Türkiyemspor  36  12  8 16   54- 71   44
+13.TSG Neustrelitz          36  12  6 18   44- 67   42
+14.FSV Optik Rathenow     36  11  9 16   41- 64   42
+15.Berliner Athletik Klub 1907  36  11  8 17   46- 61   41
+----------------------------------------------------------
+16.1.FC Lokomotive 2002 Stendal  36  12  4 20   51- 81   40  Relegated
+17.FC Eintracht Schwerin     36   8  8 20   35- 77   32  Relegated
+18.Köpenicker SC           36   6  3 27   31- 78   21  Relegated
+19.SG Eintracht Oranienburg    36   2  4 30   25-110   10  Relegated
+
+Final Table:
+ 1.FC Sachsen Leipzig 1990     34  26  5  3   76-19  83  Promotion Play-Off
+--------------------------------------------------------
+ 2.FC Carl Zeiss Jena     34  26  4  4   87-22  82
+ 3.Vogtländischer FC Plauen  34  23  4  7   76-23  73
+ 4.VfB Leipzig               34  20  7  7   57-23  67
+ 5.Hallescher FC             34  15 14  5   49-29  59
+ 6.FSV Zwickau            34  16  6 12   59-41  54
+ 7.FV Dresden-Nord         34  12 14  8   49-36  50
+ 8.FC Energie Cottbus Amat.     34  14  4 16   56-58  46
+ 9.SV 1919 Grimma         34  12  7 15   39-44  43
+10.1.FC Magdeburg         34  12  6 16   36-47  42
+11.Oberlausitzer Neugersdorf   34  11  8 15   52-50  41
+12.FV Dresden 06 Laubegast     34  11  4 19   46-65  37
+13.VfB 09 Pößneck         34   9  9 16   44-65  36
+14.BSV Eintracht Sondershausen  34  10  5 19   40-75  35
+15.FC Anhalt Dessau           34  10  6 18   40-68  32
+--------------------------------------------------------
+16.SV Wacker 07 Gotha     34   8  4 22   25-58  28  Relegated
+17.VfB Chemnitz               34   7  6 21   25-61  27  Relegated
+18.FC Lausitz Hoyerswerda     34   6  3 25   21-93  21  Relegated
+
+Final Table:
+ 1.FC Schalke 04 Amat.      34  28  2  4  102-35   86  Promoted
+---------------------------------------------------------
+ 2.VfL Bochum 1848 Amat.     34  24  5  5   79-35   77
+ 3.FC Gütersloh 2000      34  21  6  7   77-39   69
+ 4.SpV Lippstadt 1908     34  19  9  6   74-46   66
+ 5.FC Eintracht Rheine     34  15  6 13   63-60   51
+ 6.SG Wattenscheid 09 [2]     34  14  6 14   53-59   48
+ 7.VfB 1948/64 Hüls       34  12 10 12   55-48   46
+ 8.SuS 1919/20 Stadtlohn     34  12  8 14   37-47   44
+ 9.VfB Fichte Bielefeld 1919     34  11 10 13   49-48   43
+10.Sportfreunde Siegen 1899 [2]  34  12  7 15   49-61   43
+11.SC Buer-Hassel 1919     34  11  8 15   36-55   41
+12.SpVgg Emsdetten 05     34  11  6 17   45-56   39
+13.Lüner SV Fußball 1945     34  10  8 16   55-65   38
+14.DSC Arminia Bielefeld Amat.  34   9 10 15   41-63   37
+15.TSG 1881 Sprockhövel     34  10  5 19   46-72   35
+---------------------------------------------------------
+16.DJK TuS Hordel 1911     34   8  9 17   52-62   33  Relegated
+17.SC Westfalia 1904 Herne     34   5 13 16   39-61   28  Relegated
+18.TSG 1919 Dülmen              34   7  6 21   40-80   27  Relegated
+
+Final Table:
+ 1.Wuppertaler SV           32  23  6  3   77-22   75  Promoted
+----------------------------------------------------------
+ 2.Borussia Mönchengladbach Am.  32  19  6  7   64-22   63
+ 3.SSVg Velbert 02           32  17  7  8   60-35   58
+ 4.SV Adler Osterfeld 1922     32  18  4 10   58-43   58
+ 5.SV Borussia Wuppertal    32  16  7  9   70-50   55
+ 6.ETB Schwarz-Weiß Essen 1881   32  14  7 11   41-35   49
+ 7.1.FC Bocholt 1900      32  15  3 14   49-55   48
+ 8.Düsseldorfer TSV Fortuna  32  12 10 10   47-49   46
+ 9.Gürzenicher FC 1909 Düren    32   9 11 12   45-49   38
+10.SC Fortuna Köln           32  10  8 14   35-46   38
+11.SC Brück Viktoria Köln 1994  32  10  6 16   36-57   36
+12.Bonner SC 1901/04      32  10  5 17   39-54   35
+13.Ratinger SpVgg Germania   32   8 11 13   43-63   35
+14.1.FC Union Solingen 1990    32   7 11 14   31-48   32
+15.SC Borussia Freialdenhoven   32   8  8 16   40-62   32
+----------------------------------------------------------
+16.Aachener TSV Alemannia Amat.  32   8  5 19   43-68   29  Relegated
+17.MSV 02 Duisburg Amat.     32   7  7 18   38-58   28  Relegated
+18.Rheydter Spielverein 1905   0   0  0  0    0- 0    0  Withdew, Relegated
+
+Final Table:
+ 1.1.FSV Mainz 05 Amat.     36  21 10  5   70-23   73  Promoted
+---------------------------------------------------------
+ 2.SC 1919 Hauenstein     36  20  6 10   73-45   66
+ 3.VfR Wormatia 1908 Worms     36  19  8  9   71-47   65
+ 4.SC 07 Idar-Oberstein     36  17 10  9   70-49   61
+ 5.FSV Salmrohr 1921      36  18  6 12   62-49   60
+ 6.TuS 1886/1914 Mayen     36  15 11 10   60-50   56
+ 7.SV 1946 Weingarten     36  16  8 12   51-46   56
+ 8.Eintracht Glas Chemie Wirges  36  16  6 14   63-53   54
+ 9.SpVgg 1903 Ingelheim     36  14  7 15   45-52   49
+10.SG Eintracht Bad Kreuznach   36  13 10 13   38-46   49
+11.TuS 1911 Koblenz           36  12 12 12   50-42   48
+12.FC 08 Homburg/Saar     36  12 12 12   48-51   48
+13.FK 1903 Pirmasens      36  12 12 12   46-53   48
+14.1.FC Saarbrücken [2]   36  13  9 14   53-61   48
+15.FV 1907 Engers            36  11 10 15   45-57   43
+----------------------------------------------------------
+16.VfL 1883 Hamm/Sieg     36  11  7 18   38-53   40  Relegated
+17.SV Röchling Völklingen 06  36   8  9 19   41-66   33  Relegated
+18.SC Halberg Brebach     36   6  7 23   31-64   25  Relegated
+19.Sportfreunde 1919 Eisbachtal  36   5  6 25   34-82   21  Relegated
+
+Final Table:
+ 1.1.FC 1930 Eschborn     34  24  7  3   78-38   79  Promoted
+---------------------------------------------------------
+ 2.KSV Hessen Kassel      34  23  5  6   76-32   74
+ 3.FSV Frankfurt 1899     34  22  7  5   90-36   73
+ 4.SC Borussia 04 Fulda     34  16  6 12   55-47   54
+ 5.SV Ein. 1956 Wald-Michelbach  34  16  6 12   56-54   54
+ 6.KSV 1964 Baunatal      33  15  5 13   68-58   50
+ 7.VfB 1905 Marburg       34  14  7 13   62-56   49
+ 8.SVgg Erzhausen von 1913    34  12  8 14   50-43   44
+ 9.SV 1919 Bernbach            34  12  9 13   46-45   44
+10.KSV 1920/45 Klein-Karben    34  12  7 15   54-49   43
+11.SC Neukirchen 1899     34  12  7 15   61-82   43  Withdrew after saison, Relegated
+12.FV 1919 Bad Vilbe      34  11  9 14   49-54   42
+13.SpV 1912 Buchonia Flieden  34  12  5 17   41-68   41
+14.TSG 1887 Wörsdorf      33  11  6 16   48-50   39
+---------------------------------------------------------
+15.OSC 1897 Vellmar              34   9  7 18   33-59   34  Play-Out
+---------------------------------------------------------
+16.SV Viktoria Aschaffenburg  34   8 10 16   57-84   34  Withdrew after saison, Relegated
+17.FSC 1924 Lohfelden     34   9  3 22   35-79   30  Relegated
+18.SC 1929 Waldgirmes     34   7  6 21   35-60   26  Relegated
+
+Final Table:
+ 1.VfB Stuttgart 1893 Amat.  34  24  6  4   72-24   78  Promoted
+---------------------------------------------------------
+ 2.SSV Ulm 1846              34  21  6  7   71-44   69
+ 3.SC Freiburg 1904 Amat.   34  18 11  5   52-23   65
+ 4.SV 1916 Sandhausen     34  16  8 10   59-46   56
+ 5.SVgg 1907 Ludwigsburg  34  13 11 10   57-49   50
+ 6.FV 1913 Lauda             34  14  7 13   42-40   49
+ 7.SV Stuttgarter Kickers [2]  34  14  7 13   37-41   49
+ 8.FC Nöttingen 1967      34  14  5 15   50-47   47
+ 9.SV Bonlanden             34  13  8 13   49-46   47
+10.SV Waldhof 07 Mannheim Amat.  34  12  7 15   44-49   43  Relegated [1]
+11.SGV Freiberg am Neckar  34  10 11 13   51-57   41
+12.1.FC 1896 Pforzheim    34  12  5 17   52-69   41
+13.SpVgg 1928 Au/Iller    34  10  9 15   44-44   39
+14.Bahlinger SC 1929         34  11  6 17   41-57   39
+15.Karlsruher SC Amat.          34  10  8 16   49-56   38
+---------------------------------------------------------
+16.FC 1929 Teningen          34  10  5 19   43-69   35  Relegated
+17.FC 1908 Villingen         34   8  9 17   36-68   33  Relegated
+18.SF 1922 Dorfmerkingen  34   6 11 17   37-57   29  Relegated
+
+Final Table:
+ 1.1.SC Feucht                34  26  6  2  107-37   84  Promoted
+---------------------------------------------------------
+ 2.TSV München 1860 Amat.   34  22  5  7   83-35   71
+ 3.FC Ismaning              34  20  6  8   77-42   66
+ 4.SpVgg 1921 Bayreuth    34  19  5 10   55-46   62
+ 5.SC Fürstenfeldbruck von 1919  34  19  3 12   63-43   60
+ 6.1.FC Nürnberg VfL Amat.     34  17  8  9   70-51   59
+ 7.TSV 1946 Aindling      34  16  5 13   58-59   53
+ 8.SpVgg Unterhaching 1925 [2]  34  15  5 14   56-56   50
+ 9.SpVgg Greuther Fürth Amat.  34  14  6 14   66-69   48
+10.SpVgg Weiden               34  12  6 16   43-53   42
+11.SSV Jahn 2000 Regensburg [2]  34  12  5 17   58-63   41
+12.FC Bayern Hof 1910     34  13  2 19   52-69   41
+13.SpVgg Ansbach 09            34  10 10 14   54-57   40
+14.SC 1904 Schwabach         34   9  9 16   43-58   36
+---------------------------------------------------------
+15.SG Quelle im TV Fürth 1860  34  10  5 19   49-67   35  Play-Out
+16.TSV Schwaben Augsburg  34   9  8 17   36-67   35  Play-Out
+---------------------------------------------------------
+17.FC Falke Markt Schwaben 1930  34   6  6 22   37-81   24  Relegated
+18.TSV Gerbrunn Fußball   34   4  6 24   32-86   18  Withdrew after saison, Relegated
+
+Round 1
+Quelle Fürth - Schwaben Augsburg  4:0
+
+Round 2
+TSV Großbardorf - SVG Burgkirchen 2:1
+1.FC Passau  - Quelle Fürth    1:1 5:3 after penalties
+
+Round 3
+TSV Großbardorf - 1.FC Passau    1:3
+Großbardorf and Passau promoted, because no club was relegated to the Oberliga Bayern.
+

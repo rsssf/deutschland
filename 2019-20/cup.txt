@@ -1,0 +1,95 @@
+= DFB Pokal 2019/20
+
+Round 1
+[Aug 9]
+Ingolstadt             0-1 Nürnberg
+Uerdingen              0-2 Borussia Dortmund
+Sandhausen             0-1 Borussia M'gladbach
+[Aug 10]
+Kaiserslautern         2-0 Mainz
+Magdeburg              0-1 Freiburg               [aet]
+Alemannia Aachen       1-4 Bayer Leverkusen
+FC 08 Villingen        1-3 Fortuna Düsseldorf     [aet]
+Viktoria 1889 Berlin   0-1 Arminia Bielefeld
+Verl                   2-1 Augsburg
+Drochtersen/Assel      0-5 Schalke 04
+Dassendorf             0-3 Dynamo Dresden
+Wacker Nordhausen      1-4 Erzgebirge Aue
+Würzburger Kickers     3-3 Hoffenheim             [aet, 4-5 pen]
+KSV Baunatal           2-3 Bochum
+SSV Ulm 1846           0-2 Heidenheim
+Atlas Delmenhorst      1-6 Werder Bremen
+[Aug 11]
+Saarbrücken            3-2 Jahn Regensburg                        [in Völklingen]
+Oberneuland (Bremen)   1-6 Darmstadt 98
+Salmrohr               0-6 Holstein Kiel
+Rödinghausen           3-3 Paderborn              [aet, 2-4 pen]
+Waldhof Mannheim       3-5 Eintracht Frankfurt
+Eichstätt              1-5 Hertha BSC
+Germania Halberstadt   0-6 Union Berlin
+Lübeck                 3-3 Sankt Pauli            [aet, 3-4 pen]
+Osnabrück              2-3 RB Leipzig
+Chemnitzer FC          2-2 Hamburg                [aet, 5-6 pen]
+MSV Duisburg           2-0 SpVgg Greuther Fürth
+Wehen Wiesbaden        3-3 Köln                   [aet, 2-3 pen]
+[Aug 12]
+Hallescher FC          3-5 Wolfsburg              [aet]
+Hansa Rostock          0-1 Stuttgart
+Karlsruhe              2-0 Hannover
+Energie Cottbus        1-3 Bayern München
+
+Round 2
+[Oct 29]
+Saarbrücken            3-2 Köln                                   [in Völklingen]
+Hamburg                1-2 Stuttgart              [aet]
+MSV Duisburg           0-2 Hoffenheim
+Freiburg               1-3 Union Berlin
+Bochum                 1-2 Bayern München
+Arminia Bielefeld      2-3 Schalke 04
+Bayer Leverkusen       1-0 Paderborn
+Darmstadt 98           0-1 Karlsruhe
+[Oct 30]
+Kaiserslautern         2-2 Nürnberg               [aet, 6-5 pen]
+Verl                   1-1 Holstein Kiel          [aet, 8-7 pen]
+Wolfsburg              1-6 RB Leipzig
+Werder Bremen          4-1 Heidenheim
+Borussia Dortmund      2-1 Borussia M'gladbach
+Sankt Pauli            1-2 Eintracht Frankfurt
+Fortuna Düsseldorf     2-1 Erzgebirge Aue
+Hertha BSC             3-3 Dynamo Dresden         [aet, 5-4 pen]
+
+1/8 Finals
+[Feb 4]
+Kaiserslautern         2-6 Fortuna Düsseldorf
+Eintracht Frankfurt    3-1 RB Leipzig
+Schalke 04             3-2 Hertha BSC             [aet]
+Werder Bremen          3-2 Borussia Dortmund
+[Feb 5]
+Bayer Leverkusen       2-1 Stuttgart
+Verl                   0-1 Union Berlin
+Saarbrücken            0-0 Karlsruhe              [aet, 5-3 pen]  [in Völklingen]
+Bayern München         4-3 Hoffenheim
+
+Quarterfinals
+[Mar 3]
+Saarbrücken            1-1 Fortuna Düsseldorf     [aet, 7-6 pen]  [in Völklingen]
+Schalke 04             0-1 Bayern München
+[Mar 4]
+Bayer Leverkusen       3-1 Union Berlin
+Eintracht Frankfurt    2-0 Werder Bremen
+
+NB: 1.FC Saarbrücken are the first club ever to reach the cup semifinals while
+    playing at the fourth league level (they were promoted to the third level
+    at the end of May following the abandonment of their regional league); they
+    host their cup matches in nearby Völklingen as the Ludwigspark stadium in
+    Saarbrücken is undergoing renovation
+
+Semifinals
+[Jun 9]
+Saarbrücken            0-3 Bayer Leverkusen                       [in Völklingen]
+[Jun 10]
+Bayern München         2-1 Eintracht Frankfurt
+
+Final [Jul 4, Berlin]
+Bayern München         4-2 Bayer Leverkusen
+
