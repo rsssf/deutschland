@@ -85,8 +85,8 @@ Germany (Deutschland)
 | 1975-76 | [1-bundesliga.txt](archive/1970s/1975-76/1-bundesliga.txt) |  **!! 7**  |
 | 1974-75 | [1-bundesliga.txt](archive/1970s/1974-75/1-bundesliga.txt) |  **!! 1**  |
 | 1973-74 | [1-bundesliga.txt](archive/1970s/1973-74/1-bundesliga.txt) |  **!! 5**  |
-| 1972-73 | [1-bundesliga.txt](archive/1970s/1972-73/1-bundesliga.txt) |  **!! 6**  |
-| 1971-72 | [1-bundesliga.txt](archive/1970s/1971-72/1-bundesliga.txt) |  **!! 4**  |
+| 1972-73 | [1-bundesliga.txt](archive/1970s/1972-73/1-bundesliga.txt) |  OK  |
+| 1971-72 | [1-bundesliga.txt](archive/1970s/1971-72/1-bundesliga.txt) |  OK  |
 | 1970-71 | [1-bundesliga.txt](archive/1970s/1970-71/1-bundesliga.txt) |  OK  |
 | 1969-70 | [1-bundesliga.txt](archive/1960s/1969-70/1-bundesliga.txt) |  OK  |
 | 1968-69 | [1-bundesliga.txt](archive/1960s/1968-69/1-bundesliga.txt) |  OK  |
@@ -97,7 +97,7 @@ Germany (Deutschland)
 | 1963-64 | [1-bundesliga.txt](archive/1960s/1963-64/1-bundesliga.txt) |  OK  |
 
 
-416 errors in 89 datafile(s)
+406 errors in 89 datafile(s)
 
 ```
 2023-24/cup.txt -- warn - heading with no text paragraph(s)
@@ -886,24 +886,4 @@ Germany (Deutschland)
      in line >Hannover    0-2 M'gladbach  (Jensen 7, Heynckes 25)<
 1973-74/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @14,15
      in line >Werder      3-0 Wuppertaler (Weist 2, Höttges 27 p, Roentved 47)<
-1972-73/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @14,15
-     in line >Frankfurt   2-1 Bayern      (Weidle 53, Hölzenbein 75 - G.Müller 86)<
-1972-73/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >Balte68< @47,48
-     in line >Bochum      2-0 Hannover    (Lameck 66, Balte68p)<
-1972-73/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @14,15
-     in line >Frankfurt   3-0 M'gladbach  (Grabowski 26 p, Hölzenbein 54, Kliemann 77)<
-1972-73/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >72-< @10,12
-     in line >Hoeneß 72-  Wilbertz 58, Tenhagen 74, Kobluhn 75 p)<
-1972-73/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >?< @30,31
-     in line >B'schweig   1-1 Schalke     (?)<
-1972-73/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >Kremers62< @48,49
-     in line >Schalke     2-0 Stuttgart   (Braun 19, Kremers62p)<
-1971-72/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @15,16
-     in line >Frankfurt    3-2 Bayern     (Parits 3, Hölzenbein 61, Lutz 70 -<
-1971-72/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @15,16
-     in line >Stuttgart    0-1 Schalke    (Fischer 73)<
-1971-72/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >51-< @37,38
-     in line >B'schweig    1-1 Bayern     (Bäse 51- Haun 48 o)<
-1971-72/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >59.< @44,45
-     in line >Bochum       4-2 Werder     (Walitza 19, 59. Wosab 67, Hartl 87 - Laumen 6,<
 ```
