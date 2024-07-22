@@ -36,13 +36,13 @@ Germany (Deutschland)
 | 2010-11 | [cup.txt](2010-11/cup.txt) |  OK  |
 | 2009-10 | [1-bundesliga.txt](archive/2000s/2009-10/1-bundesliga.txt) |  OK  |
 | 2009-10 | [cup.txt](archive/2000s/2009-10/cup.txt) |  OK  |
-| 2008-09 | [1-bundesliga.txt](archive/2000s/2008-09/1-bundesliga.txt) |  **!! 14**  |
+| 2008-09 | [1-bundesliga.txt](archive/2000s/2008-09/1-bundesliga.txt) |  **!! 12**  |
 | 2008-09 | [cup.txt](archive/2000s/2008-09/cup.txt) |  **!! 14**  |
 | 2007-08 | [1-bundesliga.txt](archive/2000s/2007-08/1-bundesliga.txt) |  **!! 5**  |
 | 2007-08 | [cup.txt](archive/2000s/2007-08/cup.txt) |  **!! 14**  |
 | 2006-07 | [1-bundesliga.txt](archive/2000s/2006-07/1-bundesliga.txt) |  **!! 14**  |
 | 2006-07 | [cup.txt](archive/2000s/2006-07/cup.txt) |  **!! 14**  |
-| 2005-06 | [1-bundesliga.txt](archive/2000s/2005-06/1-bundesliga.txt) |  **!! 2**  |
+| 2005-06 | [1-bundesliga.txt](archive/2000s/2005-06/1-bundesliga.txt) |  **!! 1**  |
 | 2005-06 | [cup.txt](archive/2000s/2005-06/cup.txt) |  **!! 14**  |
 | 2004-05 | [1-bundesliga.txt](archive/2000s/2004-05/1-bundesliga.txt) |  **!! 14**  |
 | 2004-05 | [cup.txt](archive/2000s/2004-05/cup.txt) |  **!! 14**  |
@@ -56,33 +56,33 @@ Germany (Deutschland)
 | 2000-01 | [cup.txt](archive/2000s/2000-01/cup.txt) |  **!! 14**  |
 | 1999-00 | [1-bundesliga.txt](archive/1990s/1999-00/1-bundesliga.txt) |  **!! 14**  |
 | 1999-00 | [cup.txt](archive/1990s/1999-00/cup.txt) |  **!! 14**  |
-| 1998-99 | [1-bundesliga.txt](archive/1990s/1998-99/1-bundesliga.txt) |  **!! 3**  |
+| 1998-99 | [1-bundesliga.txt](archive/1990s/1998-99/1-bundesliga.txt) |  **!! 1**  |
 | 1998-99 | [cup.txt](archive/1990s/1998-99/cup.txt) |  **!! 14**  |
-| 1997-98 | [1-bundesliga.txt](archive/1990s/1997-98/1-bundesliga.txt) |  **!! 2**  |
+| 1997-98 | [1-bundesliga.txt](archive/1990s/1997-98/1-bundesliga.txt) |  **!! 1**  |
 | 1997-98 | [cup.txt](archive/1990s/1997-98/cup.txt) |  **!! 14**  |
 | 1996-97 | [1-bundesliga.txt](archive/1990s/1996-97/1-bundesliga.txt) |  **!! 14**  |
 | 1996-97 | [cup.txt](archive/1990s/1996-97/cup.txt) |  **!! 14**  |
-| 1995-96 | [1-bundesliga.txt](archive/1990s/1995-96/1-bundesliga.txt) |  **!! 2**  |
+| 1995-96 | [1-bundesliga.txt](archive/1990s/1995-96/1-bundesliga.txt) |  **!! 1**  |
 | 1994-95 | [1-bundesliga.txt](archive/1990s/1994-95/1-bundesliga.txt) |  OK  |
-| 1993-94 | [1-bundesliga.txt](archive/1990s/1993-94/1-bundesliga.txt) |  **!! 2**  |
-| 1992-93 | [1-bundesliga.txt](archive/1990s/1992-93/1-bundesliga.txt) |  **!! 2**  |
+| 1993-94 | [1-bundesliga.txt](archive/1990s/1993-94/1-bundesliga.txt) |  **!! 1**  |
+| 1992-93 | [1-bundesliga.txt](archive/1990s/1992-93/1-bundesliga.txt) |  OK  |
 | 1991-92 | [1-bundesliga.txt](archive/1990s/1991-92/1-bundesliga.txt) |  OK  |
-| 1990-91 | [1-bundesliga.txt](archive/1990s/1990-91/1-bundesliga.txt) |  **!! 2**  |
-| 1989-90 | [1-bundesliga.txt](archive/1980s/1989-90/1-bundesliga.txt) |  **!! 2**  |
-| 1988-89 | [1-bundesliga.txt](archive/1980s/1988-89/1-bundesliga.txt) |  **!! 2**  |
+| 1990-91 | [1-bundesliga.txt](archive/1990s/1990-91/1-bundesliga.txt) |  OK  |
+| 1989-90 | [1-bundesliga.txt](archive/1980s/1989-90/1-bundesliga.txt) |  **!! 1**  |
+| 1988-89 | [1-bundesliga.txt](archive/1980s/1988-89/1-bundesliga.txt) |  OK  |
 | 1987-88 | [1-bundesliga.txt](archive/1980s/1987-88/1-bundesliga.txt) |  OK  |
-| 1986-87 | [1-bundesliga.txt](archive/1980s/1986-87/1-bundesliga.txt) |  **!! 3**  |
-| 1985-86 | [1-bundesliga.txt](archive/1980s/1985-86/1-bundesliga.txt) |  **!! 2**  |
-| 1984-85 | [1-bundesliga.txt](archive/1980s/1984-85/1-bundesliga.txt) |  **!! 4**  |
-| 1983-84 | [1-bundesliga.txt](archive/1980s/1983-84/1-bundesliga.txt) |  **!! 4**  |
-| 1982-83 | [1-bundesliga.txt](archive/1980s/1982-83/1-bundesliga.txt) |  **!! 3**  |
-| 1981-82 | [1-bundesliga.txt](archive/1980s/1981-82/1-bundesliga.txt) |  **!! 7**  |
-| 1980-81 | [1-bundesliga.txt](archive/1980s/1980-81/1-bundesliga.txt) |  **!! 5**  |
-| 1979-80 | [1-bundesliga.txt](archive/1970s/1979-80/1-bundesliga.txt) |  **!! 7**  |
-| 1978-79 | [1-bundesliga.txt](archive/1970s/1978-79/1-bundesliga.txt) |  **!! 8**  |
-| 1977-78 | [1-bundesliga.txt](archive/1970s/1977-78/1-bundesliga.txt) |  **!! 9**  |
-| 1976-77 | [1-bundesliga.txt](archive/1970s/1976-77/1-bundesliga.txt) |  **!! 5**  |
-| 1975-76 | [1-bundesliga.txt](archive/1970s/1975-76/1-bundesliga.txt) |  **!! 7**  |
+| 1986-87 | [1-bundesliga.txt](archive/1980s/1986-87/1-bundesliga.txt) |  **!! 2**  |
+| 1985-86 | [1-bundesliga.txt](archive/1980s/1985-86/1-bundesliga.txt) |  **!! 1**  |
+| 1984-85 | [1-bundesliga.txt](archive/1980s/1984-85/1-bundesliga.txt) |  **!! 2**  |
+| 1983-84 | [1-bundesliga.txt](archive/1980s/1983-84/1-bundesliga.txt) |  **!! 1**  |
+| 1982-83 | [1-bundesliga.txt](archive/1980s/1982-83/1-bundesliga.txt) |  OK  |
+| 1981-82 | [1-bundesliga.txt](archive/1980s/1981-82/1-bundesliga.txt) |  **!! 1**  |
+| 1980-81 | [1-bundesliga.txt](archive/1980s/1980-81/1-bundesliga.txt) |  **!! 1**  |
+| 1979-80 | [1-bundesliga.txt](archive/1970s/1979-80/1-bundesliga.txt) |  **!! 4**  |
+| 1978-79 | [1-bundesliga.txt](archive/1970s/1978-79/1-bundesliga.txt) |  **!! 3**  |
+| 1977-78 | [1-bundesliga.txt](archive/1970s/1977-78/1-bundesliga.txt) |  **!! 5**  |
+| 1976-77 | [1-bundesliga.txt](archive/1970s/1976-77/1-bundesliga.txt) |  **!! 1**  |
+| 1975-76 | [1-bundesliga.txt](archive/1970s/1975-76/1-bundesliga.txt) |  **!! 2**  |
 | 1974-75 | [1-bundesliga.txt](archive/1970s/1974-75/1-bundesliga.txt) |  OK  |
 | 1973-74 | [1-bundesliga.txt](archive/1970s/1973-74/1-bundesliga.txt) |  OK  |
 | 1972-73 | [1-bundesliga.txt](archive/1970s/1972-73/1-bundesliga.txt) |  OK  |
@@ -97,7 +97,7 @@ Germany (Deutschland)
 | 1963-64 | [1-bundesliga.txt](archive/1960s/1963-64/1-bundesliga.txt) |  OK  |
 
 
-400 errors in 89 datafile(s)
+344 errors in 89 datafile(s)
 
 ```
 2023-24/cup.txt -- warn - heading with no text paragraph(s)
@@ -122,15 +122,12 @@ Germany (Deutschland)
      in line >Wehen          0-0 1860<
 2008-09/1-bundesliga.txt -- parse error (RE) - skipping >1860< @4,15
      in line >1860           1-1 Alemannia<
-2008-09/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @13,14
-     in line >[43 Savran 0-1]<
-2008-09/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @18,19
-     in line >[25 Mitterhuber 1-0, 44 Kurz 2-0]<
-2008-09/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @31,32
-     in line >[25 Mitterhuber 1-0, 44 Kurz 2-0]<
-2008-09/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @16,17
-     in line >[33 Moosmayer 1-0]<
-2008-09/1-bundesliga.txt -- stop after 13 errors
+2008-09/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @37,38
+     in line >[40 H.Dogan 1-0, 72, 79 Biran 2-0, 3-]<
+2008-09/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >.< @22,26
+     in line >[7 Agyemang 1-0, 35 O.Fink 1-1]<
+2008-09/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >5-< @29,30
+     in line >76 Gambo 4-1, 80 Benyamina 5-]<
 2008-09/cup.txt -- parse error (RE) - skipping >:< @11,12
      in line >Final Table:<
 2008-09/cup.txt -- parse error (RE) - skipping >34< @33,34
@@ -195,51 +192,35 @@ Germany (Deutschland)
 2007-08/cup.txt -- parse error (RE) - skipping >34< @33,34
      in line >3.1.FC Köln                    34 17  9  8  62-44  60  Promoted<
 2007-08/cup.txt -- stop after 13 errors
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @39,60
-     in line >[Jiri Stajner 40, Vahid Hashemian 67; ‘Diego' Ribas da Cunha 20,<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @29,55
-     in line >[Martin Amedick 76; Eduardo ‘Edu' Goncalves de Oliveira 77]<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @2,27
-     in line >[‘Juan' Silveira dos Santos 49; Ahmed Madouni 70]<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @35,40
-     in line >[Carlos Eduardo de Souza Floresta ‘Kahe' 59]<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @52,57
-     in line >Marius Ebbers 51; Carlos Eduardo de Souza Floresta ‘Kahe' 50, 90+]<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @35,40
-     in line >[Carlos Eduardo de Souza Floresta ‘Kahe' 39]<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @40,47
-     in line >[Kevin Kuranyi 57, Cassio Souza Soares ‘Lincoln 89]<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @38,59
-     in line >[Aaron Hunt 33, Christian Schulz 35, ‘Diego' Ribas da Cunha 38]<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @28,34
-     in line >Jeronimo Barreto Claudemir ‘Cacau' 57]<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @1,22
-     in line >‘Diego' Ribas da Cunha 77, Clemens Fritz 88,<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @29,35
-     in line >Ronaldo Aparecido Rodrigues ‘Naldo' 90]<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @2,23
-     in line >[‘Diego' Ribas da Cunha 11, Pierre Womé 34, Lucimar da Silva Ferreira ‘Lucio' 62og; Roy Makaay 37]<
-2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >‘< @71,77
-     in line >[‘Diego' Ribas da Cunha 11, Pierre Womé 34, Lucimar da Silva Ferreira ‘Lucio' 62og; Roy Makaay 37]<
+2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >'< @37,60
+     in line >[Sibusiso Zuma 28, Radim Kucera 76; 'Gilberto' da Silva Melo 45,<
+2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >'< @22,51
+     in line >[Stefan Kießling 48, 'Athirson' Mazolli de Oliveira 80;<
+2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >'< @1,24
+     in line >'Gilberto' da Silva Melo 15]<
+2006-07/1-bundesliga.txt -- parse error (RE) - skipping >1860< @21,25
+     in line >Greuther Fürth   1-1 1860<
+2006-07/1-bundesliga.txt -- parse error (RE) - skipping >1860< @4,17
+     in line >1860             3-0 Kickers O<
+2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >'< @37,62
+     in line >[Andre Mijatovic 38; Enrico Kern 5, 'Gledson' da Silva Menezes 49,<
+2006-07/1-bundesliga.txt -- parse error (RE) - skipping >1860< @21,25
+     in line >Wacker B         0-2 1860<
+2006-07/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >'< @1,42
+     in line >'Paulo Sérgio' Rodrigues Duarte de Almeida 18,<
+2006-07/1-bundesliga.txt -- parse error (RE) - skipping >1860< @4,17
+     in line >1860             1-1 Freiburg<
+2006-07/1-bundesliga.txt -- parse error (RE) - skipping >1860< @21,25
+     in line >Duisburg         0-0 1860<
+2006-07/1-bundesliga.txt -- parse error (RE) - skipping >1860< @4,17
+     in line >1860             2-0 CZ Jena<
+2006-07/1-bundesliga.txt -- parse error (RE) - skipping >1860< @21,25
+     in line >Eintracht B      2-0 1860<
+2006-07/1-bundesliga.txt -- parse error (RE) - skipping >1860< @4,17
+     in line >1860             0-1 Kaiserslautern<
 2006-07/1-bundesliga.txt -- stop after 13 errors
-2006-07/cup.txt -- parse error (INSIDE_RE) - skipping >‘< @45,50
-     in line >Soumaila Coulibaly 75, Arlindo Gomes Semedo ‘Cafú' 77]<
-2006-07/cup.txt -- parse error (INSIDE_RE) - skipping >‘< @21,29
-     in line >Cassio Souza Soares ‘Lincoln' 21, 73, Marcelo José Bordon 56,<
-2006-07/cup.txt -- parse error (INSIDE_RE) - skipping >‘< @36,42
-     in line >[Paulo Cesar Fonseca do Nascimento ‘Tinga' 29, Nelson Valdez 40,<
-2006-07/cup.txt -- parse error (INSIDE_RE) - skipping >'< @39,64
-     in line >[Evangelos Nessos 53, Kenan Sahin 104;'Juan' Silveira dos Santos 58,<
-2006-07/cup.txt -- parse error (INSIDE_RE) - skipping >‘< @28,34
-     in line >Jeronimo Barreto Claudemir ‘Cacau' 73]<
-2006-07/cup.txt -- parse error (INSIDE_RE) - skipping >‘< @31,42
-     in line >José Antonio Dos Santos Silva ‘Zé Antonio' 26, Michael Delura 73]<
-2006-07/cup.txt -- parse error (INSIDE_RE) - skipping >‘< @44,50
-     in line >Mario Gomez 61, Jeronimo Barreto Claudemir ‘Cacau' 80]<
 2006-07/cup.txt -- parse error (RE) - skipping >1/< @2,9
      in line >1/8 Final<
-2006-07/cup.txt -- parse error (INSIDE_RE) - skipping >‘< @28,34
-     in line >Jeronimo Barreto Claudemir ‘Cacau' 90]<
 2006-07/cup.txt -- parse error (RE) - skipping >:< @11,12
      in line >Final Table:<
 2006-07/cup.txt -- parse error (RE) - skipping >34< @33,34
@@ -248,9 +229,23 @@ Germany (Deutschland)
      in line >1.Karlsruher SC                34 21  7  6  69-41  70  Promoted<
 2006-07/cup.txt -- parse error (RE) - skipping >7< @39,41
      in line >1.Karlsruher SC                34 21  7  6  69-41  70  Promoted<
+2006-07/cup.txt -- parse error (RE) - skipping >6< @42,44
+     in line >1.Karlsruher SC                34 21  7  6  69-41  70  Promoted<
+2006-07/cup.txt -- parse error (RE) - skipping >70< @53,55
+     in line >1.Karlsruher SC                34 21  7  6  69-41  70  Promoted<
+2006-07/cup.txt -- parse error (RE) - skipping >34< @33,34
+     in line >2.FC Hansa Rostock             34 16 14  4  49-30  62  Promoted<
+2006-07/cup.txt -- parse error (RE) - skipping >16< @36,37
+     in line >2.FC Hansa Rostock             34 16 14  4  49-30  62  Promoted<
+2006-07/cup.txt -- parse error (RE) - skipping >14< @39,41
+     in line >2.FC Hansa Rostock             34 16 14  4  49-30  62  Promoted<
+2006-07/cup.txt -- parse error (RE) - skipping >4< @42,44
+     in line >2.FC Hansa Rostock             34 16 14  4  49-30  62  Promoted<
+2006-07/cup.txt -- parse error (RE) - skipping >62< @53,55
+     in line >2.FC Hansa Rostock             34 16 14  4  49-30  62  Promoted<
+2006-07/cup.txt -- parse error (RE) - skipping >34< @33,34
+     in line >3.MSV Duisburg                 34 16 12  6  66-40  60  Promoted<
 2006-07/cup.txt -- stop after 13 errors
-2005-06/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @55,56
-     in line >Wacker B         ann 1860 München        [originally 0-2; annulled due to<
 2005-06/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1860< @57,58
      in line >Energie          0-0 Ahlen                Vucicevic (1860)]<
 2005-06/cup.txt -- parse error (RE) - skipping >:< @43,44
@@ -280,8 +275,6 @@ Germany (Deutschland)
 2005-06/cup.txt -- parse error (RE) - skipping >66< @53,55
      in line >1.VfL Bochum                   34 19  9  6  55-26  66  Promoted<
 2005-06/cup.txt -- stop after 13 errors
-2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @18,19
-     in line >Nürnberg        1-1     Stuttgart<
 2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >"< @44,52
      in line >Lars Ricken 61, Henrique de Souza Ewerthon "Ewerthon " 87]<
 2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >"< @54,55
@@ -305,6 +298,8 @@ Germany (Deutschland)
 2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1:< @3,4
      in line >[1:0 Nikol (og) 10, 1:1 Hysky 26, 1:2 Thurk 33, 1:3 Iordache 77]<
 2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1:< @22,23
+     in line >[1:0 Nikol (og) 10, 1:1 Hysky 26, 1:2 Thurk 33, 1:3 Iordache 77]<
+2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1:< @36,37
      in line >[1:0 Nikol (og) 10, 1:1 Hysky 26, 1:2 Thurk 33, 1:3 Iordache 77]<
 2004-05/1-bundesliga.txt -- stop after 13 errors
 2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @54,56
@@ -348,29 +343,21 @@ Germany (Deutschland)
      in line >78.<
 2003-04/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >18.< @10,11
      in line >[Römer 18., Copado 37, 39, Da Costa 51, 65, 69; Radulovic 73,<
-2003-04/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @16,17
-     in line >[Bettenstaedt 1-0; Felgenhauer 85, Disse 99; finished 1-2 aet but Ahlen<
-2003-04/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @56,57
-     in line >[Bettenstaedt 1-0; Felgenhauer 85, Disse 99; finished 1-2 aet but Ahlen<
-2003-04/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @8,9
-     in line >[Addo 0-1, 52, Ewerthon 0-2]<
-2003-04/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @26,27
-     in line >[Addo 0-1, 52, Ewerthon 0-2]<
 2003-04/1-bundesliga.txt -- parse error (RE) - skipping >1-3< @32,35
      in line >Bielefeld    -  Oberhausen      1-3<
 2003-04/1-bundesliga.txt -- parse error (RE) - skipping >2-4< @32,35
      in line >Fürth      -  Unterhaching      2-4<
+2003-04/1-bundesliga.txt -- parse error (RE) - skipping >0-1< @28,31
+     in line >Aue      -  Regensburg      0-1<
+2003-04/1-bundesliga.txt -- parse error (RE) - skipping >2-3< @29,32
+     in line >Cottbus      -  Trier        2-3<
+2003-04/1-bundesliga.txt -- parse error (RE) - skipping >2-1< @28,31
+     in line >Mainz      -  Berlin        2-1<
+2003-04/1-bundesliga.txt -- parse error (RE) - skipping >1-1< @31,34
+     in line >Burghausen    -  Aachen        1-1<
 2003-04/1-bundesliga.txt -- stop after 13 errors
 2003-04/cup.txt -- parse error (INSIDE_RE) - skipping >18.< @10,11
      in line >[Römer 18., Copado 37, 39, Da Costa 51, 65, 69; Radulovic 73,<
-2003-04/cup.txt -- parse error (INSIDE_RE) - skipping >1-< @16,17
-     in line >[Bettenstaedt 1-0; Felgenhauer 85, Disse 99; finished 1-2 aet but Ahlen<
-2003-04/cup.txt -- parse error (INSIDE_RE) - skipping >1-< @56,57
-     in line >[Bettenstaedt 1-0; Felgenhauer 85, Disse 99; finished 1-2 aet but Ahlen<
-2003-04/cup.txt -- parse error (INSIDE_RE) - skipping >0-< @8,9
-     in line >[Addo 0-1, 52, Ewerthon 0-2]<
-2003-04/cup.txt -- parse error (INSIDE_RE) - skipping >0-< @26,27
-     in line >[Addo 0-1, 52, Ewerthon 0-2]<
 2003-04/cup.txt -- parse error (RE) - skipping >:< @27,28
      in line >Final [May 29, Berlin; att: 71,682]<
 2003-04/cup.txt -- parse error (RE) - skipping >71< @30,31
@@ -387,6 +374,14 @@ Germany (Deutschland)
      in line >[Werder: 1-Andreas Reinke; 7-Paul Stalteri, 5-Valerien Ismael, 6-Frank<
 2003-04/cup.txt -- parse error (INSIDE_RE) - skipping >6-< @65,70
      in line >[Werder: 1-Andreas Reinke; 7-Paul Stalteri, 5-Valerien Ismael, 6-Frank<
+2003-04/cup.txt -- parse error (INSIDE_RE) - skipping >20-< @12,27
+     in line >Baumann, 20-Mladen Krstajic, 27-Christian Schulz (19-Victor Skripnik 90);<
+2003-04/cup.txt -- parse error (INSIDE_RE) - skipping >27-< @32,48
+     in line >Baumann, 20-Mladen Krstajic, 27-Christian Schulz (19-Victor Skripnik 90);<
+2003-04/cup.txt -- parse error (INSIDE_RE) - skipping >19-< @53,68
+     in line >Baumann, 20-Mladen Krstajic, 27-Christian Schulz (19-Victor Skripnik 90);<
+2003-04/cup.txt -- parse error (INSIDE_RE) - skipping >24-< @3,15
+     in line >24-Tim Borowski (9-Angelos Haristeas 88), 10-Johan Micoud, 4-Fabian<
 2003-04/cup.txt -- stop after 13 errors
 2002-03/1-bundesliga.txt -- parse error (RE) - skipping >1860< @4,15
      in line >1860           0-2 Rostock<
@@ -568,14 +563,14 @@ Germany (Deutschland)
      in line >[Stratos 55, Hermel 68 og?; Baya 39]<
 1999-00/1-bundesliga.txt -- parse error (RE) - skipping >1860< @4,15
      in line >1860           5-0 Arminia<
-1999-00/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @17,18
-     in line >Freiburg       2-1 Werder<
 1999-00/1-bundesliga.txt -- parse error (RE) - skipping >1860< @19,23
      in line >Werder         1-3 1860<
 1999-00/1-bundesliga.txt -- parse error (RE) - skipping >1860< @4,15
      in line >1860           0-0 HSV<
 1999-00/1-bundesliga.txt -- parse error (RE) - skipping >1860< @19,23
      in line >Leverkusen     1-1 1860<
+1999-00/1-bundesliga.txt -- parse error (RE) - skipping >1860< @4,15
+     in line >1860           2-1 Unterhaching<
 1999-00/1-bundesliga.txt -- stop after 13 errors
 1999-00/cup.txt -- parse error (INSIDE_RE) - skipping >att:< @50,51
      in line >[Elber 57, Paulo Sergio 83, Mehmet Scholl 90; att: 76,000]<
@@ -604,11 +599,7 @@ Germany (Deutschland)
 1999-00/cup.txt -- parse error (RE) - skipping >18< @36,38
      in line >2.VfL Bochum                   34 18  7  9  67-48  61  Promoted<
 1999-00/cup.txt -- stop after 13 errors
-1998-99/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >Duisburg   2-2 M'gladbach (M.Schneider 9 o, Emmerling 90 - Polster 69 p,<
 1998-99/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1860< @8,11
-     in line >TSV 1860   2-3 Wolfsburg  (Schroth 84, Hobsch 90 - Dammeier 7, Baumgart 47,<
-1998-99/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
      in line >TSV 1860   2-3 Wolfsburg  (Schroth 84, Hobsch 90 - Dammeier 7, Baumgart 47,<
 1998-99/cup.txt -- parse error (RE) - skipping >:< @27,28
      in line >Final [Jun 12, Berlin; att: 75,841]<
@@ -639,8 +630,6 @@ Germany (Deutschland)
 1998-99/cup.txt -- stop after 13 errors
 1997-98/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >off:< @36,37
      in line >Werder     0-0 Hamburger  (sent off: Todt (Werder, 64)<
-1997-98/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @13,14
-     in line >Wolfsburg  0-2 Duisburg   (Kleeschätzky 14 o, Spies 45)<
 1997-98/cup.txt -- parse error (RE) - skipping >:< @11,12
      in line >Final Table:<
 1997-98/cup.txt -- parse error (RE) - skipping >34< @33,34
@@ -670,13 +659,9 @@ Germany (Deutschland)
 1997-98/cup.txt -- stop after 13 errors
 1996-97/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1.< @2,3
      in line >1. FC Köln 3-1 Schalke    (Vladoiu 31, 68, Baumann 64 - Wilmots 48)<
-1996-97/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >1. FC Köln 3-1 Schalke    (Vladoiu 31, 68, Baumann 64 - Wilmots 48)<
 1996-97/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3x< @35,36
      in line >Stuttgart  5-1 Hansa      (Bobic 3x, Balakov 48, 50, Elber 71, Haber 76 -<
 1996-97/1-bundesliga.txt -- parse error (RE) - skipping >:< @12,32
-     in line >First Round:                    [9-11 Aug 1996]<
-1996-97/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >9-< @35,37
      in line >First Round:                    [9-11 Aug 1996]<
 1996-97/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1996< @46,47
      in line >First Round:                    [9-11 Aug 1996]<
@@ -694,10 +679,12 @@ Germany (Deutschland)
      in line >SSV Ulm 46-FC Schalke 04                    0:2<
 1996-97/1-bundesliga.txt -- parse error (RE) - skipping >09-< @19,36
      in line >SC Wattenscheid 09-Borussia Dortmund        4:3<
+1996-97/1-bundesliga.txt -- parse error (RE) - skipping >4:3< @44,47
+     in line >SC Wattenscheid 09-Borussia Dortmund        4:3<
+1996-97/1-bundesliga.txt -- parse error (RE) - skipping >1:0< @44,47
+     in line >1.FC Nürnberg-FSV Mainz 05                  1:0<
 1996-97/1-bundesliga.txt -- stop after 13 errors
 1996-97/cup.txt -- parse error (RE) - skipping >:< @12,32
-     in line >First Round:                    [9-11 Aug 1996]<
-1996-97/cup.txt -- parse error (INSIDE_RE) - skipping >9-< @35,37
      in line >First Round:                    [9-11 Aug 1996]<
 1996-97/cup.txt -- parse error (INSIDE_RE) - skipping >1996< @46,47
      in line >First Round:                    [9-11 Aug 1996]<
@@ -721,157 +708,59 @@ Germany (Deutschland)
      in line >1.FC Nürnberg-FSV Mainz 05                  1:0<
 1996-97/cup.txt -- parse error (RE) - skipping >2:0< @44,47
      in line >Karlsruher SC Amateure-FC Carl Zeiss Jena   2:0<
+1996-97/cup.txt -- parse error (RE) - skipping >1:3< @44,47
+     in line >Hamburger SV Amateure-Arminia Bielefeld     1:3<
 1996-97/cup.txt -- stop after 13 errors
-1995-96/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >Hansa      1-2 Leverkusen (Baumgart 23 - B.Schuster 17, Feldhoff 87)<
 1995-96/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >-< @37,41
      in line >Leverkusen 1-1 K'lautern  (Münch 82 -Kuka 58)<
-1993-94/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >off:< @9,10
-     in line >(ent off: Sternkopf (Bayern, 87))<
 1993-94/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >x30< @64,65
      in line >Leipzig    2-2 Schalke    (Franklin 71, Anders 82 p - Müller x30, Luginger 44)<
-1992-93/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >Dynamo     2-3 Werder     (Gütschow 48, Schößler 87 - Herzog 8, Beiersdorfer<
-1992-93/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2:< @12,13
-     in line >[verified 2:0 wo.]<
-1990-91/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >K'lautern  1-1 W'scheid   (Haber 29 - Hartmann 12)<
-1990-91/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >Leverkusen 3-1 Hertha     (Kree 19 p, Lesniak 48, Kirsten 74 - Rahn 78)<
-1989-90/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >4-< @13,14
-     in line >Stuttgart  4-0 M'gladbach (Schmäler 24, Hartmann 58, Allgöwer 65, Walter 73 p)<
 1989-90/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >=< @59,60
      in line >M'gladbach 3-1 K'lautern  (Effenberg 51 p, 69, Belanov 73 = Labbadia 88)<
-1988-89/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @14,15
-     in line >M'gladbach  2-0 Bochum      (Bruns 4, Winter 32)<
-1988-89/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @14,15
-     in line >Werder      3-0 Stuttgart   (Schaaf 56, Neubarth 64, Burgsmüller 66)<
 1986-87/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >?< @28,29
      in line >K'lautern  4-1 Bochum     (?)<
-1986-87/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >Bochum     2-0 Frankfurt  (Kree 73, Woelk 79)<
 1986-87/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >52Weikl< @23,24
      in line >Ravn-Jensen 49, 52Weikl 86 p)<
 1985-86/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >67.< @72,75
      in line >Leverkusen 4-2 Bochum     (Cha 8, Götz 27, Patzke 44, Zechel 60 - Kuntz 67.<
-1985-86/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >Bochum     3-2 Hannover   (Kuntz 47 p, 62, Fischer 49, Schaub 22, 70)<
 1984-85/1-bundesliga.txt -- parse error (RE) - skipping >M'gladbach10-< @13,24
      in line >M'gladbach10-0 B'schweig  (Rahn 4, 67, 77, Dreßen 8, Criens 18, 55, 68,<
 1984-85/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >=< @61,62
      in line >Werder     3-1 Stuttgart  (Reinders 13, Sidka 26, Völler 40 = Kempe 88)<
-1984-85/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >Leverkusen 2-0 Hamburger  (Cha 33, 50)<
-1984-85/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >Dortmund   1-1 Bayern     (Anderbrügge 7 - Matthäus 15 p)<
-1983-84/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >Bielefeld  1-2 1. FC Köln (Pagelsdorf 58 p - Fischer 21, K.Allofs 52)<
 1983-84/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1.< @17,18
      in line >Bielefeld  1-2 1. FC Köln (Pagelsdorf 58 p - Fischer 21, K.Allofs 52)<
-1983-84/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >4-< @13,14
-     in line >Düsseldorf 4-2 Frankfurt  (Thiele 7, 75, Bommer 25, 82 - U.Müller 50,<
-1983-84/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @13,14
-     in line >Hamburger  0-2 Frankfurt  (Falkenmayer 9, 90 p)<
-1982-83/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >5-< @13,14
-     in line >M'gladbach 5-0 Düsseldorf (Matthäus 34, Hannes 37 p, Mill 46, Wuttke 48,<
-1982-83/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >4-< @13,14
-     in line >Bayern     4-0 Stuttgart  (D.Hoeneß 16, 60, Rummenigge 67, 88)<
-1982-83/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >Bochum     1-1 Hamburger  (Patzke 62 - Hartwig 23)<
-1981-82/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >Bochum     3-2 Frankfurt  (Bittorf 9, 86, Patzke 45 - Pezzey 16, Anthes 90)<
-1981-82/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >B'schweig  3-1 Bayern     (Worm 45, Grobe 57, Zavisic 87 - Breitner 38 p)<
-1981-82/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >Stuttgart  1-1 1. FC Köln (D.Müller 36 - Littbarski 40)<
 1981-82/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1.< @17,18
      in line >Stuttgart  1-1 1. FC Köln (D.Müller 36 - Littbarski 40)<
-1981-82/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @13,14
-     in line >Duisburg   0-2 Darmstadt  (Stetter 3, Vorreiter 59)<
-1981-82/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >Dortmund   3-2 Bochum     (Bittorf 8, Rüssmann 63, Klotz 85 - Patzke 39,<
-1981-82/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >K'lautern  2-1 Nürnberg   (Hofediz 21, Dusek 41 - Täuber 89)<
-1980-81/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @13,14
-     in line >Leverkusen 0-1 K'lautern  (Melzer 27)<
-1980-81/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >Bochum     2-0 Frankfurt  (Gross 50, Abel 57 p)<
-1980-81/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >Schalke    2-2 Duisburg   (Elgert 18, Bittcher 24 - Büssers 22, 56)<
-1980-81/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >Nürnberg   2-0 M'gladbach (Beierlorzer 64, Hannes 70 o)<
 1980-81/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >off:< @10,11
      in line >(sent off: Wenzel (Düsseldorf, 88)<
 1979-80/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >off:< @10,11
      in line >(sent off: Kulik (M'gladbach, 88)<
-1979-80/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >4-< @13,14
-     in line >K'lautern  4-0 Hertha     (Wolf 21, Neues 32, 79, Melzer 43)<
 1979-80/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1.< @2,3
      in line >1. FC Köln 2-1 Bochum     (Schuster 34, Littbarski 76 - Eggeling 35)<
-1979-80/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >1. FC Köln 2-1 Bochum     (Schuster 34, Littbarski 76 - Eggeling 35)<
-1979-80/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >M'gladbach 2-2 Hamburger  (Nickel 39, Schäffer 88 - Reimann 26, Keegan 37)<
 1979-80/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >50.< @41,42
      in line >1. FC Köln 2-2 Stuttgart  (Littbarski 50. Strack 87 - Hadewicz 49, Kelsch 74)<
 1979-80/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >83.< @67,70
      in line >Frankfurt  5-2 M'gladbach (Borchers 1, Nachtweih 7, Körbel 44, Cha 83.<
-1978-79/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >Frankfurt  3-1 B'schweig  (Kraus 2, Wenzel 14, Nickel 81 - Hölzenbein 55,<
 1978-79/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1.< @2,3
-     in line >1. FC Köln 2-1 Darmstadt  (Cullmann 48, 73 - Cestonaro 5)<
-1978-79/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
      in line >1. FC Köln 2-1 Darmstadt  (Cullmann 48, 73 - Cestonaro 5)<
 1978-79/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >off:< @10,11
      in line >(sent off: Hölzenbein 90))<
-1978-79/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >K'lautern  3-1 Dortmund   (Wendt 1, 13, Bongartz 8 - Burgsmüller 56)<
 1978-79/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1.< @2,3
      in line >1. FC Köln 3-1 Hertha     (H.Zimmermann 47 p, Okudera 78, Littbarski 90 -<
-1978-79/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >1. FC Köln 3-1 Hertha     (H.Zimmermann 47 p, Okudera 78, Littbarski 90 -<
-1978-79/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >B'schweig  2-1 Schalke    (Handschuh 38, Popivoda 55 - Fischer 82)<
-1977-78/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >Hertha     1-1 Stuttgart  (K-H.Förster 44 - D.Hoeneß 78)<
 1977-78/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1.< @2,3
      in line >1. FC Köln 3-1 Hertha     (D.Müller 18, R.Gerber 64, van Gool 65 - Beer 73)<
-1977-78/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >1. FC Köln 3-1 Hertha     (D.Müller 18, R.Gerber 64, van Gool 65 - Beer 73)<
 1977-78/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1860< @8,11
-     in line >TSV 1860   0-1 Düsseldorf (Schmitz 6)<
-1977-78/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @13,14
      in line >TSV 1860   0-1 Düsseldorf (Schmitz 6)<
 1977-78/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >-< @37,44
      in line >M'gladbach 1-3 Duisburg   (Bonhof 8 -Seliger 19, 80, Büssers 58)<
 1977-78/1-bundesliga.txt -- parse error (RE) - skipping >_< @53,54
      in line >B'schweig  1-1 Hertha     (Breitner 71 - Granitza 32)_<
-1977-78/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >Stuttgart  1-1 Düsseldorf (Ohlicher 67 - G.Zimmermann 87)<
 1977-78/1-bundesliga.txt -- parse error (RE) - skipping >M'gladbach12-< @13,23
      in line >M'gladbach12-0 Dortmund   (Heynckes 1, 12, 59, 77, Nielsen 13, 32, 61,<
-1976-77/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >B'schweig  1-1 M'gladbach (Frank 73 - Simonsen 86)<
-1976-77/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >M'gladbach 3-0 TB Berlin  (Heynckes 45, 48, Stielike 73)<
-1976-77/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >Hamburger  1-1 Düsseldorf (Volkert 17 - Seel 88)<
 1976-77/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >off:< @10,11
      in line >(sent off: Handschuh (B'schweig, 77)<
-1976-77/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >7-< @13,14
-     in line >Frankfurt  7-1 Werder     (Kraus 5, 52, Wenzel 13, 89, Trinklein 61,<
-1975-76/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @13,14
-     in line >Karlsruher 1-0 Uerdingen  (Gutzeit 63 p)<
-1975-76/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @13,14
-     in line >K'lautern  2-1 Bayern     (Toppmöller 34, 85 - Wunder 38)<
-1975-76/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @13,14
-     in line >Hertha     3-0 K'lautern  (Beer 14, 83, Horr 54)<
 1975-76/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >-< @40,41
      in line >Uerdingen  1-1 Hertha     (Brinkmann 6 -, Beer 77)<
-1975-76/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >6-< @13,14
-     in line >Schalke    6-2 Karlsruher (Fischer 18, 26, 37, 79, Abramczik 61, E.Kremers 70 -<
 1975-76/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >44< @48,49
      in line >Duisburg   1-1 Frankfurt  (Büssers 62 - Kraus 44(<
-1975-76/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @13,14
-     in line >Hamburger  0-1 Bayern     (G.Müller 74)<
 ```

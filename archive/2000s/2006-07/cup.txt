@@ -24,12 +24,12 @@ BV Cloppenburg         0-1 1.FC Nürnberg
   [Ivica Banovic 58]
 Delbrücker SC          2-4 SC Freiburg
   [Guerino Capretti 47, Ansgar Kuhn 50; Roda Antar 29, 74,
-   Soumaila Coulibaly 75, Arlindo Gomes Semedo ‘Cafú' 77]
+   Soumaila Coulibaly 75, Arlindo Gomes Semedo 'Cafú' 77]
 FK Pirmasens           1-1 Werder Bremen           [aet, 4-2 pen]
   [Sebastian Reich 64; Ivan Klasnic 83]
 Hansa Rostock II       1-9 Schalke 04
   [Robert Franke 47; Kevin Kuranyi 12, 31, Gerald Asamoah 15, 35,
-   Cassio Souza Soares ‘Lincoln' 21, 73, Marcelo José Bordon 56,
+   Cassio Souza Soares 'Lincoln' 21, 73, Marcelo José Bordon 56,
    Halil Altintop 63, Gustavo Antonio Varela 83]
 Rot-Weiss Essen        1-0 Energie Cottbus
   [Stefan Lorenz 65]
@@ -37,10 +37,10 @@ Stuttgarter Kickers    4-3 Hamburger SV            [aet]
   [Recep Yildiz 5, 89, Christian 6, 96pen; Boubacar Sanogo 28,
    Danijel Ljuboja 36, Guy Demel 44]
 TSG Thannhausen        0-3 Borussia Dortmund
-  [Paulo Cesar Fonseca do Nascimento ‘Tinga' 29, Nelson Valdez 40,
+  [Paulo Cesar Fonseca do Nascimento 'Tinga' 29, Nelson Valdez 40,
    Alexander Frei 42]
 TuS Koblenz            2-2 Bayer Leverkusen        [aet, 1-3 pen]
-  [Evangelos Nessos 53, Kenan Sahin 104;'Juan' Silveira dos Santos 58,
+  [Evangelos Nessos 53, Kenan Sahin 104;"Juan" Silveira dos Santos 58,
    Bernd Schneider 115]
 1.FC Gera 03           0-2 1.FC Kaiserslautern
   [Azar Karadas 33, Tamas Hajnal 60]
@@ -50,7 +50,7 @@ FC Augsburg            3-4 Wacker Burghausen       [aet]
    Maximilian Nicu 119]
 Alemannia Aachen II    0-4 VfB Stuttgart
   [Daniel Bierofka 11, Jon Dahl Tomasson 50pen, Roberto Hilbert 70,
-   Jeronimo Barreto Claudemir ‘Cacau' 73]
+   Jeronimo Barreto Claudemir "Cacau" 73]
 FC Homburg 08          1-2 VfL Bochum
   [Michael Petri 85; Zvjezdan Misimovic 19pen, Theofanis Gekas 51]
 Sportfreunde Siegen    0-2 Eintracht Frankfurt
@@ -68,7 +68,7 @@ SV Babelsberg 03       2-1 Hansa Rostock
   [Jan Mutschler 34, Patrick Moritz 66; Zafer Yelen 69]
 SV Rossbach            1-4 Borussia Mönchengladbach
   [Martin Köhns 64; Vaclav Sverkos 14, 42,
-   José Antonio Dos Santos Silva ‘Zé Antonio' 26, Michael Delura 73]
+   José Antonio Dos Santos Silva 'Zé Antonio' 26, Michael Delura 73]
 VfB Lübeck             1-0 1860 München
   [Dustin Heun 30]
 FC Bremerhaven         1-3 VfL Wolfsburg
@@ -95,7 +95,7 @@ FK Pirmasens           0-3 SpVgg Unterhaching
   [Michal Kolomaznik 20, 38 Bruno Custos 86]
 SV Babelsberg 03       2-4 VfB Stuttgart
   [Aymen Ben-Hatira 57, 72;Roberto Hilbert 14, Matthieu Delpierre 52,
-   Mario Gomez 61, Jeronimo Barreto Claudemir ‘Cacau' 80]
+   Mario Gomez 61, Jeronimo Barreto Claudemir "Cacau" 80]
 VfB Lübeck             0-0 Wacker Burghausen       [aet, 4-5 pen]
 VfL Bochum             3-2 Karlsruher SC
   [Theofanis Gekas 26, Heiko Butscher 29, 87;
@@ -128,7 +128,7 @@ VfL Osnabrück          0-3 Hertha BSC
   [Malik Fathi 33, Christian Gimenez 40, 51]
 VfL Bochum             1-4 VfB Stuttgart
   [Tommy Bechmann 85; Mario Gomez 34, Thomas Hitzlsperger 49, 58,
-   Jeronimo Barreto Claudemir ‘Cacau' 90]
+   Jeronimo Barreto Claudemir "Cacau" 90]
 Eintracht Frankfurt    3-1 1.FC Köln               [aet]
   [Alexander Meier   2, Naohiro Takahara 95, Sotirios Kyrgiakos 112;
    Peter Madsen 18]
@@ -239,7 +239,7 @@ Kickers O        0-1 Karlsruhe
   [Giovanni Federico 45]
 [Aug 27]
 Greither Fürth   1-3 Hansa
-  [Andre Mijatovic 38; Enrico Kern 5, ‘Gledson' da Silva Menezes 49,
+  [Andre Mijatovic 38; Enrico Kern 5, 'Gledson' da Silva Menezes 49,
    Amir Shapourzadeh 67]
 Kaiserslautern   2-0 Paderborn
   [Noureddine Daham 2, 33]
@@ -259,7 +259,7 @@ Unerhaching      0-1 Augsburg
   [Mamadou-Lamine Diabang 73]
 RW Essen         4-4 CZ Jena
   [Macchambes Younga-Mouhani 16, 55,
-  ‘Paulo Sérgio' Rodrigues Duarte de Almeida 18,
+  'Paulo Sérgio' Rodrigues Duarte de Almeida 18,
    Victor Hugo Lorenzón 52pen; Kevin Schlitte 5,
    Christian Fröhlich 54, Sebastian Helbig 58, 72]
 Köln             4-1 Eintracht B
@@ -438,7 +438,7 @@ Karlsruhe        4-1 1860
 RW Essen         0-1 Koblenz
   [Kenan Sahin 82]
 Paderborn        0-2 Hansa
-  [‘Gledson' da Silva Menezes 57, Djordje Cetkovic 89]
+  ['Gledson' da Silva Menezes 57, Djordje Cetkovic 89]
 [Nov 8]
 Kaiserslautern   4-0 Wacker B
   [Axel Bellinghausen 16, Tamas Hajnal 57, Sven Müller 66,

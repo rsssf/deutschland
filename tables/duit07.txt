@@ -54,7 +54,7 @@ Mainz            2-1 Bochum
   [Tobias Damn 29, Mimoun Azaouagh 71; Tomasz Zdebel 86]
 [Aug 13]
 Hannover         2-4 Werder
-  [Jiri Stajner 40, Vahid Hashemian 67; ‘Diego' Ribas da Cunha 20,
+  [Jiri Stajner 40, Vahid Hashemian 67; 'Diego' Ribas da Cunha 20,
    Miguel Hugo Almeida 79, Miroslav Klose 85, Daniel Jensen 90+]
 Wolfsburg        0-0 Hertha
 
@@ -74,7 +74,7 @@ Hertha           4-0 Hannover
   [Marko Pantelic 20, 63, Pal Dardai 31, Patrick Ebert 76]
 Eintracht F      0-0 Wolfsburg
 Borussia D       1-1 Mainz
-  [Martin Amedick 76; Eduardo ‘Edu' Goncalves de Oliveira 77]
+  [Martin Amedick 76; Eduardo 'Edu' Goncalves de Oliveira 77]
 [Aug 20]
 Bochum           1-2 Bayern
   [Fabio Pereira Junior 52; Roy Makaay 42, Philipp Lahm 65]
@@ -90,9 +90,9 @@ Schalke          2-0 Werder
 Hannover         0-3 Alemannia
   [Jan Schlaudraff 15, Sascha Dum 47, Reiner Plaßhenrich 72]
 Leverkusen       1-1 Wolfsburg
-  [‘Juan' Silveira dos Santos 49; Ahmed Madouni 70]
+  ['Juan' Silveira dos Santos 49; Ahmed Madouni 70]
 Borussia M       1-0 Arminia
-  [Carlos Eduardo de Souza Floresta ‘Kahe' 59]
+  [Carlos Eduardo de Souza Floresta 'Kahe' 59]
 Stuttgart        1-3 Borussia D
   [Serdar Tasci 30; Ludovic Magnin 20og, Florian Kringe 32,
    Alexander Frei 88]
@@ -112,7 +112,7 @@ Wolfsburg        1-2 Hannover
 [Sep 16]
 Alemannia        4-2 Borussia M
   [Laurentiu Reghecampf 7pen, Jan Schlaudraff 31, 84,
-   Marius Ebbers 51; Carlos Eduardo de Souza Floresta ‘Kahe' 50, 90+]
+   Marius Ebbers 51; Carlos Eduardo de Souza Floresta 'Kahe' 50, 90+]
 Arminia          2-1 Bayern
   [Artur Wichniarek 25, Jonas Kamper 84; Mark van Bommel 6]
 Energie          2-0 Mainz
@@ -134,14 +134,14 @@ Hertha           2-0 Schalke
 Round 5
 [Sep 22]
 Borussia M       1-0 Borussia D
-  [Carlos Eduardo de Souza Floresta ‘Kahe' 39]
+  [Carlos Eduardo de Souza Floresta 'Kahe' 39]
 [Sep 23]
 Hannover         1-1 Leverkusen
   [Thomas Brdaric 74; Sergej Barbarez 37]
 Stuttgart        1-1 Eintracht F
   [Mario Gomez 73; Alexander Meier 88]
 Schalke          2-0 Wolfsburg
-  [Kevin Kuranyi 57, Cassio Souza Soares ‘Lincoln 89]
+  [Kevin Kuranyi 57, Cassio Souza Soares 'Lincoln 89]
 Mainz            1-1 Hertha
   [Bakary Diakité 49; Kevin-Prince Boateng 56]
 Hamburg          1-1 Werder
@@ -162,7 +162,7 @@ Borussia D       2-2 Hannover
 Wolfsburg        1-0 Bayern
   [Mike Hanke 36]
 Werder           3-0 Borussia M
-  [Aaron Hunt 33, Christian Schulz 35, ‘Diego' Ribas da Cunha 38]
+  [Aaron Hunt 33, Christian Schulz 35, 'Diego' Ribas da Cunha 38]
 Nürnberg         1-1 Mainz
   [Jan Polak 24; Christof Babatz 85]
 Alemannia        2-1 Bochum
@@ -178,7 +178,7 @@ Leverkusen       3-1 Schalke
   [Gonzalo Castro 28, 47, Carsten Ramelow 56; Marcelo José Bordon 6]
 Hertha           2-2 Stuttgart
   [Arne Friedrich 9, Marko Pantelic 14; Mario Gomez 4,
-   Jeronimo Barreto Claudemir ‘Cacau' 57]
+   Jeronimo Barreto Claudemir 'Cacau' 57]
 
 Round 7
 [Oct 13]
@@ -199,8 +199,8 @@ Hannover         1-1 Eintracht F
   [Vahid Hashemian 22; Alexander Meier 56]
 Bochum           0-6 Werder
   [Aaron Hunt 7, Christian Schulz 60, Jurica Vranjes 75,
-   ‘Diego' Ribas da Cunha 77, Clemens Fritz 88,
-   Ronaldo Aparecido Rodrigues ‘Naldo' 90]
+   'Diego' Ribas da Cunha 77, Clemens Fritz 88,
+   Ronaldo Aparecido Rodrigues 'Naldo' 90]
 [Oct 15]
 Nürnberg         1-1 Arminia
   [Jan Polak 39; Jörg Böhme 26pen]
@@ -216,7 +216,7 @@ Borussia D       1-1 Bochum
 Wolfsburg        1-1 Stuttgart
   [Mike Hanke 26; Mario Gomez 31]
 Werder           3-1 Bayern
-  [‘Diego' Ribas da Cunha 11, Pierre Womé 34, Lucimar da Silva Ferreira ‘Lucio' 62og; Roy Makaay 37]
+  ['Diego' Ribas da Cunha 11, Pierre Womé 34, Lucimar da Silva Ferreira 'Lucio' 62og; Roy Makaay 37]
 Schalke          2-1 Hannover
   [Zlatan Bajramovic 18, Levan Kobiashvili 27; Jan Rosenthal 52]
 Hertha           2-1 Borussia M
@@ -235,7 +235,7 @@ Round 9
 [Oct 27]
 Mainz            1-6 Werder
   [Mimoun Azaouagh 74; Miroslav Klose 14, 21, Aaron Hunt 20, 75,
-   Ronaldo Aparecido Rodrigues ‘Naldo' 80, ‘Diego' Ribas da Cunha 89]
+   Ronaldo Aparecido Rodrigues 'Naldo' 80, 'Diego' Ribas da Cunha 89]
 [Oct 28]
 Hamburg          0-0 Hannover
 Borussia M       0-2 Leverkusen
@@ -245,7 +245,7 @@ Bayern           2-0 Eintracht F
 Bochum           0-1 Wolfsburg
   [Mike Hanke 25]
 Nürnberg         1-1 Borussia D
-  [Jawhar Mnari 59pen; Paulo César Fonseca do Nascimento ‘Tinga' 87]
+  [Jawhar Mnari 59pen; Paulo César Fonseca do Nascimento 'Tinga' 87]
 Energie          2-0 Hertha
   [Daniel Gunkel 66, Jiayi Shao 83]
 [Oct 29]
@@ -283,7 +283,7 @@ Eintracht F      1-0 Borussia M
 Round 11
 [Nov 7]
 Nürnberg         1-2 Werder
-  [Ivica Banovic 90pen; Torsten Frings 32, ‘Diego' Ribas da Cunha 79]
+  [Ivica Banovic 90pen; Torsten Frings 32, 'Diego' Ribas da Cunha 79]
 Borussia D       0-0 Alemannia
 Mainz            1-2 Wolfsburg
   [Imre Szabics 7; Mike Hanke 4pen, Christopher Lamprecht 84]
@@ -291,12 +291,12 @@ Stuttgart        2-0 Hamburg
   [Mario Gomez 80, Thomas Hitzlsperger 85]
 [Nov 8]
 Arminia          2-2 Hertha
-  [Sibusiso Zuma 28, Radim Kucera 76; ‘Gilberto' da Silva Melo 45,
+  [Sibusiso Zuma 28, Radim Kucera 76; 'Gilberto' da Silva Melo 45,
    Christian Gimenez 58]
 Bayern           0-1 Hannover
   [Szabolcs Huszti 43]
 Borussia M       0-2 Schalke
-  [José Antonio Dos Santos Silva ‘Zé Antonio' 11og,
+  [José Antonio Dos Santos Silva 'Zé Antonio' 11og,
    Gustavo Antonio Varela 31]
 Energie          0-1 Eintracht F
   [Naohiro Takahara 22]
@@ -308,7 +308,7 @@ Round 12
 [Nov 10]
 Werder           1-3 Borussia D
   [Miroslav Klose 29; Alexander Frei 7,
-   Paulo César Fonseca do Nascimento ‘Tinga' 53,
+   Paulo César Fonseca do Nascimento 'Tinga' 53,
    Marc-André Kruska 85pen]
 [Nov 11]
 Eintracht F      0-3 Arminia
@@ -319,7 +319,7 @@ Hertha           3-3 Bochum
   [Marko Pantelic 9, Dick van Burik 58, Andreas Neuendorf 80;
    Theofanis Gekas 39, Zvjezdan Misimovic 45+, 48]
 Leverkusen       2-3 Bayern
-  [Stefan Kießling 48, ‘Athirson' Mazolli de Oliveira 80;
+  [Stefan Kießling 48, 'Athirson' Mazolli de Oliveira 80;
    Hasan Salihamidzic 33, Martín Demichelis 83, Claudio Pizarro 86]
 Schalke          4-0 Mainz
   [Kevin Kuranyi 13, 32, Halil Altintop 23, 67]
@@ -327,7 +327,7 @@ Wolfsburg        0-0 Energie
 [Nov 12]
 Hannover         1-2 Stuttgart
   [Jan Rosenthal 4; Thomas Hitzlsperger 49,
-   Jeronimo Barreto Claudemir ‘Cacau' 54]
+   Jeronimo Barreto Claudemir 'Cacau' 54]
 Alemannia        1-1 Nürnberg
   [Reiner Plaßhenrich 90; Tomás Galásek 30]
 
@@ -351,7 +351,7 @@ Energie          2-4 Schalke
    Christian Pander 51, Levan Kobiashvili 83]
 Borussia D       1-2 Hertha
   [Alexander Frei 23pen; Andreas Schmidt 10,
-   ‘Gilberto' da Silva Melo 15]
+   'Gilberto' da Silva Melo 15]
 [Nov 19]
 Arminia          0-0 Wolfsburg
 Borussia M       0-1 Hannover
@@ -360,7 +360,7 @@ Borussia M       0-1 Hannover
 Round 14
 [Nov 24]
 Schalke          2-1 Bochum
-  [Marcio Rafael Ferreira de Souza ‘Rafinha' 19, Peter Lövenkrands 27;
+  [Marcio Rafael Ferreira de Souza 'Rafinha' 19, Peter Lövenkrands 27;
    Theofanis Gekas 49]
 [Nov 25]
 Werder           3-0 Arminia
@@ -380,7 +380,7 @@ Leverkusen       3-1 Energie
   [Sergej Barbarez 19, Simon Rolfes 66, Andrej Voronin 79;
    Vlad Munteanu 51]
 Stuttgart        1-0 Borussia M
-  [Jeronimo Barreto Claudemir ‘Cacau' 6]
+  [Jeronimo Barreto Claudemir 'Cacau' 6]
 
 Round 15
 [Dec 1]
@@ -390,7 +390,7 @@ Mainz            0-0 Stuttgart
 Energie          0-1 Hannover
   [Steven Cherundolo 22]
 Werder           3-1 Hertha
-  [‘Diego' Ribas da Cunha 23pen, Miroslav Klose 32, 40;
+  ['Diego' Ribas da Cunha 23pen, Miroslav Klose 32, 40;
    Josip Simunic 24]
 Bayern           1-1 Borussia M
   [Martín Demichelis 22; Michael Delura 33]
@@ -414,8 +414,8 @@ Bayern           2-1 Energie
    Steffen Baumgart 53]
 Eintracht F      2-6 Werder
   [Marco Russ 4, Sotirios Kyrgiakos 81;
-   Ronaldo Aparecido Rodrigues ‘Naldo' 3, 31, 48, Daniel Jensen 11,
-   Jurica Vranjes 86, ‘Diego' Ribas da Cunha 90]
+   Ronaldo Aparecido Rodrigues 'Naldo' 3, 31, 48, Daniel Jensen 11,
+   Jurica Vranjes 86, 'Diego' Ribas da Cunha 90]
 Stuttgart        1-0 Bochum
   [Marco Streller 88]
 Hannover         1-1 Arminia
@@ -434,7 +434,7 @@ Schalke          3-1 Borussia D
 Round 17
 [Dec 15]
 Bochum           2-0 Borussia M
-  [Theofanis Gekas 45+, Carlos Eduardo de Souza Floresta ‘Kahe' 85og]
+  [Theofanis Gekas 45+, Carlos Eduardo de Souza Floresta 'Kahe' 85og]
 [Dec 16]
 Hertha           1-0 Eintracht F
   [Christian Gimenez 63]
@@ -455,7 +455,7 @@ Alemannia        3-3 Hamburg
 Borussia D       1-2 Leverkusen
   [Martin Amedick 85; Andrej Voronin 24, Stefan Kießling 74]
 Werder           2-1 Wolfsburg
-  [Daniel Jensen 17, Ronaldo Aparecido Rodrigues ‘Naldo' 86;
+  [Daniel Jensen 17, Ronaldo Aparecido Rodrigues 'Naldo' 86;
    Isaac Boakye 41]
 
 Round 18
@@ -743,12 +743,12 @@ BV Cloppenburg         0-1 1.FC Nürnberg
   [Ivica Banovic 58]
 Delbrücker SC          2-4 SC Freiburg
   [Guerino Capretti 47, Ansgar Kuhn 50; Roda Antar 29, 74,
-   Soumaila Coulibaly 75, Arlindo Gomes Semedo ‘Cafú' 77]
+   Soumaila Coulibaly 75, Arlindo Gomes Semedo 'Cafú' 77]
 FK Pirmasens           1-1 Werder Bremen           [aet, 4-2 pen]
   [Sebastian Reich 64; Ivan Klasnic 83]
 Hansa Rostock II       1-9 Schalke 04
   [Robert Franke 47; Kevin Kuranyi 12, 31, Gerald Asamoah 15, 35,
-   Cassio Souza Soares ‘Lincoln' 21, 73, Marcelo José Bordon 56,
+   Cassio Souza Soares 'Lincoln' 21, 73, Marcelo José Bordon 56,
    Halil Altintop 63, Gustavo Antonio Varela 83]
 Rot-Weiss Essen        1-0 Energie Cottbus
   [Stefan Lorenz 65]
@@ -756,7 +756,7 @@ Stuttgarter Kickers    4-3 Hamburger SV            [aet]
   [Recep Yildiz 5, 89, Christian 6, 96pen; Boubacar Sanogo 28,
    Danijel Ljuboja 36, Guy Demel 44]
 TSG Thannhausen        0-3 Borussia Dortmund
-  [Paulo Cesar Fonseca do Nascimento ‘Tinga' 29, Nelson Valdez 40,
+  [Paulo Cesar Fonseca do Nascimento 'Tinga' 29, Nelson Valdez 40,
    Alexander Frei 42]
 TuS Koblenz            2-2 Bayer Leverkusen        [aet, 1-3 pen]
   [Evangelos Nessos 53, Kenan Sahin 104;'Juan' Silveira dos Santos 58,
@@ -769,7 +769,7 @@ FC Augsburg            3-4 Wacker Burghausen       [aet]
    Maximilian Nicu 119]
 Alemannia Aachen II    0-4 VfB Stuttgart
   [Daniel Bierofka 11, Jon Dahl Tomasson 50pen, Roberto Hilbert 70,
-   Jeronimo Barreto Claudemir ‘Cacau' 73]
+   Jeronimo Barreto Claudemir 'Cacau' 73]
 FC Homburg 08          1-2 VfL Bochum
   [Michael Petri 85; Zvjezdan Misimovic 19pen, Theofanis Gekas 51]
 Sportfreunde Siegen    0-2 Eintracht Frankfurt
@@ -787,7 +787,7 @@ SV Babelsberg 03       2-1 Hansa Rostock
   [Jan Mutschler 34, Patrick Moritz 66; Zafer Yelen 69]
 SV Rossbach            1-4 Borussia Mönchengladbach
   [Martin Köhns 64; Vaclav Sverkos 14, 42,
-   José Antonio Dos Santos Silva ‘Zé Antonio' 26, Michael Delura 73]
+   José Antonio Dos Santos Silva 'Zé Antonio' 26, Michael Delura 73]
 VfB Lübeck             1-0 1860 München
   [Dustin Heun 30]
 FC Bremerhaven         1-3 VfL Wolfsburg
@@ -814,7 +814,7 @@ FK Pirmasens           0-3 SpVgg Unterhaching
   [Michal Kolomaznik 20, 38 Bruno Custos 86]
 SV Babelsberg 03       2-4 VfB Stuttgart
   [Aymen Ben-Hatira 57, 72;Roberto Hilbert 14, Matthieu Delpierre 52,
-   Mario Gomez 61, Jeronimo Barreto Claudemir ‘Cacau' 80]
+   Mario Gomez 61, Jeronimo Barreto Claudemir 'Cacau' 80]
 VfB Lübeck             0-0 Wacker Burghausen       [aet, 4-5 pen]
 VfL Bochum             3-2 Karlsruher SC
   [Theofanis Gekas 26, Heiko Butscher 29, 87;
@@ -847,7 +847,7 @@ VfL Osnabrück          0-3 Hertha BSC
   [Malik Fathi 33, Christian Gimenez 40, 51]
 VfL Bochum             1-4 VfB Stuttgart
   [Tommy Bechmann 85; Mario Gomez 34, Thomas Hitzlsperger 49, 58,
-   Jeronimo Barreto Claudemir ‘Cacau' 90]
+   Jeronimo Barreto Claudemir 'Cacau' 90]
 Eintracht Frankfurt    3-1 1.FC Köln               [aet]
   [Alexander Meier   2, Naohiro Takahara 95, Sotirios Kyrgiakos 112;
    Peter Madsen 18]
@@ -967,7 +967,7 @@ Kickers O        0-1 Karlsruhe
   [Giovanni Federico 45]
 [Aug 27]
 Greither Fürth   1-3 Hansa
-  [Andre Mijatovic 38; Enrico Kern 5, ‘Gledson' da Silva Menezes 49,
+  [Andre Mijatovic 38; Enrico Kern 5, 'Gledson' da Silva Menezes 49,
    Amir Shapourzadeh 67]
 Kaiserslautern   2-0 Paderborn
   [Noureddine Daham 2, 33]
@@ -987,7 +987,7 @@ Unerhaching      0-1 Augsburg
   [Mamadou-Lamine Diabang 73]
 RW Essen         4-4 CZ Jena
   [Macchambes Younga-Mouhani 16, 55,
-  ‘Paulo Sérgio' Rodrigues Duarte de Almeida 18,
+  'Paulo Sérgio' Rodrigues Duarte de Almeida 18,
    Victor Hugo Lorenzón 52pen; Kevin Schlitte 5,
    Christian Fröhlich 54, Sebastian Helbig 58, 72]
 Köln             4-1 Eintracht B
@@ -1166,7 +1166,7 @@ Karlsruhe        4-1 1860
 RW Essen         0-1 Koblenz
   [Kenan Sahin 82]
 Paderborn        0-2 Hansa
-  [‘Gledson' da Silva Menezes 57, Djordje Cetkovic 89]
+  ['Gledson' da Silva Menezes 57, Djordje Cetkovic 89]
 [Nov 8]
 Kaiserslautern   4-0 Wacker B
   [Axel Bellinghausen 16, Tamas Hajnal 57, Sven Müller 66,
