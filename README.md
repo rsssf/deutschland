@@ -281,53 +281,53 @@ Germany (Deutschland)
      in line >Lars Ricken 61, Henrique de Souza Ewerthon "Ewerthon " 87]<
 2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @54,56
      in line >SV Werder Bremen Amateure (RL)   1-2  MSV Duisburg (2.BL)<
-2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0:< @3,4
-     in line >[0:1 Baelum 2, 0:2 Mohr (og) 12, 1:2 ter Heide 17]<
-2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0:< @17,18
-     in line >[0:1 Baelum 2, 0:2 Mohr (og) 12, 1:2 ter Heide 17]<
-2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1:< @35,36
-     in line >[0:1 Baelum 2, 0:2 Mohr (og) 12, 1:2 ter Heide 17]<
-2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1:< @3,4
-     in line >[1:0 Fischer 34, 1:1 Aidoo 63, 1:2 Kießling 90]<
-2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1:< @19,20
-     in line >[1:0 Fischer 34, 1:1 Aidoo 63, 1:2 Kießling 90]<
-2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1:< @33,34
-     in line >[1:0 Fischer 34, 1:1 Aidoo 63, 1:2 Kießling 90]<
 2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @57,59
      in line >FC Sankt Pauli Hamburg (RL)   1-3  FC Energie Cottbus (2.BL)<
-2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1:< @3,4
-     in line >[1:0 Nikol (og) 10, 1:1 Hysky 26, 1:2 Thurk 33, 1:3 Iordache 77]<
-2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1:< @22,23
-     in line >[1:0 Nikol (og) 10, 1:1 Hysky 26, 1:2 Thurk 33, 1:3 Iordache 77]<
-2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1:< @36,37
-     in line >[1:0 Nikol (og) 10, 1:1 Hysky 26, 1:2 Thurk 33, 1:3 Iordache 77]<
+2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @57,59
+     in line >SSV Jahn Regensburg II (OL)   1-3  SpVgg Unterhaching (2.BL)<
+2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @45,47
+     in line >Kickers FC Offenbach (RL)   1-2  LR Ahlen (2.BL)<
+2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @62,64
+     in line >SG Eintracht Braunschweig (RL)   1-0  FC Wacker Burghausen (2.BL)       [aet]<
+2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @49,51
+     in line >VfL Osnabrück (RL)     3-2  FC Erzgebirge Aue (2.BL)<
+2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @64,66
+     in line >Hannover'1896 SC Amateure (OL)   0-3  SC Rot-Weiß Oberhausen (2.BL)<
+2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @20,22
+     in line >1.FC Saarbrücken (2.BL)     1-4  1.FC Köln (2.BL)<
+2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @46,48
+     in line >1.FC Saarbrücken (2.BL)     1-4  1.FC Köln (2.BL)<
+2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @22,24
+     in line >FC Rot-Weiß Erfurt (2.BL)   0-1  SG Eintracht Frankfurt/Main (2.BL)<
+2004-05/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2.< @64,66
+     in line >FC Rot-Weiß Erfurt (2.BL)   0-1  SG Eintracht Frankfurt/Main (2.BL)<
 2004-05/1-bundesliga.txt -- stop after 13 errors
 2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @54,56
      in line >SV Werder Bremen Amateure (RL)   1-2  MSV Duisburg (2.BL)<
-2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >0:< @3,4
-     in line >[0:1 Baelum 2, 0:2 Mohr (og) 12, 1:2 ter Heide 17]<
-2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >0:< @17,18
-     in line >[0:1 Baelum 2, 0:2 Mohr (og) 12, 1:2 ter Heide 17]<
-2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >1:< @35,36
-     in line >[0:1 Baelum 2, 0:2 Mohr (og) 12, 1:2 ter Heide 17]<
-2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >1:< @3,4
-     in line >[1:0 Fischer 34, 1:1 Aidoo 63, 1:2 Kießling 90]<
-2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >1:< @19,20
-     in line >[1:0 Fischer 34, 1:1 Aidoo 63, 1:2 Kießling 90]<
-2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >1:< @33,34
-     in line >[1:0 Fischer 34, 1:1 Aidoo 63, 1:2 Kießling 90]<
 2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @57,59
      in line >FC Sankt Pauli Hamburg (RL)   1-3  FC Energie Cottbus (2.BL)<
-2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >1:< @3,4
-     in line >[1:0 Nikol (og) 10, 1:1 Hysky 26, 1:2 Thurk 33, 1:3 Iordache 77]<
-2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >1:< @22,23
-     in line >[1:0 Nikol (og) 10, 1:1 Hysky 26, 1:2 Thurk 33, 1:3 Iordache 77]<
-2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >1:< @36,37
-     in line >[1:0 Nikol (og) 10, 1:1 Hysky 26, 1:2 Thurk 33, 1:3 Iordache 77]<
-2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >1:< @50,51
-     in line >[1:0 Nikol (og) 10, 1:1 Hysky 26, 1:2 Thurk 33, 1:3 Iordache 77]<
 2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @57,59
      in line >SSV Jahn Regensburg II (OL)   1-3  SpVgg Unterhaching (2.BL)<
+2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @45,47
+     in line >Kickers FC Offenbach (RL)   1-2  LR Ahlen (2.BL)<
+2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @62,64
+     in line >SG Eintracht Braunschweig (RL)   1-0  FC Wacker Burghausen (2.BL)       [aet]<
+2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @49,51
+     in line >VfL Osnabrück (RL)     3-2  FC Erzgebirge Aue (2.BL)<
+2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @64,66
+     in line >Hannover'1896 SC Amateure (OL)   0-3  SC Rot-Weiß Oberhausen (2.BL)<
+2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @20,22
+     in line >1.FC Saarbrücken (2.BL)     1-4  1.FC Köln (2.BL)<
+2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @46,48
+     in line >1.FC Saarbrücken (2.BL)     1-4  1.FC Köln (2.BL)<
+2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @22,24
+     in line >FC Rot-Weiß Erfurt (2.BL)   0-1  SG Eintracht Frankfurt/Main (2.BL)<
+2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @64,66
+     in line >FC Rot-Weiß Erfurt (2.BL)   0-1  SG Eintracht Frankfurt/Main (2.BL)<
+2004-05/cup.txt -- parse error (INSIDE_RE) - skipping >2.< @57,59
+     in line >FC Carl-Zeiss Jena (OL)     1-2  SpVgg Greuther Fürth (2.BL)       [aet]<
+2004-05/cup.txt -- parse error (RE) - skipping >1-< @2,13
+     in line >1-4 Gerber 60, 2-4 Coulibaly 71, 2-5 Casey 72]<
 2004-05/cup.txt -- stop after 13 errors
 2003-04/1-bundesliga.txt -- parse error (RE) - skipping >90.< @11,14
      in line >Gudjonnson 90.<
