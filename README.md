@@ -86,18 +86,18 @@ Germany (Deutschland)
 | 1974-75 | [1-bundesliga.txt](archive/1970s/1974-75/1-bundesliga.txt) |  **!! 1**  |
 | 1973-74 | [1-bundesliga.txt](archive/1970s/1973-74/1-bundesliga.txt) |  **!! 5**  |
 | 1972-73 | [1-bundesliga.txt](archive/1970s/1972-73/1-bundesliga.txt) |  **!! 6**  |
-| 1971-72 | [1-bundesliga.txt](archive/1970s/1971-72/1-bundesliga.txt) |  **!! 5**  |
+| 1971-72 | [1-bundesliga.txt](archive/1970s/1971-72/1-bundesliga.txt) |  **!! 4**  |
 | 1970-71 | [1-bundesliga.txt](archive/1970s/1970-71/1-bundesliga.txt) |  OK  |
-| 1969-70 | [1-bundesliga.txt](archive/1960s/1969-70/1-bundesliga.txt) |  **!! 1**  |
+| 1969-70 | [1-bundesliga.txt](archive/1960s/1969-70/1-bundesliga.txt) |  OK  |
 | 1968-69 | [1-bundesliga.txt](archive/1960s/1968-69/1-bundesliga.txt) |  OK  |
-| 1967-68 | [1-bundesliga.txt](archive/1960s/1967-68/1-bundesliga.txt) |  **!! 1**  |
-| 1966-67 | [1-bundesliga.txt](archive/1960s/1966-67/1-bundesliga.txt) |  **!! 1**  |
+| 1967-68 | [1-bundesliga.txt](archive/1960s/1967-68/1-bundesliga.txt) |  OK  |
+| 1966-67 | [1-bundesliga.txt](archive/1960s/1966-67/1-bundesliga.txt) |  OK  |
 | 1965-66 | [1-bundesliga.txt](archive/1960s/1965-66/1-bundesliga.txt) |  OK  |
 | 1964-65 | [1-bundesliga.txt](archive/1960s/1964-65/1-bundesliga.txt) |  OK  |
 | 1963-64 | [1-bundesliga.txt](archive/1960s/1963-64/1-bundesliga.txt) |  OK  |
 
 
-420 errors in 89 datafile(s)
+416 errors in 89 datafile(s)
 
 ```
 2023-24/cup.txt -- warn - heading with no text paragraph(s)
@@ -898,8 +898,6 @@ Germany (Deutschland)
      in line >B'schweig   1-1 Schalke     (?)<
 1972-73/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >Kremers62< @48,49
      in line >Schalke     2-0 Stuttgart   (Braun 19, Kremers62p)<
-1971-72/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1-< @15,16
-     in line >Hannover     1-2 K'lautern  (Keller 35 - Rehhagel 78 p, Hosic 90)<
 1971-72/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @15,16
      in line >Frankfurt    3-2 Bayern     (Parits 3, Hölzenbein 61, Lutz 70 -<
 1971-72/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @15,16
@@ -908,10 +906,4 @@ Germany (Deutschland)
      in line >B'schweig    1-1 Bayern     (Bäse 51- Haun 48 o)<
 1971-72/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >59.< @44,45
      in line >Bochum       4-2 Werder     (Walitza 19, 59. Wosab 67, Hartl 87 - Laumen 6,<
-1969-70/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >?< @28,29
-     in line >K'lautern  1-1 Schalke    (?)<
-1967-68/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >65.< @59,60
-     in line >1. FC Köln  2-5 M'gladbach  (Löhr 32, Simmet 89 - Meyer 65. 67, Wimmer 35, 87,<
-1966-67/1-bundesliga.txt -- parse error (RE) - skipping >M'gladbach11-< @13,22
-     in line >M'gladbach11-0 Schalke    (Heynckes 21, 85, 90, Rupp 7, 41, 61, Laumen<
 ```
