@@ -83,8 +83,8 @@ Germany (Deutschland)
 | 1977-78 | [1-bundesliga.txt](archive/1970s/1977-78/1-bundesliga.txt) |  **!! 9**  |
 | 1976-77 | [1-bundesliga.txt](archive/1970s/1976-77/1-bundesliga.txt) |  **!! 5**  |
 | 1975-76 | [1-bundesliga.txt](archive/1970s/1975-76/1-bundesliga.txt) |  **!! 7**  |
-| 1974-75 | [1-bundesliga.txt](archive/1970s/1974-75/1-bundesliga.txt) |  **!! 1**  |
-| 1973-74 | [1-bundesliga.txt](archive/1970s/1973-74/1-bundesliga.txt) |  **!! 5**  |
+| 1974-75 | [1-bundesliga.txt](archive/1970s/1974-75/1-bundesliga.txt) |  OK  |
+| 1973-74 | [1-bundesliga.txt](archive/1970s/1973-74/1-bundesliga.txt) |  OK  |
 | 1972-73 | [1-bundesliga.txt](archive/1970s/1972-73/1-bundesliga.txt) |  OK  |
 | 1971-72 | [1-bundesliga.txt](archive/1970s/1971-72/1-bundesliga.txt) |  OK  |
 | 1970-71 | [1-bundesliga.txt](archive/1970s/1970-71/1-bundesliga.txt) |  OK  |
@@ -97,7 +97,7 @@ Germany (Deutschland)
 | 1963-64 | [1-bundesliga.txt](archive/1960s/1963-64/1-bundesliga.txt) |  OK  |
 
 
-406 errors in 89 datafile(s)
+400 errors in 89 datafile(s)
 
 ```
 2023-24/cup.txt -- warn - heading with no text paragraph(s)
@@ -874,16 +874,4 @@ Germany (Deutschland)
      in line >Duisburg   1-1 Frankfurt  (Büssers 62 - Kraus 44(<
 1975-76/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @13,14
      in line >Hamburger  0-1 Bayern     (G.Müller 74)<
-1974-75/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @14,15
-     in line >RW Essen    2-0 Wuppertaler (Lippens 59, Burgsmüller 71)<
-1973-74/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >2-< @14,15
-     in line >For. Köln   2-2 Bochum      (Zimmermann 56, Glock 71 - Tenhagen 18, Walitza 39)<
-1973-74/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @14,15
-     in line >Bochum      0-2 1. FC Köln  (Löhr 27, D.Müller 65)<
-1973-74/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >1.< @18,19
-     in line >Bochum      0-2 1. FC Köln  (Löhr 27, D.Müller 65)<
-1973-74/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >0-< @14,15
-     in line >Hannover    0-2 M'gladbach  (Jensen 7, Heynckes 25)<
-1973-74/1-bundesliga.txt -- parse error (INSIDE_RE) - skipping >3-< @14,15
-     in line >Werder      3-0 Wuppertaler (Weist 2, Höttges 27 p, Roentved 47)<
 ```

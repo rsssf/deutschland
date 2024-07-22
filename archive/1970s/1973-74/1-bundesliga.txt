@@ -233,7 +233,7 @@ Schalke     2-2 1. FC Köln  (Fischer 29, Ehmke 59 - W.Weber 33, Löhr 52)
 Wuppertaler 2-0 Duisburg    (Pröpper 3, 59)
 Hertha      3-1 K'lautern   (Gutzeit 26, 47, Horr 90 - Pirrung 61)
 RW Essen    3-3 Stuttgart   (Erlhoff 66, 81 p, Ohlicher 87 - Weiß 20,
-                            Stickel 36, Ettmayer 65,
+                            Stickel 36, Ettmayer 65)
 For. Köln   2-2 Bochum      (Zimmermann 56, Glock 71 - Tenhagen 18, Walitza 39)
 Bayern      4-1 Hamburger   (G.Müller 32, 71, 83 p, Dürnberger 85 - Krause 24)
 Düsseldorf  2-0 Hannover    (Köhnen 50, Geye 74)
@@ -351,7 +351,7 @@ Düsseldorf  3-0 RW Essen    (Zewe 48, Budde 73, Zewe 80)
 Round 23 [Feb 9]
 Offenbach   2-1 Hannover    (Ritschel 62, Schmidradner 83 - Siemensmeyer 54)
 Hamburger   4-2 Frankfurt   (Volkert 31, 66, Heese 78, Hönig 81 -
-                            Rohrbach 40, 66,
+                            Rohrbach 40, 66)
 Bochum      0-2 1. FC Köln  (Löhr 27, D.Müller 65)
 Stuttgart   0-1 Duisburg    (Worm 24)
 K'lautern   3-2 Düsseldorf  (Köhnen 16 o, Ackermann 23, Pirrung 66 - Herzog 63,
@@ -373,7 +373,7 @@ K'lautern   4-0 Stuttgart   (Sandberg 16, Diehl 63, Toppmöller 78, 87)
 Duisburg    0-0 Bochum
 1. FC Köln  1-2 Hamburger   (Overath 38 - Winkler 14, Zaczyk 68)
 Frankfurt   2-2 Offenbach   (Hickersberger 86, Grabowski 88 p - Kliemann 16,
-                            Ritschel 53 p,
+                            Ritschel 53 p)
 Hannover    0-2 M'gladbach  (Jensen 7, Heynckes 25)
 Werder      1-1 Bayern      (Bracht 30 - Hoeneß 74)
 Schalke     6-1 For. Köln   (Fischer 13, Fischer 38, Scheer 51, Wesseler 62, Fischer 73p, Kremers 85, Rüssmann 89)
@@ -437,7 +437,7 @@ Duisburg    0-4 Bayern      (Beckenbauer 22, G.Müller 59, Hoeneß 65,
 1. FC Köln  5-0 For. Köln   (Flohe 26, 73, 80, Löhr 47, 88)
 Frankfurt   6-0 RW Essen    (Nickel 8, 57, Kalb 19, 58, Rohrbach 65, Parits 90)
 Hannover    3-1 Hertha      (Damjanoff 43, Höfer 47, Siemensmeyer 77 p -
-                            Brück 65,
+                            Brück 65)
 Werder      3-0 Wuppertaler (Weist 2, Höttges 27 p, Roentved 47)
 Düsseldorf  0-1 Schalke     (Fischer 45)
 

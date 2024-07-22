@@ -24,7 +24,7 @@ Hamburger   1-0 Offenbach   (Bertl 90)
 [Aug 31]
 Bayern      2-1 Hertha      (Schwarzenbeck 43, Hoeneß 69 - Magnusson 83)
 Bochum      3-2 1. FC Köln  (Balte 22 p, Eggert 44, Kaczor 74 - D.Müller 7,
-                            Löhr 35,
+                            Löhr 35)
 RW Essen    2-0 Wuppertaler (Lippens 59, Burgsmüller 71)
 Duisburg    2-0 Schalke     (Büssers 53, Worm 67)
 TB Berlin   4-0 Werder      (Geyer 14, 24, 89, Stolzenburg 76)
