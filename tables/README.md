@@ -7,13 +7,13 @@ football.db RSSSF Archive Data Summary for Germany (Deutschland)
 | :----- | :------- | :----------- | ------------: | :------- |
 | [duit2024.txt](duit2024.txt) | Karel Stokkermans | 2 Jun 2024 | 687 (18071) | 1. Bundesliga, 2. Bundesliga, 3. Liga |
 | [duit2023.txt](duit2023.txt) | Karel Stokkermans | 21 Nov 2023 | 711 (19120) | 1. Bundesliga, 2. Bundesliga, 3. Liga |
-| [duit2022.txt](duit2022.txt) | Karel Stokkermans | 25 Sep 2022 | 711 (19346) | 1. Bundesliga, 2. Bundesliga, 3. Liga |
+| [duit2022.txt](duit2022.txt) | Karel Stokkermans | 25 Sep 2022 | 711 (19345) | 1. Bundesliga, 2. Bundesliga, 3. Liga |
 | [duit2021.txt](duit2021.txt) | Karel Stokkermans | 3 Feb 2022 | 818 (22537) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |
 | [duit2020.txt](duit2020.txt) | Karel Stokkermans | 8 Oct 2020 | 814 (22972) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |
 | [duit2019.txt](duit2019.txt) | Karel Stokkermans | 14 Jan 2021 | 810 (22328) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |
 | [duit2018.txt](duit2018.txt) | Karel Stokkermans | 9 May 2019 | 807 (22047) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |
 | [duit2017.txt](duit2017.txt) | Karel Stokkermans | 7 Jan 2021 | 811 (22807) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |
-| [duit2016.txt](duit2016.txt) | Karel Stokkermans | 9 May 2019 | 801 (22204) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |
+| [duit2016.txt](duit2016.txt) | Karel Stokkermans | 9 May 2019 | 801 (22203) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |
 | [duit2015.txt](duit2015.txt) | Karel Stokkermans | 14 Jan 2021 | 803 (22397) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |
 | [duit2014.txt](duit2014.txt) | Karel Stokkermans | 2 Aug 2018 | 777 (20835) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |
 | [duit2013.txt](duit2013.txt) | Karel Stokkermans | 2 Aug 2018 | 1307 (32871) | 1. Bundesliga, DFB Pokal, 2. Bundesliga, 3. Liga |

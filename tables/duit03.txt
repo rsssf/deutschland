@@ -780,11 +780,11 @@ Venue: Berlin, Olympiastadion
 Spectators: 70,490
 
 FC Bayern München:
-Kahn – Kuffour, Linke, Sagnol, Lizarazu (84 Tarnat) – Jeremies (76 Fink), Hargreaves, Ballack, Zé Roberto (76 Scholl) – Pizarro, Elber
+Kahn - Kuffour, Linke, Sagnol, Lizarazu (84 Tarnat) - Jeremies (76 Fink), Hargreaves, Ballack, Zé Roberto (76 Scholl) - Pizarro, Elber
 Coach: Hitzfeld
 
 1.FC Kaiserslautern:
-Wiese – H Koch (46 Riedl), Klos, Lembi, Tchato – Anfang, Hristov, Lincoln (63 Timm) – Klose, Dominguez (81 Teber) – Lokvenc
+Wiese - H Koch (46 Riedl), Klos, Lembi, Tchato - Anfang, Hristov, Lincoln (63 Timm) - Klose, Dominguez (81 Teber) - Lokvenc
 Coach: Gerets
 
 Referee: Lutz-Michael Fröhlich (Berlin)
