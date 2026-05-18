@@ -78,11 +78,13 @@ First Stage (Grupo A)
 
 Final Tables:
 
-<!-- $table4$ - Grupo B -->
+Grupo B
+<!-- $table4$ -->
 
-<!-- $table5$ - Grupo C -->
+Grupo C
+<!-- $table5$ -->
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  Oct 18
 Londrina        0-0 Ponte Preta

@@ -25,9 +25,11 @@ NB: Los Angeles FC were admitted
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 _ Mar 3 _
 Toronto FC             0-2 Columbus Crew
@@ -572,14 +574,16 @@ Vancouver Whitecaps    2-1 Portland Timbers
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 
 === Championship Playoff  ‹§play›
 
-▪ Conference Quarterfinals ▪
+Conference Quarterfinals
 _ Oct 31 _
 New York City FC       3-1 Philadelphia Union
 FC Dallas              1-2 Portland Timbers
@@ -587,7 +591,7 @@ _ Nov 1 _
 DC United              2-2 Columbus Crew          (aet, 2-3 pen)
 Los Angeles FC         2-3 Real Salt Lake
 
-▪ Conference Semifinals ▪
+Conference Semifinals
 
 ▪ First Legs ▪  Nov 4
 Columbus Crew          1-0 New York Red Bulls
@@ -603,7 +607,7 @@ Atlanta United FC      3-1 New York City FC
 New York Red Bulls     3-0 Columbus Crew
 Sporting Kansas City   4-2 Real Salt Lake
 
-▪ Conference Finals ▪
+Conference Finals
 
 ▪ First Legs ▪  Nov 25
 Atlanta United FC      3-0 New York Red Bulls
@@ -613,7 +617,7 @@ Portland Timbers       0-0 Sporting Kansas City
 New York Red Bulls     1-0 Atlanta United FC
 Sporting Kansas City   2-3 Portland Timbers
 
-▪ MLS Cup ▪  Dec 8 @ Mercedes-Benz Stadium, Atlanta
+MLS Cup [Dec 8, Mercedes-Benz Stadium, Atlanta]
 Atlanta United FC      2-0 Portland Timbers
   (Josef Martínez 39, Franco Escobar 54)
 

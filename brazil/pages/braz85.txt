@@ -301,9 +301,11 @@ Flamengo-RJ     1-0  Grêmio
 
 Table - First stage
 
-<!-- $table1$ - Group A -->
+Group A
+<!-- $table1$ -->
 
-<!-- $table2$ - Group B -->
+Group B
+<!-- $table2$ -->
 
 ▪ Second Stage ▪
 
@@ -540,15 +542,19 @@ Atlético-MG     1-0  Vasco da Gama
 
 Table - Second Stage
 
-<!-- $table3$ - Group A -->
+Group A
+<!-- $table3$ -->
 
-<!-- $table4$ - Group B -->
+Group B
+<!-- $table4$ -->
 
 Table - Combined first and second stages
 
-<!-- $table5$ - Group A -->
+Group A
+<!-- $table5$ -->
 
-<!-- $table6$ - Group B -->
+Group B
+<!-- $table6$ -->
 
 Group C
 
@@ -719,7 +725,8 @@ Sampaio Corrêa  1-1  Ceará
 Paysandu        1-0  Sergipe
   [Cabinho]
 
-<!-- $table7$ - Table - First stage -->
+Table - First stage
+<!-- $table7$ -->
 
 ▪ Second stage ▪
 
@@ -888,9 +895,11 @@ CSA             3-0  Remo
 Ceará           4-1  Sampaio Corrêa
   (Volnei (2), Lira, Catinha; Meinha)
 
-<!-- $table8$ - Table - Second stage -->
+Table - Second stage
+<!-- $table8$ -->
 
-<!-- $table9$ - Table - Combined first and second stages -->
+Table - Combined first and second stages
+<!-- $table9$ -->
 
 Group D
 
@@ -1057,7 +1066,8 @@ Villa Nova-MG   3-1  Desportiva
 Brasília        3-2  Brasil
   [Kao Yen, Santos, Ramón; Bira, Zezinho]
 
-<!-- $table10$ - Table - First stage -->
+Table - First stage
+<!-- $table10$ -->
 
 ▪ Round 1 ▪
 _ Mar 16 _
@@ -1223,9 +1233,11 @@ Bangu           1-0  Leônico
 Joinville       3-0  Vila Nova-GO
   [Vágner, Jacenir, Nardela]
 
-<!-- $table11$ - Table - second stage -->
+Table - second stage
+<!-- $table11$ -->
 
-<!-- $table12$ - Table - Combined first and second stages -->
+Table - Combined first and second stages
+<!-- $table12$ -->
 
 
 ▪ Second Phase ▪

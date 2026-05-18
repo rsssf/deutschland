@@ -29,9 +29,11 @@
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 _ Mar 2 _
 Philadelphia Union     1-3 Sporting Kansas City
@@ -495,9 +497,11 @@ Seattle Sounders       1-1 Los Angeles Galaxy
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 
 === Championship Playoff  ‹§play›

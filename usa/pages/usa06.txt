@@ -14,9 +14,11 @@ Major League Soccer
 
 Tables:
 
-<!-- $table1$ - Eastern Division -->
+Eastern Division
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Division -->
+Western Division
+<!-- $table2$ -->
 
 _ Apr 1 _
 FC Dallas       3-2 Chicago Fire
@@ -313,11 +315,13 @@ Chivas USA      1-1 Real Salt Lake
 
 Final Tables:
 
-<!-- $table3$ - Eastern Division -->
+Eastern Division
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Division -->
+Western Division
+<!-- $table4$ -->
 
-▪ Conference Semifinals ▪
+Conference Semifinals
 
 East
 
@@ -347,11 +351,11 @@ FC Dallas       2-3 Colorado Rapids       (aet, 4-5 pen)
 _ Oct 29 _
 Houston Dynamo  2-0 Chivas USA
 
-▪ Conference Finals ▪  Nov 5
+Conference Finals [Nov 5]
 DC United       0-1 NE Revolution
 Houston Dynamo  3-1 Colorado Rapids
 
-▪ MLS Cup 2006 ▪  Nov 12 @ Pizza Hut Park, Frisco, Texas
+MLS Cup 2006 [Nov 12, Pizza Hut Park, Frisco, Texas]
 NE Revolution   1-1 Houston Dynamo        (aet, 3-4 pen)
 
 
@@ -387,28 +391,38 @@ USL - PREMIER DEVELOPMENT LEAGUE
 
                              GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table8$ - New England Division -->
+     New England Division
+<!-- $table8$ -->
 
-<!-- $table9$ - Northeast Division -->
+     Northeast Division
+<!-- $table9$ -->
 
-<!-- $table10$ - Mid-Atlantic Division -->
+     Mid-Atlantic Division
+<!-- $table10$ -->
 
      CENTRAL CONFERENCE
-<!-- $table11$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table11$ -->
 
-<!-- $table12$ - Heartland Division -->
+     Heartland Division
+<!-- $table12$ -->
 
      SOUTHERN CONFERENCE
-<!-- $table13$ - Mid-South Division -->
+     Mid-South Division
+<!-- $table13$ -->
 
-<!-- $table14$ - South Atlantic Division -->
+     South Atlantic Division
+<!-- $table14$ -->
 
-<!-- $table15$ - Southeast Division -->
+     Southeast Division
+<!-- $table15$ -->
 
      WESTERN CONFERENCE
-<!-- $table16$ - Southwest Division -->
+     Southwest Division
+<!-- $table16$ -->
 
-<!-- $table17$ - Northwest Division -->
+     Northwest Division
+<!-- $table17$ -->
 
 Conference Semifinals:  Cape Cod defeated Williamsburg 3-0
                         Westchester defeated Virginia Beach 3-1

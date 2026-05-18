@@ -1072,7 +1072,9 @@ Leicester City          1-1 Middlesbrough            (aet)
 Leicester City          1-0 Middlesbrough            (aet)
 
 
-<!-- $table3$ - Second Level (Division One) -->
+Second Level (Division One)
+
+<!-- $table3$ -->
 
 ▪ Promotion Playoffs ▪
 
@@ -1083,7 +1085,9 @@ Sheffield United  1-1 2-2 Ipswich Town            [aet, Sheffield on away goals]
 Crystal Palace    1-0 Sheffield United
 
 
-<!-- $table4$ - Third Level (Division Two) -->
+Third Level (Division Two)
+
+<!-- $table4$ -->
 
 ▪ Promotion Playoffs ▪
 
@@ -1094,7 +1098,9 @@ Crewe Alexandra   2-1 2-2 Luton Town
 Crewe Alexandra   1-0 Brentford
 
 
-<!-- $table5$ - Fourth Level (Division Three) -->
+Fourth Level (Division Three)
+
+<!-- $table5$ -->
 
 [*] Brighton 2 points deducted.
 
@@ -1107,17 +1113,25 @@ Chester City      0-0 0-3 Swansea City
 Northampton Town  1-0 Swansea City
 
 
-<!-- $table6$ - Fifth Level (Conference) -->
+Fifth Level (Conference)
+
+<!-- $table6$ -->
 
 
 Sixth Level (Conference Feeders)
 
 Thanks to Stephen Mulrine.
 
-<!-- $table7$ - Dr Martens League Premier Division -->
+Dr Martens League Premier Division
 
-<!-- $table8$ - ICIS League Premier Division -->
+<!-- $table7$ -->
 
-<!-- $table9$ - UniBond League Premier Division -->
+ICIS League Premier Division
+
+<!-- $table8$ -->
+
+UniBond League Premier Division
+
+<!-- $table9$ -->
 
 

@@ -1098,9 +1098,11 @@ NB: a new, nationwide 3rd level league is formed for 2008/09, which
 == OBERLIGA (Fourth Level)
 
 
-<!-- $table7$ - Baden-Württemberg -->
+Baden-Württemberg
+<!-- $table7$ -->
 
-<!-- $table8$ - Nordrhein -->
+Nordrhein
+<!-- $table8$ -->
 
 Nord [1]
 <!-- $table9$ -->
@@ -1112,23 +1114,29 @@ Verbandsliga champions will have to play-off for two promotion spots to the Regi
 [3] - The Bremen champion, FC Bremerhaven, was also not granted a licence and the best place club from Bremen in the
 Oberliga qualified instead.
 
-<!-- $table10$ - Nordost Nord -->
+Nordost Nord
+<!-- $table10$ -->
 
-<!-- $table11$ - Nordost Süd -->
+Nordost Süd
+<!-- $table11$ -->
 
 Promotion Playoff of Nordost Nord-Süd
-Greifswalder SV 04      2-4 FC Sachsen Leipzig
-FC Sachsen Leipzig      2-2 Greifswalder SV 04
+Greifswalder SV 04              2-4 FC Sachsen Leipzig
+FC Sachsen Leipzig              2-2 Greifswalder SV 04
 
 FC Sachsen Leipzig promoted.
 
-<!-- $table12$ - Südwest -->
+Südwest
+<!-- $table12$ -->
 
-<!-- $table13$ - Hessen -->
+Hessen
+<!-- $table13$ -->
 
-<!-- $table14$ - Bayern -->
+Bayern
+<!-- $table14$ -->
 
-<!-- $table15$ - Westfalen -->
+Westfalen
+<!-- $table15$ -->
 
 NP: The Oberliga Westfalen and Oberliga Nordrhein was replaced by the Oberliga Nordrhein-Westfalen.
 
@@ -1142,28 +1150,28 @@ SC Victoria (champions of Verbandesliga Hamburg)
 MTV Gifhorn (champions of Verbandesliga Niedersachsen Ost)
 
 ▪ Round 1 ▪  Jun 4
-VfB Oldenburg          1-1 VfL Oldenburg
-FC Oberneuland          7-2 MTV Gifhorn
+VfB Oldenburg                   1-1 VfL Oldenburg
+FC Oberneuland                  7-2 MTV Gifhorn
 Bye: SC Victoria
 
 ▪ Round 2 ▪  Jun 8
-SC Victoria          1-1 VfB Oldenburg
-VfL Oldenburg          2-2 FC Oberneuland
+SC Victoria                     1-1 VfB Oldenburg
+VfL Oldenburg                   2-2 FC Oberneuland
 Bye: MTV Gifhorn
 
 ▪ Round 3 ▪  Jun 11
-MTV Gifhorn          1-3 SC Victoria
-VfB Oldenburg          1-5 FC Oberneuland
+MTV Gifhorn                     1-3 SC Victoria
+VfB Oldenburg                   1-5 FC Oberneuland
 Bye: VfL Oldenburg
 
 ▪ Round 4 ▪  Jun 15
-VfL Oldenburg          2-3 MTV Gifhorn       (also the final to decide the champion of Niedersachsen)
-FC Oberneuland          7-2 SC Victoria
+VfL Oldenburg                   2-3 MTV Gifhorn                 (also the final to decide the champion of Niedersachsen)
+FC Oberneuland                  7-2 SC Victoria
 Bye: VfB Oldenburg
 
 ▪ Round 5 ▪  Jun 18
-MTV Gifhorn          0-2 VfB Oldenburg
-SC Victoria          0-2 VfL Oldenburg
+MTV Gifhorn                     0-2 VfB Oldenburg
+SC Victoria                     0-2 VfL Oldenburg
 Bye: FC Oberneuland
 
 <!-- $table16$ - Table -->
@@ -1171,22 +1179,26 @@ Bye: FC Oberneuland
 == VERBANDESLIGA/LANDESLIGA (Fifth Level)
 
 
-<!-- $table17$ - Baden -->
+Baden
+<!-- $table17$ -->
 
-<!-- $table18$ - Bayer Nord -->
+Bayer Nord
+<!-- $table18$ -->
 
-<!-- $table19$ - Bayern Mitte -->
+Bayern Mitte
+<!-- $table19$ -->
 
-<!-- $table20$ - Bayern Süd -->
+Bayern Süd
+<!-- $table20$ -->
 
 ▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
-Vilzing            1-5 Schweinfurt 05
-Rain/Lech         4-3 Friesen         (aet)
+Vilzing                         1-5 Schweinfurt 05
+Rain/Lech                       4-3 Friesen                     (aet)
 
 ▪ Final ▪
-Schweinfurt 05         0-3 Rain/Lech
+Schweinfurt 05                  0-3 Rain/Lech
 
 Rain/Lech promoted, Schweinfurt 05 relegated.
 
@@ -1195,96 +1207,119 @@ Rain/Lech promoted, Schweinfurt 05 relegated.
 Nord
 
 ▪ Semifinals ▪
-FC Trogen          0-2 FSG Wiesentheid
-ASV Rimpar          1-2 ASV Hollfeld
+FC Trogen                       0-2 FSG Wiesentheid
+ASV Rimpar                      1-2 ASV Hollfeld
 
 ▪ Final ▪
-FSG Wiesentheid         0-7 1. FC Haßfurt
+FSG Wiesentheid                 0-7 1. FC Haßfurt
 
 1. FC Haßfurt remain in Landesliga.
 
 Mitte
 
 Preliminary Relegation Playoff
-SC Eltersdorf          0-3 1. SC Feucht
+SC Eltersdorf                   0-3 1. SC Feucht
 
 1. SC Feucht save for relegation, SC Eltersdorf enter in Relegation Playoff.
 
 ▪ Semifinals ▪
-SC Eltersdorf         4-1 ASC Simbach
-SG Quelle Fürth         3-1 TSV Bad Abbach
+SC Eltersdorf                   4-1 ASC Simbach
+SG Quelle Fürth                 3-1 TSV Bad Abbach
 
 ▪ Final ▪
-ASC Simbach          5-4 TSV Bad Abbach
+ASC Simbach                     5-4 TSV Bad Abbach
 
 Süd
-FC Unterföhring       0-2 FC Memmingen II
+FC Unterföhring                 0-2 FC Memmingen II
 
-FC Memmingen II       3-4 Falke Mt. Schwaben
+FC Memmingen II                 3-4 Falke Mt. Schwaben
 
-FC Unterföhring       1-3 FC Memmingen II
+FC Unterföhring                 1-3 FC Memmingen II
 
-<!-- $table21$ - Berlin -->
+Berlin
+<!-- $table21$ -->
 
-<!-- $table22$ - Brandenburg -->
+Brandenburg
+<!-- $table22$ -->
 
-<!-- $table23$ - Bremen -->
+Bremen
+<!-- $table23$ -->
 
 [1] - FC Bremerhaven was also not garanted a licence and the best place club from Bremen in the Oberliga qualified of
 promotion playoff for Regionalliga Nord.
 
-<!-- $table24$ - Hamburg -->
+Hamburg
+<!-- $table24$ -->
 
-<!-- $table25$ - Hessen Nord -->
+Hessen Nord
+<!-- $table25$ -->
 
-<!-- $table26$ - Hessen Mitte -->
+Hessen Mitte
+<!-- $table26$ -->
 
-<!-- $table27$ - Hessen Süd -->
+Hessen Süd
+<!-- $table27$ -->
 
-<!-- $table28$ - Mecklenburg-Vorpommern -->
-
-▪ Promotion Playoff ▪
-
-FC Schönberg 95         1-2 1. FC Lokomotiv Leipzig
-1. FC Lokomotiv Leipzig      0-1 FC Schönberg 95
-
-1. FC Lokomotiv Leipzig promoted.
-
-<!-- $table29$ - Mittelrhein -->
-
-<!-- $table30$ - Niederrhein -->
-
-<!-- $table31$ - Niedersachsen Ost -->
-
-<!-- $table32$ - Niedersachsen West -->
-
-<!-- $table33$ - Rheinland -->
-
-<!-- $table34$ - Saarland -->
-
-<!-- $table35$ - Sachsen -->
+Mecklenburg-Vorpommern
+<!-- $table28$ -->
 
 ▪ Promotion Playoff ▪
 
-FC Schönberg 95         1-2 1. FC Lokomotiv Leipzig
-1. FC Lokomotiv Leipzig      0-1 FC Schönberg 95
+FC Schönberg 95                 1-2 1. FC Lokomotiv Leipzig
+1. FC Lokomotiv Leipzig         0-1 FC Schönberg 95
 
 1. FC Lokomotiv Leipzig promoted.
 
-<!-- $table36$ - Sachsen-Anhalt -->
+Mittelrhein
+<!-- $table29$ -->
 
-<!-- $table37$ - Schleswig-Holstein -->
+Niederrhein
+<!-- $table30$ -->
 
-<!-- $table38$ - Südbaden -->
+Niedersachsen Ost
+<!-- $table31$ -->
 
-<!-- $table39$ - Südwest -->
+Niedersachsen West
+<!-- $table32$ -->
 
-<!-- $table40$ - Thüringen -->
+Rheinland
+<!-- $table33$ -->
 
-<!-- $table41$ - Westfalen - Group 1 -->
+Saarland
+<!-- $table34$ -->
 
-<!-- $table42$ - Westfalen - Group 2 -->
+Sachsen
+<!-- $table35$ -->
 
-<!-- $table43$ - Württemberg -->
+▪ Promotion Playoff ▪
+
+FC Schönberg 95                 1-2 1. FC Lokomotiv Leipzig
+1. FC Lokomotiv Leipzig         0-1 FC Schönberg 95
+
+1. FC Lokomotiv Leipzig promoted.
+
+Sachsen-Anhalt
+<!-- $table36$ -->
+
+Schleswig-Holstein
+<!-- $table37$ -->
+
+Südbaden
+<!-- $table38$ -->
+
+Südwest
+<!-- $table39$ -->
+
+Thüringen
+<!-- $table40$ -->
+
+Westfalen - Group 1
+<!-- $table41$ -->
+
+Westfalen - Group 2
+<!-- $table42$ -->
+
+Württemberg
+<!-- $table43$ -->
 
 

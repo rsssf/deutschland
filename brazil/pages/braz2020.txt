@@ -964,19 +964,23 @@ Promoted: Vila Nova, Remo, Brusque, Londrina
 
 Final Tables:
 
-<!-- $table4$ - Group A -->
+Group A
+<!-- $table4$ -->
 
-<!-- $table5$ - Group B -->
+Group B
+<!-- $table5$ -->
 
 ▪ Second Stage ▪
 
 Final Tables:
 
-<!-- $table6$ - Group C -->
+Group C
+<!-- $table6$ -->
 
-<!-- $table7$ - Group D -->
+Group D
+<!-- $table7$ -->
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  Jan 23 2021
 Vila Nova       5-1 Remo

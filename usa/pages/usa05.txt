@@ -12,9 +12,11 @@ Major League Soccer
 
 Tables:
 
-<!-- $table1$ - Eastern Division -->
+Eastern Division
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Division -->
+Western Division
+<!-- $table2$ -->
 
 [*] Dallas Burn were renamed FC Dallas
 
@@ -539,9 +541,11 @@ Chivas USA           0-2 MetroStars
 
 Tables:
 
-<!-- $table3$ - Eastern Division -->
+Eastern Division
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Division -->
+Western Division
+<!-- $table4$ -->
 
 [*] Dallas Burn were renamed FC Dallas
 
@@ -551,7 +555,7 @@ NB: Real Salt Lake and Chivas USA are new franchises
 
 
 
-▪ Conference Semifinals ▪
+Conference Semifinals
 
 ▪ First Legs ▪
 _ Oct 21 _
@@ -576,7 +580,7 @@ _ Oct 30 _
 D.C. United          0-4 Chicago Fire
   (Jack Stewart 10, Ivan Guerrero 37, 45+, Jesse Marsch 67)
 
-▪ Conference Finals ▪
+Conference Finals
 _ Nov 5 _
 Colorado Rapids      0-2 LA Galaxy
   (Landon Donovan 28, 88)
@@ -584,7 +588,7 @@ _ Nov 6 _
 NE Revolution        1-0 Chicago Fire
   (Clint Dempsey 4)
 
-▪ MLS Cup ▪  Nov 13 @ Pizza Hut Park, Frisco (Texas)
+MLS Cup [Nov 13, Pizza Hut Park, Frisco (Texas)]
 NE Revolution        0-1 LA Galaxy            (aet)
   (Guillermo Ramirez 105+)
   [NE Revolution: Matt Reis; Clint Dempsey, Daniel Hernandez
@@ -660,24 +664,32 @@ USL - PREMIER DEVELOPMENT LEAGUE
 
                              GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table8$ - Northeast Division -->
+     Northeast Division
+<!-- $table8$ -->
 
-<!-- $table9$ - Mid-Atlantic Division -->
+     Mid-Atlantic Division
+<!-- $table9$ -->
 
      CENTRAL CONFERENCE
-<!-- $table10$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table10$ -->
 
-<!-- $table11$ - Heartland Division -->
+     Heartland Division
+<!-- $table11$ -->
 
      SOUTHERN CONFERENCE
-<!-- $table12$ - Mid-South Division -->
+     Mid-South Division
+<!-- $table12$ -->
 
-<!-- $table13$ - Southeast Division -->
+     Southeast Division
+<!-- $table13$ -->
 
      WESTERN CONFERENCE
-<!-- $table14$ - Southwest Division -->
+     Southwest Division
+<!-- $table14$ -->
 
-<!-- $table15$ - Northwest Division -->
+     Northwest Division
+<!-- $table15$ -->
 
 Conference Semifinals:   Raleigh defeated Cape Cod 2-1
                          Richmond defeated Ocean City 5-4
@@ -700,9 +712,12 @@ NATIONAL PREMIER SOCCER LEAGUE ("Div. 4")
 
 
                             GP   W   L   D   GF  GA  Pts
-<!-- $table16$ - Western Teams -->
+     Western Teams
+<!-- $table16$ -->
 
-<!-- $table17$ - Midwestern Teams -->
+     Midwestern Teams
+
+<!-- $table17$ -->
 
 FINAL:   Detroit defeated Sonoma 1-0
 

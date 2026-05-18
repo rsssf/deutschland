@@ -1167,17 +1167,23 @@ SEZ Bad Bleiberg not relegated from Erste Liga.
 Blau-Weiß Linz and SVS Schwechat not promoted.
 
 
-<!-- $table5$ - REGIONALLIGA WEST -->
+REGIONALLIGA WEST
+
+<!-- $table5$ -->
 
  Promoted: Viktoria Bregenz, SPG Axams/Götzens, USK Anif
 
 
-<!-- $table6$ - REGIONALLIGA MITTE -->
+REGIONALLIGA MITTE
+
+<!-- $table6$ -->
 
  Promoted: LASK Amateure, TUS Arnfels, SK St.Andrä im Lavanttal
 
 
-<!-- $table7$ - REGIONALLIGA OST -->
+REGIONALLIGA OST
+
+<!-- $table7$ -->
 
  Relegated from Erste Liga: Wiener Sportklub
  Promoted: Admira/Wacker Mödling Amateure, Fortuna 05, SC/ESV Parndorf
@@ -1203,7 +1209,9 @@ Promoted from Landesliga: Admira Dornbirn, FC Sulzberg
 
 TIROL
 
-<!-- $table9$ - TIROLER LIGA  ‹§tirol› -->
+TIROLER LIGA  ‹§tirol›
+
+<!-- $table9$ -->
 
 
 Relegated from Regionalliga: SC Kundl, SPG Rum/IAC
@@ -1227,7 +1235,9 @@ FEEDERS OF REGIONALLIGA MITTE
 
 OBERÖSTERREICH
 
-<!-- $table11$ - OBERÖSTERREICH-LIGA -->
+OBERÖSTERREICH-LIGA
+
+<!-- $table11$ -->
 
 No Relegation from Regionalliga Mitte.
 Promoted from Landesliga: SV Sierning, SK Altheim
@@ -1236,7 +1246,9 @@ Name Change: SK St.Magdalena chances to St.Magdalena/Pasching Amateure
 
 STEIERMARK
 
-<!-- $table12$ - LANDESLIGA -->
+LANDESLIGA
+
+<!-- $table12$ -->
 
 Relegated from Regionalliga: FC Zeltweg
 Promoted from Oberliga: SV Gleinstätten, FSC Eggendorf, FC Judenburg
@@ -1244,7 +1256,9 @@ Promoted from Oberliga: SV Gleinstätten, FSC Eggendorf, FC Judenburg
 
 KÄRNTEN
 
-<!-- $table13$ - KÄRNTNER LIGA -->
+KÄRNTNER LIGA
+
+<!-- $table13$ -->
 
 Relegated from Regionalliga: SAK Klagenfurt, FC St.Veit
 Promoted from Unterliga: BW Sachsenburg, SV Griffen
@@ -1264,7 +1278,9 @@ Promoted from Oberliga: SV Stockerau, FC Haitzendorf
 
 WIEN
 
-<!-- $table15$ - STADTLIGA -->
+STADTLIGA
+
+<!-- $table15$ -->
 
 Relegated from Regionalliga: FC OMV Stadlau, 1.Simmeringer SC
 Promoted from Unterliga: Post SV, FK Old Formation RAG Feibra
@@ -1272,7 +1288,9 @@ Promoted from Unterliga: Post SV, FK Old Formation RAG Feibra
 
 BURGENLAND
 
-<!-- $table16$ - BURGENLANDLIGA -->
+BURGENLANDLIGA
+
+<!-- $table16$ -->
 
 Relegated from Regionalliga: ASK Klingenbach
 Promoted from Landesliga: ASV Zurndorf, SV Eberau, Aufsteiger Mitte
@@ -1314,13 +1332,16 @@ _ Jun 9 _ @ Fügen
 
 FIFTH LEVEL
 
-<!-- $table17$ - LANDESLIGA OST -->
+LANDESLIGA OST
+<!-- $table17$ -->
 
 
 Relegated from Tiroler Liga: SVG Jenbach, SV Westendorf, SV Kirchbichl
 Promoted from Gebietsliga: FC Bruckhäusl, SV Thaur
 
-<!-- $table18$ - LANDESLIGA WEST -->
+LANDESLIGA WEST
+
+<!-- $table18$ -->
 
 Relegated from Tiroler Liga: SV Innsbruck, SV Landeck
 
@@ -1329,13 +1350,17 @@ Promoted from Gebietsliga: SV Reichenau/Aldrans II, SV Haiming
 SIXTH LEVEL
 
 
-<!-- $table19$ - GEBIETSLIGA OST -->
+GEBIETSLIGA OST
+
+<!-- $table19$ -->
 
 
 Relegated from Landesliga: SK Fieberbrunn, SK Zell am Ziller, FC Vomp
 Promoted from 1.Klasse: SPG Brixlegg/Rattenberg, SR Oberlangkampfen
 
-<!-- $table20$ - GEBIETSLIGA WEST -->
+GEBIETSLIGA WEST
+
+<!-- $table20$ -->
 
 
 Relegated from Landesliga: SV Kematen, SPG Axams/Götzens II
@@ -1360,7 +1385,8 @@ Promoted from 2.Klasse: SV Radfeld, FC Wildschönau
 Relegated from Gebietsliga: SV Tulfes, SK Seefeld, ESV Hatting
 
 1.KLASSE WEST
-<!-- $table23$ - . -->
+.
+<!-- $table23$ -->
 
 
 Relegated from Gebietsliga: FG Schönwies/Mils, FC Vils

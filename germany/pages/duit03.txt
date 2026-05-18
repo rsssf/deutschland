@@ -1005,7 +1005,7 @@ Mannheim       2-1 Lübeck
 
 ▪ Round 18 ▪
 _ Jan 24 _
-Köln          3-0 Karlsruhe
+Köln           3-0 Karlsruhe
 St Pauli       1-1 Frankfurt
 Mannheim       1-1 Braunschweig
 _ Jan 26 _
@@ -1029,7 +1029,7 @@ _ Feb 3 _
 Trier          2-1 Mainz
 _ Feb 5 _
 Duisburg       2-2 Köln
-Aachen          0-0 Fürth
+Aachen         0-0 Fürth
 Braunschweig   2-1 Oberhausen
 
 ▪ Round 20 ▪
@@ -1251,9 +1251,13 @@ NB: Reutlingen have 6 points deducted for failing to comply with
 
 
 
-<!-- $table5$ - Regionalliga Nord -->
+Regionalliga Nord
 
-<!-- $table6$ - Regionalliga Süd -->
+<!-- $table5$ -->
+
+Regionalliga Süd
+
+<!-- $table6$ -->
 
 NB: the relegation of Stuttgarter Kickers will not be effective due
     to the refusal of a license to Waldhof Mannheim;
@@ -1311,11 +1315,11 @@ Oberliga Hessen
 <!-- $table14$ - Final Table -->
 
 ▪ Play-Out ▪
-1.FC Germania Ober-Roden    10-5  6
+1.FC Germania Ober-Roden        10-5  6
 ---------------------------------------
 2.TSV Eintracht Stadtallendorf   5-4  6
-3.OSC Vellmar           4-8  3
-4.SVA Bad Hersfeld        4-6  3
+3.OSC Vellmar                    4-8  3
+4.SVA Bad Hersfeld               4-6  3
 FC Germania Ober-Roden promoted
 
 Oberliga Baden-Württemberg
@@ -1334,7 +1338,7 @@ Quelle Fürth - Schwaben Augsburg  4:0
 
 ▪ Round 2 ▪
 TSV Großbardorf - SVG Burgkirchen 2:1
-1.FC Passau   - Quelle Fürth    1:1 5:3 after penalties
+1.FC Passau     - Quelle Fürth    1:1 5:3 after penalties
 
 ▪ Round 3 ▪
 TSV Großbardorf - 1.FC Passau     1:3
@@ -1343,56 +1347,108 @@ Großbardorf and Passau promoted, because no club was relegated to the Oberliga 
 
 == Fifth Level 2002/03
 
-<!-- $table17$ - Group Schleswig-Holstein -->
+Group Schleswig-Holstein
 
-<!-- $table18$ - Group Hamburg -->
+<!-- $table17$ -->
 
-<!-- $table19$ - Group Bremen -->
+Group Hamburg
 
-<!-- $table20$ - Group Niedersachsen West -->
+<!-- $table18$ -->
 
-<!-- $table21$ - Group Niedersachsen Ost -->
+Group Bremen
 
-<!-- $table22$ - Group Mecklenburg-Vorpommern -->
+<!-- $table19$ -->
 
-<!-- $table23$ - Group Berlin -->
+Group Niedersachsen West
 
-<!-- $table24$ - Group Brandenburg -->
+<!-- $table20$ -->
 
-<!-- $table25$ - Group Sachsen-Anhalt -->
+Group Niedersachsen Ost
 
-<!-- $table26$ - Group Sachsen -->
+<!-- $table21$ -->
 
-<!-- $table27$ - Group Thüringen -->
+Group Mecklenburg-Vorpommern
 
-<!-- $table28$ - Group Westfalen 1 -->
+<!-- $table22$ -->
 
-<!-- $table29$ - Group Westfalen 2 -->
+Group Berlin
 
-<!-- $table30$ - Group Niederrhein -->
+<!-- $table23$ -->
 
-<!-- $table31$ - Group Mittelrhein -->
+Group Brandenburg
 
-<!-- $table32$ - Group Rheinland -->
+<!-- $table24$ -->
 
-<!-- $table33$ - Group Südwest -->
+Group Sachsen-Anhalt
 
-<!-- $table34$ - Group Saarland -->
+<!-- $table25$ -->
 
-<!-- $table35$ - Group Hessen-Nord -->
+Group Sachsen
 
-<!-- $table36$ - Group Hessen-Mitte -->
+<!-- $table26$ -->
 
-<!-- $table37$ - Group Nordbaden -->
+Group Thüringen
 
-<!-- $table38$ - Group Südbaden -->
+<!-- $table27$ -->
 
-<!-- $table39$ - Group Württemberg -->
+Group Westfalen 1
 
-<!-- $table40$ - Group Bayern Nord -->
+<!-- $table28$ -->
 
-<!-- $table41$ - Group Bayern Mitte -->
+Group Westfalen 2
 
-<!-- $table42$ - Group Bayern Süd -->
+<!-- $table29$ -->
+
+Group Niederrhein
+
+<!-- $table30$ -->
+
+Group Mittelrhein
+
+<!-- $table31$ -->
+
+Group Rheinland
+
+<!-- $table32$ -->
+
+Group Südwest
+
+<!-- $table33$ -->
+
+Group Saarland
+
+<!-- $table34$ -->
+
+Group Hessen-Nord
+
+<!-- $table35$ -->
+
+Group Hessen-Mitte
+
+<!-- $table36$ -->
+
+Group Nordbaden
+
+<!-- $table37$ -->
+
+Group Südbaden
+
+<!-- $table38$ -->
+
+Group Württemberg
+
+<!-- $table39$ -->
+
+Group Bayern Nord
+
+<!-- $table40$ -->
+
+Group Bayern Mitte
+
+<!-- $table41$ -->
+
+Group Bayern Süd
+
+<!-- $table42$ -->
 
 

@@ -963,7 +963,7 @@ NB: Veracruz were deducted 6 points (of which 2 in the Apertura season as they
 
 Relegation Table
 
-Team         Average
+Team                    Average
 Tigres                  1.7745
 Monterrey               1.7451
 América                 1.6961
@@ -1054,7 +1054,7 @@ León               0-0 Tigres
 
 Tigres UANL roster team
 
-Nahuel Guzmán        GK  (Argentina)
+Nahuel Guzmán             GK  (Argentina)
 Eduardo Fernández         GK
 Israel Jiménez            DEF
 Carlos Salcedo            DEF
@@ -1093,23 +1093,41 @@ NB: the Cup Tournament is played by 16 teams from the Liga MX (first level) and
 
 Tables:
 
-<!-- $table5$ - Group 1 -->
+Group 1
 
-<!-- $table6$ - Group 2 -->
+<!-- $table5$ -->
 
-<!-- $table7$ - Group 3 -->
+Group 2
 
-<!-- $table8$ - Group 4 -->
+<!-- $table6$ -->
 
-<!-- $table9$ - Group 5 -->
+Group 3
 
-<!-- $table10$ - Group 6 -->
+<!-- $table7$ -->
 
-<!-- $table11$ - Group 7 -->
+Group 4
 
-<!-- $table12$ - Group 8 -->
+<!-- $table8$ -->
 
-<!-- $table13$ - Group 9 -->
+Group 5
+
+<!-- $table9$ -->
+
+Group 6
+
+<!-- $table10$ -->
+
+Group 7
+
+<!-- $table11$ -->
+
+Group 8
+
+<!-- $table12$ -->
+
+Group 9
+
+<!-- $table13$ -->
 
 
 Group Phase
@@ -1252,23 +1270,41 @@ Atlético Zacatepec 3-2 Atlas
 
 Tables:
 
-<!-- $table14$ - Group 1 -->
+Group 1
 
-<!-- $table15$ - Group 2 -->
+<!-- $table14$ -->
 
-<!-- $table16$ - Group 3 -->
+Group 2
 
-<!-- $table17$ - Group 4 -->
+<!-- $table15$ -->
 
-<!-- $table18$ - Group 5 -->
+Group 3
 
-<!-- $table19$ - Group 6 -->
+<!-- $table16$ -->
 
-<!-- $table20$ - Group 7 -->
+Group 4
 
-<!-- $table21$ - Group 8 -->
+<!-- $table17$ -->
 
-<!-- $table22$ - Group 9 -->
+Group 5
+
+<!-- $table18$ -->
+
+Group 6
+
+<!-- $table19$ -->
+
+Group 7
+
+<!-- $table20$ -->
+
+Group 8
+
+<!-- $table21$ -->
+
+Group 9
+
+<!-- $table22$ -->
 
 ==== Playoff Stage  ‹§copaplay›
 
@@ -1381,23 +1417,41 @@ NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
 
 Tables:
 
-<!-- $table23$ - Group 1 -->
+Group 1
 
-<!-- $table24$ - Group 2 -->
+<!-- $table23$ -->
 
-<!-- $table25$ - Group 3 -->
+Group 2
 
-<!-- $table26$ - Group 4 -->
+<!-- $table24$ -->
 
-<!-- $table27$ - Group 5 -->
+Group 3
 
-<!-- $table28$ - Group 6 -->
+<!-- $table25$ -->
 
-<!-- $table29$ - Group 7 -->
+Group 4
 
-<!-- $table30$ - Group 8 -->
+<!-- $table26$ -->
 
-<!-- $table31$ - Group 9 -->
+Group 5
+
+<!-- $table27$ -->
+
+Group 6
+
+<!-- $table28$ -->
+
+Group 7
+
+<!-- $table29$ -->
+
+Group 8
+
+<!-- $table30$ -->
+
+Group 9
+
+<!-- $table31$ -->
 
 ▪ Round 1 ▪
 _ Jan 8 _
@@ -1534,23 +1588,41 @@ Dorados            1-1 Querétaro
 
 Tables:
 
-<!-- $table32$ - Group 1 -->
+Group 1
 
-<!-- $table33$ - Group 2 -->
+<!-- $table32$ -->
 
-<!-- $table34$ - Group 3 -->
+Group 2
 
-<!-- $table35$ - Group 4 -->
+<!-- $table33$ -->
 
-<!-- $table36$ - Group 5 -->
+Group 3
 
-<!-- $table37$ - Group 6 -->
+<!-- $table34$ -->
 
-<!-- $table38$ - Group 7 -->
+Group 4
 
-<!-- $table39$ - Group 8 -->
+<!-- $table35$ -->
 
-<!-- $table40$ - Group 9 -->
+Group 5
+
+<!-- $table36$ -->
+
+Group 6
+
+<!-- $table37$ -->
+
+Group 7
+
+<!-- $table38$ -->
+
+Group 8
+
+<!-- $table39$ -->
+
+Group 9
+
+<!-- $table40$ -->
 
 ==== Playoff Stage  ‹§copacplay›
 
@@ -2178,23 +2250,23 @@ Alebrijes            bye
 
 Relegation Table
 
-Team         Average
-Mineros                  1.8804
-Dorados Sinaloa          1.5870
-Atlético de San Luis     1.5862
-Alebrijes                1.5652
-FC Juárez                1.5326
-Cimarrones               1.4891
-Celaya FC                1.4239
-Atlético Zacatepec       1.4239
-Atlante                  1.4022
-Potros UAEM              1.2500
-Leones Negros            1.2283
-Correcaminos UAT         1.1739
-Cafetaleros              1.1630
-Venados FC               1.1522
+Team                    Average
+Mineros                 1.8804
+Dorados Sinaloa         1.5870
+Atlético de San Luis    1.5862
+Alebrijes               1.5652
+FC Juárez               1.5326
+Cimarrones              1.4891
+Celaya FC               1.4239
+Atlético Zacatepec      1.4239
+Atlante                 1.4022
+Potros UAEM             1.2500
+Leones Negros           1.2283
+Correcaminos UAT        1.1739
+Cafetaleros             1.1630
+Venados FC              1.1522
 ----------------------------
-Tampico Madero           1.0761 (relegated)
+Tampico Madero          1.0761 (relegated)
 
 NB: Tampico Madero remain at second level after paying USD $800,000
 

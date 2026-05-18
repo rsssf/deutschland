@@ -685,19 +685,23 @@ Atlético/MG     2-2 Flamengo        [8-7 pen(no extra time)]
 
 Final Tables:
 
-<!-- $table4$ - Group A -->
+Group A
+<!-- $table4$ -->
 
-<!-- $table5$ - Group B -->
+Group B
+<!-- $table5$ -->
 
 ▪ Second Stage ▪
 
 Final Tables:
 
-<!-- $table6$ - Group C -->
+Group C
+<!-- $table6$ -->
 
-<!-- $table7$ - Group D -->
+Group D
+<!-- $table7$ -->
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  Nov 13
 Tombense        1-1 Ituano

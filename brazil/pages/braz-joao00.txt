@@ -1713,7 +1713,8 @@ Malutrom qualified as 16th team
 
 Qualified Clubs:
 
-<!-- $table21$ - Blue Module -->
+Blue Module
+<!-- $table21$ -->
 
 1/8 Finals (16-1, 15-2 etc)
 

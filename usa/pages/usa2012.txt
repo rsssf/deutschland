@@ -31,9 +31,11 @@ NB: Montreal Impact were added for 2012
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 NB: top-3 of both conferences qualified for conference semifinals;
     teams finishing 4th and 5th qualify for wild card game

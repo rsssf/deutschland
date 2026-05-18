@@ -1809,7 +1809,9 @@ Vitória FC (Vitória, ES)
 
 Catuense 0-WO Serrano
 Vitória 0-0 Catuense                    Catuense 0-1 Vitória
-<!-- $table18$ - Serrano withdrew -->
+Serrano withdrew
+
+<!-- $table18$ -->
 
 Group 5
 

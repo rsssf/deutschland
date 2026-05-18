@@ -871,7 +871,7 @@ NB: league suspended on Mar 15 due to Covid-19 pandemic and abandoned on May 22;
 
 Relegation table (at the moment to the cancelation)
 
-Team         Average
+Team                    Average
 Tigres                  1.7789
 América                 1.7474
 León                    1.6842
@@ -927,23 +927,41 @@ NB: Since 2019-20 season the Cup tournament become annual.
 
 Tables:
 
-<!-- $table5$ - Group 1 -->
+Group 1
 
-<!-- $table6$ - Group 2 -->
+<!-- $table5$ -->
 
-<!-- $table7$ - Group 3 -->
+Group 2
 
-<!-- $table8$ - Group 4 -->
+<!-- $table6$ -->
 
-<!-- $table9$ - Group 5 -->
+Group 3
 
-<!-- $table10$ - Group 6 -->
+<!-- $table7$ -->
 
-<!-- $table11$ - Group 7 -->
+Group 4
 
-<!-- $table12$ - Group 8 -->
+<!-- $table8$ -->
 
-<!-- $table13$ - Group 9 -->
+Group 5
+
+<!-- $table9$ -->
+
+Group 6
+
+<!-- $table10$ -->
+
+Group 7
+
+<!-- $table11$ -->
+
+Group 8
+
+<!-- $table12$ -->
+
+Group 9
+
+<!-- $table13$ -->
 
 ▪ Round 1 ▪
 _ Jul 30 _
@@ -1095,23 +1113,41 @@ Santos               2-0 Guadalajara
 
 Tables:
 
-<!-- $table14$ - Group 1 -->
+Group 1
 
-<!-- $table15$ - Group 2 -->
+<!-- $table14$ -->
 
-<!-- $table16$ - Group 3 -->
+Group 2
 
-<!-- $table17$ - Group 4 -->
+<!-- $table15$ -->
 
-<!-- $table18$ - Group 5 -->
+Group 3
 
-<!-- $table19$ - Group 6 -->
+<!-- $table16$ -->
 
-<!-- $table20$ - Group 7 -->
+Group 4
 
-<!-- $table21$ - Group 8 -->
+<!-- $table17$ -->
 
-<!-- $table22$ - Group 9 -->
+Group 5
+
+<!-- $table18$ -->
+
+Group 6
+
+<!-- $table19$ -->
+
+Group 7
+
+<!-- $table20$ -->
+
+Group 8
+
+<!-- $table21$ -->
+
+Group 9
+
+<!-- $table22$ -->
 
 
 ==== Playoff Stage  ‹§copaplay›
@@ -1226,57 +1262,57 @@ Monterrey Cup Champions
 <!-- $topscorers3$ -->
 
 
-Kevin Castañeda      Toluca      7
-Vincent Janssen      Monterrey   7
-Raúl Rivero      Santos      5
-Eduardo Aguirre      Santos      4
-Michael Estrada      Toluca      4
-Camilo Sanvezzo      Tijuana      4
+Kevin Castañeda         Toluca          7
+Vincent Janssen         Monterrey       7
+Raúl Rivero             Santos          5
+Eduardo Aguirre         Santos          4
+Michael Estrada         Toluca          4
+Camilo Sanvezzo         Tijuana         4
 
 
 Monterrey squad
-Luis Cárdenas      GK
-Hugo González      GK
-Marcelo Barovero   GK
-Edson Rezéndez      GK
-César Montes      DEF
-José María Basanta   DEF
-Axel Grijalva      DEF
-William Mejía      DEF
-Nicolás Sánchez      DEF
-Johan Vázquez      DEF
-Edson Gutiérrez      DEF
-Jesús Gallardo      DEF
-Miguel Layún      DEF
-Sergio Villarreal   DEF
-Luis Sánchez      DEF
-Leonel Vangioni      DEF
-Sebastián VEgas      DEF
-Daniel Parra      DEF
-Setefan Medina      DEF
-Juan Portales      DEF
-Edson Gutiérrez      DEF
-Matías Kranevitter    MDF
-Michell Rodríguez   MDF
-Maximiliano Meza   MDF
-Celso Ortiz      MDF
-Arturo Alfonso González   MDF
-Jonathan González   MDF
-Carlos Rodríguez   MDF
-Eric Cantú      MDF
-Ángel Zapata      MDF
-Jaziel Martínez      MDF
-Rogelio Funes Mori   FWD
-Dorlan Pabón      FWD
-Vincent Janssen      FWD
-Ake Loba      FWD
-Avilés Hurtado      FWD
-Shayr Mohamed      FWD
-Jonathan Urretaviscaya   FWD
-Ángel Zaldívar      FWD
-Juan Machado      FWD
-Eduardo Banda      FWD
-José Alvarado      FWD
+Luis Cárdenas           GK
+Hugo González           GK
+Marcelo Barovero        GK
+Edson Rezéndez          GK
+César Montes            DEF
+José María Basanta      DEF
+Axel Grijalva           DEF
+William Mejía           DEF
+Nicolás Sánchez         DEF
+Johan Vázquez           DEF
+Edson Gutiérrez         DEF
+Jesús Gallardo          DEF
+Miguel Layún            DEF
+Sergio Villarreal       DEF
+Luis Sánchez            DEF
+Leonel Vangioni         DEF
+Sebastián VEgas         DEF
+Daniel Parra            DEF
+Setefan Medina          DEF
+Juan Portales           DEF
+Edson Gutiérrez         DEF
+Matías Kranevitter      MDF
+Michell Rodríguez       MDF
+Maximiliano Meza        MDF
+Celso Ortiz             MDF
+Arturo Alfonso González MDF
+Jonathan González       MDF
+Carlos Rodríguez        MDF
+Eric Cantú              MDF
+Ángel Zapata            MDF
+Jaziel Martínez         MDF
+Rogelio Funes Mori      FWD
+Dorlan Pabón            FWD
+Vincent Janssen         FWD
+Ake Loba                FWD
+Avilés Hurtado          FWD
+Shayr Mohamed           FWD
+Jonathan Urretaviscaya  FWD
+Ángel Zaldívar          FWD
+Juan Machado            FWD
+Eduardo Banda           FWD
+José Alvarado           FWD
 
 Coach: Antonio Mohamed (ARG)
 
@@ -1692,7 +1728,7 @@ NB: league suspended due to Covid-19 pandemic and abandoned on Apr 24;
 
 Relegation table
 
-Team         Average
+Team                    Average
 Mineros                 1.8442
 TM FC                   1.5263
 Atlético Zacatepec      1.4935

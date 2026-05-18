@@ -33,9 +33,11 @@ Cruz Azul   0-1 Morelia
 
 Tables:
 
-<!-- $table1$ - Group A -->
+Group A
+<!-- $table1$ -->
 
-<!-- $table2$ - Group B -->
+Group B
+<!-- $table2$ -->
 
 ▪ Second Stage ▪
 
@@ -73,13 +75,17 @@ NB: new clubs:
 
 Tables:
 
-<!-- $table4$ - Group 1 -->
+Group 1
+<!-- $table4$ -->
 
-<!-- $table5$ - Group 2 -->
+Group 2
+<!-- $table5$ -->
 
-<!-- $table6$ - Group 3 -->
+Group 3
+<!-- $table6$ -->
 
-<!-- $table7$ - Group 4 -->
+Group 4
+<!-- $table7$ -->
 
 [*] Atlante moved from Cd. de México to Nezahualcoyotl at the beginning of
     the season
@@ -573,13 +579,17 @@ Tigres      0-1 América
 
 Tables:
 
-<!-- $table8$ - Group 1 -->
+Group 1
+<!-- $table8$ -->
 
-<!-- $table9$ - Group 2 -->
+Group 2
+<!-- $table9$ -->
 
-<!-- $table10$ - Group 3 -->
+Group 3
+<!-- $table10$ -->
 
-<!-- $table11$ - Group 4 -->
+Group 4
+<!-- $table11$ -->
 
 [*] Atlante moved from Cd. de México to Nezahualcoyotl at the beginning of
     the season
@@ -683,13 +693,17 @@ NB: Atlético Celaya changed name to Colibríes and moved to Xochitepec.
 
 Final Tables:
 
-<!-- $table12$ - Group 1 -->
+Group 1
+<!-- $table12$ -->
 
-<!-- $table13$ - Group 2 -->
+Group 2
+<!-- $table13$ -->
 
-<!-- $table14$ - Group 3 -->
+Group 3
+<!-- $table14$ -->
 
-<!-- $table15$ - Group 4 -->
+Group 4
+<!-- $table15$ -->
 
 [*] Atlético Celaya changed name to Colibríes and moved to Xochitepec
     (near Cuernavaca) before the start of the Clausura.
@@ -1164,13 +1178,17 @@ Pumas       0-1 Morelia
 
 Final Tables:
 
-<!-- $table16$ - Group 1 -->
+Group 1
+<!-- $table16$ -->
 
-<!-- $table17$ - Group 2 -->
+Group 2
+<!-- $table17$ -->
 
-<!-- $table18$ - Group 3 -->
+Group 3
+<!-- $table18$ -->
 
-<!-- $table19$ - Group 4 -->
+Group 4
+<!-- $table19$ -->
 
 [*] Atlético Celaya changed name to Colibríes and moved to Xochitepec
     (near Cuernavaca) before the start of the Clausura.
@@ -1282,13 +1300,17 @@ Atlético Chiapas changed name to Atlético Yucatan.
 
 Tables:
 
-<!-- $table20$ - Group A -->
+Group A
+<!-- $table20$ -->
 
-<!-- $table21$ - Group B -->
+Group B
+<!-- $table21$ -->
 
-<!-- $table22$ - Group C -->
+Group C
+<!-- $table22$ -->
 
-<!-- $table23$ - Group D -->
+Group D
+<!-- $table23$ -->
 
 ▪ Round 1 ▪  Aug 8 & 9
 Tapatío       0-0 Cruz Azul Hgo
@@ -1520,13 +1542,17 @@ Irapuato      4-2 Saltillo
 
 Tables:
 
-<!-- $table24$ - Group A -->
+Group A
+<!-- $table24$ -->
 
-<!-- $table25$ - Group B -->
+Group B
+<!-- $table25$ -->
 
-<!-- $table26$ - Group C -->
+Group C
+<!-- $table26$ -->
 
-<!-- $table27$ - Group D -->
+Group D
+<!-- $table27$ -->
 
 ▪ Playoffs ▪
 
@@ -1592,13 +1618,17 @@ Gavilanes withdrew
 
 Final Tables:
 
-<!-- $table28$ - Group A -->
+Group A
+<!-- $table28$ -->
 
-<!-- $table29$ - Group B -->
+Group B
+<!-- $table29$ -->
 
-<!-- $table30$ - Group C -->
+Group C
+<!-- $table30$ -->
 
-<!-- $table31$ - Group D -->
+Group D
+<!-- $table31$ -->
 
 ▪ Round 1 ▪
 Cruz Azul Hgo 2-0 Tapatío
@@ -1777,13 +1807,17 @@ Rounds 15-19 missing
 
 Final Tables:
 
-<!-- $table32$ - Group A -->
+Group A
+<!-- $table32$ -->
 
-<!-- $table33$ - Group B -->
+Group B
+<!-- $table33$ -->
 
-<!-- $table34$ - Group C -->
+Group C
+<!-- $table34$ -->
 
-<!-- $table35$ - Group D -->
+Group D
+<!-- $table35$ -->
 
 <!-- $topscorers3$ -->
 

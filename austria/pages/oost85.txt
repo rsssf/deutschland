@@ -32,8 +32,8 @@
 _ Aug 24 _
 Klagenfurt       1-0 LASK
 Austria          2-0 Admira/Wacker
-GAK             1-1 FavAC
-Vienna             0-1 Rapid
+GAK              1-1 FavAC
+Vienna           0-1 Rapid
 Linz             0-1 Innsbruck
 _ Aug 25 _
 Donawitz         2-0 Austria Salzburg
@@ -44,354 +44,354 @@ Sportclub        1-2 Sturm
 _ Aug 31 _
 Admira/Wacker    2-2 Sportclub
 LASK             3-1 Linz
-Rapid             2-1 Donawitz
+Rapid            2-1 Donawitz
 Eisenstadt       1-3 Austria Salzburg
-Sturm             2-2 Klagenfurt
+Sturm            2-2 Klagenfurt
 _ Sep 1 _
 Spittal          1-5 Austria
 Innsbruck        0-0 GAK
 _ Sep 2 _
-FavAC             0-0 Vienna
+FavAC            0-0 Vienna
 
 ▪ Round 3 ▪
 _ Sep 7 _
 Klagenfurt       1-1 Admira/Wacker
 Austria          2-1 Eisenstadt
-GAK             4-0 LASK
+GAK              4-0 LASK
 Austria Salzburg 0-2 Rapid
-Linz        2-1 Sturm
+Linz             2-1 Sturm
 _ Sep 8 _
-Donawitz     4-1 FavAC
-Vienna         0-1 Innsbruck
+Donawitz         4-1 FavAC
+Vienna           0-1 Innsbruck
 _ Sep 9 _
-Sportclub     3-1 Spittal
+Sportclub        3-1 Spittal
 
 ▪ Round 4 ▪
 _ Sep 14 _
-Admira/Wacker     1-0 Linz
-LASK        0-0 Vienna
-Eisenstadt     1-1 Rapid
-Innsbruck     5-0 Donawitz
+Admira/Wacker    1-0 Linz
+LASK             0-0 Vienna
+Eisenstadt       1-1 Rapid
+Innsbruck        5-0 Donawitz
 _ Sep 15 _
-FavAC        1-0 Austria Salzburg
-Sturm        1-1 GAK
-Spittal     1-0 Klagenfurt
+FavAC            1-0 Austria Salzburg
+Sturm            1-1 GAK
+Spittal          1-0 Klagenfurt
 _ Sep 16 _
-Austria     5-0 Sportclub
+Austria          5-0 Sportclub
 
 ▪ Round 5 ▪
 _ Sep 21 _
-Klagenfurt     4-2 Austria
-GAK        2-0 Admira/Wacker
-Rapid        7-0 FavAC
-Linz        0-0 Spittal
+Klagenfurt       4-2 Austria
+GAK              2-0 Admira/Wacker
+Rapid            7-0 FavAC
+Linz             0-0 Spittal
 _ Sep 22 _
-Donawitz     1-1 LASK
+Donawitz         1-1 LASK
 Austria Salzburg 2-3 Innsbruck
-Vienna        5-1 Sturm
-Sportclub     1-0 Eisenstadt
+Vienna           5-1 Sturm
+Sportclub        1-0 Eisenstadt
 
 ▪ Round 6 ▪
 _ Sep 28 _
-Admira/Wacker     2-1 Vienna
-LASK        3-1 Austria Salzburg
-Eisenstadt     2-0 FavAC
+Admira/Wacker    2-1 Vienna
+LASK             3-1 Austria Salzburg
+Eisenstadt       2-0 FavAC
 _ Sep 29 _
-Sturm        4-1 Donawitz
-Spittal     0-0 GAK
-Innsbruck     2-4 Rapid
-Sportclub     2-1 Klagenfurt
+Sturm            4-1 Donawitz
+Spittal          0-0 GAK
+Innsbruck        2-4 Rapid
+Sportclub        2-1 Klagenfurt
 _ Sep 30 _
-Austria     4-0 Linz
+Austria          4-0 Linz
 
 ▪ Round 7 ▪
 _ Oct 5 _
-Klagenfurt     1-1 Eisenstadt
+Klagenfurt       1-1 Eisenstadt
 Austria Salzburg 3-0 Sturm
-Vienna        4-0 Spittal
-Linz        1-1 Sportclub
+Vienna           4-0 Spittal
+Linz             1-1 Sportclub
 _ Oct 6 _
-Donawitz     2-4 Admira/Wacker
-FavAC        2-2 Innsbruck
-GAK        0-3 Austria
-Rapid        7-1 LASK
+Donawitz         2-4 Admira/Wacker
+FavAC            2-2 Innsbruck
+GAK              0-3 Austria
+Rapid            7-1 LASK
 
 ▪ Round 8 ▪
 _ Oct 12 _
-Klagenfurt     2-0 Linz
-Austria     2-0 Vienna
-LASK        3-0 FavAC
-Eisenstadt     1-2 Innsbruck
+Klagenfurt       2-0 Linz
+Austria          2-0 Vienna
+LASK             3-0 FavAC
+Eisenstadt       1-2 Innsbruck
 _ Oct 13 _
-Admira/Wacker     3-1 Austria Salzburg
-Sturm        2-1 Rapid
-Spittal     3-1 Donawitz
-Sportclub     2-0 GAK
+Admira/Wacker    3-1 Austria Salzburg
+Sturm            2-1 Rapid
+Spittal          3-1 Donawitz
+Sportclub        2-0 GAK
 
 ▪ Round 9 ▪
 _ Oct 19 _
 Austria Salzburg 1-1 Spittal
 _ Oct 20 _
-Donawitz     1-1 Austria
-FavAC        0-2 Sturm
-GAK        1-1 Klagenfurt
-Rapid        3-1 Admira/Wacker
-Linz        0-0 Eisenstadt
-Innsbruck     0-2 LASK
+Donawitz         1-1 Austria
+FavAC            0-2 Sturm
+GAK              1-1 Klagenfurt
+Rapid            3-1 Admira/Wacker
+Linz             0-0 Eisenstadt
+Innsbruck        0-2 LASK
 _ Oct 21 _
-Vienna        0-4 Sportclub
+Vienna           0-4 Sportclub
 
 ▪ Round 10 ▪
 _ Oct 26 _
-Admira/Wacker     2-1 FavAC
+Admira/Wacker    2-1 FavAC
 _ Oct 27 _
-Klagenfurt     4-1 Vienna
-Austria     4-0 Austria Salzburg
-Eisenstadt     2-1 LASK
-Sturm        2-1 Innsbruck
-Spittal     1-0 Rapid
-Linz        0-0 GAK
+Klagenfurt       4-1 Vienna
+Austria          4-0 Austria Salzburg
+Eisenstadt       2-1 LASK
+Sturm            2-1 Innsbruck
+Spittal          1-0 Rapid
+Linz             0-0 GAK
 _ Oct 28 _
-Sportclub     2-1 Donawitz
+Sportclub        2-1 Donawitz
 
 ▪ Round 11 ▪
 _ Nov 2 _
 Austria Salzburg 3-0 Sportclub
-Vienna        0-1 Linz
+Vienna           0-1 Linz
 _ Nov 3 _
-Donawitz     2-0 Klagenfurt
-GAK        0-1 Eisenstadt
-LASK        1-0 Sturm
-Rapid        2-2 Austria
-Innsbruck     3-3 Admira/Wacker
+Donawitz         2-0 Klagenfurt
+GAK              0-1 Eisenstadt
+LASK             1-0 Sturm
+Rapid            2-2 Austria
+Innsbruck        3-3 Admira/Wacker
 _ Nov 4 _
-FavAC        3-0 Spittal
+FavAC            3-0 Spittal
 
 ▪ Round 12 ▪
 _ Nov 9 _
-Austria     6-0 FavAC
-Eisenstadt     5-2 Sturm
+Austria          6-0 FavAC
+Eisenstadt       5-2 Sturm
 _ Nov 10 _
-Klagenfurt     2-2 Austria Salzburg
-GAK        2-0 Vienna
-Spittal     2-0 Innsbruck
-Linz        1-0 Donawitz
+Klagenfurt       2-2 Austria Salzburg
+GAK              2-0 Vienna
+Spittal          2-0 Innsbruck
+Linz             1-0 Donawitz
 _ Nov 21 _
-Rapid        2-0 Sportclub
+Rapid            2-0 Sportclub
 _ Nov 27 _
-Admira/Wacker     1-1 LASK
+Admira/Wacker    1-1 LASK
 
 ▪ Round 13 ▪
 _ Nov 16 _
-Vienna        0-0 Eisenstadt
+Vienna           0-0 Eisenstadt
 _ Nov 17 _
-Donawitz     1-0 GAK
-LASK        4-0 Spittal
-Rapid        2-0 Klagenfurt
-Sturm        1-1 Admira/Wacker
+Donawitz         1-0 GAK
+LASK             4-0 Spittal
+Rapid            2-0 Klagenfurt
+Sturm            1-1 Admira/Wacker
 Austria Salzburg 1-3 Linz
-Innsbruck     0-4 Austria
+Innsbruck        0-4 Austria
 _ Nov 27 _
-FavAC        2-1 Sportclub
+FavAC            2-1 Sportclub
 
 ▪ Round 14 ▪
 _ Nov 24 _
-Klagenfurt     3-1 FavAC
-Austria     2-0 LASK
-GAK       4-1 Austria Salzburg
-Eisenstadt     2-0 Admira/Wacker
-Spittal     3-1 Sturm
-Linz        2-2 Rapid
-Sportclub     1-4 Innsbruck
+Klagenfurt       3-1 FavAC
+Austria          2-0 LASK
+GAK              4-1 Austria Salzburg
+Eisenstadt       2-0 Admira/Wacker
+Spittal          3-1 Sturm
+Linz             2-2 Rapid
+Sportclub        1-4 Innsbruck
 _ Nov 25 _
-Vienna        3-0 Donawitz
+Vienna           3-0 Donawitz
 
 ▪ Round 15 ▪  Dec 1
-Admira/Wacker     3-1 Spittal
-Donawitz     4-0 Eisenstadt
-FavAC        4-0 Linz
-LASK        3-1 Sportclub
-Rapid        2-1 GAK
-Sturm        4-5 Austria
+Admira/Wacker    3-1 Spittal
+Donawitz         4-0 Eisenstadt
+FavAC            4-0 Linz
+LASK             3-1 Sportclub
+Rapid            2-1 GAK
+Sturm            4-5 Austria
 Austria Salzburg 2-2 Vienna
-Innsbruck     1-1 Klagenfurt
+Innsbruck        1-1 Klagenfurt
 
 ▪ Round 16 ▪
 _ Dec 7 _
-Rapid        5-0 Vienna
+Rapid            5-0 Vienna
 _ Dec 8 _
-Admira/Wacker     0-1 Austria
-LASK        4-3 Klagenfurt
-Eisenstadt     1-2 Spittal
-Sturm        3-2 Sportclub
+Admira/Wacker    0-1 Austria
+LASK             4-3 Klagenfurt
+Eisenstadt       1-2 Spittal
+Sturm            3-2 Sportclub
 Austria Salzburg 0-1 Donawitz
-Innsbruck     4-1 Linz
+Innsbruck        4-1 Linz
 _ Dec 9 _
-FavAC        1-1 GAK
+FavAC            1-1 GAK
 
 ▪ Round 17 ▪
 _ Mar 9 _
-Donawitz     1-1 Rapid
-Klagenfurt     0-2 Sturm
-Austria     3-0 Spittal
-GAK        2-1 Innsbruck
+Donawitz         1-1 Rapid
+Klagenfurt       0-2 Sturm
+Austria          3-0 Spittal
+GAK              2-1 Innsbruck
 Austria Salzburg 0-3 Eisenstadt
-Linz        0-1 LASK
+Linz             0-1 LASK
 _ Mar 10 _
-Vienna        0-2 FavAC
-Sportclub     4-4 Admira/Wacker
+Vienna           0-2 FavAC
+Sportclub        4-4 Admira/Wacker
 
 ▪ Round 18 ▪  Mar 16
-Admira/Wacker     4-0 Klagenfurt
-FavAC        0-1 Donawitz
-LASK        2-0 GAK
-Rapid        4-0 Austria Salzburg
-Eisenstadt     0-1 Austria
-Sturm        3-2 Linz
-Spittal     2-0 Sportclub
-Innsbruck     2-1 Vienna
+Admira/Wacker    4-0 Klagenfurt
+FavAC            0-1 Donawitz
+LASK             2-0 GAK
+Rapid            4-0 Austria Salzburg
+Eisenstadt       0-1 Austria
+Sturm            3-2 Linz
+Spittal          2-0 Sportclub
+Innsbruck        2-1 Vienna
 
 ▪ Round 19 ▪
 _ Mar 22 _
 Austria Salzburg 2-0 FavAC
 _ Mar 23 _
-GAK        0-0 Sturm
-Rapid        1-1 Eisenstadt
-Linz        1-1 Admira/Wacker
+GAK              0-0 Sturm
+Rapid            1-1 Eisenstadt
+Linz             1-1 Admira/Wacker
 _ Mar 24 _
-Donawitz     1-1 Innsbruck
-Vienna        0-2 LASK
-Sportclub     0-0 Austria
+Donawitz         1-1 Innsbruck
+Vienna           0-2 LASK
+Sportclub        0-0 Austria
 _ Apr 2 _
-Klagenfurt     0-0 Spittal
+Klagenfurt       0-0 Spittal
 
 ▪ Round 20 ▪
 _ Mar 30 _
-Admira/Wacker     5-0 GAK
-FavAC        2-6 Rapid
-LASK        3-0 Donawitz
-Eisenstadt     1-0 Sportclub
-Sturm        4-0 Vienna
-Spittal     0-4 Linz
-Innsbruck     4-2 Austria Salzburg
+Admira/Wacker    5-0 GAK
+FavAC            2-6 Rapid
+LASK             3-0 Donawitz
+Eisenstadt       1-0 Sportclub
+Sturm            4-0 Vienna
+Spittal          0-4 Linz
+Innsbruck        4-2 Austria Salzburg
 _ Mar 31 _
-Austria     2-0 Klagenfurt
+Austria          2-0 Klagenfurt
 
 ▪ Round 21 ▪
 _ Apr 5 _
-Klagenfurt     2-1 Sportclub
-GAK        0-0 Spittal
+Klagenfurt       2-1 Sportclub
+GAK              0-0 Spittal
 Austria Salzburg 0-1 LASK
 _ Apr 6 _
-Donawitz     0-0 Sturm
-Rapid        1-1 Innsbruck
-Vienna        1-1 Admira/Wacker
-Linz        0-1 Austria
+Donawitz         0-0 Sturm
+Rapid            1-1 Innsbruck
+Vienna           1-1 Admira/Wacker
+Linz             0-1 Austria
 _ Apr 7 _
-FavAC        1-2 Eisenstadt
+FavAC            1-2 Eisenstadt
 
 ▪ Round 22 ▪
 _ Apr 12 _
-Admira/Wacker     2-0 Donawitz
-Austria     3-0 GAK
-LASK        0-3 Rapid
-Eisenstadt     0-1 Klagenfurt
-Sturm        0-1 Austria Salzburg
-Innsbruck     0-0 FavAC
+Admira/Wacker    2-0 Donawitz
+Austria          3-0 GAK
+LASK             0-3 Rapid
+Eisenstadt       0-1 Klagenfurt
+Sturm            0-1 Austria Salzburg
+Innsbruck        0-0 FavAC
 _ Apr 13 _
-Spittal     2-1 Vienna
-Sportclub     1-1 Linz
+Spittal          2-1 Vienna
+Sportclub        1-1 Linz
 
 ▪ Round 23 ▪
 _ Apr 19 _
-FavAC        1-1 LASK
-GAK        2-0 Sportclub
+FavAC            1-1 LASK
+GAK              2-0 Sportclub
 Austria Salzburg 0-1 Admira/Wacker
-Linz        2-0 Klagenfurt
-Innsbruck     0-0 Eisenstadt
+Linz             2-0 Klagenfurt
+Innsbruck        0-0 Eisenstadt
 _ Apr 20 _
-Donawitz     3-0 Spittal
-Rapid        2-2 Sturm
-Vienna        1-1 Austria
+Donawitz         3-0 Spittal
+Rapid            2-2 Sturm
+Vienna           1-1 Austria
 
 Round 24 [May 21 - rescheduled from Apr 26]
-Admira/Wacker     1-4 Rapid
-Klagenfurt     3-0 GAK
-Austria     3-0 Donawitz
-LASK        4-0 Innsbruck
-Eisenstadt     0-0 Linz
-Sturm        3-0 FavAC
-Spittal     1-3 Austria Salzburg
-Sportclub     2-1 Vienna
+Admira/Wacker    1-4 Rapid
+Klagenfurt       3-0 GAK
+Austria          3-0 Donawitz
+LASK             4-0 Innsbruck
+Eisenstadt       0-0 Linz
+Sturm            3-0 FavAC
+Spittal          1-3 Austria Salzburg
+Sportclub        2-1 Vienna
 
 ▪ Round 25 ▪
 _ May 3 _
-GAK        3-1 Linz
-LASK        2-0 Eisenstadt
-Vienna        2-2 Klagenfurt
+GAK              3-1 Linz
+LASK             2-0 Eisenstadt
+Vienna           2-2 Klagenfurt
 _ May 4 _
-Donawitz     3-0 Sportclub
-FavAC        2-1 Admira/Wacker
-Rapid        4-0 Spittal
+Donawitz         3-0 Sportclub
+FavAC            2-1 Admira/Wacker
+Rapid            4-0 Spittal
 Austria Salzburg 2-7 Austria
-Innsbruck     5-0 Sturm
+Innsbruck        5-0 Sturm
 
 ▪ Round 26 ▪
 _ May 10 _
-Klagenfurt     2-0 Donawitz
-Austria     1-0 Rapid
-Eisenstadt     0-0 GAK
-Sturm        2-0 LASK
-Spittal     0-1 FavAC
-Linz        2-1 Vienna
+Klagenfurt       2-0 Donawitz
+Austria          1-0 Rapid
+Eisenstadt       0-0 GAK
+Sturm            2-0 LASK
+Spittal          0-1 FavAC
+Linz             2-1 Vienna
 _ May 11 _
-Admira/Wacker     1-2 Innsbruck
-Sportclub     4-0 Austria Salzburg
+Admira/Wacker    1-2 Innsbruck
+Sportclub        4-0 Austria Salzburg
 
 ▪ Round 27 ▪
 _ May 17 _
-LASK        2-1 Admira/Wacker
-Sturm        2-0 Eisenstadt
+LASK             2-1 Admira/Wacker
+Sturm            2-0 Eisenstadt
 Austria Salzburg 0-0 Klagenfurt
 _ May 18 _
-Donawitz     1-2 Linz
-Vienna        0-0 GAK
-Innsbruck     4-1 Spittal
-Sportclub     1-5 Rapid
+Donawitz         1-2 Linz
+Vienna           0-0 GAK
+Innsbruck        4-1 Spittal
+Sportclub        1-5 Rapid
 _ May 26 _
-FavAC        0-4 Austria
+FavAC            0-4 Austria
 
 ▪ Round 28 ▪  May 24
-Admira/Wacker     2-1 Sturm
-Klagenfurt     1-1 Rapid
-Austria     2-0 Innsbruck
-GAK        3-0 Donawitz
-Eisenstadt     1-1 Vienna
-Spittal     3-1 LASK
-Linz        4-0 Austria Salzburg
-Sportclub     2-0 FavAC
+Admira/Wacker    2-1 Sturm
+Klagenfurt       1-1 Rapid
+Austria          2-0 Innsbruck
+GAK              3-0 Donawitz
+Eisenstadt       1-1 Vienna
+Spittal          3-1 LASK
+Linz             4-0 Austria Salzburg
+Sportclub        2-0 FavAC
 
 ▪ Round 29 ▪  May 31
-Admira/Wacker     0-0 Eisenstadt
-Donawitz     3-1 Vienna
-FavAC        0-0 Klagenfurt
-LASK        0-3 Austria
-Rapid        7-2 Linz
-Sturm        3-2 Spittal
+Admira/Wacker    0-0 Eisenstadt
+Donawitz         3-1 Vienna
+FavAC            0-0 Klagenfurt
+LASK             0-3 Austria
+Rapid            7-2 Linz
+Sturm            3-2 Spittal
 Austria Salzburg 3-1 GAK
-Innsbruck     1-2 Sportclub
+Innsbruck        1-2 Sportclub
 
 ▪ Round 30 ▪
 _ Jun 7 _
-Klagenfurt     2-1 Innsbruck
-Austria     4-1 Sturm
-GAK        3-3 Rapid
-Spittal     1-1 Admira/Wacker
-Vienna        7-2 Austria Salzburg
-Linz        6-0 FavAC
-Sportclub     0-3 LASK
+Klagenfurt       2-1 Innsbruck
+Austria          4-1 Sturm
+GAK              3-3 Rapid
+Spittal          1-1 Admira/Wacker
+Vienna           7-2 Austria Salzburg
+Linz             6-0 FavAC
+Sportclub        0-3 LASK
 _ Jun 8 _
-Eisenstadt     2-3 Donawitz
+Eisenstadt       2-3 Donawitz
 
 <!-- $table2$ - Table -->
 

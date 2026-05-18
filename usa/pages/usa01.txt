@@ -12,11 +12,14 @@
 
 Tables:
 
-<!-- $table1$ - Eastern Division -->
+      Eastern Division
+<!-- $table1$ -->
 
-<!-- $table2$ - Central Division -->
+      Central Division
+<!-- $table2$ -->
 
-<!-- $table3$ - Western Division -->
+      Western Division
+<!-- $table3$ -->
 
 ▪ Round 1 ▪  Apr 7
 Columbus Crew        1-1 Chicago Fire
@@ -285,11 +288,14 @@ San Jose Earthquakes n/p Los Angeles Galaxy
 
 Tables:
 
-<!-- $table4$ - Eastern Division -->
+      Eastern Division
+<!-- $table4$ -->
 
-<!-- $table5$ - Central Division -->
+      Central Division
+<!-- $table5$ -->
 
-<!-- $table6$ - Western Division -->
+      Western Division
+<!-- $table6$ -->
 
 ▪ Championship Playoffs ▪
 
@@ -333,18 +339,21 @@ San Jose Earthquakes 4-0 Miami Fusion
 Miami Fusion         0-1 San Jose Earthquakes
 Chicago Fire         1-2 Los Angeles Galaxy
 
-▪ MLS Cup Final ▪  Oct 21 @ Columbus, Ohio
+MLS Cup Final [Oct 21, Columbus, Ohio]
 Los Angeles Galaxy   1-2 San Jose Earthquakes    (aet)
 
 
                                THE A-LEAGUE (2nd Division)
 
                             GP   W   D   L   GF  GA  BP Pts
-<!-- $table7$ - Northern Conference -->
+     Northern Conference
+<!-- $table7$ -->
 
-<!-- $table8$ - Central Conference -->
+     Central Conference
+<!-- $table8$ -->
 
-<!-- $table9$ - Western Conference -->
+     Western Conference
+<!-- $table9$ -->
 
 First Round:      Pittsburgh defeated Charleston 2-1, 3-1
                   San Diego defeated Atlanta 2-0, 2-2
@@ -362,11 +371,14 @@ CHAMPIONSHIP:     Rochester defeated Hershey 2-0
                       D-3 PRO LEAGUE (3rd Division)
 
                             GP   W   D   L   GF  GA  BP Pts
-<!-- $table10$ - Northern Conference -->
+     Northern Conference
+<!-- $table10$ -->
 
-<!-- $table11$ - Southern Conference -->
+     Southern Conference
+<!-- $table11$ -->
 
-<!-- $table12$ - Western Conference -->
+     Western Conference
+<!-- $table12$ -->
 
 Conference Finals:  Boston defeated New Jersey 2-0
  (incomplete)       Wilmington defeated Greenville 3-3 (4-3 PK)
@@ -381,23 +393,31 @@ CHAMPIONSHIP:       Utah defeated Greenville 1-0
 
                             GP   W   D   L   GF  GA  BP Pts
      EASTERN CONFERENCE
-<!-- $table13$ - Northeast Division -->
+     Northeast Division
+<!-- $table13$ -->
 
-<!-- $table14$ - Southeast Division -->
+     Southeast Division
+<!-- $table14$ -->
 
      CENTRAL CONFERENCE
-<!-- $table15$ - Heartland Division -->
+     Heartland Division
+<!-- $table15$ -->
 
-<!-- $table16$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table16$ -->
 
-<!-- $table17$ - Mid-South Division -->
+    Mid-South Division
+<!-- $table17$ -->
 
      WESTERN CONFERENCE
-<!-- $table18$ - Rocky Mountain Division -->
+     Rocky Mountain Division
+<!-- $table18$ -->
 
-<!-- $table19$ - Southwest Division -->
+     Southwest Division
+<!-- $table19$ -->
 
-<!-- $table20$ - Northwest Division -->
+     Northwest Division
+<!-- $table20$ -->
 
 Semifinals:    Westchester defeated Sioux Falls 5-1
                Calgary defeated Des Moines 2-1
@@ -405,7 +425,9 @@ Third Place:   Sioux Falls defeated Des Moines 1-0
 CHAMPIONSHIP:  Westchester defeated Calgary 3-1
 
 
-<!-- $table21$ - WOMEN'S UNITED SOCCER ASSOCIATION -->
+WOMEN'S UNITED SOCCER ASSOCIATION
+
+<!-- $table21$ -->
 
 Semifinals:     Bay Area defeated New York, 3-2
                 Atlanta defeated Philadelphia, 3-2
@@ -417,11 +439,15 @@ W-LEAGUE
                       W-1 Division
 
                             GP   W   D   L   GF  GA  BP Pts
-<!-- $table22$ - Northern Conference -->
+     Northern Conference
+<!-- $table22$ -->
 
-<!-- $table23$ - Eastern Conference -->
+     Eastern Conference
 
-<!-- $table24$ - Western Conference -->
+<!-- $table23$ -->
+
+     Western Conference
+<!-- $table24$ -->
 
 Semifinals:        Boston defeated Maryland 3-0
                    Vancouver defeated Hampton Roads 1-0
@@ -430,11 +456,14 @@ CHAMPIONSHIP:      Boston defeated Vancouver 5-1.
                            W-2 Division
 
                             GP   W   L   D   GF  GA  BP Pts
-<!-- $table25$ - Eastern Conference -->
+     Eastern Conference
+<!-- $table25$ -->
 
-<!-- $table26$ - Central Conference -->
+     Central Conference
+<!-- $table26$ -->
 
-<!-- $table27$ - Western Division -->
+     Western Division
+<!-- $table27$ -->
 
 Semifinals:   Charlotte defeated Oklahoma 3-1
               Memphis defeated Chicago 3-2
@@ -442,7 +471,9 @@ Third Place:  Chicago defeated Oklahoma 3-2
 CHAMPIONSHIP: Charlotte defeated Memphis 3-1
 
 
-<!-- $table28$ - WOMEN'S PREMIER SOCCER LEAGUE -->
+WOMEN'S PREMIER SOCCER LEAGUE
+
+<!-- $table28$ -->
 
 Champion:  Southern Cal Ajax.
 

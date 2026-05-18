@@ -176,7 +176,8 @@ Atlético-MG       0-0  Vitória
 Internacional-RS  0-1  Náutico
   [Erasmo]
 
-<!-- $table1$ - Tables -->
+Tables
+<!-- $table1$ -->
 
 Group B
 
@@ -492,9 +493,11 @@ Goiás             2-1  Náutico
 
 Tables
 
-<!-- $table3$ - Group A -->
+Group A
+<!-- $table3$ -->
 
-<!-- $table4$ - Group B -->
+Group B
+<!-- $table4$ -->
 
 Relegation Tournament
 

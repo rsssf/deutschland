@@ -9,7 +9,8 @@
 
 
 FA Carling Premiership 1994-95
-<!-- $table1$ - P  W  D  L   F   A  W  D  L   F   A Pts  GD -->
+                              P  W  D  L   F   A  W  D  L   F   A Pts  GD
+<!-- $table1$ -->
 
 _ Aug 20 1994 _
 Arsenal                     3    Manchester City             0
@@ -1168,12 +1169,14 @@ West Ham United             1    Manchester United           1
   Hughes                           McClair
 
 
-<!-- $table2$ - P  W  D  L   F   A  W  D  L   F   A Pts  GD -->
+                              P  W  D  L   F   A  W  D  L   F   A Pts  GD
+<!-- $table2$ -->
 
 
 England Second Division 1994/95 ("Division One")
 
-<!-- $table3$ - Division One              P  W  D  L   F   A  W  D  L   F   A Pts  (Gls) -->
+    Division One              P  W  D  L   F   A  W  D  L   F   A Pts  (Gls)
+<!-- $table3$ -->
 
 
 Play-offs Semi-Finals
@@ -1208,7 +1211,8 @@ after extra time                 (Lovell missed penalty 34)
 
 England Third Division 1994/95 ("Division Two")
 
-<!-- $table4$ - Division Two              P  W  D  L   F   A  W  D  L   F   A Pts  (Gls) -->
+    Division Two              P  W  D  L   F   A  W  D  L   F   A Pts  (Gls)
+<!-- $table4$ -->
 
 Play-offs Semi-Finals
 First Legs 14 May
@@ -1236,7 +1240,8 @@ Stewart 45                       Booth 44.5  Billy 81
 
 England Fourth Division 1994/95 ("Division Three")
 
-<!-- $table5$ - Division Three            P  W  D  L   F   A  W  D  L   F   A Pts  (Gls) -->
+    Division Three            P  W  D  L   F   A  W  D  L   F   A Pts  (Gls)
+<!-- $table5$ -->
 
 Play-offs Semi-Finals
 
@@ -1270,7 +1275,8 @@ Robinson 23 41
 England Fifth Division 1994/95 ("Vauxhall Conference")
 
 Vauxhall Conference 1994-95
-<!-- $table6$ - P  W  D  L   F   A  W  D  L   F   A Pts  GD -->
+                              P  W  D  L   F   A  W  D  L   F   A Pts  GD
+<!-- $table6$ -->
 
 Likely candidates for promotion to the Conference appear to be Slough Town,
 Hednesford Town and Morecambe, all subject to passing a ground inspection this
@@ -1309,25 +1315,29 @@ Diadora League Premier Division (sixth level), Divisions One to Three
                             PREMIER DIVISION
                             ================
                                   HOME                AWAY
-<!-- $table10$ - P   W   D   L   F   A   W   D   L   F   A  Pts   Gd -->
+                        P   W   D   L   F   A   W   D   L   F   A  Pts   Gd
+<!-- $table10$ -->
 
 
                               DIVISION ONE
                               ============
                                   HOME                AWAY
-<!-- $table11$ - P   W   D   L   F   A   W   D   L   F   A  Pts   Gd -->
+                        P   W   D   L   F   A   W   D   L   F   A  Pts   Gd
+<!-- $table11$ -->
 
 
                               DIVISION TWO
                               ============
                                   HOME                AWAY
-<!-- $table12$ - P   W   D   L   F   A   W   D   L   F   A  Pts   Gd -->
+                        P   W   D   L   F   A   W   D   L   F   A  Pts   Gd
+<!-- $table12$ -->
 
 
                              DIVISION THREE
                              ==============
                                   HOME                AWAY
-<!-- $table13$ - P   W   D   L   F   A   W   D   L   F   A  Pts   Gd -->
+                        P   W   D   L   F   A   W   D   L   F   A  Pts   Gd
+<!-- $table13$ -->
 
 
                     PROMOTION AND RELEGATION ISSUES

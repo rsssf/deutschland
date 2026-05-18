@@ -1377,7 +1377,9 @@ Thanks to Andreas Exenberger.
 There is no relegation at all in Vorarlberg because of a
 reorganisation of the legaue system.
 
-<!-- $table23$ - Landesliga -->
+Landesliga
+
+<!-- $table23$ -->
 
 Promotion: BW Feldkirch, FC Wolfurt, Rätia Bludenz, FC Schwarzach, SC
 Röthis, SV Lochau (Brederis and Luger rejected promotion)

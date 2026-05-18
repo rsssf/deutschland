@@ -25,9 +25,11 @@ NB: New York City FC and Orlando City SC were admitted while Chivas USA ceased o
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 _ Mar 6 _
 Los Angeles Galaxy     2-0 Chicago Fire
@@ -535,14 +537,16 @@ Chicago Fire           1-2 New York Red Bulls
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 
 === Championship Playoff  ‹§play›
 
-▪ Conference Quarterfinals ▪
+Conference Quarterfinals
 _ Oct 28 _
 DC United              2-1 New England Revolution
 Seattle Sounders       3-2 Los Angeles Galaxy
@@ -550,7 +554,7 @@ _ Oct 29 _
 Montreal Impact        3-0 Toronto FC
 Portland Timbers       2-2 Sporting Kansas City   (aet, 7-6 pen)
 
-▪ Conference Semifinals ▪
+Conference Semifinals
 
 ▪ First Legs ▪  Nov 1
 DC United              0-1 New York Red Bulls
@@ -564,7 +568,7 @@ Columbus Crew          3-1 Montreal Impact        (aet)
 FC Dallas              2-1 Seattle Sounders       (aet, 4-2 pen)
 Vancouver Whitecaps    0-2 Portland Timbers
 
-▪ Conference Finals ▪
+Conference Finals
 
 ▪ First Legs ▪  Nov 22
 Columbus Crew          2-0 New York Red Bulls
@@ -574,7 +578,7 @@ Portland Timbers       3-1 FC Dallas
 FC Dallas              2-2 Portland Timbers
 New York Red Bulls     1-0 Columbus Crew
 
-▪ MLS Cup ▪  Dec 6
+MLS Cup [Dec 6]
 Columbus Crew          1-2 Portland Timbers
 
 

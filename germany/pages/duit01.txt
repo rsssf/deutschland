@@ -1438,9 +1438,13 @@ Regionalliga
 
 Final Tables:
 
-<!-- $table5$ - Regionalliga Nord -->
+Regionalliga Nord
 
-<!-- $table6$ - Regionalliga Süd -->
+<!-- $table5$ -->
+
+Regionalliga Süd
+
+<!-- $table6$ -->
 
 NB: the following teams have been refused a license for 2001/02:
     SSV Ulm (relegated from 2nd Bundesliga)

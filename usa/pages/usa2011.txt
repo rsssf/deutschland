@@ -26,16 +26,18 @@ NB: Portland Timbers and Vancouver Whitecaps were added for 2011
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 NB: top-3 of both conferences qualified for conference semifinals; and 4 next best teams
     in overall table qualify for wild card game
 
 === Championship Playoff  ‹§play›
 
-▪ Wild Card Games ▪
+Wild Card Games  ‹§wcard›
 _ Oct 26 _
 FC Dallas              0-2 New York Red Bulls
 _ Oct 27 _
@@ -44,7 +46,7 @@ Colorado Rapids        1-0 Columbus Crew
 NB: New York Red Bulls enter ‹Western Semifinals, see §wsemi›;
     Colorado Rapids enter ‹Eastern Semifinals, see §esemi›
 
-▪ Eastern Semifinals ▪
+Eastern Semifinals  ‹§esemi›
 
 ▪ First Legs ▪  Oct 30
 Philadelphia Union     1-2 Houston Dynamo
@@ -56,14 +58,14 @@ Sporting Kansas City   2-0 Colorado Rapids
 _ Nov 3 _
 Houston Dynamo         1-0 Philadelphia Union
 
-▪ Eastern Conference Final ▪
+Eastern Conference Final   ‹§efinal›
 
 _ Nov 6 _
 Sporting Kansas City   0-2 Houston Dynamo
 
 NB: Houston Dynamo to ‹MLS Cup 2011, see §mlscup›
 
-▪ Western Semifinals ▪
+Western Semifinals  ‹§wsemi›
 
 ▪ First Legs ▪
 _ Oct 29 _
@@ -77,7 +79,7 @@ Seattle Sounders       2-0 Real Salt Lake
 _ Nov 3 _
 Los Angeles Galaxy     2-1 New York Red Bulls
 
-▪ Western Conference Final ▪
+Western Conference Final   ‹§wfinal›
 
 _ Nov 6 _
 Los Angeles Galaxy     3-1 Real Salt Lake

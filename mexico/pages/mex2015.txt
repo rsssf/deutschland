@@ -498,28 +498,28 @@ América            3-0 Tigres
 
 
 Club América Roster team
-Moisés Muñoz      GK
-Hugo González      GK
-Juan Carlos Valenzuela   DEF
-Osmar Mares      DEF
-Ventura Alvarado   DEF
-Paul Nicolás Aguilar   DEF
-Pablo César Aguilar   DEF (Paraguay)
-Paolo Goltz      DEF (Argentina)
-Miguel Layún      DEF
-Jesús Antonio Molina   MDF
-Erik Pimentel      MDF
-Luis Ángel Mendoza   MDF
-Oswaldo David Martínez   MDF (Paraguay)
-Moisés Velasco      MDF
-Rubens Sambueza      MDF (Argentina)
-José Daniel Guerrero   MDF
-Gonzalo Díaz      MDF (Argentina)
-Luis Gabriel REy   FWD (Colombia/Mexico)
-Oribe Peralta      FWD
-Martín Zúñiga      FWD
-Michael Arroyo      FWD (Ecuador)
-Raúl Alonso Jiménez   FWD
+Moisés Muñoz            GK
+Hugo González           GK
+Juan Carlos Valenzuela  DEF
+Osmar Mares             DEF
+Ventura Alvarado        DEF
+Paul Nicolás Aguilar    DEF
+Pablo César Aguilar     DEF (Paraguay)
+Paolo Goltz             DEF (Argentina)
+Miguel Layún            DEF
+Jesús Antonio Molina    MDF
+Erik Pimentel           MDF
+Luis Ángel Mendoza      MDF
+Oswaldo David Martínez  MDF (Paraguay)
+Moisés Velasco          MDF
+Rubens Sambueza         MDF (Argentina)
+José Daniel Guerrero    MDF
+Gonzalo Díaz            MDF (Argentina)
+Luis Gabriel REy        FWD (Colombia/Mexico)
+Oribe Peralta           FWD
+Martín Zúñiga           FWD
+Michael Arroyo          FWD (Ecuador)
+Raúl Alonso Jiménez     FWD
 
 Coach: Antonio Mohamed (ARG)
 
@@ -942,26 +942,26 @@ Guadalajara        2-3 Morelia
 
 Relegation Table
 
-Team         Average
-América         1.8137
-Cruz Azul      1.6275
-Toluca         1.6078
-Tigres         1.5882
-Santos         1.5490
-Tijuana         1.4216
-Monterrey      1.3725
-León         1.3725
-Atlas         1.3333
-Pumas         1.3137
-Querétaro      1.3039
-Pachuca         1.2941
-Morelia         1.2549
-Jaguares      1.2451
-Veracruz      1.1618
-Guadalajara      1.1176
-Puebla         1.0294
+Team                    Average
+América                 1.8137
+Cruz Azul               1.6275
+Toluca                  1.6078
+Tigres                  1.5882
+Santos                  1.5490
+Tijuana                 1.4216
+Monterrey               1.3725
+León                    1.3725
+Atlas                   1.3333
+Pumas                   1.3137
+Querétaro               1.3039
+Pachuca                 1.2941
+Morelia                 1.2549
+Jaguares                1.2451
+Veracruz                1.1618
+Guadalajara             1.1176
+Puebla                  1.0294
 ------------------------------
-Leones Negros      1.0294 relegated
+Leones Negros           1.0294 relegated
 
 NB: Puebla         -5 goal difference
     Leones Negros -12 goal difference
@@ -1023,26 +1023,26 @@ Querétaro          3-0 Santos
 
 
 Club Santos Laguna Roster team
-Agustín Marchesín   GK  (Argentina)
-Christian López      GK
-Adrián Aldrete      DEF
-Carlos Izquierdoz   DEF (Argentina)
-Héctor Acosta      DEF
-José Javier Abella   DEF
-Néstor Araujo       DEF
-Oswaldo Alanís      DEF
-Rafael Figueroa      DEF
-Sergio Ceballos      DEF
-Carlos Orrantia      MDF
+Agustín Marchesín       GK  (Argentina)
+Christian López         GK
+Adrián Aldrete          DEF
+Carlos Izquierdoz       DEF (Argentina)
+Héctor Acosta           DEF
+José Javier Abella      DEF
+Néstor Araujo           DEF
+Oswaldo Alanís          DEF
+Rafael Figueroa         DEF
+Sergio Ceballos         DEF
+Carlos Orrantia         MDF
 Diego Hernán González   MDF (Argentina)
 Jesús Alonso Escoboza   MDF
-Jesús Eduardo Molina   MDF
-Luis Ángel Mendoza   MDF
-Néstor Calderón      MDF
-Rodolfo Salinas      MDF
-Andrés Rentería      FWD (Colombia)
-Edson Rivera      FWD
-Javier Orozco      FWD
+Jesús Eduardo Molina    MDF
+Luis Ángel Mendoza      MDF
+Néstor Calderón         MDF
+Rodolfo Salinas         MDF
+Andrés Rentería         FWD (Colombia)
+Edson Rivera            FWD
+Javier Orozco           FWD
 Jorge Djaniny Tabares   FWD (Cape Verde Islands)
 
 Coach: Pedro Faria Caixinha (POR)
@@ -1062,19 +1062,33 @@ an additional bonus point; if the series was tied after 2 matches, the team with
 
 Tables:
 
-<!-- $table6$ - Group 1 -->
+Group 1
 
-<!-- $table7$ - Group 2 -->
+<!-- $table6$ -->
 
-<!-- $table8$ - Group 3 -->
+Group 2
 
-<!-- $table9$ - Group 4 -->
+<!-- $table7$ -->
 
-<!-- $table10$ - Group 5 -->
+Group 3
 
-<!-- $table11$ - Group 6 -->
+<!-- $table8$ -->
 
-<!-- $table12$ - Group 7 -->
+Group 4
+
+<!-- $table9$ -->
+
+Group 5
+
+<!-- $table10$ -->
+
+Group 6
+
+<!-- $table11$ -->
+
+Group 7
+
+<!-- $table12$ -->
 
 
 Group Phase
@@ -1277,19 +1291,33 @@ Tijuana           1-0 Guadalajara       [agg 1-3; Guadalajara won a extra point]
 
 Tables:
 
-<!-- $table13$ - Group 1 -->
+Group 1
 
-<!-- $table14$ - Group 2 -->
+<!-- $table13$ -->
 
-<!-- $table15$ - Group 3 -->
+Group 2
 
-<!-- $table16$ - Group 4 -->
+<!-- $table14$ -->
 
-<!-- $table17$ - Group 5 -->
+Group 3
 
-<!-- $table18$ - Group 6 -->
+<!-- $table15$ -->
 
-<!-- $table19$ - Group 7 -->
+Group 4
+
+<!-- $table16$ -->
+
+Group 5
+
+<!-- $table17$ -->
+
+Group 6
+
+<!-- $table18$ -->
+
+Group 7
+
+<!-- $table19$ -->
 
 ==== Playoff Stage  ‹§copaplay›
 
@@ -1331,27 +1359,27 @@ Santos Laguna Cup champions
 
 
 Santos Laguna roster team
-Oswaldo Sánchez      GK
-Julio José González   GK
-Carlos Izquierdoz   DEF (Argentina)
-Rafael Figueroa      DEF
-Adrián Aldrete      DEF
-Oswaldo Alanís      DEF
-Néstor Araujo      DEF
-César Ibáñez      DEF
-José Javier Abella   DEF
-Sergio Ceballos      DEF
-Juan Pablo Rodríguez   MDF
-Mauro Cejas      MDF (Argentina/Mexico)
-Néstor Calderón      MDF
-Rodolfo Salinas      MDF
-Ribair Rodríguez   MDF (Uruguay)
+Oswaldo Sánchez         GK
+Julio José González     GK
+Carlos Izquierdoz       DEF (Argentina)
+Rafael Figueroa         DEF
+Adrián Aldrete          DEF
+Oswaldo Alanís          DEF
+Néstor Araujo           DEF
+César Ibáñez            DEF
+José Javier Abella      DEF
+Sergio Ceballos         DEF
+Juan Pablo Rodríguez    MDF
+Mauro Cejas             MDF (Argentina/Mexico)
+Néstor Calderón         MDF
+Rodolfo Salinas         MDF
+Ribair Rodríguez        MDF (Uruguay)
 Jesús Alonso Escoboza   MDF
 Jorge Djaniny Tabares   FWD (Cape Verde Islands)
-Andrés Rentería      FWD (Colombia)
-Javier Orozco      FWD
-Carlos Darwin Quintero   FWD (Colombia)
-Peterson Silvino   FWD (Brazil)
+Andrés Rentería         FWD (Colombia)
+Javier Orozco           FWD
+Carlos Darwin Quintero  FWD (Colombia)
+Peterson Silvino        FWD (Brazil)
 
 Coach: Pedro Caixinha [POR]
 
@@ -1374,17 +1402,23 @@ awarded.
 
 Tables:
 
-<!-- $table20$ - Group 1 -->
+Group 1
+<!-- $table20$ -->
 
-<!-- $table21$ - Group 2 -->
+Group 2
+<!-- $table21$ -->
 
-<!-- $table22$ - Group 3 -->
+Group 3
+<!-- $table22$ -->
 
-<!-- $table23$ - Group 4 -->
+Group 4
+<!-- $table23$ -->
 
-<!-- $table24$ - Group 5 -->
+Group 5
+<!-- $table24$ -->
 
-<!-- $table25$ - Group 6 -->
+Group 6
+<!-- $table25$ -->
 
 
 Group Phase
@@ -1571,17 +1605,23 @@ Jaguares          3-1 Pumas              [agg 6-1; Jaguares won a extra point]
 
 Tables:
 
-<!-- $table26$ - Group 1 -->
+Group 1
+<!-- $table26$ -->
 
-<!-- $table27$ - Group 2 -->
+Group 2
+<!-- $table27$ -->
 
-<!-- $table28$ - Group 3 -->
+Group 3
+<!-- $table28$ -->
 
-<!-- $table29$ - Group 4 -->
+Group 4
+<!-- $table29$ -->
 
-<!-- $table30$ - Group 5 -->
+Group 5
+<!-- $table30$ -->
 
-<!-- $table31$ - Group 6 -->
+Group 6
+<!-- $table31$ -->
 
 ==== Playoff Stage  ‹§copacplay›
 
@@ -1626,35 +1666,35 @@ Puebla Cup champions
 
 
 Puebla roster team
-Rodolfo Cota      GK
-Fabián Villaseñor   GK
-Héctor Estrada      GK
-Efraín Cortés      DEF (Colombia)
-Facundo Erpen      DEF (Argentina)
-Mario De Luna      DEF
-Oscar Rojas      DEF
-Michael Orozco      DEF (USA)
-Sergio Pérez      DEF
-Mauricio Romero      DEF (Argentina)
-Juan de la Barrera   DEF
-Luis Robles      MDF
-Luis Miguel Noriega   MDF
-Gerardo Espinoza   MDF
-Alfonso Tamay      MDF
-Francisco Acuña      MDF
-Saúl Villalobos      MDF
-Luis Esqueda      MDF
-Flavio Jesús Santos   MDF
-Eisner Loboa      MDF (Colombia)
-Jhon Freddy Pajoy   MDF (Colombia)
-Alberto Acosta      MDF
-Francisco Torres   MDF
-Cuauhtémoc Blanco   MDF
-Hérculez Gómez      FWD (USA)
+Rodolfo Cota            GK
+Fabián Villaseñor       GK
+Héctor Estrada          GK
+Efraín Cortés           DEF (Colombia)
+Facundo Erpen           DEF (Argentina)
+Mario De Luna           DEF
+Oscar Rojas             DEF
+Michael Orozco          DEF (USA)
+Sergio Pérez            DEF
+Mauricio Romero         DEF (Argentina)
+Juan de la Barrera      DEF
+Luis Robles             MDF
+Luis Miguel Noriega     MDF
+Gerardo Espinoza        MDF
+Alfonso Tamay           MDF
+Francisco Acuña         MDF
+Saúl Villalobos         MDF
+Luis Esqueda            MDF
+Flavio Jesús Santos     MDF
+Eisner Loboa            MDF (Colombia)
+Jhon Freddy Pajoy       MDF (Colombia)
+Alberto Acosta          MDF
+Francisco Torres        MDF
+Cuauhtémoc Blanco       MDF
+Hérculez Gómez          FWD (USA)
 Gustavo Matías Alustiza FWD (Argentina)
 Luis Guadalupe Loroña   FWD
-Luis Gabriel Rey   FWD (Colombia/Mexico)
-Wilberto Cosme      FWD (Colombia)
+Luis Gabriel Rey        FWD (Colombia/Mexico)
+Wilberto Cosme          FWD (Colombia)
 
 Coach: José Guadalupe Cruz [MEX]
 
@@ -2143,7 +2183,7 @@ Atlético San Luis 1-0 Dorados
 
 === Promotion Playoff  ‹§2prom›
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  May 16
 Dorados           1-1 Necaxa

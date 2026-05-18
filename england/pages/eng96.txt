@@ -12,7 +12,8 @@ Premiership
 
 FINAL TABLE
                                       HOME             AWAY
-<!-- $table1$ - P  W  D  L  F   A   W  D  L  F   A   GD PD PTS -->
+                               P  W  D  L  F   A   W  D  L  F   A   GD PD PTS
+<!-- $table1$ -->
 
 C=Champions
 R=Relegated
@@ -987,7 +988,8 @@ West Ham United             1    Sheffield Wednesday         1
 
 FINAL TABLE
                                       HOME             AWAY
-<!-- $table2$ - P  W  D  L  F   A   W  D  L  F   A   GD PD PTS -->
+                               P  W  D  L  F   A   W  D  L  F   A   GD PD PTS
+<!-- $table2$ -->
 
 C=Champions
 R=Relegated
@@ -1312,7 +1314,8 @@ England 1995/96 First Division (Second Level)
 FINAL TABLE
 
                                     HOME             AWAY
-<!-- $table3$ - P  W  D  L  F   A   W  D  L  F   A   GS PD PTS -->
+                               P  W  D  L  F   A   W  D  L  F   A   GS PD PTS
+<!-- $table3$ -->
 
 ▪ Promotion Playoffs ▪
 
@@ -1335,7 +1338,8 @@ England 1995/96 Second Division (Third Level)
 FINAL TABLE
 
                                       HOME             AWAY
-<!-- $table4$ - P  W  D  L  F   A   W  D  L  F   A   GS PD PTS -->
+                               P  W  D  L  F   A   W  D  L  F   A   GS PD PTS
+<!-- $table4$ -->
 
 Division Two Playoffs
 ---------------------
@@ -1356,7 +1360,8 @@ Bradford City are promoted to Division One.
 England 1995/96 Third Division (Fourth Level)
 
                                     HOME             AWAY
-<!-- $table5$ - P  W  D  L  F   A   W  D  L  F   A   GS PD PTS -->
+                               P  W  D  L  F   A   W  D  L  F   A   GS PD PTS
+<!-- $table5$ -->
 
 (Torquay will not go down since Stevenage Borough is ineligible.)
 
@@ -1374,7 +1379,8 @@ Plymouth Argyle   1-0 Darlington
 England Fifth Level (Conference)
 
                                     HOME             AWAY
-<!-- $table6$ - P  W  D  L  F   A   W  D  L  F   A   GD PD PTS -->
+                               P  W  D  L  F   A   W  D  L  F   A   GD PD PTS
+<!-- $table6$ -->
 
 Stevenage are not eligible for the Football League, so they won't go up.
 

@@ -14,11 +14,14 @@ Apertura 2006
 
 Final Tables:
 
-<!-- $table1$ - Group 1 -->
+Group 1
+<!-- $table1$ -->
 
-<!-- $table2$ - Group 2 -->
+Group 2
+<!-- $table2$ -->
 
-<!-- $table3$ - Group 3 -->
+Group 3
+<!-- $table3$ -->
 
 NB: San Luis and Queretaro 3 points deducted for not fulfilling rules
     on players under 21 years of age
@@ -418,11 +421,14 @@ Tecos       0-0 San Luis
 
 Final Tables:
 
-<!-- $table4$ - Group 1 -->
+Group 1
+<!-- $table4$ -->
 
-<!-- $table5$ - Group 2 -->
+Group 2
+<!-- $table5$ -->
 
-<!-- $table6$ - Group 3 -->
+Group 3
+<!-- $table6$ -->
 
 NB: San Luis and Queretaro 3 points deducted for not fulfilling rules
     on players under 21 years of age
@@ -562,9 +568,11 @@ América     1-0 Jaguares
 
 Tables:
 
-<!-- $table7$ - Group A -->
+Group A
+<!-- $table7$ -->
 
-<!-- $table8$ - Group B -->
+Group B
+<!-- $table8$ -->
 
 ▪ Semifinals ▪  Jan 13
 Necaxa      1-0 Jaguares
@@ -579,11 +587,14 @@ Clausura 2007
 
 Tables:
 
-<!-- $table9$ - Group 1 -->
+Group 1
+<!-- $table9$ -->
 
-<!-- $table10$ - Group 2 -->
+Group 2
+<!-- $table10$ -->
 
-<!-- $table11$ - Group 3 -->
+Group 3
+<!-- $table11$ -->
 
 ▪ Round 1 ▪
 _ Jan 19 _
@@ -977,11 +988,14 @@ Atlas       2-0 Querétaro
 
 Final Tables:
 
-<!-- $table12$ - Group 1 -->
+Group 1
+<!-- $table12$ -->
 
-<!-- $table13$ - Group 2 -->
+Group 2
+<!-- $table13$ -->
 
-<!-- $table14$ - Group 3 -->
+Group 3
+<!-- $table14$ -->
 
 Reclasificación
 
@@ -1122,9 +1136,11 @@ Zacatepec FC [Zacatepec] (America filial)
 
 Final Tables:
 
-<!-- $table15$ - Group A -->
+Group A
+<!-- $table15$ -->
 
-<!-- $table16$ - Group B -->
+Group B
+<!-- $table16$ -->
 
 NB: top-4 of each group qualify to Playoff
 
@@ -1420,9 +1436,11 @@ Tapatío           1-1 Atl. Mexiquense
 
 Final Tables:
 
-<!-- $table17$ - Group A -->
+Group A
+<!-- $table17$ -->
 
-<!-- $table18$ - Group B -->
+Group B
+<!-- $table18$ -->
 
 NB: top-4 of each group qualify to Playoff
 
@@ -1506,9 +1524,11 @@ Socio Aguila FC [Distrito Federal] (America filial)
 
 Final Tables:
 
-<!-- $table19$ - Group A -->
+Group A
+<!-- $table19$ -->
 
-<!-- $table20$ - Group B -->
+Group B
+<!-- $table20$ -->
 
 NB: top-4 of each group qualify to Playoff
 
@@ -1811,9 +1831,11 @@ Indios            3-1 Monarcas
 
 Final Tables:
 
-<!-- $table21$ - Group A -->
+Group A
+<!-- $table21$ -->
 
-<!-- $table22$ - Group B -->
+Group B
+<!-- $table22$ -->
 
 NB: top-4 of each group qualify to Playoff
 
@@ -1962,26 +1984,31 @@ Guerreros de Comalcalco, Dorados Fuerza UACH and Deportivo Unión de Piedras
 
 Torneo Apertura 2006
 
-<!-- $table23$ - Zona Sur (South) -->
+Zona Sur (South)
+<!-- $table23$ -->
 
 UNACH: Universidad Autónoma de Chiapas
 
-<!-- $table24$ - Zona Centro (Central) -->
+Zona Centro (Central)
+<!-- $table24$ -->
 
 UAEM: Universidad Autónoma del Estado de Mexico
 * Filial Team
 
-<!-- $table25$ - Zona Bajío -->
+Zona Bajío
+<!-- $table25$ -->
 
 * Filial Team
 
-<!-- $table26$ - Zona Occidente (Western) -->
+Zona Occidente (Western)
+<!-- $table26$ -->
 
 UAG: Universidad Autónoma de Guadalajara
 UG: Universidad de Guadalajara
 * Filial Team
 
-<!-- $table27$ - Zona Norte (North) -->
+Zona Norte (North)
+<!-- $table27$ -->
 
 UACH: Universidad Autónoma de Chihuahua
 UANL: Universidad Autónoma de Nuevo León
@@ -2061,26 +2088,31 @@ Chivas San Rafael champion Apertura 2006
 
 Torneo Clausura 2007
 
-<!-- $table28$ - Zona Sur (South) -->
+Zona Sur (South)
+<!-- $table28$ -->
 
 UNACH: Universidad Autónoma de Chiapas
 
-<!-- $table29$ - Zona Centro (Central) -->
+Zona Centro (Central)
+<!-- $table29$ -->
 
 UAEM: Universidad Autónoma del Estado de Mexico
 * Filial Team
 
-<!-- $table30$ - Zona Bajío -->
+Zona Bajío
+<!-- $table30$ -->
 
 * Filial Team
 
-<!-- $table31$ - Zona Occidente (Western) -->
+Zona Occidente (Western)
+<!-- $table31$ -->
 
 UAG: Universidad Autónoma de Guadalajara
 UG: Universidad de Guadalajara
 * Filial Team
 
-<!-- $table32$ - Zona Norte (North) -->
+Zona Norte (North)
+<!-- $table32$ -->
 
 UACH: Universidad Autónoma de Chihuahua
 UANL: Universidad Autónoma de Nuevo León
@@ -2205,65 +2237,78 @@ Gallos de Pelea de Canal 5 champion Apertura 2006
 
 Torneo Clausura 2007
 
-<!-- $table33$ - Group 1 -->
+Group 1
+<!-- $table33$ -->
 
 UNACAR: Universidad Autónoma del Carmen
 * Filial Teams
 
-<!-- $table34$ - Group 2 -->
+Group 2
+<!-- $table34$ -->
 
 UGM: Universidad del Golfo de Mexico
 * Filial Teams
 
-<!-- $table35$ - Group 3 -->
+Group 3
+<!-- $table35$ -->
 
 UAEM: Universidad Autónoma del Estado de Mexico
 CCH: Colegio de Ciencias y Humanidades
 CESU: Centro de Estudios Superiores Universitarios
 * Filial Teams
 
-<!-- $table36$ - Group 4 -->
+Group 4
+<!-- $table36$ -->
 
 * Filial Teams
 
-<!-- $table37$ - Group 5 -->
+Group 5
+<!-- $table37$ -->
 
 * Filial Teams
 
-<!-- $table38$ - Group 6 -->
+Group 6
+<!-- $table38$ -->
 
 BUAP: Benemérita Universidad Autónoma de Puebla
 * Filial Teams
 
-<!-- $table39$ - Group 7 -->
+Group 7
+<!-- $table39$ -->
 
 * Filial Teams
 
-<!-- $table40$ - Group 8 -->
+Group 8
+<!-- $table40$ -->
 
 ECCA: Educación Continua y Compartida de Adultos
 * Filial Teams
 
-<!-- $table41$ - Group 9 -->
+Group 9
+<!-- $table41$ -->
 
 UAG: Universidad Autónoma de Guadalajara
 * Filial Teams
 
-<!-- $table42$ - Group 10 -->
+Group 10
+<!-- $table42$ -->
 
 * Filial Teams
 
-<!-- $table43$ - Group 11 -->
+Group 11
+<!-- $table43$ -->
 
 UAT: Universidad Autónoma de Tamaulipas
 * Filial Teams
 
-<!-- $table44$ - Group 12 -->
+Group 12
+<!-- $table44$ -->
 
 NB: Buhos de Hermosillo, Apertura 2006 champions, play Clausura 2007 with "Filial" Team.
 * Filial Teams
 
-<!-- $table45$ - Grupo Promocional - Estado de Chihuahua -->
+Grupo Promocional - Estado de Chihuahua
+<!-- $table45$ -->
 
 Top-5 of each group and 4 best 6th place qualify to Liguilla de Ascenso.
 Top-4 of Grupo Promocional - Estado de Chihuahua qualify to Fase Final.

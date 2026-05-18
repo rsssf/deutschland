@@ -1152,13 +1152,17 @@ Feeders for Regionalliga West
 
 Landesliga Salzburg
 
-<!-- $table14$ - Table at winter break -->
+Table at winter break:
+
+<!-- $table14$ -->
 
 [Puch and Salzburg to Westliga in spring season]
 
 Final Table:
 
-<!-- $table15$ - With thanks to Peter Schmitzberger. -->
+With thanks to Peter Schmitzberger.
+
+<!-- $table15$ -->
 
 [First three promoted to extended Westliga in 1996/97;
  in addition, the amateur team of Austria Salzburg will
@@ -1188,13 +1192,17 @@ Teams total); all other teams are relegated to the Tiroler Liga
 
 Vorarlberg Regionalliga
 
-<!-- $table18$ - Table at winter break -->
+Table at winter break:
+
+<!-- $table18$ -->
 
 [Hard, SW Bregenz and Hohenems to Westliga in spring season]
 
 Final Table:
 
-<!-- $table19$ - Thanks to Wolfgang Lorber. -->
+Thanks to Wolfgang Lorber.
+
+<!-- $table19$ -->
 
 [First three promoted to extended Westliga 1996/97]
 
@@ -1302,39 +1310,66 @@ Steiermark
 
 5th Level
 
-<!-- $table22$ - Oberliga Süd-Ost -->
+Oberliga Süd-Ost
 
-<!-- $table23$ - Oberliga Nord -->
+<!-- $table22$ -->
 
-<!-- $table24$ - Oberliga Mitte-West -->
+Oberliga Nord
+
+<!-- $table23$ -->
+
+Oberliga Mitte-West
+
+<!-- $table24$ -->
 
 
 6th Level
 
-<!-- $table25$ - Unterliga Süd -->
+Unterliga Süd
 
-<!-- $table26$ - Unterliga Ost -->
+<!-- $table25$ -->
 
-<!-- $table27$ - Unterliga West -->
+Unterliga Ost
 
-<!-- $table28$ - Unterliga Mitte -->
+<!-- $table26$ -->
 
-<!-- $table29$ - Gebietsliga Mur -->
+Unterliga West
 
-<!-- $table30$ - Gebietsliga Mürz -->
+<!-- $table27$ -->
 
-<!-- $table31$ - Gebietsliga Enns -->
+Unterliga Mitte
+<!-- $table28$ -->
+
+Gebietsliga Mur
+
+<!-- $table29$ -->
+
+Gebietsliga Mürz
+
+<!-- $table30$ -->
+
+Gebietsliga Enns
+
+<!-- $table31$ -->
 
 
 7th Level
 
-<!-- $table32$ - Gebietsliga Süd -->
+Gebietsliga Süd
 
-<!-- $table33$ - Gebietsliga Ost -->
+<!-- $table32$ -->
 
-<!-- $table34$ - Gebietsliga West -->
+Gebietsliga Ost
 
-<!-- $table35$ - Gebietsliga Mitte -->
+<!-- $table33$ -->
+
+Gebietsliga West
+
+<!-- $table34$ -->
+
+Gebietsliga Mitte
+
+<!-- $table35$ -->
 
 1. Klasse Enns
 
@@ -1480,9 +1515,13 @@ Wien
 
 Fifth Level
 
-<!-- $table61$ - Unterliga A -->
+Unterliga A
 
-<!-- $table62$ - Unterliga B -->
+<!-- $table61$ -->
+
+Unterliga B
+
+<!-- $table62$ -->
 
 
 Sixth Level

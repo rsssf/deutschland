@@ -15,11 +15,14 @@ Apertura 2005
 
 Final Tables:
 
-<!-- $table1$ - Group 1 -->
+Group 1
+<!-- $table1$ -->
 
-<!-- $table2$ - Group 2 -->
+Group 2
+<!-- $table2$ -->
 
-<!-- $table3$ - Group 3 -->
+Group 3
+<!-- $table3$ -->
 
 NB: Jaguares 3 points deducted for failure to grant 600 minutes of
     playing time to players aged 21 or less
@@ -430,11 +433,14 @@ Pachuca      0-0 Cruz Azul
 
 Final Tables:
 
-<!-- $table4$ - Group 1 -->
+Group 1
+<!-- $table4$ -->
 
-<!-- $table5$ - Group 2 -->
+Group 2
+<!-- $table5$ -->
 
-<!-- $table6$ - Group 3 -->
+Group 3
+<!-- $table6$ -->
 
 NB: Jaguares 3 points deducted for failure to grant 600 minutes of
     playing time to players aged 21 or less
@@ -565,9 +571,11 @@ Guadalajara   1-1 Necaxa
 
 Tables:
 
-<!-- $table7$ - Group A -->
+Group A
+<!-- $table7$ -->
 
-<!-- $table8$ - Group B -->
+Group B
+<!-- $table8$ -->
 
 ▪ Final Round ▪  Jan 15
 Veracruz      1-2 Guadalajara
@@ -584,11 +592,14 @@ Clausura 2006
 
 Final Tables:
 
-<!-- $table9$ - Group 1 -->
+Group 1
+<!-- $table9$ -->
 
-<!-- $table10$ - Group 2 -->
+Group 2
+<!-- $table10$ -->
 
-<!-- $table11$ - Group 3 -->
+Group 3
+<!-- $table11$ -->
 
 [*] Dorados not qualified for quarterfinals as they are relegated;
     Morelia take their place
@@ -977,11 +988,14 @@ América       1-1 Monterrey
 
 Final Tables:
 
-<!-- $table12$ - Group 1 -->
+Group 1
+<!-- $table12$ -->
 
-<!-- $table13$ - Group 2 -->
+Group 2
+<!-- $table13$ -->
 
-<!-- $table14$ - Group 3 -->
+Group 3
+<!-- $table14$ -->
 
 [*] Dorados not qualified for quarterfinals as they are relegated;
     Morelia take their place
@@ -1102,13 +1116,17 @@ Colima (Colima) changed name and city to Águilas Riviera Maya (Playa del Carmen
 
 Final Tables:
 
-<!-- $table15$ - Group 1 -->
+Group 1
+<!-- $table15$ -->
 
-<!-- $table16$ - Group 2 -->
+Group 2
+<!-- $table16$ -->
 
-<!-- $table17$ - Group 3 -->
+Group 3
+<!-- $table17$ -->
 
-<!-- $table18$ - Group 4 -->
+Group 4
+<!-- $table18$ -->
 
 ▪ Round 1 ▪
 Durango             1-0 Querétaro
@@ -1345,13 +1363,17 @@ Sonora              7-0 Lobos BUAP
 
 Final Tables:
 
-<!-- $table19$ - Group 1 -->
+Group 1
+<!-- $table19$ -->
 
-<!-- $table20$ - Group 2 -->
+Group 2
+<!-- $table20$ -->
 
-<!-- $table21$ - Group 3 -->
+Group 3
+<!-- $table21$ -->
 
-<!-- $table22$ - Group 4 -->
+Group 4
+<!-- $table22$ -->
 
 Repechaje
 
@@ -1428,13 +1450,17 @@ Clausura 2006
 
 Final Tables:
 
-<!-- $table23$ - Group 1 -->
+Group 1
+<!-- $table23$ -->
 
-<!-- $table24$ - Group 2 -->
+Group 2
+<!-- $table24$ -->
 
-<!-- $table25$ - Group 3 -->
+Group 3
+<!-- $table25$ -->
 
-<!-- $table26$ - Group 4 -->
+Group 4
+<!-- $table26$ -->
 
 [*] Águilas Riviera Maya relocated and renamed Zacatepec
 
@@ -1668,13 +1694,17 @@ Rayados             4-0 Tijuana
 
 Final Tables:
 
-<!-- $table27$ - Group 1 -->
+Group 1
+<!-- $table27$ -->
 
-<!-- $table28$ - Group 2 -->
+Group 2
+<!-- $table28$ -->
 
-<!-- $table29$ - Group 3 -->
+Group 3
+<!-- $table29$ -->
 
-<!-- $table30$ - Group 4 -->
+Group 4
+<!-- $table30$ -->
 
 [*] Águilas Riviera Maya relocated and renamed Zacatepec
 
@@ -1755,26 +1785,31 @@ Before the start of the season, the following changes occurred:
 
 Torneo Apertura 2005
 
-<!-- $table31$ - Zona Sur (South) -->
+Zona Sur (South)
+<!-- $table31$ -->
 
 UNACH: Universidad Autónoma de Chiapas
 
-<!-- $table32$ - Zona Centro (Central) -->
+Zona Centro (Central)
+<!-- $table32$ -->
 
 UAEM: Universidad Autónoma del Estado de Mexico
 * Filial Team
 
-<!-- $table33$ - Zona Bajío -->
+Zona Bajío
+<!-- $table33$ -->
 
 * Filial Team
 
-<!-- $table34$ - Zona Occidente (Western) -->
+Zona Occidente (Western)
+<!-- $table34$ -->
 
 UAG: Universidad Autónoma de Guadalajara
 UG: Universidad de Guadalajara
 * Filial Team
 
-<!-- $table35$ - Zona Norte (North) -->
+Zona Norte (North)
+<!-- $table35$ -->
 
 UANL: Universidad Autónoma de Nuevo León
 UAT: Universidad Autónoma de Tamaulipas
@@ -1850,27 +1885,32 @@ Atlas FC champion Apertura 2005
 
 Torneo Clausura 2006
 
-<!-- $table36$ - Zona Sur (South) -->
+Zona Sur (South)
+<!-- $table36$ -->
 
 Inter de Comaltitlán withdrew
 UNACH: Universidad Autónoma de Chiapas
 
-<!-- $table37$ - Zona Centro (Central) -->
+Zona Centro (Central)
+<!-- $table37$ -->
 
 UAEM: Universidad Autónoma del Estado de Mexico
 * Filial Team
 
-<!-- $table38$ - Zona Bajío -->
+Zona Bajío
+<!-- $table38$ -->
 
 * Filial Team
 
-<!-- $table39$ - Zona Occidente (Western) -->
+Zona Occidente (Western)
+<!-- $table39$ -->
 
 UAG: Universidad Autónoma de Guadalajara
 UG: Universidad de Guadalajara
 * Filial Team
 
-<!-- $table40$ - Zona Norte (North) -->
+Zona Norte (North)
+<!-- $table40$ -->
 
 UANL: Universidad Autónoma de Nuevo León
 UAT: Universidad Autónoma de Tamaulipas

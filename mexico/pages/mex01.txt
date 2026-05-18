@@ -51,13 +51,17 @@ Invierno 2000
 
 FINAL TABLES
 
-<!-- $table2$ - Group 1 -->
+Group 1                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table2$ -->
 
-<!-- $table3$ - Group 2 -->
+Group 2                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table3$ -->
 
-<!-- $table4$ - Group 3 -->
+Group 3                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table4$ -->
 
-<!-- $table5$ - Group 4 -->
+Group 4                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table5$ -->
 
 ▪ Regular season ▪
 
@@ -451,13 +455,17 @@ Toluca      4-3 Leon
 
 FINAL TABLES
 
-<!-- $table6$ - Group 1 -->
+Group 1                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table6$ -->
 
-<!-- $table7$ - Group 2 -->
+Group 2                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table7$ -->
 
-<!-- $table8$ - Group 3 -->
+Group 3                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table8$ -->
 
-<!-- $table9$ - Group 4 -->
+Group 4                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table9$ -->
 
 
 <!-- $topscorers1$ -->
@@ -591,16 +599,20 @@ Verano 2001
 
 FINAL TABLES
 
-<!-- $table10$ - Group 1 -->
+Group 1                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table10$ -->
 
 
-<!-- $table11$ - Group 2 -->
+Group 2                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table11$ -->
 
 
-<!-- $table12$ - Group 3 -->
+Group 3                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table12$ -->
 
 
-<!-- $table13$ - Group 4 -->
+Group 4                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table13$ -->
 
 NB: as Atlante enter the relegation playoff, they cannot play the championship playoffs.
 
@@ -999,16 +1011,20 @@ León        2-0 Toluca
 
 FINAL TABLES
 
-<!-- $table14$ - Group 1 -->
+Group 1                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table14$ -->
 
 
-<!-- $table15$ - Group 2 -->
+Group 2                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table15$ -->
 
 
-<!-- $table16$ - Group 3 -->
+Group 3                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table16$ -->
 
 
-<!-- $table17$ - Group 4 -->
+Group 4                  M       W       T       L      GF      GC      DIF     PTS
+<!-- $table17$ -->
 
 NB: as Atlante enter the relegation playoff, they cannot play the championship playoffs.
 
@@ -1188,13 +1204,17 @@ Invierno 2000
 
 FINAL TABLES
 
-<!-- $table18$ - Group 1 -->
+Group 1
+<!-- $table18$ -->
 
-<!-- $table19$ - Group 2 -->
+Group 2
+<!-- $table19$ -->
 
-<!-- $table20$ - Group 3 -->
+Group 3
+<!-- $table20$ -->
 
-<!-- $table21$ - Group 4 -->
+Group 4
+<!-- $table21$ -->
 
 ▪ Regular season ▪
 
@@ -1478,13 +1498,17 @@ La Piedad           4-0 Correcaminos U.A.T.
 
 FINAL TABLES
 
-<!-- $table22$ - Group 1 -->
+Group 1
+<!-- $table22$ -->
 
-<!-- $table23$ - Group 2 -->
+Group 2
+<!-- $table23$ -->
 
-<!-- $table24$ - Group 3 -->
+Group 3
+<!-- $table24$ -->
 
-<!-- $table25$ - Group 4 -->
+Group 4
+<!-- $table25$ -->
 
 <!-- $topscorers3$ -->
 
@@ -1555,13 +1579,17 @@ FINAL TABLES
 
 Verano 2001
 
-<!-- $table26$ - Group 1 -->
+Group 1
+<!-- $table26$ -->
 
-<!-- $table27$ - Group 2 -->
+Group 2
+<!-- $table27$ -->
 
-<!-- $table28$ - Group 3 -->
+Group 3
+<!-- $table28$ -->
 
-<!-- $table29$ - Group 4 -->
+Group 4
+<!-- $table29$ -->
 
 ▪ Regular season ▪
 
@@ -1843,13 +1871,17 @@ FINAL TABLES
 
 Verano 2001
 
-<!-- $table30$ - Group 1 -->
+Group 1
+<!-- $table30$ -->
 
-<!-- $table31$ - Group 2 -->
+Group 2
+<!-- $table31$ -->
 
-<!-- $table32$ - Group 3 -->
+Group 3
+<!-- $table32$ -->
 
-<!-- $table33$ - Group 4 -->
+Group 4
+<!-- $table33$ -->
 
 <!-- $topscorers4$ -->
 

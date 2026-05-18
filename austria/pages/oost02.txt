@@ -2878,9 +2878,13 @@ SV Reichenau - WSG Wattens ................. 2-1
 
 FIFTH LEVEL
 
-<!-- $table9$ - Landesliga Ost -->
+Landesliga Ost
 
-<!-- $table10$ - Landesliga West -->
+<!-- $table9$ -->
+
+Landesliga West
+
+<!-- $table10$ -->
 
 Relegated: SC Steinach, SV Götzens, SV Neustift (all West)
 Promoted: SV Langkampfen, FC Söll (Ost), FC Oberhofen, SV Rinn (West)
@@ -2891,9 +2895,13 @@ Renamed: IAC changes zu SPG Rum/IAC II, WSG Wattens II changes to
 
 SIXTH LEVEL
 
-<!-- $table11$ - Gebietsliga Ost -->
+Gebietsliga Ost
 
-<!-- $table12$ - Gebietsliga West -->
+<!-- $table11$ -->
+
+Gebietsliga West
+
+<!-- $table12$ -->
 
 Relegated: SV Niederndorf (Ost), FC Vils, TSV Fuplmes (West)
 Promoted: SK Kirchberg, FC Kössen, SV Tulfes (Ost),

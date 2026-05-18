@@ -15,13 +15,17 @@ Apertura 2003
 
 Final Tables:
 
-<!-- $table1$ - Group 1 -->
+Group 1
+<!-- $table1$ -->
 
-<!-- $table2$ - Group 2 -->
+Group 2
+<!-- $table2$ -->
 
-<!-- $table3$ - Group 3 -->
+Group 3
+<!-- $table3$ -->
 
-<!-- $table4$ - Group 4 -->
+Group 4
+<!-- $table4$ -->
 
 [*] Necaxa moved from Cd. de México to Aguascalientes
 
@@ -525,13 +529,17 @@ América        4-1 Puebla
 
 Final Tables:
 
-<!-- $table5$ - Group 1 -->
+Group 1
+<!-- $table5$ -->
 
-<!-- $table6$ - Group 2 -->
+Group 2
+<!-- $table6$ -->
 
-<!-- $table7$ - Group 3 -->
+Group 3
+<!-- $table7$ -->
 
-<!-- $table8$ - Group 4 -->
+Group 4
+<!-- $table8$ -->
 
 [*] Necaxa moved from Cd. de México to Aguascalientes
 
@@ -677,9 +685,11 @@ Morelia        2-1 Guadalajara
 Toluca         1-2 Santos
   (Miguel Zepeda 6; Johan Rodríguez 57, Héctor López 64)
 
-<!-- $table9$ - Group A -->
+Group A
+<!-- $table9$ -->
 
-<!-- $table10$ - Group B -->
+Group B
+<!-- $table10$ -->
 
 ▪ Final ▪  Jan 14
 Santos         2-2 Atlas            (4-3 pen)
@@ -712,13 +722,17 @@ Clausura 2004
 
 Final Tables:
 
-<!-- $table11$ - Group 1 -->
+Group 1
+<!-- $table11$ -->
 
-<!-- $table12$ - Group 2 -->
+Group 2
+<!-- $table12$ -->
 
-<!-- $table13$ - Group 3 -->
+Group 3
+<!-- $table13$ -->
 
-<!-- $table14$ - Group 4 -->
+Group 4
+<!-- $table14$ -->
 
 ▪ Round 1 ▪
 _ Jan 17 _
@@ -1217,13 +1231,17 @@ Necaxa         0-1 Atlas
 
 Final Tables:
 
-<!-- $table15$ - Group 1 -->
+Group 1
+<!-- $table15$ -->
 
-<!-- $table16$ - Group 2 -->
+Group 2
+<!-- $table16$ -->
 
-<!-- $table17$ - Group 3 -->
+Group 3
+<!-- $table17$ -->
 
-<!-- $table18$ - Group 4 -->
+Group 4
+<!-- $table18$ -->
 
 <!-- $topscorers2$ -->
 
@@ -1364,13 +1382,17 @@ Apertura 2003
 
 Tables:
 
-<!-- $table19$ - Group 1 -->
+Group 1
+<!-- $table19$ -->
 
-<!-- $table20$ - Group 2 -->
+Group 2
+<!-- $table20$ -->
 
-<!-- $table21$ - Group 3 -->
+Group 3
+<!-- $table21$ -->
 
-<!-- $table22$ - Group 4 -->
+Group 4
+<!-- $table22$ -->
 
 ▪ Round 1 ▪
 _ Aug 8 _
@@ -1883,13 +1905,17 @@ Altamira       3-4 Cruz Azul Oaxaca
 
 Tables:
 
-<!-- $table23$ - Group 1 -->
+Group 1
+<!-- $table23$ -->
 
-<!-- $table24$ - Group 2 -->
+Group 2
+<!-- $table24$ -->
 
-<!-- $table25$ - Group 3 -->
+Group 3
+<!-- $table25$ -->
 
-<!-- $table26$ - Group 4 -->
+Group 4
+<!-- $table26$ -->
 
 <!-- $topscorers3$ -->
 
@@ -1962,13 +1988,17 @@ Clausura 2004
 
 Final Tables:
 
-<!-- $table27$ - Group 1 -->
+Group 1
+<!-- $table27$ -->
 
-<!-- $table28$ - Group 2 -->
+Group 2
+<!-- $table28$ -->
 
-<!-- $table29$ - Group 3 -->
+Group 3
+<!-- $table29$ -->
 
-<!-- $table30$ - Group 4 -->
+Group 4
+<!-- $table30$ -->
 
 ▪ Round 1 ▪
 _ Jan 17 _
@@ -2404,13 +2434,17 @@ Tabasco        4-2 Tapatio
 
 Final Tables:
 
-<!-- $table31$ - Group 1 -->
+Group 1
+<!-- $table31$ -->
 
-<!-- $table32$ - Group 2 -->
+Group 2
+<!-- $table32$ -->
 
-<!-- $table33$ - Group 3 -->
+Group 3
+<!-- $table33$ -->
 
-<!-- $table34$ - Group 4 -->
+Group 4
+<!-- $table34$ -->
 
 Repechaje
 
@@ -2471,7 +2505,7 @@ León           1-1 Culiacán
 
 León Clausura winners
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  Jun 2
 León           2-2 Culiacán

@@ -12,11 +12,14 @@
 
 Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Central Conference -->
+Central Conference
+<!-- $table2$ -->
 
-<!-- $table3$ - Western Conference -->
+Western Conference
+<!-- $table3$ -->
 
 [*] changed name from Clash to Earthquakes before the season.
 
@@ -374,11 +377,14 @@ Dallas      2-1 San Jose
 
 Tables:
 
-<!-- $table4$ - Eastern Conference -->
+Eastern Conference
+<!-- $table4$ -->
 
-<!-- $table5$ - Central Conference -->
+Central Conference
+<!-- $table5$ -->
 
-<!-- $table6$ - Western Conference -->
+Western Conference
+<!-- $table6$ -->
 
 [*] changed name from Clash to Earthquakes before the season.
 
@@ -430,7 +436,7 @@ Kansas City 1-0 Los Angeles
 Kansas City 1-0 Los Angeles
 
 
-▪ MLS Cup ▪  Oct 15 @ RFK Stadium, Washington DC; att: 39,159
+MLS Cup [Oct 15, RFK Stadium, Washington DC; att: 39,159]
 Kansas City 1-0 Chicago
   (Miklos Molnar 11)
 
@@ -439,14 +445,18 @@ THE A-LEAGUE (2nd Division)
 
                             GP   W   L   D   GF  GA  BP Pts
      EASTERN CONFERENCE
-<!-- $table7$ - Northeast Division -->
+     Northeast Division
+<!-- $table7$ -->
 
-<!-- $table8$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table8$ -->
 
      WESTERN CONFERENCE
-<!-- $table9$ - Central Division -->
+     Central Division
+<!-- $table9$ -->
 
-<!-- $table10$ - Pacific Division -->
+     Pacific Division
+<!-- $table10$ -->
 
 Conference Quarterfinals:   Rochester defeated Hershey 4-3.
                             Toronto defeated Long Island 2-1.
@@ -468,11 +478,14 @@ CHAMPIONSHIP:               Rochester defeated Minnesota 3-1.
                       D-3 PRO LEAGUE (3rd Division)
 
                             GP   W   L   D   GF  GA  BP Pts
-<!-- $table11$ - Northern Division -->
+     Northern Division
+<!-- $table11$ -->
 
-<!-- $table12$ - Southern Division -->
+     Southern Division
+<!-- $table12$ -->
 
-<!-- $table13$ - Western Division -->
+     Western Division
+<!-- $table13$ -->
 
 Conference Quarterfinals:  Western Massachusetts defeated South Jersey 3-2 (OT)
                            Reading defeated New Hampshire 3-2.
@@ -493,23 +506,31 @@ CHAMPIONSHIP:             Charlotte defeated New Jersey 5-0.
 
                             GP   W   L   D   GF  GA  BP Pts
      EASTERN CONFERENCE
-<!-- $table14$ - Northeast Division -->
+     Northeast Division
+<!-- $table14$ -->
 
-<!-- $table15$ - Southeast Division -->
+     Southeast Division
+<!-- $table15$ -->
 
      CENTRAL CONFERENCE
-<!-- $table16$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table16$ -->
 
-<!-- $table17$ - Heartland Division -->
+     Heartland Division
+<!-- $table17$ -->
 
-<!-- $table18$ - Provisional Teams -->
+    Provisional Teams
+<!-- $table18$ -->
 
      WESTERN CONFERENCE
-<!-- $table19$ - Rocky Mountain Division -->
+     Rocky Mountain Division
+<!-- $table19$ -->
 
-<!-- $table20$ - Southwest Division -->
+     Southwest Division
+<!-- $table20$ -->
 
-<!-- $table21$ - Northwest Division -->
+     Northwest Division
+<!-- $table21$ -->
 
 Mid-Michigan received a bye to the finals as defending champion.
 
@@ -533,13 +554,17 @@ W-LEAGUE
                       W-1 Division
 
                             GP   W   L   D   GF  GA  BP Pts
-<!-- $table22$ - Northern Division -->
+     Northern Division
+<!-- $table22$ -->
 
-<!-- $table23$ - Northeast Division -->
+     Northeast Division
+<!-- $table23$ -->
 
-<!-- $table24$ - Central Division -->
+     Central Division
+<!-- $table24$ -->
 
-<!-- $table25$ - South Division -->
+     South Division
+<!-- $table25$ -->
 
 
 Semi-finals:         Raleigh defeated Boston 3-0.
@@ -551,13 +576,17 @@ CHAMPIONSHIP:        Chicago defeated Raleigh 4-2.
                            W-2 Division
 
                             GP   W   L   D   GF  GA  BP Pts
-<!-- $table26$ - Northern Division -->
+     Northern Division
+<!-- $table26$ -->
 
-<!-- $table27$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table27$ -->
 
-<!-- $table28$ - Central Division -->
+     Central Division
+<!-- $table28$ -->
 
-<!-- $table29$ - Western Division -->
+     Western Division
+<!-- $table29$ -->
 
 Semi-finals:         Charleston defeated Indiana 2-1
                      Springfield defeated Oklahoma 6-1
@@ -565,7 +594,9 @@ Semi-finals:         Charleston defeated Indiana 2-1
 CHAMPIONSHIP:        Springfield defeated Charlotte 2-1
 
 
-<!-- $table30$ - WOMEN'S PREMIER SOCCER LEAGUE -->
+WOMEN'S PREMIER SOCCER LEAGUE
+
+<!-- $table30$ -->
 
 Champion:  San Diego W.F.C.
 

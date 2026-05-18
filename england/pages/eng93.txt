@@ -10,7 +10,7 @@
 
 Premiership
 
-<!-- $table1$ - Pos Team                  P   W   D   L   F   A  GD Pts -->
+<!-- $table1$ -->
 
 _ Aug 15 1992 _
 Arsenal                     2    Norwich City                4
@@ -1169,8 +1169,6 @@ Arsenal                     1    Tottenham Hotspur           3
 Queens Park Rangers         3    Sheffield Wednesday         1
   Allen 2, Ferdinand               Bright
 
-Final Table:
-
-<!-- $table2$ - Pos Team                  P   W   D   L   F   A  GD Pts -->
+<!-- $table2$ - Final Table -->
 
 

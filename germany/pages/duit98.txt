@@ -784,22 +784,26 @@ Promoted: Hannover 96, Rot-Weiß Oberhausen, SSV Ulm 1846, and
 
 Third Level (Regionalliga)
 
-<!-- $table5$ - Regionalliga Nord -->
+Regionalliga Nord
+<!-- $table5$ -->
 
-<!-- $table6$ - Regionalliga Nordost -->
+Regionalliga Nordost
+<!-- $table6$ -->
 
-<!-- $table7$ - Regionalliga West -->
+Regionalliga West
+<!-- $table7$ -->
 
-<!-- $table8$ - Regionalliga Süd -->
+Regionalliga Süd
+<!-- $table8$ -->
 
 Promotion Playoff (Aufstiegsrunde zur 2. Liga)
-Tennis Borussia Berlin      2-0  Hannover 96
-Hannover 96         2-0  Tennis Borussia Berlin   3-1 pen
+Tennis Borussia Berlin          2-0  Hannover 96
+Hannover 96                     2-0  Tennis Borussia Berlin     3-1 pen
 
 Triangular (Deutsche Amateurmeisterschaft)
-Sportfreunde Siegen      4-0  Kickers Offenbach
-Kickers Offenbach      1-2  Tennis Borussia Berlin
-Tennis Borussia Berlin      2-0  Sportfreunde Siegen
+Sportfreunde Siegen             4-0  Kickers Offenbach
+Kickers Offenbach               1-2  Tennis Borussia Berlin
+Tennis Borussia Berlin          2-0  Sportfreunde Siegen
 
 <!-- $table9$ -->
 

@@ -10,9 +10,7 @@
 
 Premiership
 
-Final Table:
-
-<!-- $table1$ - Pos Team                  P   W   D   L   F   A  GD Pts -->
+<!-- $table1$ - Final Table -->
 
 _ Aug 14 1993 _
 Arsenal                     0    Coventry City               3
@@ -1171,8 +1169,6 @@ _ May 8 1994 _
 Manchester United           0    Coventry City               0
 
 
-Final Table:
-
-<!-- $table2$ - Pos Team                  P   W   D   L   F   A  GD Pts -->
+<!-- $table2$ - Final Table -->
 
 

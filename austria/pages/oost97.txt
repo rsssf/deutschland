@@ -2299,10 +2299,14 @@ Kärnten
 
 Thanks to Wolfgang Lorber for all data.
 
-<!-- $table27$ - Unterliga Ost -->
+Unterliga Ost:
+
+<!-- $table27$ -->
 
 
-<!-- $table28$ - Unterliga West -->
+Unterliga West:
+
+<!-- $table28$ -->
 
 
 ▪ Relegation Playoff ▪
@@ -2382,16 +2386,24 @@ Oberösterreich
 <!-- $table40$ -->
 
 
-<!-- $table41$ - Bezirksliga Nord -->
+Bezirksliga Nord
+
+<!-- $table41$ -->
 
 
-<!-- $table42$ - Bezirksliga Ost -->
+Bezirksliga Ost
+
+<!-- $table42$ -->
 
 
-<!-- $table43$ - Bezirksliga Süd -->
+Bezirksliga Süd
+
+<!-- $table43$ -->
 
 
-<!-- $table44$ - Bezirksliga West -->
+Bezirksliga West
+
+<!-- $table44$ -->
 
 
 1. Klasse Mitte
@@ -2811,46 +2823,74 @@ Steiermark
 
 Thanks to Wolfgang Lorber for all data.
 
-<!-- $table53$ - Oberliga Nord -->
+Oberliga Nord:
+
+<!-- $table53$ -->
 
 
-<!-- $table54$ - Oberliga Mitte-West -->
+Oberliga Mitte-West:
+
+<!-- $table54$ -->
 
 
-<!-- $table55$ - Oberliga Süd-Ost -->
+Oberliga Süd-Ost:
+
+<!-- $table55$ -->
 
 
-<!-- $table56$ - Unterliga Süd -->
+Unterliga Süd:
+
+<!-- $table56$ -->
 
 
-<!-- $table57$ - Unterliga Ost -->
+Unterliga Ost:
+
+<!-- $table57$ -->
 
 
-<!-- $table58$ - Unterliga West -->
+Unterliga West:
+
+<!-- $table58$ -->
 
 
-<!-- $table59$ - Unterliga Mitte -->
+Unterliga Mitte:
+
+<!-- $table59$ -->
 
 
-<!-- $table60$ - Gebietsliga Süd -->
+Gebietsliga Süd
+
+<!-- $table60$ -->
 
 
-<!-- $table61$ - Gebietsliga Ost -->
+Gebietsliga Ost:
+
+<!-- $table61$ -->
 
 
-<!-- $table62$ - Gebietsliga West -->
+Gebietsliga West:
+
+<!-- $table62$ -->
 
 
-<!-- $table63$ - Gebietsliga Mitte -->
+Gebietsliga Mitte:
+
+<!-- $table63$ -->
 
 
-<!-- $table64$ - Gebietsliga Mur -->
+Gebietsliga Mur:
+
+<!-- $table64$ -->
 
 
-<!-- $table65$ - Gebietsliga Mürz -->
+Gebietsliga Mürz:
+
+<!-- $table65$ -->
 
 
-<!-- $table66$ - Gebietsliga Enns -->
+Gebietsliga Enns:
+
+<!-- $table66$ -->
 
 
 1. Klasse Süd A:
@@ -2918,16 +2958,24 @@ Tirol
 
 Thanks to Andreas Exenberger for all data.
 
-<!-- $table79$ - Landesliga Ost -->
+Landesliga Ost:
+
+<!-- $table79$ -->
 
 
-<!-- $table80$ - Landesliga West -->
+Landesliga West:
+
+<!-- $table80$ -->
 
 
-<!-- $table81$ - Gebietsliga Ost -->
+Gebietsliga Ost:
+
+<!-- $table81$ -->
 
 
-<!-- $table82$ - Gebietsliga West -->
+Gebietsliga West:
+
+<!-- $table82$ -->
 
 
 1.Klasse Ost:
@@ -2965,7 +3013,9 @@ New clubs for 1997/98: SC Gnadenwald, SV Hall II.
 Vorarlberg
 ==========
 
-<!-- $table89$ - Landesliga -->
+Landesliga:
+
+<!-- $table89$ -->
 
 
 1. Landesklasse:
@@ -2991,13 +3041,17 @@ Vorarlberg
 Wien
 ====
 
-<!-- $table94$ - Unterliga A -->
+Unterliga A
+
+<!-- $table94$ -->
 
 [After the season Ajax formed a playing union with Strebersdorf,
  called SG Strebersdorf/Ajax in the Unterliga 1997/98.]
 
 
-<!-- $table95$ - Unterliga B -->
+Unterliga B
+
+<!-- $table95$ -->
 
 [After the season, Old Formation merged with Janecka Rag into
  Old Formation/Rag.]

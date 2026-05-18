@@ -37,11 +37,14 @@
 
 Final Tables:
 
-<!-- $table1$ - Group 1 -->
+Group 1
+<!-- $table1$ -->
 
-<!-- $table2$ - Group 2 -->
+Group 2
+<!-- $table2$ -->
 
-<!-- $table3$ - Group 3 -->
+Group 3
+<!-- $table3$ -->
 
 ▪ Round 1 ▪
 _ Jul 23 _
@@ -455,11 +458,14 @@ América           0-1 Pumas
 
 Final Tables:
 
-<!-- $table4$ - Group 1 -->
+Group 1
+<!-- $table4$ -->
 
-<!-- $table5$ - Group 2 -->
+Group 2
+<!-- $table5$ -->
 
-<!-- $table6$ - Group 3 -->
+Group 3
+<!-- $table6$ -->
 
 Copa Libertadores 2011 qualification
 
@@ -536,11 +542,14 @@ Monterrey         3-0 Santos
 
 Final Tables:
 
-<!-- $table8$ - Group 1 -->
+Group 1
+<!-- $table8$ -->
 
-<!-- $table9$ - Group 2 -->
+Group 2
+<!-- $table9$ -->
 
-<!-- $table10$ - Group 3 -->
+Group 3
+<!-- $table10$ -->
 
 ▪ Round 1 ▪
 _ Jan 7 _
@@ -952,11 +961,14 @@ Puebla            0-2 Morelia
 
 Final Tables:
 
-<!-- $table11$ - Group 1 -->
+Group 1
+<!-- $table11$ -->
 
-<!-- $table12$ - Group 2 -->
+Group 2
+<!-- $table12$ -->
 
-<!-- $table13$ - Group 3 -->
+Group 3
+<!-- $table13$ -->
 
 NB: Necaxa relegated
 
@@ -1693,7 +1705,7 @@ Irapuato Clausura champions.
 
 === Promotion Playoff  ‹§2prom›
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  May 18 @ Sergio León Chávez Stadium, Irapuato, att: 33.000, Ref: Cesar Ramos
 Irapuato          0-0 Tijuana
@@ -1755,7 +1767,8 @@ Guerreros de Hermosillo    80    30      20       0       50 0,6250 Withdrew and
 
 Independencia 2010 (Apertura)
 
-<!-- $table18$ - South -->
+South
+<!-- $table18$ -->
 
 (1) Formerly CA ECA-Norte
 (2) Also known as Potros de la UAEM
@@ -1763,11 +1776,13 @@ Independencia 2010 (Apertura)
 
 UNACH: Universidad Autónoma de Chiapas
 
-<!-- $table19$ - Central -->
+Central
+<!-- $table19$ -->
 
 (1) Also known as Correcaminos UAT
 
-<!-- $table20$ - North -->
+North
+<!-- $table20$ -->
 
 (1) Also known as Dorados Fuerza UACH
 
@@ -1838,7 +1853,8 @@ Celaya FC champions
 
 Revolución 2011 (Clausura)
 
-<!-- $table21$ - South -->
+South
+<!-- $table21$ -->
 
 (1) Also known as Potros de la UAEM
 (2) Also known as Albinegros de Orizaba
@@ -1846,12 +1862,14 @@ Revolución 2011 (Clausura)
 
 UNACH: Universidad Autónoma de Chiapas
 
-<!-- $table22$ - Central -->
+Central
+<!-- $table22$ -->
 
 (1) Also known as Correcaminos UAT
 (2) Also known as Panteras de Saltillo
 
-<!-- $table23$ - North -->
+North
+<!-- $table23$ -->
 
 (1) Also known as Dorados Fuerza UACH
 
@@ -1942,9 +1960,11 @@ Aguilas Reales Zacatecas and Irapuato relegated.
 
 Independencia 2010 (Apertura)
 
-<!-- $table24$ - Zona 1 -->
+Zona 1
+<!-- $table24$ -->
 
-<!-- $table25$ - Zona 2 -->
+Zona 2
+<!-- $table25$ -->
 
 UANL: Universidad Autónoma de Nuevo León
 
@@ -1993,9 +2013,11 @@ Cachorros UANL champions
 
 Revolución 2011 (Clausura)
 
-<!-- $table26$ - Zona 1 -->
+Zona 1
+<!-- $table26$ -->
 
-<!-- $table27$ - Zona 2 -->
+Zona 2
+<!-- $table27$ -->
 
 UANL: Universidad Autónoma de Nuevo León
 
@@ -2055,7 +2077,8 @@ FICUMDEP de Xalapa AC relegated.
 
 == Tercera Division Profesional  ‹§tercera›
 
-<!-- $table28$ - Group 1 -->
+Group 1
+<!-- $table28$ -->
 
 (1) Formerly Jaguares de Ocozocoautla
 (2) Moved from to Ciudad de Carmen (Campeche) to Villahermosa (Tabasco),
@@ -2064,14 +2087,16 @@ FICUMDEP de Xalapa AC relegated.
 
 UNACAR: Universidad Autónoma del Carmen
 
-<!-- $table29$ - Group 2 -->
+Group 2
+<!-- $table29$ -->
 
 (1) Formely Toros de Aguascalientes
 (2) Formerly Voladores de Papantla
 (3) Play as Cheyennes de Huimanguillo
 (4) Also konwn as Universidad Itsmo Americana
 
-<!-- $table30$ - Group 3 -->
+Group 3
+<!-- $table30$ -->
 
 (1) Also known as Chivas Anlesjeroka
 (2) Play as Guerreros de Atlixco
@@ -2085,7 +2110,8 @@ UNACAR: Universidad Autónoma del Carmen
 BUAP: Benemérita Universidad Autónoma de Puebla
 UGM: Universidad del Golfo de Mexico
 
-<!-- $table31$ - Group 4 -->
+Group 4
+<!-- $table31$ -->
 
 (1) Play as Mazatepec
 (2) Also known as Avispones del CD Chilpancingo
@@ -2095,7 +2121,8 @@ UGM: Universidad del Golfo de Mexico
 
 MRCI: Manejos de Recursos y Controles Inteligentes
 
-<!-- $table32$ - Group 5 -->
+Group 5
+<!-- $table32$ -->
 
 (1) Formerly Azules de la Sección 26
 (2) Formerly Linces UMT
@@ -2104,18 +2131,21 @@ MRCI: Manejos de Recursos y Controles Inteligentes
 (5) Moved from Tepic (Nayarit) to Mexico DF
 (6) Also known as Carneros de Texcoco
 
-<!-- $table33$ - Group 6 -->
+Group 6
+<!-- $table33$ -->
 
 (1) Play as Tuzos Cuautitlan
 (2) Formerly CD Lerma, play as Manchester Zapateros
 (3) Play as Polotitlán
 
-<!-- $table34$ - Group 7 -->
+Group 7
+<!-- $table34$ -->
 
 * Filial Teams
 (1) Formerly San Mateo Atenco, moved from Mexico Df to Ixquimilpan (Hidalgo)
 
-<!-- $table35$ - Group 8 -->
+Group 8
+<!-- $table35$ -->
 
 (1) Moved from Oaxtepec (Morelos) to Mexico DF
 (2) Play as as Satélites de Tulancingo
@@ -2125,14 +2155,16 @@ MRCI: Manejos de Recursos y Controles Inteligentes
 
 DIM: Deportivo Independiente Mexiquense
 
-<!-- $table36$ - Group 9 -->
+Group 9
+<!-- $table36$ -->
 
 (1) Moved from Puente de Ixtla (Morelos) to El Marquez (Queretaro), play as Felinos de Queretaro FC
 (2) Formerly Felinos de Queretaro FC
 (3) New club.
 (4) Moved from Mexico DF to San José Iturbide (Guanajuato), play as San José Iturbide
 
-<!-- $table37$ - Group 10 -->
+Group 10
+<!-- $table37$ -->
 
 (1) Formerly San Julian Soccer Club
 (2) Formerly Zapateros Garra Leonesa
@@ -2143,7 +2175,8 @@ DIM: Deportivo Independiente Mexiquense
 ECCA: Educación Continua y Compartida de Adultos
 UJED: Universidad Juárez del Estado de Durango
 
-<!-- $table38$ - Group 11 -->
+Group 11
+<!-- $table38$ -->
 
 * Filial Teams
 (1) Formerly Rojos de Jesús María
@@ -2153,7 +2186,8 @@ UJED: Universidad Juárez del Estado de Durango
 (5) Play as Colegio Once México
 (6) Also known as Volcanes Cañeros
 
-<!-- $table39$ - Group 12 -->
+Group 12
+<!-- $table39$ -->
 
 * Filial Teams
 (1) Play as Ayotlán
@@ -2162,7 +2196,8 @@ UJED: Universidad Juárez del Estado de Durango
 (4) Formerly Chimbombos de Cintalapa
 (5) Formerly Cocula Santa Rosalia, in the middle of the season Cocula FC become Houston Dynamo (USA) partner.
 
-<!-- $table40$ - Group 13 -->
+Group 13
+<!-- $table40$ -->
 
 * Filial Teams
 (1) Also known as Adolescentes de Oxitipa de Valles
@@ -2177,9 +2212,11 @@ UAT: Universidad Autónoma de Tamaulipas
 
 Group 14
 
-<!-- $table41$ - South -->
+South
+<!-- $table41$ -->
 
-<!-- $table42$ - North -->
+North
+<!-- $table42$ -->
 
 * Filial Teams
 (1) New club.
@@ -2187,7 +2224,8 @@ Group 14
     de Hermosiilo FC
 (3) Play as Ensenada FC
 
-<!-- $table43$ - Group 15 -->
+Group 15
+<!-- $table43$ -->
 
 * Filial teams
 (1) Play as El Calor de la UVM-San Pedro

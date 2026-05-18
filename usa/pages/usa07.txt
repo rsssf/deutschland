@@ -16,9 +16,11 @@ NB: Toronto FC were admitted as new franchise
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 NB: top-2 of both conferences qualify for playoffs together
     with the 4 (next) best teams in the overall table
@@ -375,9 +377,11 @@ Chicago Fire    1-0 LA Galaxy
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 NB: top-2 of both conferences qualify for playoffs together
     with the 4 (next) best teams in the overall table
@@ -416,13 +420,13 @@ Chivas USA      0-0 KC Wizards
 
 Conference Championships
 
-▪ Eastern Conference Final ▪  Nov 8
+Eastern Conference Final [Nov 8]
 NE Revolution   1-0 Chicago Fire
 
-▪ Western Conference Final ▪  Nov 10
+Western Conference Final [Nov 10]
 Houston Dynamo  2-0 KC Wizards
 
-▪ MLS Cup ▪  Nov 18 @ RFK Stadium, Washington DC
+MLS Cup [Nov 18, RFK Stadium, Washington DC]
 NE Revolution   1-2 Houston Dynamo
   (Taylor Twellman 20; Joseph Ngwenya 61, Dwayne DeRosario 74)
 
@@ -541,24 +545,32 @@ USL - PREMIER DEVELOPMENT LEAGUE
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table8$ - Northeast Division -->
+     Northeast Division
+<!-- $table8$ -->
 
-<!-- $table9$ - Mid-Atlantic Division -->
+     Mid-Atlantic Division
+<!-- $table9$ -->
 
      CENTRAL CONFERENCE
-<!-- $table10$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table10$ -->
 
-<!-- $table11$ - Heartland Division -->
+     Heartland Division
+<!-- $table11$ -->
 
      SOUTHERN CONFERENCE
-<!-- $table12$ - Mid-South Division -->
+     Mid-South Division
+<!-- $table12$ -->
 
-<!-- $table13$ - Southeast Division -->
+     Southeast Division
+<!-- $table13$ -->
 
      WESTERN CONFERENCE
-<!-- $table14$ - Southwest Division -->
+     Southwest Division
+<!-- $table14$ -->
 
-<!-- $table15$ - Northwest Division -->
+     Northwest Division
+<!-- $table15$ -->
 
 Conference Semi-Finals:  Brooklyn defeated Hampton Roads 6-5
                          Cape Cod defeated Ocean City 5-0

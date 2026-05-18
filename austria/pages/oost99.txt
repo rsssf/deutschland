@@ -1079,14 +1079,20 @@ Kärnten
 Fourth Level
 ============
 
-<!-- $table8$ - Landesliga -->
+Landesliga
+
+<!-- $table8$ -->
 
 Fifth Level
 ===========
 
-<!-- $table9$ - Unterliga Ost -->
+Unterliga Ost:
 
-<!-- $table10$ - Unterliga West -->
+<!-- $table9$ -->
+
+Unterliga West:
+
+<!-- $table10$ -->
 
 Unterliga Relegation:
 DSG Ferlach 10:0 Fürnitz (4:0, 6:0)
@@ -1140,7 +1146,9 @@ Oberösterreich
 Fourth Level
 ============
 
-<!-- $table20$ - Landesliga -->
+Landesliga
+
+<!-- $table20$ -->
 
 Fifth Level
 ===========
@@ -1156,13 +1164,21 @@ Fifth Level
 Sixth Level
 ===========
 
-<!-- $table23$ - Bezirksliga Nord -->
+Bezirksliga Nord
 
-<!-- $table24$ - Bezirksliga Ost -->
+<!-- $table23$ -->
 
-<!-- $table25$ - Bezirksliga Süd -->
+Bezirksliga Ost
 
-<!-- $table26$ - Bezirksliga West -->
+<!-- $table24$ -->
+
+Bezirksliga Süd
+
+<!-- $table25$ -->
+
+Bezirksliga West
+
+<!-- $table26$ -->
 
 Seventh Level
 =============
@@ -1204,7 +1220,9 @@ Salzburg
 Fourth Level
 ============
 
-<!-- $table27$ - Landesliga -->
+Landesliga
+
+<!-- $table27$ -->
 
 Fifth Level
 ===========
@@ -1253,7 +1271,9 @@ Steiermark
 Fourth Level
 ============
 
-<!-- $table36$ - Landesliga -->
+Landesliga
+
+<!-- $table36$ -->
 
 Flavia Solva merge with SV Leibnitz and will play as SV Leibnitz/Flavia Solva
 in the Landesliga 1999/2000.
@@ -1261,39 +1281,65 @@ in the Landesliga 1999/2000.
 Fifth Level
 ===========
 
-<!-- $table37$ - Oberliga Süd/Ost -->
+Oberliga Süd/Ost
 
-<!-- $table38$ - Oberliga Mitte/West -->
+<!-- $table37$ -->
 
-<!-- $table39$ - Oberliga Nord -->
+Oberliga Mitte/West
+
+<!-- $table38$ -->
+
+Oberliga Nord
+
+<!-- $table39$ -->
 
 Sixth Level
 ===========
 
 <!-- $table40$ -->
 
-<!-- $table41$ - Unterliga Ost -->
+Unterliga Ost
 
-<!-- $table42$ - Unterliga Mitte -->
+<!-- $table41$ -->
 
-<!-- $table43$ - Unterliga West -->
+Unterliga Mitte
+
+<!-- $table42$ -->
+
+Unterliga West
+
+<!-- $table43$ -->
 
 Seventh Level
 =============
 
-<!-- $table44$ - Gebietsliga Süd -->
+Gebietsliga Süd
 
-<!-- $table45$ - Gebietsliga Ost -->
+<!-- $table44$ -->
 
-<!-- $table46$ - Gebietsliga Mitte -->
+Gebietsliga Ost
 
-<!-- $table47$ - Gebietsliga West -->
+<!-- $table45$ -->
 
-<!-- $table48$ - Gebietsliga Mur -->
+Gebietsliga Mitte
 
-<!-- $table49$ - Gebietsliga Mürz -->
+<!-- $table46$ -->
 
-<!-- $table50$ - Gebietsliga Enns -->
+Gebietsliga West
+
+<!-- $table47$ -->
+
+Gebietsliga Mur
+
+<!-- $table48$ -->
+
+Gebietsliga Mürz
+
+<!-- $table49$ -->
+
+Gebietsliga Enns
+
+<!-- $table50$ -->
 
 Eighth Level
 ============
@@ -1611,19 +1657,25 @@ Wien
 Fourth Level
 ============
 
-<!-- $table80$ - Stadtliga -->
+Stadtliga
+
+<!-- $table80$ -->
 
 [*] the SG FavAC/Simmering was dissolved before the season.
 
 Fifth Level
 ===========
 
-<!-- $table81$ - Unterliga A -->
+Unterliga A
+
+<!-- $table81$ -->
 
 [+] Strebersdorf changed name to IC Favoriten during the season.
 [*] the SG FavAC/Simmering was dissolved before the season.
 
-<!-- $table82$ - Unterliga B -->
+Unterliga B
+
+<!-- $table82$ -->
 
 Sixth Level
 ===========

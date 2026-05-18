@@ -3598,7 +3598,8 @@ Fifth Level
 
 Serie D
 
-<!-- $table18$ - Girone D -->
+Girone D
+<!-- $table18$ -->
 
 Italy's highest amateur level contains 9 groups; the winner of each
 group is promoted to Serie C2, the lowest professional level; the
@@ -3611,7 +3612,8 @@ absence gets a team engaged in professional football.
 Sixth Level
 -----------
 
-<!-- $table19$ - Eccellenza ("Oberliga") -->
+Eccellenza ("Oberliga")
+<!-- $table19$ -->
 
 Relegated from DN: Mezzocorona, FC Bozen 96, Arco
 
@@ -3624,11 +3626,13 @@ Seventh Level
 
 Promozione (Landesliga)
 
-<!-- $table20$ - Group "Südtirol" -->
+Group "Südtirol"
+<!-- $table20$ -->
 
 Relegated from Oberliga: Vahrn, Naturns
 
-<!-- $table21$ - Group "Trentino" -->
+Group "Trentino"
+<!-- $table21$ -->
 
 
 Eight Level
@@ -3636,9 +3640,11 @@ Eight Level
 
 Prima Categoria (1.Amateurliga) Südtirol
 
-<!-- $table22$ - Group A -->
+Group A
+<!-- $table22$ -->
 
-<!-- $table23$ - Group B -->
+Group B
+<!-- $table23$ -->
 
 
 Ninth Level
@@ -3646,11 +3652,14 @@ Ninth Level
 
 Seconda Categoria (2.Amateurliga) Südtirol
 
-<!-- $table24$ - Group A -->
+Group A
+<!-- $table24$ -->
 
-<!-- $table25$ - Group B -->
+Group B
+<!-- $table25$ -->
 
-<!-- $table26$ - Group C -->
+Group C
+<!-- $table26$ -->
 
 
 Tenth Level
@@ -3658,12 +3667,16 @@ Tenth Level
 
 Terza Categoria (3.Amateurliga) Südtirol
 
-<!-- $table27$ - Group A -->
+Group A
+<!-- $table27$ -->
 
-<!-- $table28$ - Group B -->
+Group B
+<!-- $table28$ -->
 
-<!-- $table29$ - Group C -->
+Group C
+<!-- $table29$ -->
 
-<!-- $table30$ - Group D -->
+Group D
+<!-- $table30$ -->
 
 

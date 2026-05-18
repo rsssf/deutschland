@@ -14,9 +14,11 @@ USA 2004 PRO SOCCER LEAGUE STANDINGS
 MAJOR LEAGUE SOCCER (1st Division)
 
                            GP   W   L   D   GF  GA  Pts
-<!-- $table1$ - Eastern Division -->
+      Eastern Division
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Division -->
+      Western Division
+<!-- $table2$ -->
 
 Conference Semifinals:  New England defeated Columbus 1-1, 1-0
                         D. C. United defeated MetroStars 2-0, 2-0
@@ -30,9 +32,11 @@ MLS CUP 2004:           D. C. United defeated Kansas City 3-2.
 USL - A-LEAGUE (2nd Division)
 
                             GP   W   L   D   GF  GA  Pts
-<!-- $table3$ - EASTERN CONFERENCE -->
+     EASTERN CONFERENCE
+<!-- $table3$ -->
 
-<!-- $table4$ - WESTERN CONFERENCE -->
+     WESTERN CONFERENCE
+<!-- $table4$ -->
 
 Quarterfinals:    Montreal defeated Rochester 1-0, 1-0
                   Syracuse defeated Richmond 2-1, 1-0
@@ -53,13 +57,17 @@ NB: based on the head-to-head results of the Canadian A-League members
 USL - PRO SOCCER LEAGUE (3rd Division)
 
                             GP   W   L   D   GF  GA  Pts
-<!-- $table6$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table6$ -->
 
-<!-- $table7$ - Northern Division -->
+     Northern Division
+<!-- $table7$ -->
 
-<!-- $table8$ - Southern Division -->
+     Southern Division
+<!-- $table8$ -->
 
-<!-- $table9$ - Western Division -->
+     Western Division
+<!-- $table9$ -->
 
 Quarterfinals:    Charlotte defeated Wilmington 3-2, 1-0
                   Pittsburgh defeated Harrisburg 4-0, 3-1
@@ -75,24 +83,32 @@ USL - PREMIER DEVELOPMENT LEAGUE
 
                              GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table10$ - Northeast Division -->
+     Northeast Division
+<!-- $table10$ -->
 
-<!-- $table11$ - Mid-Atlantic Division -->
+     Mid-Atlantic Division
+<!-- $table11$ -->
 
      CENTRAL CONFERENCE
-<!-- $table12$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table12$ -->
 
-<!-- $table13$ - Heartland Division -->
+     Heartland Division
+<!-- $table13$ -->
 
      SOUTHERN CONFERENCE
-<!-- $table14$ - Mid-South Division -->
+     Mid-South Division
+<!-- $table14$ -->
 
-<!-- $table15$ - Southeast Division -->
+     Southeast Division
+<!-- $table15$ -->
 
      WESTERN CONFERENCE
-<!-- $table16$ - Southwest Division -->
+     Southwest Division
+<!-- $table16$ -->
 
-<!-- $table17$ - Northwest Division -->
+     Northwest Division
+<!-- $table17$ -->
 
 Conference Semifinals:   South Jersey defeated Williamsburg 2-1
                          Boulder defeated Michigan 3-2
@@ -124,18 +140,24 @@ USL - W-LEAGUE
 
                               GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table19$ - New England Division -->
+     New England Division
+<!-- $table19$ -->
 
-<!-- $table20$ - Northeast Division -->
+     Northeast Division
+<!-- $table20$ -->
 
-<!-- $table21$ - North Central Division -->
+     North Central Division
+<!-- $table21$ -->
 
      CENTRAL CONFERENCE
-<!-- $table22$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table22$ -->
 
-<!-- $table23$ - Midwest Division -->
+     Midwest Division
+<!-- $table23$ -->
 
-<!-- $table24$ - WESTERN CONFERENCE -->
+     WESTERN CONFERENCE
+<!-- $table24$ -->
 
 Semi-finals:       New Jersey defeated Ottawa 2-1
                    Vancouver defeated Chicago 2-1
@@ -145,11 +167,14 @@ CHAMPIONSHIP:      Vancouver defeated New Jersey 4-2
 WOMEN'S PREMIER SOCCER LEAGUE
 
                           GP   W   L   D   GF  GA  Pts
-<!-- $table25$ - North Division -->
+     North Division
+<!-- $table25$ -->
 
-<!-- $table26$ - South Division -->
+     South Division
+<!-- $table26$ -->
 
-<!-- $table27$ - East Division -->
+     East Division
+<!-- $table27$ -->
 
 * - deducted 3 points for 1 forfeit
 ** - Deducted 12 points for 3 forfeits and use of illegal player
@@ -165,9 +190,11 @@ CANADIAN PREMIER SOCCER LEAGUE
 
 
                            GP   W   L   D   GF  GA   Pts
-<!-- $table28$ - Eastern Conference -->
+     Eastern Conference
+<!-- $table28$ -->
 
-<!-- $table29$ - Western Conference -->
+     Western Conference
+<!-- $table29$ -->
 
 Wildcard:          Toronto Croatia defeated Brampton 3-1
 Quarterfinals:     Toronto Croatia defeated Windsor 5-0

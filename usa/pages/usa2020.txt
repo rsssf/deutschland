@@ -27,13 +27,16 @@ NB: Inter Miami CF and Nashville SC were admitted
 
 Final Tables (based on points/match):
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 NB: first tie-breaker: number of wins per match played
 
-<!-- $table3$ - Canadian Head-to-Head Records -->
+Canadian Head-to-Head Records
+<!-- $table3$ -->
 
 ▪ Round 1 ▪
 _ Feb 29 _
@@ -71,9 +74,11 @@ Los Angeles FC         3-3 Philadelphia Union
 
 Tables at suspension:
 
-<!-- $table4$ - Eastern Conference -->
+Eastern Conference
+<!-- $table4$ -->
 
-<!-- $table5$ - Western Conference -->
+Western Conference
+<!-- $table5$ -->
 
 NB: league suspended due to Covid-19 pandemic; it was resumed with a
     one-off ‹MLS is Back tournament, see §back› played in Florida;
@@ -449,13 +454,16 @@ Colorado Rapids         -  Real Salt Lake
 
 Final Tables (based on points/match):
 
-<!-- $table6$ - Eastern Conference -->
+Eastern Conference
+<!-- $table6$ -->
 
-<!-- $table7$ - Western Conference -->
+Western Conference
+<!-- $table7$ -->
 
 NB: first tie-breaker: number of wins per match played
 
-<!-- $table8$ - Canadian Head-to-Head Records -->
+Canadian Head-to-Head Records
+<!-- $table8$ -->
 
 
 === Championship Playoff  ‹§chplay›
@@ -499,7 +507,7 @@ Columbus Crew          1-0 New England Revolution
 Western Conference [Dec 7]
 Seattle Sounders       3-2 Minnesota United FC
 
-▪ MLS Cup ▪  Dec 12 @ Mapfre Stadium, Columbus, Ohio
+MLS Cup [Dec 12, Mapfre Stadium, Columbus, Ohio]
 Columbus Crew          3-0 Seattle Sounders
   (Lucas Zelarayán 25, 82, Derrick Etienne 31)
 

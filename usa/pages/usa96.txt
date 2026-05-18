@@ -15,9 +15,11 @@
 Final Tables:
 
                            GP   W  WS  LS   L   GF  GA   Pts
-<!-- $table1$ - Eastern Conference -->
+        Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+        Western Conference
+<!-- $table2$ -->
 
 _ Apr 6 _
 DC United   0-1 San Jose    (31,683)
@@ -586,9 +588,11 @@ Dallas      1-2 Los Angeles (18,347)
 Final Tables:
 
                            GP   W  WS  LS   L   GF  GA   Pts
-<!-- $table3$ - Eastern Conference -->
+        Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+        Western Conference
+<!-- $table4$ -->
 
 ▪ Playoffs ▪
 
@@ -685,14 +689,18 @@ Monterey Bay became California.
 
                                GP   W  L SW  GF  GA  PTS
      EASTERN CONFERENCE
-<!-- $table6$ - North Atlantic Division -->
+     North Atlantic Division
+<!-- $table6$ -->
 
-<!-- $table7$ - South Atlantic Division -->
+     South Atlantic Division
+<!-- $table7$ -->
 
      WESTERN CONFERENCE
-<!-- $table8$ - Central Division -->
+     Central Division
+<!-- $table8$ -->
 
-<!-- $table9$ - Pacific Division -->
+     Pacific Division
+<!-- $table9$ -->
 
 1st Round:    Delaware defeated Connecticut 3-2
               Hampton Roads defeated South Carolina 3-2 (SO)
@@ -718,13 +726,17 @@ CHAMPIONSHIP: California defeated Richmond 2-1 (SO)
                       USISL Pro League (3rd Division)
 
                                GP   W  L SW  GF  GA  PTS
-<!-- $table10$ - NORTHEAST CONFERENCE -->
+     NORTHEAST CONFERENCE
+<!-- $table10$ -->
 
-<!-- $table11$ - SOUTH ATLANTIC CONFERENCE -->
+     SOUTH ATLANTIC CONFERENCE
+<!-- $table11$ -->
 
-<!-- $table12$ - CENTRAL CONFERENCE -->
+     CENTRAL CONFERENCE
+<!-- $table12$ -->
 
-<!-- $table13$ - WESTERN CONFERENCE -->
+     WESTERN CONFERENCE
+<!-- $table13$ -->
 
 Conference Semifinals:   North Jersey defeated Rhode Island 3-1
                          Central Jersey defeated Reading 2-1
@@ -754,19 +766,25 @@ CHAMPIONSHIP:            Charleston defeated Charlotte 3-2 (SO)
 
                                GP   W  L SW  GF  GA  PTS
      EASTERN CONFERENCE
-<!-- $table14$ - Northern Division -->
+     Northern Division
+<!-- $table14$ -->
 
-<!-- $table15$ - Southern Division -->
+     Southern Division
+<!-- $table15$ -->
 
      CENTRAL CONFERENCE
-<!-- $table16$ - Northern Division -->
+     Northern Division
+<!-- $table16$ -->
 
-<!-- $table17$ - Southern Division -->
+     Southern Division
+<!-- $table17$ -->
 
      WESTERN CONFERENCE
-<!-- $table18$ - Northern Division -->
+     Northern Division
+<!-- $table18$ -->
 
-<!-- $table19$ - Southern Division -->
+     Southern Division
+<!-- $table19$ -->
 
 **  Grand Rapids did not play any home games due to lack of a home field.
 
@@ -800,7 +818,7 @@ CHAMPIONSHIP:           San Luis Obispo defeated San Francisco 1-0
                          CONTINENTAL INDOOR SOCCER LEAGUE
 
                           GP   W   L  Pct. GB   GF  GA
-   Eastern Division
+        Eastern Division
 Monterrey La Raza         28  18  10 .643  --- 196  159
 Houston Hotshots          28  18  10 .643  --- 186  167
 Dallas Sidekicks          28  16  12 .571   2  212  181
@@ -809,7 +827,7 @@ Detroit Neon              28  13  15 .464   5  173  197
 Indianapolis Twisters     28  10  18 .357   8  160  188
 
 
-   Western Division
+        Western Division
 San Diego Sockers         28  17  11 .607  --- 173  156
 Anaheim Splash            28  15  13 .536   2  180  169
 Sacramento Knights        28  14  14 .500   3  143  153
@@ -828,11 +846,14 @@ CHAMPIONSHIP:   Monterrey defeated Houston, 10-6, 6-5.
            UNITED STATES WOMEN'S INTERREGIONAL SOCCER LEAGUE
 
                                GP   W  L SW  GF  GA  PTS
-<!-- $table20$ - East Region -->
+     East Region
+<!-- $table20$ -->
 
-<!-- $table21$ - Central Region -->
+     Central Region
+<!-- $table21$ -->
 
-<!-- $table22$ - West Region -->
+     West Region
+<!-- $table22$ -->
 
 1st Round:      Dallas defeated Rockford 4-0
                 Denver defeated Chicago 3-0.

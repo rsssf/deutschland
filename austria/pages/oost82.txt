@@ -23,311 +23,311 @@
 
 ▪ Round 1 ▪
 _ Aug 14 _
-Sturm        4-2 Rapid
-Sportclub     1-2 Admira/Wacker
+Sturm            4-2 Rapid
+Sportclub        1-2 Admira/Wacker
 _ Aug 15 _
 Austria Wien     3-0 VOEST
-LASK         0-0 Austria Salzburg
-Innsbruck     2-3 GAK
+LASK             0-0 Austria Salzburg
+Innsbruck        2-3 GAK
 
 ▪ Round 2 ▪
 _ Aug 21 _
-Admira/Wacker     3-1 Sturm
+Admira/Wacker    3-1 Sturm
 Austria Salzburg 2-0 Austria Wien
 _ Aug 22 _
-GAK        2-0 Sportclub
-Rapid        3-1 LASK
-VOEST        3-1 Innsbruck
+GAK              2-0 Sportclub
+Rapid            3-1 LASK
+VOEST            3-1 Innsbruck
 
 ▪ Round 3 ▪
 _ Aug 28 _
 Austria Salzburg 1-1 Rapid
-Sportclub     1-0 VOEST
+Sportclub        1-0 VOEST
 _ Aug 29 _
 Austria Wien     3-0 Innsbruck
-LASK        3-1 Admira/Wacker
-Sturm        4-1 GAK
+LASK             3-1 Admira/Wacker
+Sturm            4-1 GAK
 
 ▪ Round 4 ▪
 _ Sep 4 _
-VOEST        4-0 Sturm
+VOEST            4-0 Sturm
 _ Sep 5 _
-Admira/Wacker     4-2 Austria Salzburg
-GAK        2-0 LASK
-Rapid        1-1 Austria Wien
-Innsbruck     5-0 Sportclub
+Admira/Wacker    4-2 Austria Salzburg
+GAK              2-0 LASK
+Rapid            1-1 Austria Wien
+Innsbruck        5-0 Sportclub
 
 ▪ Round 5 ▪
 _ Sep 11 _
-Rapid        2-0 Admira/Wacker
+Rapid            2-0 Admira/Wacker
 Austria Salzburg 2-0 GAK
 _ Sep 12 _
-LASK        1-0 VOEST
-Sturm        3-1 Innsbruck
-Sportclub     1-3 Austria Wien
+LASK             1-0 VOEST
+Sturm            3-1 Innsbruck
+Sportclub        1-3 Austria Wien
 
 ▪ Round 6 ▪
 _ Sep 18 _
-VOEST        3-2 Austria Salzburg
-Sportclub     3-0 Sturm
+VOEST            3-2 Austria Salzburg
+Sportclub        3-0 Sturm
 _ Sep 19 _
 Austria Wien     2-0 Admira/Wacker
-GAK        0-3 Rapid
-Innsbruck     3-1 LASK
+GAK              0-3 Rapid
+Innsbruck        3-1 LASK
 
 ▪ Round 7 ▪
 _ Sep 25 _
-Sturm        1-2 Austria Wien
+Sturm            1-2 Austria Wien
 _ Sep 26 _
-Admira/Wacker     2-1 GAK
-LASK        3-1 Sportclub
-Rapid        1-1 VOEST
+Admira/Wacker    2-1 GAK
+LASK             3-1 Sportclub
+Rapid            1-1 VOEST
 Austria Salzburg 2-0 Innsbruck
 
 ▪ Round 8 ▪
 _ Oct 2 _
-VOEST        1-3 Admira/Wacker
-Sportclub     2-2 Austria Salzburg
+VOEST            1-3 Admira/Wacker
+Sportclub        2-2 Austria Salzburg
 _ Oct 3 _
 Austria Wien     1-1 GAK
-Sturm        2-1 LASK
-Innsbruck     0-3 Rapid
+Sturm            2-1 LASK
+Innsbruck        0-3 Rapid
 
 ▪ Round 9 ▪
 _ Oct 6 _
-Admira/Wacker     2-4 Innsbruck
-GAK        0-0 VOEST
-LASK        1-4 Austria Wien
+Admira/Wacker    2-4 Innsbruck
+GAK              0-0 VOEST
+LASK             1-4 Austria Wien
 Austria Salzburg 2-2 Sturm
 _ Oct 7 _
-Rapid        6-1 Sportclub
+Rapid            6-1 Sportclub
 
 ▪ Round 10 ▪
 _ Oct 16 _
-Sturm        3-1 Austria Salzburg
+Sturm            3-1 Austria Salzburg
 _ Oct 17 _
-VOEST        3-0 GAK
-Innsbruck     0-0 Admira/Wacker
-Sportclub     0-0 Rapid
+VOEST            3-0 GAK
+Innsbruck        0-0 Admira/Wacker
+Sportclub        0-0 Rapid
 _ Oct 18 _
 Austria Wien     2-0 LASK
 
 ▪ Round 11 ▪
 _ Oct 23 _
-GAK        3-1 Innsbruck
+GAK              3-1 Innsbruck
 _ Oct 24 _
-Admira/Wacker     4-3 Sportclub
-Rapid        2-2 Sturm
+Admira/Wacker    4-3 Sportclub
+Rapid            2-2 Sturm
 Austria Salzburg 1-1 LASK
-VOEST        0-2 Austria Wien
+VOEST            0-2 Austria Wien
 
 ▪ Round 12 ▪
 _ Oct 30 _
-Sportclub     2-2 GAK
+Sportclub        2-2 GAK
 _ Oct 31 _
 Austria Wien     4-1 Austria Salzburg
-LASK        2-0 Rapid
-Sturm        5-0 Admira/Wacker
-Innsbruck     1-0 VOEST
+LASK             2-0 Rapid
+Sturm            5-0 Admira/Wacker
+Innsbruck        1-0 VOEST
 
 ▪ Round 13 ▪  Nov 14
-Admira/Wacker     2-0 LASK
-GAK        0-2 Sturm
-Rapid        3-1 Austria Salzburg
-VOEST        2-0 Sportclub
-Innsbruck     0-0 Austria Wien
+Admira/Wacker    2-0 LASK
+GAK              0-2 Sturm
+Rapid            3-1 Austria Salzburg
+VOEST            2-0 Sportclub
+Innsbruck        0-0 Austria Wien
 
 ▪ Round 14 ▪
 _ Nov 17 _
-LASK        2-1 GAK
-Sturm        2-1 VOEST
-Sportclub     0-3 Innsbruck
+LASK             2-1 GAK
+Sturm            2-1 VOEST
+Sportclub        0-3 Innsbruck
 _ Nov 18 _
 Austria Wien     0-1 Rapid
 Austria Salzburg 0-1 Admira/Wacker
 
 ▪ Round 15 ▪  Nov 21
-Admira/Wacker     2-3 Rapid
+Admira/Wacker    2-3 Rapid
 Austria Wien     0-1 Sportclub
-GAK        2-0 Austria Salzburg
-VOEST        2-0 LASK
-Innsbruck     5-0 Sturm
+GAK              2-0 Austria Salzburg
+VOEST            2-0 LASK
+Innsbruck        5-0 Sturm
 
 ▪ Round 16 ▪  Nov 28
-Admira/Wacker     2-2 Austria Wien
-LASK         0-0 Innsbruck
-Rapid        2-1 GAK
-Sturm        1-1 Sportclub
+Admira/Wacker    2-2 Austria Wien
+LASK             0-0 Innsbruck
+Rapid            2-1 GAK
+Sturm            1-1 Sportclub
 Austria Salzburg 0-0 VOEST
 
 ▪ Round 17 ▪
 _ Dec 5 _
 Austria Wien     2-1 Sturm
-GAK        1-1 Admira/Wacker
-Innsbruck     2-1 Austria Salzburg
+GAK              1-1 Admira/Wacker
+Innsbruck        2-1 Austria Salzburg
 _ Dec 6 _
-Sportclub     2-0 LASK
+Sportclub        2-0 LASK
 _ Dec 15 _
-VOEST        1-2 Rapid
+VOEST            1-2 Rapid
 
 ▪ Round 18 ▪
 _ Dec 12 _
-Admira/Wacker     1-0 VOEST
-GAK        0-0 Austria Wien
-Rapid        2-0 Innsbruck
+Admira/Wacker    1-0 VOEST
+GAK              0-0 Austria Wien
+Rapid            2-0 Innsbruck
 Austria Salzburg 4-1 Sportclub
 _ Feb 23 _
-LASK        3-0 Sturm
+LASK             3-0 Sturm
 
 ▪ Round 19 ▪
 _ Mar 9 _
-LASK         2-0 Austria Salzburg
-Sturm        0-1 Rapid
-Innsbruck     0-1 GAK
+LASK             2-0 Austria Salzburg
+Sturm            0-1 Rapid
+Innsbruck        0-1 GAK
 _ Mar 10 _
 Austria Wien     2-0 VOEST
-Sportclub     4-1 Admira/Wacker
+Sportclub        4-1 Admira/Wacker
 
 ▪ Round 20 ▪  Feb 13
-Admira/Wacker     2-0 Sturm
-GAK        1-0 Sportclub
-Rapid        1-2 LASK
+Admira/Wacker    2-0 Sturm
+GAK              1-0 Sportclub
+Rapid            1-2 LASK
 Austria Salzburg 2-1 Austria Wien
-VOEST        3-0 Innsbruck
+VOEST            3-0 Innsbruck
 
 ▪ Round 21 ▪
 _ Feb 20 _
 Austria Wien     4-1 Innsbruck
-LASK        0-2 Admira/Wacker
-Sturm        0-1 GAK
+LASK             0-2 Admira/Wacker
+Sturm            0-1 GAK
 Austria Salzburg 0-3 Rapid
 _ Feb 21 _
-Sportclub     2-0 VOEST
+Sportclub        2-0 VOEST
 
 ▪ Round 22 ▪  Feb 27
-Admira/Wacker     0-0 Austria Salzburg
-GAK        2-0 LASK
-Rapid        0-2 Austria Wien
-VOEST        1-0 Sturm
-Innsbruck     1-1 Sportclub
+Admira/Wacker    0-0 Austria Salzburg
+GAK              2-0 LASK
+Rapid            0-2 Austria Wien
+VOEST            1-0 Sturm
+Innsbruck        1-1 Sportclub
 
 ▪ Round 23 ▪
 _ Mar 6 _
-LASK        1-2 VOEST
-Rapid        4-4 Admira/Wacker
+LASK             1-2 VOEST
+Rapid            4-4 Admira/Wacker
 Austria Salzburg 5-0 GAK
 _ Mar 7 _
-Sportclub     0-0 Austria Wien
+Sportclub        0-0 Austria Wien
 _ Apr 6 _
-Sturm        2-1 Innsbruck
+Sturm            2-1 Innsbruck
 
 ▪ Round 24 ▪
 _ Mar 13 _
 Austria Wien     2-1 Admira/Wacker
-GAK        1-0 Rapid
-VOEST        0-2 Austria Salzburg
-Innsbruck     3-1 LASK
+GAK              1-0 Rapid
+VOEST            0-2 Austria Salzburg
+Innsbruck        3-1 LASK
 _ Mar 14 _
-Sportclub     3-1 Sturm
+Sportclub        3-1 Sturm
 
 ▪ Round 25 ▪
 _ Mar 20 _
-Admira/Wacker     4-1 GAK
-Rapid        1-1 VOEST
-Sturm         1-0 Austria Wien
+Admira/Wacker    4-1 GAK
+Rapid            1-1 VOEST
+Sturm            1-0 Austria Wien
 Austria Salzburg 2-3 Innsbruck
 _ Mar 23 _
-LASK        2-0 Sportclub
+LASK             2-0 Sportclub
 
 ▪ Round 26 ▪
 _ Mar 27 _
 Austria Wien     3-0 GAK
-Sturm        1-2 LASK
-VOEST        1-0 Admira/Wacker
-Innsbruck     3-0 Rapid
+Sturm            1-2 LASK
+VOEST            1-0 Admira/Wacker
+Innsbruck        3-0 Rapid
 _ Mar 28 _
-Sportclub     2-0 Austria Salzburg
+Sportclub        2-0 Austria Salzburg
 
 ▪ Round 27 ▪
 _ Apr 2 _
-Admira/Wacker     1-0 Innsbruck
+Admira/Wacker    1-0 Innsbruck
 Austria Salzburg 0-1 Sturm
 _ Apr 3 _
-GAK        1-0 VOEST
-LASK        2-0 Austria Wien
-Rapid        4-3 Sportclub
+GAK              1-0 VOEST
+LASK             2-0 Austria Wien
+Rapid            4-3 Sportclub
 
 ▪ Round 28 ▪  Apr 10
 Austria Wien     1-1 LASK
-Sturm        0-0 Austria Salzburg
-VOEST        0-3 GAK
-Innsbruck     2-0 Admira/Wacker
-Sportclub     2-2 Rapid
+Sturm            0-0 Austria Salzburg
+VOEST            0-3 GAK
+Innsbruck        2-0 Admira/Wacker
+Sportclub        2-2 Rapid
 
 ▪ Round 29 ▪
 _ Apr 16 _
-Rapid        2-1 Sturm
+Rapid            2-1 Sturm
 Austria Salzburg 1-0 LASK
 _ Apr 17 _
-Admira/Wacker     0-0 Sportclub
-GAK        2-1 Innsbruck
-VOEST         0-0 Austria Wien
+Admira/Wacker    0-0 Sportclub
+GAK              2-1 Innsbruck
+VOEST            0-0 Austria Wien
 
 ▪ Round 30 ▪
 _ Apr 23 _
-LASK        0-0 Rapid
+LASK             0-0 Rapid
 _ Apr 24 _
 Austria Wien     1-0 Austria Salzburg
-Sturm        5-2 Admira/Wacker
-Innsbruck     1-1 VOEST
-Sportclub     1-0 GAK
+Sturm            5-2 Admira/Wacker
+Innsbruck        1-1 VOEST
+Sportclub        1-0 GAK
 
 ▪ Round 31 ▪
 _ Apr 30 _
-GAK        2-3 Sturm
-Rapid        2-2 Austria Salzburg
-VOEST        4-0 Sportclub
+GAK              2-3 Sturm
+Rapid            2-2 Austria Salzburg
+VOEST            4-0 Sportclub
 _ May 1 _
-Admira/Wacker     1-0 LASK
-Innsbruck     1-0 Austria Wien
+Admira/Wacker    1-0 LASK
+Innsbruck        1-0 Austria Wien
 
 ▪ Round 32 ▪
 _ May 4 _
 Austria Wien     0-3 Rapid
-LASK        0-0 GAK
-Sturm        2-0 VOEST
+LASK             0-0 GAK
+Sturm            2-0 VOEST
 Austria Salzburg 3-0 Admira/Wacker
 _ May 5 _
-Sportclub     1-1 Innsbruck
+Sportclub        1-1 Innsbruck
 
 ▪ Round 33 ▪
 _ May 7 _
-GAK        2-1 Austria Salzburg
-VOEST        1-1 LASK
+GAK              2-1 Austria Salzburg
+VOEST            1-1 LASK
 _ May 8 _
-Admira/Wacker     2-2 Rapid
+Admira/Wacker    2-2 Rapid
 Austria Wien     0-5 Sportclub
-Innsbruck     2-2 Sturm
+Innsbruck        2-2 Sturm
 
 ▪ Round 34 ▪  May 15
-Admira/Wacker     0-1 Austria Wien
-LASK        0-3 Innsbruck
-Rapid        2-1 GAK
-Sturm        0-2 Sportclub
+Admira/Wacker    0-1 Austria Wien
+LASK             0-3 Innsbruck
+Rapid            2-1 GAK
+Sturm            0-2 Sportclub
 Austria Salzburg 3-0 VOEST
 
 ▪ Round 35 ▪  May 22
 Austria Wien     6-1 Sturm
-GAK        1-0 Admira/Wacker
-VOEST        1-0 Rapid
-Innsbruck     9-0 Austria Salzburg
-Sportclub     3-2 LASK
+GAK              1-0 Admira/Wacker
+VOEST            1-0 Rapid
+Innsbruck        9-0 Austria Salzburg
+Sportclub        3-2 LASK
 
 ▪ Round 36 ▪  May 25
-Admira/Wacker     2-2 VOEST
-GAK        1-0 Austria Wien
-LASK        1-0 Sturm
-Rapid        5-0 Innsbruck
+Admira/Wacker    2-2 VOEST
+GAK              1-0 Austria Wien
+LASK             1-0 Sturm
+Rapid            5-0 Innsbruck
 Austria Salzburg 3-0 Sportclub
 
 <!-- $table2$ - Final Table -->

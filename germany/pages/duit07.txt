@@ -1503,157 +1503,226 @@ Kickers O        1-1 Eintracht B
 
 
 
-<!-- $table5$ - Regionalliga Nord -->
+Regionalliga Nord
+<!-- $table5$ -->
 
-<!-- $table6$ - Regionalliga Süd -->
+Regionalliga Süd
+<!-- $table6$ -->
 
 == Fourth Level 2006/07 (Oberligen)
 
 
 
-<!-- $table7$ - Baden-Württemberg -->
+Baden-Württemberg
+<!-- $table7$ -->
 
-<!-- $table8$ - Bayern -->
+Bayern
+<!-- $table8$ -->
 
-<!-- $table9$ - Hessen -->
+Hessen
+<!-- $table9$ -->
 
-<!-- $table10$ - Nordost Nord -->
+Nordost Nord
+<!-- $table10$ -->
 
 [1] - FC Schönberg 95 withdrew in next season, SV Yesilyurt 73 is saved
       from relegation.
 
-<!-- $table11$ - Nordost Süd -->
+Nordost Süd
+<!-- $table11$ -->
 
-<!-- $table12$ - Nord Herren -->
+Nord Herren
+<!-- $table12$ -->
 
 [1] - KSV Holstein Kiel II is relegated, the principal team is relegated to
       this level, Arminia Hannover saved from relegation.
 [2] - VfR Neumünster withdrew the next season for financial problems,
       SV Henstedt- Rhen I saved from relegation..
 
-<!-- $table13$ - Nordrhein -->
+Nordrhein
+<!-- $table13$ -->
 
-<!-- $table14$ - Südwest -->
+Südwest
+<!-- $table14$ -->
 
-<!-- $table15$ - Westfalen -->
+Westfalen
+<!-- $table15$ -->
 
 
 == Fifth Level 2006/07
 
 
 
-<!-- $table16$ - BADEN -->
+BADEN
+
+<!-- $table16$ -->
 
 BAYERN
 
-<!-- $table17$ - Landesliga Mitte -->
+Landesliga Mitte
+<!-- $table17$ -->
 
-<!-- $table18$ - Landesliga Nord -->
+Landesliga Nord
+<!-- $table18$ -->
 
-<!-- $table19$ - Landesliga Süd -->
+Landesliga Süd
+<!-- $table19$ -->
 
-<!-- $table20$ - BERLIN -->
+BERLIN
+
+<!-- $table20$ -->
 
 BRANDENBURG
 
-<!-- $table21$ - Nord -->
+Nord
+<!-- $table21$ -->
 
-<!-- $table22$ - Süd -->
+Süd
+<!-- $table22$ -->
 
-<!-- $table23$ - BREMEN -->
+BREMEN
+
+<!-- $table23$ -->
 
 NP: No teams promoted.
 
-<!-- $table24$ - HAMBURG -->
+HAMBURG
+
+<!-- $table24$ -->
 
 HESSEN
 
-<!-- $table25$ - Gr. Mitte -->
+Gr. Mitte
+<!-- $table25$ -->
 
-<!-- $table26$ - Gr. Nord -->
+Gr. Nord
+<!-- $table26$ -->
 
-<!-- $table27$ - Gr. Süd -->
+Gr. Süd
+<!-- $table27$ -->
 
-<!-- $table28$ - MECKLENBURG-VORPOMMERN -->
+MECKLENBURG-VORPOMMERN
+
+<!-- $table28$ -->
 
 MITTELRHEIN
 
-<!-- $table29$ - Staffe 1 -->
+Staffe 1
+<!-- $table29$ -->
 
-<!-- $table30$ - Staffel 2 -->
+Staffel 2
+<!-- $table30$ -->
 
 NIEDERRHEIN
 
-<!-- $table31$ - Gruppe 1 -->
+Gruppe 1
+<!-- $table31$ -->
 
-<!-- $table32$ - Gruppe 2 -->
+Gruppe 2
+<!-- $table32$ -->
 
-<!-- $table33$ - Gruppe 3 -->
+Gruppe 3
+<!-- $table33$ -->
 
 NIEDERSACHSEN
 
-<!-- $table34$ - Ost -->
+Ost
+<!-- $table34$ -->
 
-<!-- $table35$ - West -->
+West
+<!-- $table35$ -->
 
-<!-- $table36$ - RHEINLAND -->
+RHEINLAND
 
-<!-- $table37$ - SAARLAND -->
+<!-- $table36$ -->
 
-<!-- $table38$ - SACHSEN -->
+SAARLAND
 
-<!-- $table39$ - SACHSEN-ANHALT -->
+<!-- $table37$ -->
 
-<!-- $table40$ - SCHLESWIG-HOLSTEIN -->
+SACHSEN
 
-<!-- $table41$ - SÜDBADEN -->
+<!-- $table38$ -->
 
-<!-- $table42$ - SÜDWEST -->
+SACHSEN-ANHALT
 
-<!-- $table43$ - THÜRINGEN -->
+<!-- $table39$ -->
+
+SCHLESWIG-HOLSTEIN
+
+<!-- $table40$ -->
+
+SÜDBADEN
+
+<!-- $table41$ -->
+
+SÜDWEST
+
+<!-- $table42$ -->
+
+THÜRINGEN
+
+<!-- $table43$ -->
 
 WESTFALEN
 
-<!-- $table44$ - Group 1 -->
+Group 1
+<!-- $table44$ -->
 
-<!-- $table45$ - Group 2 -->
+Group 2
+<!-- $table45$ -->
 
 [1] - SG Wattenscheid 09 II is relegated, the principal team is relegated to this level, SV Sodingen save from relegation.
 
-<!-- $table46$ - WÜRTTEMBERG -->
+WÜRTTEMBERG
+
+<!-- $table46$ -->
 
 
 == Sixth Level 2006/07
 
 
-<!-- $table47$ - BREMEN -->
+BREMEN
+
+<!-- $table47$ -->
 
 HESSEN
 
-<!-- $table48$ - Darmstadt -->
+Darmstadt
+<!-- $table48$ -->
 
-<!-- $table49$ - Frankfurt Ost -->
+Frankfurt Ost
+<!-- $table49$ -->
 
-<!-- $table50$ - Frankfurt West -->
+Frankfurt West
+<!-- $table50$ -->
 
-<!-- $table51$ - Fulda -->
+Fulda
+<!-- $table51$ -->
 
-<!-- $table52$ - Gießen / Marburg -->
+Gießen / Marburg
+<!-- $table52$ -->
 
 Kassel
 
-<!-- $table53$ - Group 1 -->
+Group 1
+<!-- $table53$ -->
 
-<!-- $table54$ - Group 2 -->
+Group 2
+<!-- $table54$ -->
 
-<!-- $table55$ - Wiesbaden -->
+Wiesbaden
+<!-- $table55$ -->
 
 SACHSEN
 
-<!-- $table56$ - Chemnitz -->
+Chemnitz
+<!-- $table56$ -->
 
-<!-- $table57$ - Dresden -->
+Dresden
+<!-- $table57$ -->
 
-<!-- $table58$ - Leipzig -->
+Leipzig
+<!-- $table58$ -->
 
 

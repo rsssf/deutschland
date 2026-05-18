@@ -361,9 +361,11 @@ Guarani        0-0  Internacional  (2-4 pen)
 
 Tables
 
-<!-- $table1$ - Group A -->
+Group A
+<!-- $table1$ -->
 
-<!-- $table2$ - Group B -->
+Group B
+<!-- $table2$ -->
 
 Note: The winner of the match earned 3 points, the winner of a penalties
 shootouts after a draw earned 2, and the loser of the penalties shootouts
@@ -702,7 +704,8 @@ Bahia          2-1  América
 
 <!-- $table4$ - Table -->
 
-<!-- $table5$ - Final Table - First Phase -->
+Final Table - First Phase
+<!-- $table5$ -->
 
 * - Since Vasco da Gama had already won the first stage, the final berth was
 awarded to Bahia who had the better first phase record among the other 17

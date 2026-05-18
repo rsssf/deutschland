@@ -368,14 +368,18 @@ N England 0-1 L Angeles   (asdet)
 
                             GP   W   L   D   GF  GA  BP Pts
      EASTERN CONFERENCE
-<!-- $table1$ - Northeast Division -->
+     Northeast Division
+<!-- $table1$ -->
 
-<!-- $table2$ - Southeast Division -->
+     Southeast Division
+<!-- $table2$ -->
 
      WESTERN CONFERENCE
-<!-- $table3$ - Central Division -->
+     Central Division
+<!-- $table3$ -->
 
-<!-- $table4$ - Pacific Division -->
+     Pacific Division
+<!-- $table4$ -->
 
 First Round:            Montreal defeated Charlotte 0-1, 1-0 (PK)
                         Richmond defeated Atlanta 1-1, 2-1
@@ -400,13 +404,17 @@ NB: based on the head-to-head results of the Canadian A-League members
                       D-3 PRO LEAGUE (3rd Division)
 
                             GP   W   L   D   GF  GA  BP Pts
-<!-- $table6$ - Northern Conference -->
+     Northern Conference
+<!-- $table6$ -->
 
-<!-- $table7$ - Atlantic Conference -->
+     Atlantic Conference
+<!-- $table7$ -->
 
-<!-- $table8$ - Southern Conference -->
+     Southern Conference
+<!-- $table8$ -->
 
-<!-- $table9$ - Western Conference -->
+     Western Conference
+<!-- $table9$ -->
 
 First Round:        San Diego defeated Arizona, 3-0.
                     Carolina defeated Greenville, 1-0.
@@ -424,24 +432,32 @@ FINAL:              Long Island defeated Wilmington 2-1
 
                             GP   W   L   D   GF  GA  BP Pts
      EASTERN CONFERENCE
-<!-- $table10$ - Northeast Division -->
+     Northeast Division
+<!-- $table10$ -->
 
-<!-- $table11$ - Mid-Atlantic Division -->
+     Mid-Atlantic Division
+<!-- $table11$ -->
 
      CENTRAL CONFERENCE
-<!-- $table12$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table12$ -->
 
-<!-- $table13$ - Heartland Division -->
+     Heartland Division
+<!-- $table13$ -->
 
      SOUTHERN CONFERENCE
-<!-- $table14$ - Mid-South Division -->
+     Mid-South Division
+<!-- $table14$ -->
 
-<!-- $table15$ - Southeast Division -->
+     Southeast Division
+<!-- $table15$ -->
 
      WESTERN CONFERENCE
-<!-- $table16$ - Southwest Division -->
+     Southwest Division
+<!-- $table16$ -->
 
-<!-- $table17$ - Northwest Division -->
+     Northwest Division
+<!-- $table17$ -->
 
 Conference Semifinals:  Cape Cod defeated Williamsburg 2-0
                         Raleigh defeated Vermont 1-0
@@ -460,7 +476,9 @@ Semifinals:             Cape Cod defeated Bradenton 3-2
 FINAL:                  Cape Cod defeated Boulder 2-1
 
 
-<!-- $table18$ - WOMEN'S UNITED SOCCER ASSOCIATION -->
+WOMEN'S UNITED SOCCER ASSOCIATION
+
+<!-- $table18$ -->
 
 Semifinals:     Washington defeated Philadelphia 1-0
                 Carolina defeated Atlanta 2-1
@@ -471,16 +489,22 @@ W-LEAGUE
 
                               GP   W   L   D   GF  GA  BP Pts
      EASTERN CONFERENCE
-<!-- $table19$ - Northeast Division -->
+     Northeast Division
+<!-- $table19$ -->
 
-<!-- $table20$ - Northern Division -->
+     Northern Division
+<!-- $table20$ -->
 
      CENTRAL CONFERENCE
-<!-- $table21$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table21$ -->
 
-<!-- $table22$ - Midwest Division -->
+     Midwest Division
+<!-- $table22$ -->
 
-<!-- $table23$ - WESTERN CONFERENCE -->
+     WESTERN CONFERENCE
+
+<!-- $table23$ -->
 
 Semifinals:      Boston defeated Denver 2-1
                  Charlotte defeated Vancouver 1-1 (5-4 PK)
@@ -491,9 +515,11 @@ CHAMPIONSHIP:    Boston defeated Charlotte 3-0.
 WOMEN'S PREMIER SOCCER LEAGUE
 
                           GP   W   L   D   GF  GA Pts
-<!-- $table24$ - North Division -->
+     North Division
+<!-- $table24$ -->
 
-<!-- $table25$ - South Division -->
+     South Division
+<!-- $table25$ -->
 
 CHAMPIONSHIP:  California defeated Ajax 1-0.
 
@@ -503,9 +529,11 @@ CANADIAN PREMIER SOCCER LEAGUE
                                     2002
 
                            GP   W   L   D   GF  GA   Pts
-<!-- $table26$ - Eastern Conference -->
+     Eastern Conference
+<!-- $table26$ -->
 
-<!-- $table27$ - Western Conference -->
+     Western Conference
+<!-- $table27$ -->
 
 Wild-Card Game:              North York defeated Mississauga 3-0
 Division Finals:             Ottawa defeated Metro 1-0

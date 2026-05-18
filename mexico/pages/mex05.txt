@@ -23,11 +23,14 @@ NB: for 2004/05 the league is reduced to 18 clubs; Gallos Blancos
 
 Final Tables:
 
-<!-- $table1$ - Group 1 -->
+Group 1
+<!-- $table1$ -->
 
-<!-- $table2$ - Group 2 -->
+Group 2
+<!-- $table2$ -->
 
-<!-- $table3$ - Group 3 -->
+Group 3
+<!-- $table3$ -->
 
 ▪ Round 1 ▪
 _ Aug 14 _
@@ -446,11 +449,14 @@ Veracruz     awd Jaguares        [awarded 0-2, Veracruz dns]
 
 Final Tables:
 
-<!-- $table4$ - Group 1 -->
+Group 1
+<!-- $table4$ -->
 
-<!-- $table5$ - Group 2 -->
+Group 2
+<!-- $table5$ -->
 
-<!-- $table6$ - Group 3 -->
+Group 3
+<!-- $table6$ -->
 
 ▪ Quarterfinals ▪
 
@@ -595,11 +601,14 @@ Clausura 2005
 
 Final Tables:
 
-<!-- $table9$ - Group 1 -->
+Group 1
+<!-- $table9$ -->
 
-<!-- $table10$ - Group 2 -->
+Group 2
+<!-- $table10$ -->
 
-<!-- $table11$ - Group 3 -->
+Group 3
+<!-- $table11$ -->
 
 ▪ Round 1 ▪
 _ Jan 15 _
@@ -1000,11 +1009,14 @@ Morelia     2-1 Atlante
 
 Final Tables:
 
-<!-- $table12$ - Group 1 -->
+Group 1
+<!-- $table12$ -->
 
-<!-- $table13$ - Group 2 -->
+Group 2
+<!-- $table13$ -->
 
-<!-- $table14$ - Group 3 -->
+Group 3
+<!-- $table14$ -->
 
 ▪ Quarterfinals ▪
 
@@ -1141,13 +1153,17 @@ Apertura 2004
 
 Tables:
 
-<!-- $table15$ - Group 1 -->
+Group 1
+<!-- $table15$ -->
 
-<!-- $table16$ - Group 2 -->
+Group 2
+<!-- $table16$ -->
 
-<!-- $table17$ - Group 3 -->
+Group 3
+<!-- $table17$ -->
 
-<!-- $table18$ - Group 4 -->
+Group 4
+<!-- $table18$ -->
 
 ▪ Round 1 ▪
 _ Aug 7 _
@@ -1398,13 +1414,17 @@ Mexiquense       3-0 Correcaminos
 
 Tables:
 
-<!-- $table19$ - Group 1 -->
+Group 1
+<!-- $table19$ -->
 
-<!-- $table20$ - Group 2 -->
+Group 2
+<!-- $table20$ -->
 
-<!-- $table21$ - Group 3 -->
+Group 3
+<!-- $table21$ -->
 
-<!-- $table22$ - Group 4 -->
+Group 4
+<!-- $table22$ -->
 
 <!-- $topscorers3$ -->
 
@@ -1467,13 +1487,17 @@ Clausura
 
 Tables:
 
-<!-- $table23$ - Group 1 -->
+Group 1
+<!-- $table23$ -->
 
-<!-- $table24$ - Group 2 -->
+Group 2
+<!-- $table24$ -->
 
-<!-- $table25$ - Group 3 -->
+Group 3
+<!-- $table25$ -->
 
-<!-- $table26$ - Group 4 -->
+Group 4
+<!-- $table26$ -->
 
 ▪ Round 1 ▪
 Pachuca Jr       2-1 Correcaminos
@@ -1736,13 +1760,17 @@ Mérida           2-2 Pachuca Jr
 
 Tables:
 
-<!-- $table27$ - Group 1 -->
+Group 1
+<!-- $table27$ -->
 
-<!-- $table28$ - Group 2 -->
+Group 2
+<!-- $table28$ -->
 
-<!-- $table29$ - Group 3 -->
+Group 3
+<!-- $table29$ -->
 
-<!-- $table30$ - Group 4 -->
+Group 4
+<!-- $table30$ -->
 
 Repechaje
 
@@ -1837,24 +1865,29 @@ Segunda División Profesional
 
 Torneo Apertura 2004
 
-<!-- $table31$ - Zona Sur (South) -->
+Zona Sur (South)
+<!-- $table31$ -->
 
 UNACH: Universidad Autónoma de Chiapas
 UNACAR: Universidad Autónoma del Carmen
 
-<!-- $table32$ - Zona Centro (Central) -->
+Zona Centro (Central)
+<!-- $table32$ -->
 
 UAEM: Universidad Autónoma del Estado de Mexico
 
-<!-- $table33$ - Zona Bajío -->
+Zona Bajío
+<!-- $table33$ -->
 
-<!-- $table34$ - Zona Occidente (Western) -->
+Zona Occidente (Western)
+<!-- $table34$ -->
 
 UAG: Universidad Autónoma de Guadalajara
 UG: Universidad de Guadalajara
 + Formerly Atlético Tecomán
 
-<!-- $table35$ - Zona Norte (North) -->
+Zona Norte (North)
+<!-- $table35$ -->
 
 UANL: Universidad Autónoma de Nuevo León
 UAT: Universidad Autónoma de Tamaulipas
@@ -1914,15 +1947,20 @@ CD Guadalajara "B" champion Apertura 2004
 
 Torneo Clausura 2005
 
-<!-- $table36$ - Zona Sur (South) -->
+Zona Sur (South)
+<!-- $table36$ -->
 
-<!-- $table37$ - Zona Centro (Central) -->
+Zona Centro (Central)
+<!-- $table37$ -->
 
-<!-- $table38$ - Zona Bajío -->
+Zona Bajío
+<!-- $table38$ -->
 
-<!-- $table39$ - Zona Occidente (Western) -->
+Zona Occidente (Western)
+<!-- $table39$ -->
 
-<!-- $table40$ - Zona Norte (North) -->
+Zona Norte (North)
+<!-- $table40$ -->
 
 Notes
 Bonus Points between brackets - if a match was drawn, the winners on

@@ -245,109 +245,109 @@ Meisterplayoff
 
 ▪ Round 23 ▪
 _ Mar 1 _
-LASK        1-1 Innsbruck
-Rapid        2-2 Klagenfurt
+LASK             1-1 Innsbruck
+Rapid            2-2 Klagenfurt
 _ Mar 18 _
-Admira/Wacker     0-0 GAK
+Admira/Wacker    0-0 GAK
 _ Mar 19 _
-Sturm        2-2 Austria
+Sturm            2-2 Austria
 
 ▪ Round 24 ▪
 _ Mar 8 _
-GAK        0-1 Rapid
-Innsbruck     3-0 Sturm
+GAK              0-1 Rapid
+Innsbruck        3-0 Sturm
 _ Mar 9 _
-Austria     6-1 Admira/Wacker
+Austria          6-1 Admira/Wacker
 _ Mar 19 _
-Klagenfurt     0-3 LASK
+Klagenfurt       0-3 LASK
 
 ▪ Round 25 ▪
 _ Mar 14 _
-Austria     2-2 Innsbruck
+Austria          2-2 Innsbruck
 _ Mar 15 _
-Admira/Wacker     0-4 Rapid
-LASK        1-0 GAK
+Admira/Wacker    0-4 Rapid
+LASK             1-0 GAK
 _ Mar 16 _
-Sturm        4-1 Klagenfurt
+Sturm            4-1 Klagenfurt
 
 ▪ Round 26 ▪  Mar 22
-Admira/Wacker     0-1 Innsbruck
-Klagenfurt     0-6 Austria
-GAK        0-0 Sturm
-Rapid        awd LASK       [awarded 0-3; original match 3-0,
-                Rapid used inlegible player Brucic]
+Admira/Wacker    0-1 Innsbruck
+Klagenfurt       0-6 Austria
+GAK              0-0 Sturm
+Rapid            awd LASK               [awarded 0-3; original match 3-0,
+                                         Rapid used inlegible player Brucic]
 ▪ Round 27 ▪  Mar 29
-Austria     4-1 GAK
-LASK        1-1 Admira/Wacker
-Sturm        0-0 Rapid
-Innsbruck     1-1 Klagenfurt
+Austria          4-1 GAK
+LASK             1-1 Admira/Wacker
+Sturm            0-0 Rapid
+Innsbruck        1-1 Klagenfurt
 
 ▪ Round 28 ▪
 _ Apr 4 _
-Admira/Wacker     2-1 Klagenfurt
+Admira/Wacker    2-1 Klagenfurt
 _ Apr 5 _
-GAK        3-1 Innsbruck
-LASK        1-0 Sturm
-Rapid        2-0 Austria
+GAK              3-1 Innsbruck
+LASK             1-0 Sturm
+Rapid            2-0 Austria
 
 ▪ Round 29 ▪  Apr 12
-Klagenfurt     0-2 GAK
-Austria     0-0 LASK
-Sturm        1-1 Admira/Wacker
-Innsbruck     2-0 Rapid
+Klagenfurt       0-2 GAK
+Austria          0-0 LASK
+Sturm            1-1 Admira/Wacker
+Innsbruck        2-0 Rapid
 
 ▪ Round 30 ▪
 _ Apr 18 _
-Klagenfurt     1-1 Rapid
-GAK        4-1 Admira/Wacker
+Klagenfurt       1-1 Rapid
+GAK              4-1 Admira/Wacker
 _ Apr 19 _
-Innsbruck     3-0 LASK
+Innsbruck        3-0 LASK
 _ Apr 20 _
-Austria     3-2 Sturm
+Austria          3-2 Sturm
 
 ▪ Round 31 ▪
 _ Apr 25 _
-Admira/Wacker     2-2 Austria
-LASK        1-0 Klagenfurt
-Rapid        3-1 GAK
+Admira/Wacker    2-2 Austria
+LASK             1-0 Klagenfurt
+Rapid            3-1 GAK
 _ Apr 26 _
-Sturm        1-0 Innsbruck
+Sturm            1-0 Innsbruck
 
 ▪ Round 32 ▪
 _ May 2 _
-GAK        1-1 LASK
-Rapid        5-3 Admira/Wacker
+GAK              1-1 LASK
+Rapid            5-3 Admira/Wacker
 _ May 3 _
-Klagenfurt     0-5 Sturm
-Innsbruck     1-1 Austria
+Klagenfurt       0-5 Sturm
+Innsbruck        1-1 Austria
 
 ▪ Round 33 ▪
 _ May 9 _
-LASK        2-2 Rapid
-Innsbruck     3-1 Admira/Wacker
+LASK             2-2 Rapid
+Innsbruck        3-1 Admira/Wacker
 _ May 10 _
-Austria     2-0 Klagenfurt
-Sturm        1-1 GAK
+Austria          2-0 Klagenfurt
+Sturm            1-1 GAK
 
 ▪ Round 34 ▪  May 16
-Admira/Wacker     2-2 LASK
-Klagenfurt     0-2 Innsbruck
-GAK        0-2 Austria
-Rapid        2-1 Sturm
+Admira/Wacker    2-2 LASK
+Klagenfurt       0-2 Innsbruck
+GAK              0-2 Austria
+Rapid            2-1 Sturm
 
 ▪ Round 35 ▪
 _ May 23 _
-Austria     1-3 Rapid
-Sturm        2-1 LASK
-Innsbruck     3-1 GAK
+Austria          1-3 Rapid
+Sturm            2-1 LASK
+Innsbruck        3-1 GAK
 _ May 24 _
-Klagenfurt     1-0 Admira/Wacker
+Klagenfurt       1-0 Admira/Wacker
 
 ▪ Round 36 ▪  May 30
-Admira/Wacker     2-1 Sturm
-GAK        2-1 Klagenfurt
-LASK        0-1 Austria
-Rapid        3-3 Innsbruck
+Admira/Wacker    2-1 Sturm
+GAK              2-1 Klagenfurt
+LASK             0-1 Austria
+Rapid            3-3 Innsbruck
 
 <!-- $table4$ - Table -->
 

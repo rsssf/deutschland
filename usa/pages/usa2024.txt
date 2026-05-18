@@ -27,9 +27,11 @@
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 _ Feb 21 _
 Inter Miami            2-0 Real Salt Lake
@@ -628,9 +630,11 @@ Seattle Sounders       1-1 Portland Timbers
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 === Championship Playoff  ‹§chplay›
 ==== Conference Wild Card Round  ‹§cwc›
@@ -703,13 +707,13 @@ Los Angeles FC         1-2 Seattle Sounders       (aet)
 _ Nov 24 _
 Los Angeles Galaxy     6-2 Minnesota United
 
-▪ Conference Finals ▪  Nov 30
+Conference Finals [Nov 30]
 Eastern Conference
 Orlando City           0-1 New York Red Bulls
 Western Conference
 Los Angeles Galaxy     1-0 Seattle Sounders
 
-▪ MLS Cup ▪  Dec 7 @ Carson
+MLS Cup [Dec 7, Carson]
 Los Angeles Galaxy     2-1 New York Red Bulls
 
 

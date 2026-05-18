@@ -14,9 +14,11 @@ Major League Soccer
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 NB: San Jose Earthquakes were readmitted
 
@@ -407,9 +409,11 @@ Columbus Crew           1-0 DC United
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 NB: San Jose Earthquakes were readmitted
 
@@ -444,7 +448,7 @@ Columbus Crew           2-1 Chicago Fire
 _ Nov 15 _
 Real Salt Lake          0-1 New York Red Bulls
 
-▪ MLS Cup ▪  Nov 23
+MLS Cup [Nov 23]
 Columbus Crew           3-1 New York Red Bulls
 
 
@@ -563,28 +567,38 @@ USL - PREMIER DEVELOPMENT LEAGUE
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table7$ - New England Division -->
+     New England Division
+<!-- $table7$ -->
 
-<!-- $table8$ - Northeast Division -->
+     Northeast Division
+<!-- $table8$ -->
 
-<!-- $table9$ - Mid-Atlantic Division -->
+     Mid-Atlantic Division
+<!-- $table9$ -->
 
      CENTRAL CONFERENCE
-<!-- $table10$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table10$ -->
 
-<!-- $table11$ - Midwest Division -->
+     Midwest Division
+<!-- $table11$ -->
 
-<!-- $table12$ - Heartland Division -->
+     Heartland Division
+<!-- $table12$ -->
 
      SOUTHERN CONFERENCE
-<!-- $table13$ - Mid-South Division -->
+     Mid-South Division
+<!-- $table13$ -->
 
-<!-- $table14$ - Southeast Division -->
+     Southeast Division
+<!-- $table14$ -->
 
      WESTERN CONFERENCE
-<!-- $table15$ - Southwest Division -->
+     Southwest Division
+<!-- $table15$ -->
 
-<!-- $table16$ - Northwest Division -->
+     Northwest Division
+<!-- $table16$ -->
 
 Divisional Round:        Kalamazoo defeated Chicago 2-0
                          Thunder Bay defeated Colorado 3-1

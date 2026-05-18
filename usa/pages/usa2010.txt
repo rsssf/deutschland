@@ -35,9 +35,11 @@
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 NB: Philadelphia Union were added for 2010
 
@@ -424,9 +426,11 @@ Los Angeles Galaxy     2-1 FC Dallas
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 NB: Philadelphia Union were added for 2010
 
@@ -435,7 +439,7 @@ NB: top-2 of both conferences and 4 next best teams in overall table
 
 === Championship Playoff  ‹§play›
 
-▪ Conference Semifinals ▪
+Conference Semifinals
 
 ▪ First Legs ▪
 _ Oct 28 _
@@ -463,7 +467,7 @@ _ Nov 7 _
 Los Angeles Galaxy     2-1 Seattle Sounders
   (Edson Buddle 19, Gonzalez 27; Zakuani 86)
 
-▪ Conference Finals ▪
+Conference Finals
 
 NB: absurdly this stage is known as Conference Finals in spite
     of the fact that all Eastern Conference teams had already
@@ -483,7 +487,7 @@ Colorado Rapids        2-1 FC Dallas              (aet)
 
 == US Open Cup  ‹§open›
 
-▪ Qualification MLS ▪
+Qualification MLS
 
 ▪ First Round ▪
 _ Apr 14 _
@@ -566,9 +570,11 @@ FC Gold Pride             4-0 Philadelphia Independence
 
 Final Tables:
 
-<!-- $table6$ - NASL Conference -->
+NASL Conference
+<!-- $table6$ -->
 
-<!-- $table7$ - USL Conference -->
+USL Conference
+<!-- $table7$ -->
 
 NB: conference winners and 6 next best teams in overall table
     qualify for championship playoff
@@ -635,28 +641,36 @@ Champions: Charleston Battery
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table9$ - Northeast Division -->
+     Northeast Division
+<!-- $table9$ -->
 
-<!-- $table10$ - Mid-Atlantic Division -->
+     Mid-Atlantic Division
+<!-- $table10$ -->
 
      SOUTHERN CONFERENCE
-<!-- $table11$ - Southeast Division -->
+     Southeast Division
+<!-- $table11$ -->
 
-<!-- $table12$ - Mid-South Division -->
+     Mid-South Division
+<!-- $table12$ -->
 
      CENTRAL CONFERENCE
-<!-- $table13$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table13$ -->
 
-<!-- $table14$ - Heartland Division -->
+     Heartland Division
+<!-- $table14$ -->
 
      WESTERN CONFERENCE
-<!-- $table15$ - Southwest Division -->
+     Southwest Division
+<!-- $table15$ -->
 
-<!-- $table16$ - Northwest Division -->
+     Northwest Division
+<!-- $table16$ -->
 
 === Championship Playoff  ‹§uslpdl›
 
-▪ Conference Semifinals ▪
+Conference Semifinals
 Portland U23   2-1 Hollywood
 Kitsap         1-1 Ventura County  (5-3 pen)
 Ottawa         2-0 Newark
@@ -666,7 +680,7 @@ Michigan       2-0 Rochester T
 Baton Rouge    1-1 Laredo          (6-5 pen)
 Houston L      2-2 Mississippi     (6-5 pen)
 
-▪ Conference Finals ▪
+Conference Finals
 Portland U23   2-1 Kitsap
 Reading        3-2 Ottawa
 Thunder Bay    2-1 Michigan
@@ -679,7 +693,7 @@ Thunder Bay    2-1 Baton Rouge
 ▪ Third Place Match ▪
 Baton Rouge    2-2 Reading         (4-2 pen)
 
-▪ Championship Final ▪
+Championship Final
 Portland U23   4-1 Thunder Bay
 
 Champions: Portland Timbers U23's
@@ -688,22 +702,27 @@ Champions: Portland Timbers U23's
 == National Premier Soccer League ("Division 4")  ‹§npsl›
 
                             GP   W   L   D   GF  GA  Pts
-<!-- $table17$ - Northeast Atlantic Conference -->
+     Northeast Atlantic Conference
+<!-- $table17$ -->
 
-<!-- $table18$ - Northeast Keystone Conference -->
+     Northeast Keystone Conference
+<!-- $table18$ -->
 
-<!-- $table19$ - Southeast Conference -->
+     Southeast Conference
+<!-- $table19$ -->
 
-<!-- $table20$ - Midwest Conference -->
+     Midwest Conference
+<!-- $table20$ -->
 
-<!-- $table21$ - West Conference -->
+     West Conference
+<!-- $table21$ -->
 
 === Championship Playoff  ‹§npsl›
 Divisional Playoffs
 Sacramento     6-3 Bay Area
 San Diego Boca 4-0 San Jose
 
-▪ Divisional Finals ▪
+Divisional Finals
 Lehigh Valley  bt  New York Red Bull
 Sacramento     bt  San Diego Boca
 
@@ -714,7 +733,7 @@ Chattanooga    2-0 Madison
 ▪ Third Place Playoff ▪
 Lehigh Valley  3-1 Madison
 
-▪ Championship Final ▪
+Championship Final
 Sacramento     3-1 Chattanooga
 
 Champions: Sacramento Gold
@@ -723,27 +742,37 @@ Champions: Sacramento Gold
 == Women's Premier Soccer League  ‹§wpsl›
 
                           GP   W   L   D   GF  GA  Pts
-<!-- $table22$ - East-Northeast Division -->
+     East-Northeast Division
+<!-- $table22$ -->
 
 
-<!-- $table23$ - East-Central Division -->
+     East-Central Division
+<!-- $table23$ -->
 
-<!-- $table24$ - East-Mid-Atlantic Division -->
+     East-Mid-Atlantic Division
+<!-- $table24$ -->
 
-<!-- $table25$ - Sunshine Division -->
+     Sunshine Division
+<!-- $table25$ -->
 
-<!-- $table26$ - Midwest North Division -->
+     Midwest North Division
+<!-- $table26$ -->
 
-<!-- $table27$ - Midwest South Division -->
+     Midwest South Division
+<!-- $table27$ -->
 
 
-<!-- $table28$ - Big Sky South Division -->
+     Big Sky South Division
+<!-- $table28$ -->
 
-<!-- $table29$ - Big Sky North Division -->
+     Big Sky North Division
+<!-- $table29$ -->
 
-<!-- $table30$ - Pacific South Division -->
+     Pacific South Division
+<!-- $table30$ -->
 
-<!-- $table31$ - Pacific North Division -->
+     Pacific North Division
+<!-- $table31$ -->
 
 Regional Play-in    : Milwaukee defeated Fort Wayne 3-1
                       Lancaster defeated Chesapeake 2-0
@@ -768,16 +797,21 @@ CHAMPIONSHIP:         Boston defeated Ajax America 2-1
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table32$ - Northeast Division -->
+     Northeast Division
+<!-- $table32$ -->
 
-<!-- $table33$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table33$ -->
 
      CENTRAL CONFERENCE
-<!-- $table34$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table34$ -->
 
-<!-- $table35$ - Midwest Division -->
+     Midwest Division
+<!-- $table35$ -->
 
-<!-- $table36$ - WESTERN CONFERENCE -->
+     WESTERN CONFERENCE
+<!-- $table36$ -->
 
 Divisional Round:      Toronto defeated Laval 2-0
 Conference Semifinals: Buffalo defeated Toronto 3-0

@@ -507,27 +507,27 @@ Guido Pizarro                   Javier Gí¼émez (M)
 
 Tigres UANL roster team
 
-Nahuel Guzmán      GK (Argentina)
-Enrique Palos      GK
+Nahuel Guzmán           GK (Argentina)
+Enrique Palos           GK
 Anselmo Vendrechovski   DEF (Brazil)
-Hugo Ayala      DEF
-Israel Jiménez      DEF
-Jorge Torres Nilo   DEF
-Jorge Estrada      DEF
-José Arturo Rivas   DEF
-Guido Pizarro      MDF (Argentina)
+Hugo Ayala              DEF
+Israel Jiménez          DEF
+Jorge Torres Nilo       DEF
+Jorge Estrada           DEF
+José Arturo Rivas       DEF
+Guido Pizarro           MDF (Argentina)
 Alberto Acosta          MDF
-Javier Aquino      MDF
-Jesús Alberto Dueñas   MDF
-Luis Rodríguez      MDF
-Jí¼rgen Damm      MDF
-Jorge Espericueta   MDF
-Manuel Viniegra      MDF
+Javier Aquino           MDF
+Jesús Alberto Dueñas    MDF
+Luis Rodríguez          MDF
+Jí¼rgen Damm            MDF
+Jorge Espericueta       MDF
+Manuel Viniegra         MDF
 Damián Ariel Álvarez   MDF (Argentina/Mexico)
-André-Pierre Gignac   FWD (France)
-Ismael Sosa      FWD (Argentina)
-Andy Delort      FWD (France)
-Julián Quiñónes      FWD (Colombia)
+André-Pierre Gignac     FWD (France)
+Ismael Sosa             FWD (Argentina)
+Andy Delort             FWD (France)
+Julián Quiñónes         FWD (Colombia)
 
 Coach: Ricardo Ferreti (BRA)
 
@@ -958,7 +958,7 @@ Santos             2-2 Toluca
 
 Relegation Table
 
-Team         Average
+Team                    Average
 América                1.6569
 Tigres                 1.6373
 Monterrey              1.5980
@@ -1041,32 +1041,32 @@ Guadalajara        2-1 Tigres
   (Alan Pulido 16, José Juan Vázquez 70; Ismael Sosa 88)
 
 CD Guadalajara Roster team
-Rodolfo Cota      GK
-Miguel Ángel Jiménez   GK
-Oswaldo Alanís      DEF
-Carlos Salcido      DEF
-Jair Pereira      DEF
-Edwin Hernández      DEF
-Hedgardo Marín      DEF
-Miguel Ángel Ponce   DEF
-Jesús Sánchez      DEF
-Miguel Basulto      DEF
-Orbelín Pineda      MDF
-Néstor Calderón      MDF
-Isaac Brizuela      MDF
-Rodolfo Pizarro      MDF
-José Juan Vázquez   MDF
-Carlos Cisneros      MDF
-Alan Cervantes      MDF
-Alejandro Zendejas   MDF
-Michael Pérez      MDF
-Michelle Benítez   MDF
-Alan Pulido      FWD
-Javier Eduardo López   FWD
-Ángel Zaldívar      FWD
-Carlos Fierro      FWD
-Guillermo Martínez   FWD
-Edson Torres      FWD
+Rodolfo Cota            GK
+Miguel Ángel Jiménez    GK
+Oswaldo Alanís          DEF
+Carlos Salcido          DEF
+Jair Pereira            DEF
+Edwin Hernández         DEF
+Hedgardo Marín          DEF
+Miguel Ángel Ponce      DEF
+Jesús Sánchez           DEF
+Miguel Basulto          DEF
+Orbelín Pineda          MDF
+Néstor Calderón         MDF
+Isaac Brizuela          MDF
+Rodolfo Pizarro         MDF
+José Juan Vázquez       MDF
+Carlos Cisneros         MDF
+Alan Cervantes          MDF
+Alejandro Zendejas      MDF
+Michael Pérez           MDF
+Michelle Benítez        MDF
+Alan Pulido             FWD
+Javier Eduardo López    FWD
+Ángel Zaldívar          FWD
+Carlos Fierro           FWD
+Guillermo Martínez      FWD
+Edson Torres            FWD
 
 Coach: Matías Almeyda (ARG)
 
@@ -1085,21 +1085,37 @@ NB: the Cup Tournament is played by 12 teams from the Liga MX (first level) and
 
 Tables:
 
-<!-- $table6$ - Group 1 -->
+Group 1
 
-<!-- $table7$ - Group 2 -->
+<!-- $table6$ -->
 
-<!-- $table8$ - Group 3 -->
+Group 2
 
-<!-- $table9$ - Group 4 -->
+<!-- $table7$ -->
 
-<!-- $table10$ - Group 5 -->
+Group 3
 
-<!-- $table11$ - Group 6 -->
+<!-- $table8$ -->
 
-<!-- $table12$ - Group 7 -->
+Group 4
 
-<!-- $table13$ - Group 8 -->
+<!-- $table9$ -->
+
+Group 5
+
+<!-- $table10$ -->
+
+Group 6
+
+<!-- $table11$ -->
+
+Group 7
+
+<!-- $table12$ -->
+
+Group 8
+
+<!-- $table13$ -->
 
 
 Group Phase
@@ -1224,21 +1240,37 @@ Leones Negros      5-0 Coras
 
 Tables:
 
-<!-- $table14$ - Group 1 -->
+Group 1
 
-<!-- $table15$ - Group 2 -->
+<!-- $table14$ -->
 
-<!-- $table16$ - Group 3 -->
+Group 2
 
-<!-- $table17$ - Group 4 -->
+<!-- $table15$ -->
 
-<!-- $table18$ - Group 5 -->
+Group 3
 
-<!-- $table19$ - Group 6 -->
+<!-- $table16$ -->
 
-<!-- $table20$ - Group 7 -->
+Group 4
 
-<!-- $table21$ - Group 8 -->
+<!-- $table17$ -->
+
+Group 5
+
+<!-- $table18$ -->
+
+Group 6
+
+<!-- $table19$ -->
+
+Group 7
+
+<!-- $table20$ -->
+
+Group 8
+
+<!-- $table21$ -->
 
 ==== Playoff Stage  ‹§copaplay›
 
@@ -1311,25 +1343,25 @@ Querétaro Cup champions
 Querétaro roster team
 
 Tiago Volpi                     GK (Brazil)
-Edgar Hernández         GK
-Dionicio Escalante      DEF
-George Corral         DEF
-Jonathan Bornstein      DEF (USA)
-Juan Forlín         DEF (Argentina)
-Miguel Ángel Martínez      DEF (Argentina)
-Nery Domínguez         DEF (Argentina)
-Armando Zamorano      MDF
-Jaime Gómez         MDF
-Luis Gil         MDF (USA/Mexico)
-Luis Miguel Noriega      MDF
-Marco Antonio Jiménez      MDF
-Mario Osuna         MDF
-Neri Raúl Cardozo      MDF (Argentina)
-Yerson Candelo         MDF (Colombia)
-Andrés Rentería         FWD (Colombia)
-íngel Sepúlveda         FWD
-Edgar Benítez         FWD (Paraguay)
-Emanuel Villa         FWD (Argentina)
+Edgar Hernández                 GK
+Dionicio Escalante              DEF
+George Corral                   DEF
+Jonathan Bornstein              DEF (USA)
+Juan Forlín                     DEF (Argentina)
+Miguel Ángel Martínez          DEF (Argentina)
+Nery Domínguez                  DEF (Argentina)
+Armando Zamorano                MDF
+Jaime Gómez                     MDF
+Luis Gil                        MDF (USA/Mexico)
+Luis Miguel Noriega             MDF
+Marco Antonio Jiménez           MDF
+Mario Osuna                     MDF
+Neri Raúl Cardozo               MDF (Argentina)
+Yerson Candelo                  MDF (Colombia)
+Andrés Rentería                 FWD (Colombia)
+íngel Sepúlveda                        FWD
+Edgar Benítez                   FWD (Paraguay)
+Emanuel Villa                   FWD (Argentina)
 
 Coach: Víctor Manuel Vucetich
 
@@ -1347,23 +1379,41 @@ NB: the Cup Tournament is played by 15 teams from the Liga MX (first level) and
 
 Tables:
 
-<!-- $table22$ - Group 1 -->
+Group 1
 
-<!-- $table23$ - Group 2 -->
+<!-- $table22$ -->
 
-<!-- $table24$ - Group 3 -->
+Group 2
 
-<!-- $table25$ - Group 4 -->
+<!-- $table23$ -->
 
-<!-- $table26$ - Group 5 -->
+Group 3
 
-<!-- $table27$ - Group 6 -->
+<!-- $table24$ -->
 
-<!-- $table28$ - Group 7 -->
+Group 4
 
-<!-- $table29$ - Group 8 -->
+<!-- $table25$ -->
 
-<!-- $table30$ - Group 9 -->
+Group 5
+
+<!-- $table26$ -->
+
+Group 6
+
+<!-- $table27$ -->
+
+Group 7
+
+<!-- $table28$ -->
+
+Group 8
+
+<!-- $table29$ -->
+
+Group 9
+
+<!-- $table30$ -->
 
 
 Group Phase
@@ -1512,23 +1562,41 @@ Mineros            3-0 Atlas
 
 Tables:
 
-<!-- $table31$ - Group 1 -->
+Group 1
 
-<!-- $table32$ - Group 2 -->
+<!-- $table31$ -->
 
-<!-- $table33$ - Group 3 -->
+Group 2
 
-<!-- $table34$ - Group 4 -->
+<!-- $table32$ -->
 
-<!-- $table35$ - Group 5 -->
+Group 3
 
-<!-- $table36$ - Group 6 -->
+<!-- $table33$ -->
 
-<!-- $table37$ - Group 7 -->
+Group 4
 
-<!-- $table38$ - Group 8 -->
+<!-- $table34$ -->
 
-<!-- $table39$ - Group 9 -->
+Group 5
+
+<!-- $table35$ -->
+
+Group 6
+
+<!-- $table36$ -->
+
+Group 7
+
+<!-- $table37$ -->
+
+Group 8
+
+<!-- $table38$ -->
+
+Group 9
+
+<!-- $table39$ -->
 
 ==== Playoff Stage  ‹§copacplay›
 
@@ -1605,32 +1673,32 @@ Guadalajara Cup champions
 
 CD Guadalajara Roster team
 
-Rodolfo Cota      GK
-Miguel Ángel Jiménez   GK
-Oswaldo Alanís      DEF
-Carlos Salcido      DEF
-Jair Pereira      DEF
-Edwin Hernández      DEF
-Hedgardo Marín      DEF
-Miguel Ángel Ponce   DEF
-Jesús Sánchez      DEF
-Miguel Basulto      DEF
-Orbelín Pineda      MDF
-Néstor Calderón      MDF
-Isaac Brizuela      MDF
-Rodolfo Pizarro      MDF
-José Juan Vázquez   MDF
-Carlos Cisneros      MDF
-Alan Cervantes      MDF
-Alejandro Zendejas   MDF
-Michael Pérez      MDF
-Michelle Benítez   MDF
-Alan Pulido      FWD
-Javier Eduardo López   FWD
-Ángel Zaldívar      FWD
-Carlos Fierro      FWD
-Guillermo Martínez   FWD
-Edson Torres      FWD
+Rodolfo Cota            GK
+Miguel Ángel Jiménez    GK
+Oswaldo Alanís          DEF
+Carlos Salcido          DEF
+Jair Pereira            DEF
+Edwin Hernández         DEF
+Hedgardo Marín          DEF
+Miguel Ángel Ponce      DEF
+Jesús Sánchez           DEF
+Miguel Basulto          DEF
+Orbelín Pineda          MDF
+Néstor Calderón         MDF
+Isaac Brizuela          MDF
+Rodolfo Pizarro         MDF
+José Juan Vázquez       MDF
+Carlos Cisneros         MDF
+Alan Cervantes          MDF
+Alejandro Zendejas      MDF
+Michael Pérez           MDF
+Michelle Benítez        MDF
+Alan Pulido             FWD
+Javier Eduardo López    FWD
+Ángel Zaldívar          FWD
+Carlos Fierro           FWD
+Guillermo Martínez      FWD
+Edson Torres            FWD
 
 Coach: Matías Almeyda (ARG)
 
@@ -2244,24 +2312,24 @@ Dorados           1-2 Correcaminos UAT
 
 Relegation Table
 
-Team         Average
-Mineros         1.7111
-Dorados         1.7059
-Potros UAEM      1.6765
-FC Juárez      1.5469
-Alebrijes      1.5222
-Lobos BUAP      1.4889
-Coras         1.4667
-Atlante         1.4444
-Leones Negros      1.4062
-Cafetaleros      1.3444
-Celaya         1.2889
-Correcaminos UAT   1.2778
-Zacatepec      1.2556
-Cimarrones      1.1250
-Venados         1.1222
-Murciélagos      1.1222
-Tampico Madero      0.9706
+Team                    Average
+Mineros                 1.7111
+Dorados                 1.7059
+Potros UAEM             1.6765
+FC Juárez               1.5469
+Alebrijes               1.5222
+Lobos BUAP              1.4889
+Coras                   1.4667
+Atlante                 1.4444
+Leones Negros           1.4062
+Cafetaleros             1.3444
+Celaya                  1.2889
+Correcaminos UAT        1.2778
+Zacatepec               1.2556
+Cimarrones              1.1250
+Venados                 1.1222
+Murciélagos             1.1222
+Tampico Madero          0.9706
 -----------------------------
 Loros                  0.8235 (relegated)
 
@@ -2309,7 +2377,7 @@ FC Juárez         1-2 Lobos BUAP
 
 === Promotion Playoff  ‹§2prom›
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  May 13
 Lobos BUAP        1-0 Dorados

@@ -634,15 +634,20 @@ be promoted.
 
 Tables:
 
-<!-- $table7$ - Group A -->
+Group A
+<!-- $table7$ -->
 
-<!-- $table8$ - Group B -->
+Group B
+<!-- $table8$ -->
 
-<!-- $table9$ - Group C -->
+Group C
+<!-- $table9$ -->
 
-<!-- $table10$ - Group D -->
+Group D
+<!-- $table10$ -->
 
-<!-- $table11$ - Group E -->
+Group E
+<!-- $table11$ -->
 
 ▪ Round 1 ▪
 August 9th:
@@ -804,15 +809,20 @@ Mogi-Mirim    2-2 Londrina
 
 Tables:
 
-<!-- $table12$ - Group A -->
+Group A
+<!-- $table12$ -->
 
-<!-- $table13$ - Group B -->
+Group B
+<!-- $table13$ -->
 
-<!-- $table14$ - Group C -->
+Group C
+<!-- $table14$ -->
 
-<!-- $table15$ - Group D -->
+Group D
+<!-- $table15$ -->
 
-<!-- $table16$ - Group E -->
+Group E
+<!-- $table16$ -->
 
 Bottom clubs relegated to third division; top-3 of each group plus
 Náutico (as best 4th placed teams) to knock-out stage for
@@ -836,9 +846,11 @@ Atlético-GO     1-2 1-2     Joinville
 
 ▪ THIRD STAGE ▪
 
-<!-- $table17$ - Group A -->
+Group A:
+<!-- $table17$ -->
 
-<!-- $table18$ - Group B -->
+Group B:
+<!-- $table18$ -->
 
 ▪ Round 1 ▪  Oct 13-20
 CRB           2-2 Ponte Preta
@@ -876,9 +888,11 @@ Gama          2-2 Náutico
 Joinville     1-2 Vila Nova
 América       5-0 Tuna Luso
 
-<!-- $table19$ - Group A -->
+Group A:
+<!-- $table19$ -->
 
-<!-- $table20$ - Group B -->
+Group B:
+<!-- $table20$ -->
 
 FINAL STAGE
 

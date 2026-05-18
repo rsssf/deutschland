@@ -29,9 +29,11 @@
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 _ Mar 8 _
 Seattle Sounders       1-0 Sporting Kansas City
@@ -519,9 +521,11 @@ Sporting Kansas City   0-2 New York Red Bulls
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 
 === Championship Playoff  ‹§play›

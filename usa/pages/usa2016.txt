@@ -23,9 +23,11 @@
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 _ Mar 6 _
 New York Red Bulls     0-2 Toronto FC
@@ -513,13 +515,15 @@ Vancouver Whitecaps    4-1 Portland Timbers
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 === Championship Playoff  ‹§play›
 
-▪ Conference Quarterfinals ▪
+Conference Quarterfinals
 _ Oct 26 _
 Toronto FC             3-1 Philadelphia Union
 Los Angeles Galaxy     3-1 Real Salt Lake
@@ -527,7 +531,7 @@ _ Oct 27 _
 DC United              2-4 Montreal Impact
 Seattle Sounders       1-0 Sporting Kansas City
 
-▪ Conference Semifinals ▪
+Conference Semifinals
 
 ▪ First Legs ▪  Oct 30
 Toronto FC             2-0 New York City FC
@@ -541,7 +545,7 @@ New York Red Bulls     1-2 Montreal Impact
 Colorado Rapids        1-0 Los Angeles Galaxy     (aet, 3-1 pen)
 FC Dallas              2-1 Seattle Sounders
 
-▪ Conference Finals ▪
+Conference Finals
 
 ▪ First Legs ▪  Nov 22
 Seattle Sounders       2-1 Colorado Rapids
@@ -553,7 +557,7 @@ Colorado Rapids        0-1 Seattle Sounders
 _ Nov 30 _
 Toronto FC             5-2 Montreal Impact        (aet)
 
-▪ MLS Cup ▪  Dec 10 @ BMO Field, Toronto
+MLS Cup [Dec 10, BMO Field, Toronto]
 Toronto FC             0-0 Seattle Sounders       (aet, 4-5 pen)
 
 

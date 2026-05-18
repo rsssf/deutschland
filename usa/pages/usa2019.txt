@@ -27,9 +27,11 @@ NB: FC Cincinnati were admitted
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 _ Mar 2 _
 Philadelphia Union     1-3 Toronto FC
@@ -586,9 +588,11 @@ Portland Timbers       3-1 San Jose Earthquakes
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 
 === Championship Playoff  ‹§play›
@@ -624,14 +628,14 @@ Seattle Sounders       2-0 Real Salt Lake
 _ Oct 24 _
 Los Angeles FC         5-3 Los Angeles Galaxy
 
-▪ Conference Finals ▪
+Conference Finals
 
 Western Conference [Oct 29]
 Los Angeles FC         1-3 Seattle Sounders
 Eastern Conference [Oct 30]
 Atlanta United FC      1-2 Toronto FC
 
-▪ MLS Cup ▪  Nov 10 @ CenturyLink Field, Seattle
+MLS Cup [Nov 10, CenturyLink Field, Seattle]
 Seattle Sounders       3-1 Toronto FC
 
 

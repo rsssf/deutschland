@@ -11,9 +11,11 @@
                          MAJOR LEAGUE SOCCER (1st Division)
 
                            GP   W  WS  LS   L   GF  GA   Pts
-<!-- $table1$ - Eastern Conference -->
+        Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+        Western Conference
+<!-- $table2$ -->
 
 Conference Semifinals:   D. C. United defeated New England, 4-1, 2-1(SO)
                          Columbus defeated Tampa Bay 2-1, 1-0
@@ -27,13 +29,17 @@ MLS CUP '97              D. C. United defeated Colorado, 2-1
                           A-LEAGUE (2nd Division)
 
                                GP   W  SW  SL   L   GF  GA  Pts
-<!-- $table3$ - Northeast Division -->
+     Northeast Division
+<!-- $table3$ -->
 
-<!-- $table4$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table4$ -->
 
-<!-- $table5$ - Central Division -->
+     Central Division
+<!-- $table5$ -->
 
-<!-- $table6$ - Pacific Division -->
+     Pacific Division
+<!-- $table6$ -->
 
 Division Semi-finals: Long Island defeated Rochester 1-0 (SO), 2-1 (SO)
                       Montreal defeated Toronto 2-1, 4-0
@@ -55,19 +61,25 @@ CHAMPIONSHIP:         Milwaukee defeated Carolina 2-1(SO)
                      D3PRO LEAGUE (3rd Division)
 
                            GP   W   SW  SL  L   GF  GA  Pts
-<!-- $table7$ - Northeast Division -->
+        Northeast Division
+<!-- $table7$ -->
 
-<!-- $table8$ - Mid-Atlantic Division -->
+        Mid-Atlantic Division
+<!-- $table8$ -->
 
-<!-- $table9$ - South Atlantic Division -->
+        South Atlantic Division
+<!-- $table9$ -->
 
-<!-- $table10$ - North Central Division -->
+        North Central Division
+<!-- $table10$ -->
 
-<!-- $table11$ - South Central Division -->
+        South Central Division
+<!-- $table11$ -->
 
 *Albuquerque gets a bye to the national semifinal as hosts.
 
-<!-- $table12$ - West Division -->
+        West Division
+<!-- $table12$ -->
 
 Division Semi-finals:   Central Jersey defeated North Jersey 2-1 (SO)
                         New Hampshire defeated Rhode Island 2-1 (OT)
@@ -97,17 +109,23 @@ CHAMPIONSHIP:           Albuquerque defeated Charlotte, 4-1
              PREMIER DEVELOPMENT SOCCER LEAGUE ("4TH Division")
 
                             GP   W   SW  SL  L   GF  GA  Pts
-<!-- $table13$ - Mid-South Division -->
+        Mid-South Division
+<!-- $table13$ -->
 
-<!-- $table14$ - Southeast Division -->
+        Southeast Division
+<!-- $table14$ -->
 
-<!-- $table15$ - North Central Division -->
+        North Central Division
+<!-- $table15$ -->
 
-<!-- $table16$ - Central Division -->
+        Central Division
+<!-- $table16$ -->
 
-<!-- $table17$ - Southwest Division -->
+        Southwest Division
+<!-- $table17$ -->
 
-<!-- $table18$ - Northwest Division -->
+        Northwest Division
+<!-- $table18$ -->
 
 Division Semi-finals:   Cocoa defeated Miami 5-2
                         West Florida defeated South Florida 4-0
@@ -137,7 +155,7 @@ CHAMPIONSHIP:           Central Coast defeated Cocoa, 2-1
                          CONTINENTAL INDOOR SOCCER LEAGUE
 
                           GP   W   L  Pct.  GF  GA  GB
-   Eastern Division
+        Eastern Division
 Monterrey La Raza         28  20   8  .714 190 166  ---
 Indiana Twisters          28  17  11  .607 194 177  3.0
 Houston Hotshots          28  17  11  .607 199 157  3.0
@@ -145,7 +163,7 @@ Dallas Sidekicks          28  13  15  .464 165 160  7.0
 Washington Warthogs       28  12  16  .429 170 178  8.0
 Detroit Safari            28   3  25  .107 134 217 17.0
 
-   Western Division
+        Western Division
 Seattle SeaDogs           28  21   7  .750 170 128  ---
 Anaheim Splash            28  16  12  .571 165 134  5.0
 Sacramento Knights        28  14  14  .500 146 148  7.0
@@ -164,15 +182,20 @@ CHAMPIONSHIP:           Seattle defeated Houston, 6-5, 7-1
                         W-LEAGUE (Women)
 
                                  GP   W  SW SL L   GF  GA  Pts
-<!-- $table19$ - Northeast Division -->
+     Northeast Division
+<!-- $table19$ -->
 
-<!-- $table20$ - Central Atlantic Division -->
+     Central Atlantic Division
+<!-- $table20$ -->
 
-<!-- $table21$ - South Division -->
+     South Division
+<!-- $table21$ -->
 
-<!-- $table22$ - Midwest Division -->
+     Midwest Division
+<!-- $table22$ -->
 
-<!-- $table23$ - West Division -->
+     West Division
+<!-- $table23$ -->
 
 Divisional playoffs:  Long Island defeated Boston 1-0 (SO)
                       Maryland defeated Hampton Roads, 7-0
@@ -190,7 +213,9 @@ Third-Place Game:     Maryland defeated California 4-3
 CHAMPIONSHIP:         Long Island defeated Chicago 2-1 (SO)
 
 
-<!-- $table24$ - EASTERN INDOOR SOCCER LEAGUE -->
+                      EASTERN INDOOR SOCCER LEAGUE
+
+<!-- $table24$ -->
 
 Huntsville began the season as the Daytona Beach SpeedKings.
 

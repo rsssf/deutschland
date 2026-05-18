@@ -27,9 +27,11 @@
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 === Championship Playoff  ‹§chplay›
 ==== Conference Wild Card Round  ‹§cwc›
@@ -103,13 +105,13 @@ Vancouver Whitecaps    2-2 Los Angeles FC         (4-3 pen)
 _ Nov 24 _
 San Diego FC           1-0 Minnesota United
 
-▪ Conference Finals ▪  Nov 29
+Conference Finals [Nov 29]
 Eastern Conference
 Inter Miami            5-1 New York City
 Western Conference
 San Diego FC           1-3 Vancouver Whitecaps
 
-▪ MLS Cup ▪  Dec 6 @ Fort Lauderdale
+MLS Cup [Dec 6, Fort Lauderdale]
 Inter Miami            3-1 Vancouver Whitecaps
 
 

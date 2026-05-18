@@ -1254,13 +1254,17 @@ Fourth Level 2003/04
 Feeders of Regionalliga West
 
 
-<!-- $table8$ - Vorarlberg-Liga -->
+Vorarlberg-Liga
+
+<!-- $table8$ -->
 
 No relegation from Regionalliga (West)
 Promoted to Vorarlberg-Liga: FC Egg, SV Lochau
 
 
-<!-- $table9$ - Tiroler Liga  ‹§tirol› -->
+Tiroler Liga  ‹§tirol›
+
+<!-- $table9$ -->
 
 [*] SV Wörgl Amateure refused to be promoted, therefore ISK is promoted to Regionalliga
 
@@ -1279,19 +1283,25 @@ Promoted to 1.Landesliga: SK Mittersill, FC Oberndorf
 Feeders of Regionalliga Mitte
 
 
-<!-- $table11$ - Oberösterreich-Liga -->
+Oberösterreich-Liga
+
+<!-- $table11$ -->
 
 Relegated from Regionalliga (Mitte): FC Wels, LASK Linz Amateure
 Promoted to Oberösterreich-Liga: SV Gallneukirchen, 1.FC Vöcklabruck
 
 
-<!-- $table12$ - Landesliga Steiermark -->
+Landesliga Steiermark
+
+<!-- $table12$ -->
 
 No relegation from Regionalliga (Mitte)
 Promoted to Landesliga: SV Feldkirchen, FSC Eggendorf/Hartberg II, WSV St.Lambrecht
 
 
-<!-- $table13$ - Kärntner Liga -->
+Kärntner Liga
+
+<!-- $table13$ -->
 
 No relegation from Regionalliga (Mitte)
 Promoted to Landesliga: ATUS Ferlach, FC Möllbrücke, WSG Brückl
@@ -1308,13 +1318,17 @@ No relegation from Regionalliga (Ost)
 Promoted to 1.Landesliga: SC Amaliendorf, ASK Schwadorf
 
 
-<!-- $table15$ - Wiener Stadtliga -->
+Wiener Stadtliga
+
+<!-- $table15$ -->
 
 Relegated from Regionalliga (Ost): FAC
 Promoted to Stadtliga: Wienerberg, SV Essling
 
 
-<!-- $table16$ - Burgenland-Liga -->
+Burgenland-Liga
+
+<!-- $table16$ -->
 
 Relegated from Regionalliga (Ost): SV Neuberg, SV Oberwart
 Promoted to Burgenland-Liga: SK Neusiedl/S., SV Forchtenstein, SV Stegersbach
@@ -1324,18 +1338,26 @@ Fifth and Lower Levls (only Tirol)
 
 Fifth Level
 
-<!-- $table17$ - Landesliga Ost -->
+Landesliga Ost
 
-<!-- $table18$ - Landesliga West -->
+<!-- $table17$ -->
+
+Landesliga West
+
+<!-- $table18$ -->
 
 SV Rinn regrouped in 2004/05 from Landesliga West to Ost.
 
 
 Sixth Level
 
-<!-- $table19$ - Gebietsliga Ost -->
+Gebietsliga Ost
 
-<!-- $table20$ - Gebietsliga West -->
+<!-- $table19$ -->
+
+Gebietsliga West
+
+<!-- $table20$ -->
 
 [*] unites with FC Stanzach to form SPG Lechtal in 1.Klasse West 2004/05
 
@@ -1374,7 +1396,8 @@ transfered to 2.Klasse West in 2004/05: FC Grinzens, SV Telfs II, SV Scharnitz
 
 2.Klasse West
 
-<!-- $table26$ - Promotion Play off -->
+Promotion Play off
+<!-- $table26$ -->
 
 [*] unites with SV Elbigenalp to form SPG Lechtal in 1.Klasse West 2004/05
 

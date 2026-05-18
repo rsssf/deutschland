@@ -59,13 +59,17 @@ Invierno 2001
 
 FINAL TABLES
 
-<!-- $table2$ - Group 1 -->
+Group 1
+<!-- $table2$ -->
 
-<!-- $table3$ - Group 2 -->
+Group 2
+<!-- $table3$ -->
 
-<!-- $table4$ - Group 3 -->
+Group 3
+<!-- $table4$ -->
 
-<!-- $table5$ - Group 4 -->
+Group 4
+<!-- $table5$ -->
 
 
 ▪ Regular Season ▪
@@ -531,13 +535,17 @@ Guadalajara   bye
 
 FINAL TABLES
 
-<!-- $table6$ - Group 1 -->
+Group 1
+<!-- $table6$ -->
 
-<!-- $table7$ - Group 2 -->
+Group 2
+<!-- $table7$ -->
 
-<!-- $table8$ - Group 3 -->
+Group 3
+<!-- $table8$ -->
 
-<!-- $table9$ - Group 4 -->
+Group 4
+<!-- $table9$ -->
 
 
 <!-- $topscorers1$ -->
@@ -646,13 +654,17 @@ Verano 2002
 
 FINAL TABLES
 
-<!-- $table10$ - Group 1 -->
+Group 1
+<!-- $table10$ -->
 
-<!-- $table11$ - Group 2 -->
+Group 2
+<!-- $table11$ -->
 
-<!-- $table12$ - Group 3 -->
+Group 3
+<!-- $table12$ -->
 
-<!-- $table13$ - Group 4 -->
+Group 4
+<!-- $table13$ -->
 
 ▪ Regular season ▪
 
@@ -1119,13 +1131,17 @@ Guadalajara   bye
 
 FINAL TABLES
 
-<!-- $table14$ - Group 1 -->
+Group 1
+<!-- $table14$ -->
 
-<!-- $table15$ - Group 2 -->
+Group 2
+<!-- $table15$ -->
 
-<!-- $table16$ - Group 3 -->
+Group 3
+<!-- $table16$ -->
 
-<!-- $table17$ - Group 4 -->
+Group 4
+<!-- $table17$ -->
 
 
 <!-- $topscorers2$ -->
@@ -1295,13 +1311,17 @@ Invierno 2001
 
 FINAL TABLES
 
-<!-- $table18$ - Group 1 -->
+Group 1
+<!-- $table18$ -->
 
-<!-- $table19$ - Group 2 -->
+Group 2
+<!-- $table19$ -->
 
-<!-- $table20$ - Group 3 -->
+Group 3
+<!-- $table20$ -->
 
-<!-- $table21$ - Group 4 -->
+Group 4
+<!-- $table21$ -->
 
 NB: 1 point deducted to San Luis by undue allignment.
 
@@ -1588,13 +1608,17 @@ Acapulco            3-1 Veracruz
 
 FINAL TABLES
 
-<!-- $table22$ - Group 1 -->
+Group 1
+<!-- $table22$ -->
 
-<!-- $table23$ - Group 2 -->
+Group 2
+<!-- $table23$ -->
 
-<!-- $table24$ - Group 3 -->
+Group 3
+<!-- $table24$ -->
 
-<!-- $table25$ - Group 4 -->
+Group 4
+<!-- $table25$ -->
 
 NB: 1 point deducted to San Luis by undue allignment.
 
@@ -1669,13 +1693,17 @@ Verano 2002
 
 FINAL TABLES
 
-<!-- $table26$ - Group 1 -->
+Group 1
+<!-- $table26$ -->
 
-<!-- $table27$ - Group 2 -->
+Group 2
+<!-- $table27$ -->
 
-<!-- $table28$ - Group 3 -->
+Group 3
+<!-- $table28$ -->
 
-<!-- $table29$ - Group 4 -->
+Group 4
+<!-- $table29$ -->
 
 
 ▪ Regular Season ▪
@@ -1951,13 +1979,17 @@ Tigrillos Saltillo  3-2 Aguascalientes
 
 FINAL TABLES
 
-<!-- $table30$ - Group 1 -->
+Group 1
+<!-- $table30$ -->
 
-<!-- $table31$ - Group 2 -->
+Group 2
+<!-- $table31$ -->
 
-<!-- $table32$ - Group 3 -->
+Group 3
+<!-- $table32$ -->
 
-<!-- $table33$ - Group 4 -->
+Group 4
+<!-- $table33$ -->
 
 NB: According to the competence rules, only 1 point for the awarded match to Zitácuaro (Round 10).
 

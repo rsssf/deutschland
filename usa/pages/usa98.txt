@@ -11,9 +11,11 @@
                          MAJOR LEAGUE SOCCER (1st Division)
 
                            GP   W  WS  LS   L   GF  GA   Pts
-<!-- $table1$ - Eastern Conference -->
+      Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+      Western Conference
+<!-- $table2$ -->
 
 Quarterfinals:        Columbus defeated New York, 5-3, 2-1(SO)
                       D. C. United defeated Miami, 2-1, 1-0(SO)
@@ -27,13 +29,17 @@ MLS CUP '98:          Chicago defeated D. C. United, 2-0
                           A-LEAGUE (2nd Division)
 
                            GP   W  SW  SL   L   GF  GA  Pts
-<!-- $table3$ - Northeast Division -->
+     Northeast Division
+<!-- $table3$ -->
 
-<!-- $table4$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table4$ -->
 
-<!-- $table5$ - Central Division -->
+     Central Division
+<!-- $table5$ -->
 
-<!-- $table6$ - Pacific Division -->
+     Pacific Division
+<!-- $table6$ -->
 
 Conference Quarterfinals:  Rochester defeated Charleston 3-0
                            Hershey defeated Hampton Roads 2-1(SO)
@@ -55,19 +61,26 @@ CHAMPIONSHIP:              Rochester defeated Minnesota, 3-1
                      D3PRO LEAGUE (3rd Division)
 
                             GP   W   L  SW  SL   GF  GA  Pts
-<!-- $table7$ - Northeast Division -->
+      Northeast Division
+<!-- $table7$ -->
 
-<!-- $table8$ - Mid-Atlantic Division -->
+      Mid-Atlantic Division
+<!-- $table8$ -->
 
-<!-- $table9$ - Atlantic Division -->
+      Atlantic Division
+<!-- $table9$ -->
 
-<!-- $table10$ - Southeast Division -->
+      Southeast Division
+<!-- $table10$ -->
 
-<!-- $table11$ - North Central Division -->
+      North Central Division
+<!-- $table11$ -->
 
-<!-- $table12$ - South Central Division -->
+      South Central Division
+<!-- $table12$ -->
 
-<!-- $table13$ - West Division -->
+      West Division
+<!-- $table13$ -->
 
 Division Semi-Finals:  Rhode Island defeated Cape Cod, 5-2
                        New Hampshire defeated Western Massachusetts 2-1 (OT)
@@ -100,15 +113,20 @@ CHAMPIONSHIP:          Chicago defeated New Hampshire, 3-2(OT)
              PREMIER DEVELOPMENT SOCCER LEAGUE ("4TH Division")
 
                             GP   W   L  SW  SL   GF  GA  Pt
-<!-- $table14$ - Southeast Division -->
+      Southeast Division
+<!-- $table14$ -->
 
-<!-- $table15$ - Great Lakes Division -->
+      Great Lakes Division
+<!-- $table15$ -->
 
-<!-- $table16$ - Central Division -->
+      Central Division
+<!-- $table16$ -->
 
-<!-- $table17$ - Southwest Division -->
+      Southwest Division
+<!-- $table17$ -->
 
-<!-- $table18$ - Northwest Division -->
+      Northwest Division
+<!-- $table18$ -->
 
 Divisional Semi-Finals:  Jackson defeated Miami Tango 1-0
                          Cocoa defeated Bradenton 4-3
@@ -139,11 +157,14 @@ CHAMPIONSHIP:            San Gabriel Valley defeated Jackson 3-2
                     W-1 Division
 
                             GP   W   L  SW  SL   GF  GA  Pt
-<!-- $table19$ - North Division -->
+      North Division
+<!-- $table19$ -->
 
-<!-- $table20$ - South Division -->
+      South Division
+<!-- $table20$ -->
 
-<!-- $table21$ - Central Division -->
+      Central Division
+<!-- $table21$ -->
 
 Divisonal Finals:   Maryland defeated Long Island, 2-1
                     Raleigh defeated Atlanta, 2-1
@@ -157,12 +178,15 @@ CHAMPIONSHIP        Raleigh defeated Boston 4-3
                          W-2 Division
 
                             GP   W   L  SW  SL   GF  GA  Pt
-<!-- $table22$ - North Division -->
+      North Division
+<!-- $table22$ -->
 
 
-<!-- $table23$ - South Division -->
+      South Division
+<!-- $table23$ -->
 
-<!-- $table24$ - Central Division -->
+      Central Division
+<!-- $table24$ -->
 
 Divisional Playoffs:  New York defeated Finger Lakes, 1-0
                       Fort Collins defeated Cleveland 1-0
@@ -190,7 +214,9 @@ Brazil                                         0   4
 CHAMPIONSHIP: Dallas defeated Sacramento, 6-2.
 
 
-<!-- $table25$ - EASTERN INDOOR SOCCER LEAGUE -->
+                      EASTERN INDOOR SOCCER LEAGUE
+
+<!-- $table25$ -->
 
 Semi-Finals:          Lafayette defeated Baton Rouge, 13-5, 14-4
                       Mississippi defeated Huntsville 4-11, 15-13 (SO), 12-4
@@ -199,7 +225,9 @@ FINAL:                Lafayette defeated Mississippi, 10-9.
 
                         CANADA PREMIER SOCCER LEAGUE
 
-<!-- $table26$ - League Standings -->
+League Standings
+
+<!-- $table26$ -->
 
 Semifinals:          Toronto Olympians defeated North York, 5-1, 2-0 (Forfeit)
                      St. Catharines defeated Glen Shields, 1-2, 4-0
@@ -208,9 +236,11 @@ FINAL                St. Catharines defeated Toronto Olympians 2-2 (SO 4-2)
 League Cup Standings
 
                            GP   W   T   L   GF   GA   Pts
-<!-- $table27$ - Group A -->
+     Group A
+<!-- $table27$ -->
 
-<!-- $table28$ - Group B -->
+     Group B
+<!-- $table28$ -->
 
 Cup Semi-Finals:    St. Catharines defeated Glen Shields 5-1, 1-0
                     Toronto Olympians defeated North York 4-0, 5-1

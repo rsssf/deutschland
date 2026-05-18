@@ -255,112 +255,112 @@ Meisterplayoff
 
 ▪ Round 23 ▪
 _ Mar 12 _
-Tirol        1-0 Admira/Wacker
-Sturm        1-1 Vienna
+Tirol            1-0 Admira/Wacker
+Sturm            1-1 Vienna
 _ Mar 13 _
-Austria     5-1 GAK
+Austria          5-1 GAK
 _ Mar 23 _
-Sportclub     0-0 Rapid
+Sportclub        0-0 Rapid
 
 ▪ Round 24 ▪  Mar 19
-Admira/Wacker     3-1 Austria
-GAK        2-2 Sportclub
-Rapid        1-1 Sturm
-Vienna        3-0 Tirol
+Admira/Wacker    3-1 Austria
+GAK              2-2 Sportclub
+Rapid            1-1 Sturm
+Vienna           3-0 Tirol
 
 ▪ Round 25 ▪
 _ Mar 26 _
-Austria     1-2 Vienna
-Tirol        0-0 Rapid
-GAK        4-1 Admira/Wacker
+Austria          1-2 Vienna
+Tirol            0-0 Rapid
+GAK              4-1 Admira/Wacker
 _ Mar 27 _
-Sportclub     1-2 Sturm
+Sportclub        1-2 Sturm
 
 ▪ Round 26 ▪
 _ Apr 1 _
-Admira/Wacker     1-0 Sportclub
-Vienna        2-1 GAK
+Admira/Wacker    1-0 Sportclub
+Vienna           2-1 GAK
 _ Apr 2 _
-Austria     4-2 Rapid
-Sturm        2-0 Tirol
+Austria          4-2 Rapid
+Sturm            2-0 Tirol
 
 ▪ Round 27 ▪
 _ Apr 8 _
-Sportclub     5-3 Tirol
+Sportclub        5-3 Tirol
 _ Apr 9 _
-Admira/Wacker     4-2 Vienna
-GAK        0-0 Rapid
+Admira/Wacker    4-2 Vienna
+GAK              0-0 Rapid
 _ Apr 10 _
-Austria     5-1 Sturm
+Austria          5-1 Sturm
 
 ▪ Round 28 ▪
 _ Apr 15 _
-Rapid       2-1 Admira/Wacker
+Rapid            2-1 Admira/Wacker
 _ Apr 16 _
-Tirol        2-1 Austria
-Sturm        5-2 GAK
-Vienna        3-0 Sportclub
+Tirol            2-1 Austria
+Sturm            5-2 GAK
+Vienna           3-0 Sportclub
 
 ▪ Round 29 ▪
 _ Apr 22 _
-Admira/Wacker     0-0 Sturm
+Admira/Wacker    0-0 Sturm
 _ Apr 23 _
-GAK        1-1 Tirol
-Vienna        1-3 Rapid
+GAK              1-1 Tirol
+Vienna           1-3 Rapid
 _ Apr 24 _
-Austria     2-0 Sportclub
+Austria          2-0 Sportclub
 
 ▪ Round 30 ▪
 _ Apr 29 _
-Rapid        3-1 Vienna
-Sturm        2-0 Admira/Wacker
+Rapid            3-1 Vienna
+Sturm            2-0 Admira/Wacker
 _ Apr 30 _
-Tirol        0-0 GAK
-Sportclub     1-6 Austria
+Tirol            0-0 GAK
+Sportclub        1-6 Austria
 
 ▪ Round 31 ▪
 _ May 6 _
-Rapid        3-0 Sportclub
+Rapid            3-0 Sportclub
 _ May 7 _
-Admira/Wacker     1-1 Tirol
-GAK        1-2 Austria
-Vienna        1-4 Sturm
+Admira/Wacker    1-1 Tirol
+GAK              1-2 Austria
+Vienna           1-4 Sturm
 
 ▪ Round 32 ▪  May 14
-Austria     2-2 Admira/Wacker
-Tirol        0-1 Vienna
-Sturm        2-1 Rapid
-Sportclub     8-2 GAK
+Austria          2-2 Admira/Wacker
+Tirol            0-1 Vienna
+Sturm            2-1 Rapid
+Sportclub        8-2 GAK
 
 ▪ Round 33 ▪
 _ May 20 _
-Rapid        4-2 Tirol
+Rapid            4-2 Tirol
 _ May 21 _
-Admira/Wacker     2-0 GAK
-Sturm        1-1 Sportclub
-Vienna        2-0 Austria
+Admira/Wacker    2-0 GAK
+Sturm            1-1 Sportclub
+Vienna           2-0 Austria
 
 ▪ Round 34 ▪
 _ May 27 _
-Rapid        2-4 Austria
+Rapid            2-4 Austria
 _ May 28 _
-Tirol        0-0 Sturm
-GAK        2-2 Vienna
-Sportclub     1-4 Admira/Wacker
+Tirol            0-0 Sturm
+GAK              2-2 Vienna
+Sportclub        1-4 Admira/Wacker
 
 ▪ Round 35 ▪
 _ Jun 3 _
-Admira/Wacker     1-2 Rapid
+Admira/Wacker    1-2 Rapid
 _ Jun 4 _
-Austria     1-1 Tirol
-GAK        1-1 Sturm
-Sportclub     5-0 Vienna
+Austria          1-1 Tirol
+GAK              1-1 Sturm
+Sportclub        5-0 Vienna
 
 ▪ Round 36 ▪  Jun 7
-Tirol        2-0 Sportclub
-Rapid        6-1 GAK
-Sturm        0-2 Austria
-Vienna        2-1 Admira/Wacker
+Tirol            2-0 Sportclub
+Rapid            6-1 GAK
+Sturm            0-2 Austria
+Vienna           2-1 Admira/Wacker
 
 <!-- $table4$ - Table -->
 

@@ -993,7 +993,7 @@ Santos               0-3 Atlético de San Luis
 
 Relegation Table
 
-Team         Average
+Team                    Average
 América                 2.0392
 Monterrey               1.8431
 Tigres                  1.7353
@@ -1720,23 +1720,23 @@ NB: Teams 1st to 6th qualify to quarterfinals;
 
 Relegation Table
 
-Team         Average
-Atlante                  1.7872
-Club Celaya               1.7660
-Leones Negros            1.7234
-Venados FC               1.5213
-Atlético Morelia       1.4894
-Cimarrones               1.4681
-Mineros                  1.3404
-Tapatío        1.3298
-Alebrijes                1.2872
-Cancún FC              1.2660
-Tepatitlán FC             1.2447
-Dorados Sinaloa          1.2234
+Team                    Average
+Atlante                 1.7872
+Club Celaya             1.7660
+Leones Negros           1.7234
+Venados FC              1.5213
+Atlético Morelia        1.4894
+Cimarrones              1.4681
+Mineros                 1.3404
+Tapatío                 1.3298
+Alebrijes               1.2872
+Cancún FC               1.2660
+Tepatitlán FC           1.2447
+Dorados Sinaloa         1.2234
 ------------------------------
-Correcaminos UAT         1.2128 (*)
+Correcaminos UAT        1.2128 (*)
 La Paz                  1.2021 (*)
-Tlaxcala FC               1.0745 (*)
+Tlaxcala FC             1.0745 (*)
 ------------------------------
 
 (*) Due to suspension of Promotion and Relegation the last 3 teams of the relegation table were fined with:

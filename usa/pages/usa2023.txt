@@ -29,9 +29,11 @@ NB: Saint Louis City were admitted
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 _ Feb 25 _
 Nashville SC           2-0 New York City
@@ -638,9 +640,11 @@ Vancouver Whitecaps    1-1 Los Angeles FC
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 === Championship Playoff  ‹§chplay›
 ==== Conference Wild Card Round  ‹§cwc›
@@ -717,13 +721,13 @@ Western Conference [Nov 26]
 Houston Dynamo         1-0 Sporting Kansas City
 Seattle Sounders       0-1 Los Angeles FC
 
-▪ Conference Finals ▪  Dec 2
+Conference Finals [Dec 2]
 Eastern Conference
 FC Cincinnati          2-3 Columbus Crew          (aet)
 Western Conference
 Los Angeles FC         2-0 Houston Dynamo
 
-▪ MLS Cup ▪  Dec 9
+MLS Cup [Dec 9]
 Columbus Crew          2-1 Los Angeles FC
 
 

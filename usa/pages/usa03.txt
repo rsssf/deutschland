@@ -12,9 +12,11 @@ MAJOR LEAGUE SOCCER (1st Division)
 
 Final Tables:
 
-<!-- $table1$ - Eastern Division -->
+Eastern Division
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Division -->
+Western Division
+<!-- $table2$ -->
 
 NB: no more penalty shoot-outs.
 
@@ -428,15 +430,17 @@ Columbus Crew           6-2  Chicago Fire
 
 Final Tables:
 
-<!-- $table3$ - Eastern Division -->
+Eastern Division
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Division -->
+Western Division
+<!-- $table4$ -->
 
 NB: no more penalty shoot-outs.
 
 ▪ Championship Playoffs ▪
 
-▪ Conference Semifinals ▪
+Conference Semifinals
 
 ▪ First Legs ▪
 _ Nov 1 _
@@ -454,13 +458,13 @@ New England Revolution  1-1  Metro Stars
 Chicago Fire            2-0  DC United
 San Jose Earthquakes    5-2  Los Angeles Galaxy       (aet)
 
-▪ Eastern Conference Final ▪  Nov 14
+Eastern Conference Final [Nov 14]
 Chicago Fire            1-0  New England Revolution   (aet)
 
-▪ Western Conference Final ▪  Nov 15
+Western Conference Final [Nov 15]
 San Jose Earthquakes    3-2  Kansas City Wizards      (aet)
 
-▪ MLS Cup ▪  Nov 23 @ The Home Depot Center, Carson, CA
+MLS Cup [Nov 23, The Home Depot Center, Carson, CA]
 Chicago Fire            2-4  San Jose Earthquakes
   (DaMarcus Beasley 49, Chris Roner 54og; Ronnie Ekelund 5,
    Landon Donovan 38, 71, Richard Mulrooney 50)
@@ -470,14 +474,18 @@ USL - A-LEAGUE (2nd Division)
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table5$ - Northeast Division -->
+     Northeast Division
+<!-- $table5$ -->
 
-<!-- $table6$ - Southeast Division -->
+     Southeast Division
+<!-- $table6$ -->
 
      WESTERN CONFERENCE
-<!-- $table7$ - Central Division -->
+     Central Division
+<!-- $table7$ -->
 
-<!-- $table8$ - Pacific Division -->
+     Pacific Division
+<!-- $table8$ -->
 
 Division Finals:       Rochester defeated Montreal 2-1, 0-0
                        Charleston defeated Virginia Beach 0-1, 4-1
@@ -511,25 +519,33 @@ USL - PREMIER DEVELOPMENT LEAGUE
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table11$ - Northeast Division -->
+     Northeast Division
+<!-- $table11$ -->
 
-<!-- $table12$ - Mid-Atlantic Division -->
+     Mid-Atlantic Division
+<!-- $table12$ -->
 
      CENTRAL CONFERENCE
-<!-- $table13$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table13$ -->
 
-<!-- $table14$ - Heartland Division -->
+     Heartland Division
+<!-- $table14$ -->
 
      SOUTHERN CONFERENCE
-<!-- $table15$ - Mid-South Division -->
+     Mid-South Division
+<!-- $table15$ -->
 
-<!-- $table16$ - Southeast Division -->
+     Southeast Division
+<!-- $table16$ -->
 
      WESTERN CONFERENCE
 
-<!-- $table17$ - Southwest Division -->
+     Southwest Division
+<!-- $table17$ -->
 
-<!-- $table18$ - Northwest Division -->
+     Northwest Division
+<!-- $table18$ -->
 
 Conference Semifinals:   Cape Cod defeated Richmond, 4-0
                          Vermont defeated Williamsburg 5-2
@@ -557,7 +573,9 @@ Semifinals:      Arizona defeated Chico, 1-0
 FINAL:           Arizona defeated Utah 2-1
 
 
-<!-- $table20$ - WOMEN'S UNITED SOCCER ASSOCIATION -->
+WOMEN'S UNITED SOCCER ASSOCIATION
+
+<!-- $table20$ -->
 
 Semifinals:      Washington defeated Boston 0-0 (3-1 PK)
                  Atlanta defeated San Diego, 2-1
@@ -568,16 +586,22 @@ USL - W-LEAGUE
 
                               GP   W   L   D   GF  GA  BP Pts
      EASTERN CONFERENCE
-<!-- $table21$ - Northeast Division -->
+     Northeast Division
+<!-- $table21$ -->
 
-<!-- $table22$ - Northern Division -->
+     Northern Division
+<!-- $table22$ -->
 
      CENTRAL CONFERENCE
-<!-- $table23$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table23$ -->
 
-<!-- $table24$ - Midwest Division -->
+     Midwest Division
+<!-- $table24$ -->
 
-<!-- $table25$ - WESTERN CONFERENCE -->
+     WESTERN CONFERENCE
+
+<!-- $table25$ -->
 
 Conference Semi-Finals  Charlotte defeated Northern Virginia, 4-1
                         Chicago defeated Northern Kentucky, 9-1
@@ -595,13 +619,17 @@ CHAMPIONSHIP:           Hampton Roads defeated Chicago, 1-0
 WOMEN'S PREMIER SOCCER LEAGUE
 
                           GP   W   L   D   GF  GA Pts
-<!-- $table26$ - North Division -->
+     North Division
+<!-- $table26$ -->
 
-<!-- $table27$ - South Division -->
+     South Division
+<!-- $table27$ -->
 
-<!-- $table28$ - East Division -->
+     East Division
+<!-- $table28$ -->
 
-<!-- $table29$ - Provisional Teams -->
+     Provisional Teams
+<!-- $table29$ -->
 
 Semifinals:   Utah defeated Ajax So. Cal. 3-1
               California defeated New England 3-1.
@@ -612,9 +640,11 @@ CANADIAN PREMIER SOCCER LEAGUE
 
 
                            GP   W   L   D   GF  GA   Pts
-<!-- $table30$ - Eastern Conference -->
+     Eastern Conference
+<!-- $table30$ -->
 
-<!-- $table31$ - Western Conference -->
+     Western Conference
+<!-- $table31$ -->
 
 Conference playoffs        Brampton defeated Toronto Croatia (default 2-0)
                            Vaughn defeated Toronto Supra 4-3

@@ -25,9 +25,11 @@ NB: Atlanta United FC and Minnesota United FC were admitted
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 _ Mar 3 _
 Portland Timbers       5-1 Minnesota United FC
@@ -550,13 +552,15 @@ Philadelphia Union     6-1 Orlando City SC
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 === Championship Playoff  ‹§play›
 
-▪ Conference Quarterfinals ▪
+Conference Quarterfinals
 _ Oct 25 _
 Chicago Fire           0-4 New York Red Bulls
 Vancouver Whitecaps    5-0 San Jose Earthquakes
@@ -564,7 +568,7 @@ _ Oct 26 _
 Atlanta United FC      0-0 Columbus Crew          (aet, 1-3 pen)
 Houston Dynamo         1-0 Sporting Kansas City   (aet)
 
-▪ Conference Semifinals ▪
+Conference Semifinals
 
 ▪ First Legs ▪
 _ Oct 29 _
@@ -583,7 +587,7 @@ Toronto FC             0-1 New York Red Bulls
 New York City FC       2-0 Columbus Crew
 Portland Timbers       1-2 Houston Dynamo
 
-▪ Conference Finals ▪
+Conference Finals
 
 ▪ First Legs ▪  Nov 21
 Columbus Crew          0-0 Toronto FC
@@ -596,7 +600,7 @@ _ Nov 30 _
 Seattle Sounders       3-0 Houston Dynamo
 
 
-▪ MLS Cup ▪  Dec 9 @ BMO Field, Toronto
+MLS Cup [Dec 9, BMO Field, Toronto]
 Toronto FC             2-0 Seattle Sounders
 
 

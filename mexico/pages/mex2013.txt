@@ -500,26 +500,26 @@ Toluca             0-2 Tijuana
 
 Club Tijuana Roster Team
 
-Cirilo Saucedo         GK
-Adrián Zermeño         GK
-Javier Marcelo Gandolfi      DEF [Argentina]
-Juan Carlos Núñez      DEF
-Pablo César Aguilar      DEF [Paraguay]
-Edgar Eduardo Castillo      DEF [USA/Mexico]
-Joshua Ábrego         DEF
-Gregory Garza         DEF [USA]
-Alfredo González Tahuilán   DEF
-Fernando Arce         MDF
-Cristian Pellerano      MDF [Argentina]
-Leandro Augusto Oldoni      MDF [Brazil/Mexico]
-Joe Corona         MDF [USA/Mexico]
-Richard Ruiz         MDF
-Fidel Martínez         MDF [Ecuador]
-Jorge Hernández         MDF
-Alfredo David Moreno      FWD [Argentina/Mexico]
-Duvier Orlando Riascos      FWD [Colombia]
-Raúl Nava         FWD
-Raúl Enríquez         FWD
+Cirilo Saucedo                  GK
+Adrián Zermeño                  GK
+Javier Marcelo Gandolfi         DEF [Argentina]
+Juan Carlos Núñez               DEF
+Pablo César Aguilar             DEF [Paraguay]
+Edgar Eduardo Castillo          DEF [USA/Mexico]
+Joshua Ábrego                   DEF
+Gregory Garza                   DEF [USA]
+Alfredo González Tahuilán       DEF
+Fernando Arce                   MDF
+Cristian Pellerano              MDF [Argentina]
+Leandro Augusto Oldoni          MDF [Brazil/Mexico]
+Joe Corona                      MDF [USA/Mexico]
+Richard Ruiz                    MDF
+Fidel Martínez                  MDF [Ecuador]
+Jorge Hernández                 MDF
+Alfredo David Moreno            FWD [Argentina/Mexico]
+Duvier Orlando Riascos          FWD [Colombia]
+Raúl Nava                       FWD
+Raúl Enríquez                   FWD
 
 Coach: Antonio Mohamed [ARG]
 
@@ -940,26 +940,26 @@ NB: Querétaro are relegated and thus not eligible to enter the quarterfinals
 
 Relegation Table
 
-Team         Average
-Cruz Azul      1.7059
-Tigres         1.7059
-Santos         1.6471
-Morelia         1.6275
-América         1.5980
-Monterrey      1.5686
-Pumas         1.5000
-Tijuana         1.4853
-León         1.4412
-Pachuca         1.3529
-Toluca         1.3431
-Guadalajara      1.2843
-Jaguares      1.2843
-San Luis      1.1176
-Atlas         1.0980
-Atlante         1.0882
-Puebla         1.0784
+Team                    Average
+Cruz Azul               1.7059
+Tigres                  1.7059
+Santos                  1.6471
+Morelia                 1.6275
+América                 1.5980
+Monterrey               1.5686
+Pumas                   1.5000
+Tijuana                 1.4853
+León                    1.4412
+Pachuca                 1.3529
+Toluca                  1.3431
+Guadalajara             1.2843
+Jaguares                1.2843
+San Luis                1.1176
+Atlas                   1.0980
+Atlante                 1.0882
+Puebla                  1.0784
 ------------------------------
-Querétaro      1.0196  Relegated
+Querétaro               1.0196  Relegated
 
 ▪ Playoffs ▪
 
@@ -1021,34 +1021,34 @@ América            2-1 Cruz Azul          (aet, 4-2 pen)
 
 Penalty shootout:
 
-América            Cruz Azul
-Raúl Alonso Jiménez      Javier Orozco (M)
-Christian Benítez      Alejandro Castro (M)
-Oswaldo David Martínez      Rogelio Chávez
-Miguel Layún         Gerardo Flores
+América                         Cruz Azul
+Raúl Alonso Jiménez             Javier Orozco (M)
+Christian Benítez               Alejandro Castro (M)
+Oswaldo David Martínez          Rogelio Chávez
+Miguel Layún                    Gerardo Flores
 
 
 Club América roster team
 
-Moisés Muñoz         GK
-Hugo González         GK
-Francisco Javier Rodríguez   DEF
-Aquivaldo Mosquera      DEF (Colombia)
-Juan Carlos Valenzuela      DEF
-Efraín Juárez         DEF
-Diego Reyes         DEF
-Adrián Aldrete         DEF
-Miguel Layún         DEF
-Paul Nicolás Aguilar      DEF
-Juan Carlos Medina      MDF
-Jesús Antonio Molina      MDF
-Christian Bermúdez      MDF
-Oswaldo David Martínez      MDF (Paraguay)
-Rubens Sambueza         MDF (Argentina)
-Antonio López         FWD
-Narciso Mina         FWD (Ecuador)
-Raúl Alonso Jiménez      FWD
-Christian Benítez      FWD (Ecuador)
+Moisés Muñoz                    GK
+Hugo González                   GK
+Francisco Javier Rodríguez      DEF
+Aquivaldo Mosquera              DEF (Colombia)
+Juan Carlos Valenzuela          DEF
+Efraín Juárez                   DEF
+Diego Reyes                     DEF
+Adrián Aldrete                  DEF
+Miguel Layún                    DEF
+Paul Nicolás Aguilar            DEF
+Juan Carlos Medina              MDF
+Jesús Antonio Molina            MDF
+Christian Bermúdez              MDF
+Oswaldo David Martínez          MDF (Paraguay)
+Rubens Sambueza                 MDF (Argentina)
+Antonio López                   FWD
+Narciso Mina                    FWD (Ecuador)
+Raúl Alonso Jiménez             FWD
+Christian Benítez               FWD (Ecuador)
 
 Coach: Miguel Herrera
 
@@ -1070,20 +1070,34 @@ earn the extra point; if still tied no bonus point was awarded.
 
 Tables:
 
-<!-- $table6$ - Group 1 -->
+Group 1
+
+<!-- $table6$ -->
 
 
-<!-- $table7$ - Group 2 -->
+Group 2
 
-<!-- $table8$ - Group 3 -->
+<!-- $table7$ -->
 
-<!-- $table9$ - Group 4 -->
+Group 3
 
-<!-- $table10$ - Group 5 -->
+<!-- $table8$ -->
 
-<!-- $table11$ - Group 6 -->
+Group 4
 
-<!-- $table12$ - Group 7 -->
+<!-- $table9$ -->
+
+Group 5
+
+<!-- $table10$ -->
+
+Group 6
+
+<!-- $table11$ -->
+
+Group 7
+
+<!-- $table12$ -->
 
 
 Group Phase
@@ -1122,33 +1136,33 @@ Altamira          3-2 Atlas
 
 ▪ Second Legs ▪
 _ Jul 31 _
-León              4-0 Dorados      [agg 5-2; León won a extra point]
+León              4-0 Dorados           [agg 5-2; León won a extra point]
   (Juan José Calderón 17, José Juan Vázquez 73, Juan Ignacio González 83, Luis Nieves 88)
-Necaxa            3-0 Jaguares     [agg 3-1; Necaxa won a extra point]
+Necaxa            3-0 Jaguares          [agg 3-1; Necaxa won a extra point]
   (Danny Manuel Santoya 34, 38, 62)
-Mérida            0-1 Tijuana      [agg 0-1; Tijuana won a extra point]
+Mérida            0-1 Tijuana           [agg 0-1; Tijuana won a extra point]
   (Adolfo Domínguez 50)
-Correcaminos UAT  2-2 Querétaro    [agg 4-3; Correcaminos UAT won a extra point]
+Correcaminos UAT  2-2 Querétaro         [agg 4-3; Correcaminos UAT won a extra point]
   (Jorge Armando Mora 78, Eder Pacheco 81; Emmanuel Tapia 58, Alberto Jorge García 90+2)
-Estudiantes       0-3 Morelia      [agg 1-4; Morelia won a extra point]
+Estudiantes       0-3 Morelia           [agg 1-4; Morelia won a extra point]
   (Ángel Sepúlveda 4, Antonio Pedroza 72, 86)
-Atlas             1-1 Altamira     [agg 3-4; Altamira won a extra point]
+Atlas             1-1 Altamira          [agg 3-4; Altamira won a extra point]
   (Flavio Jesús Santos 73pen; Ignacio del Moral 56)
-San Luis          2-0 Pumas Morelos    [agg 4-1; San Luis won a extra point]
+San Luis          2-0 Pumas Morelos     [agg 4-1; San Luis won a extra point]
   (Santiago Tréllez 61, Sebastián Fernández 65)
-Pumas             0-0 Celaya       [agg 0-0]
-Lobos BUAP        2-2 Toluca       [agg 5-3; Lobos BUAP won a extra point]
+Pumas             0-0 Celaya            [agg 0-0]
+Lobos BUAP        2-2 Toluca            [agg 5-3; Lobos BUAP won a extra point]
   (Omar Alejandro Tejeda 54, José Cruz Gutiérrez 87; Héctor Acosta 43, Antonio Naelson 69)
 _ Aug 1 _
-Neza              2-1 Cruz Azul    [agg 2-4; Cruz Azul won a extra point]
+Neza              2-1 Cruz Azul         [agg 2-4; Cruz Azul won a extra point]
   (José Rodolfo Reyes 8, Diego Andrei Mejía 69; Javier Orozco 5)
-Pachuca           3-0 Leones Negros    [agg 3-1; Pachuca won a extra point]
+Pachuca           3-0 Leones Negros     [agg 3-1; Pachuca won a extra point]
   (Félix Borja 11, Luis Alberto Sánchez 48, José Francisco Torres 89)
-Puebla            0-2 Irapuato     [agg 2-5; Irapuato won a extra point]
+Puebla            0-2 Irapuato          [agg 2-5; Irapuato won a extra point]
   (Iñigo Rey 73, Carlos Balcázar 77)
 _ Aug 2 _
-La Piedad         0-0 Atlante      [agg 1-1; La Piedad won a extra point on away goal]
-América           3-1 Veracruz     [agg 4-2; América won a extra point]
+La Piedad         0-0 Atlante           [agg 1-1; La Piedad won a extra point on away goal]
+América           3-1 Veracruz          [agg 4-2; América won a extra point]
   (Rosinei Adolfo 39, Martín Eduardo Zúñiga 56, Miguel Layún 57; Gustavo Adrián Ruelas 30)
 
 Series 2
@@ -1190,33 +1204,33 @@ Correcaminos UAT  4-3 América
 
 ▪ Second Legs ▪
 _ Aug 21 _
-Estudiantes       0-3 León         [agg 1-4; León won a extra point]
+Estudiantes       0-3 León              [agg 1-4; León won a extra point]
   (Othoniel Arce 20, 54, Edgar Iván Pacheco 75pen)
-Leones Negros     1-1 Atlante       [agg 1-2; Atlante won a extra point]
+Leones Negros     1-1 Atlante           [agg 1-2; Atlante won a extra point]
   (Néstor Díaz 71; Luis Eduardo Rodríguez 90+3)
-Jaguares          1-1 Pumas Morelos    [agg 1-3; Pumas Morelos won a extra point]
+Jaguares          1-1 Pumas Morelos     [agg 1-3; Pumas Morelos won a extra point]
   (Edgar Mariano Trujillo 44pen; Dante Garay 45)
-Querétaro         2-2 Veracruz       [agg 5-2; Querétaro won a extra point]
+Querétaro         2-2 Veracruz          [agg 5-2; Querétaro won a extra point]
   (Armando Pulido 39, Juan Carlos Enríquez 54; Pablo Gabriel Torres 74, 87)
-Morelia           6-0 Dorados        [agg 8-3; Morelia won a extra point]
+Morelia           6-0 Dorados           [agg 8-3; Morelia won a extra point]
   (Antonio Pedroza 15, 60, Carlos Ochoa 25, Jefferson Montero 70, 72, 78)
-Cruz Azul         0-0 Altamira       [agg 1-0; Cruz Azul won a extra point]
+Cruz Azul         0-0 Altamira          [agg 1-0; Cruz Azul won a extra point]
 Pachuca           1-1 La Piedad [agg 4-1; Pachuca won a extra point]
   (Miguel Ángel Herrera 76; Emmanuel Sánchez 69)
-Necaxa            1-0 San Luis      [agg 2-1; Necaxa won a extra point]
+Necaxa            1-0 San Luis          [agg 2-1; Necaxa won a extra point]
   (Daniel Márquez 46)
-Tijuana           2-1 Celaya      [agg 3-3]
+Tijuana           2-1 Celaya            [agg 3-3]
   (Raúl Enríquez 13, Richard Ruiz 23; Julio César Pardini 20)
-Lobos BUAP        0-2 Puebla      [agg 0-4; Puebla won a extra point]
+Lobos BUAP        0-2 Puebla            [agg 0-4; Puebla won a extra point]
   (Jair García 27, Brayan Martínez 30)
 _ Aug 22 _
-Neza              2-1 Atlas      [agg 3-2; Neza won a extra point]
+Neza              2-1 Atlas             [agg 3-2; Neza won a extra point]
   (Miguel Ángel Sansores 9, Ismael Pineda 90+2; Jahir Barraza 11)
-Mérida            3-1 Pumas      [agg 3-2; Mérida won a extra point]
+Mérida            3-1 Pumas             [agg 3-2; Mérida won a extra point]
   (Diego Rafael Jiménez 5, Marco Antonio Gómez 43, Rodrigo Noya 87; Eduardo Herrera 77)
 Toluca            4-1 Irapuato          [agg 5-1; Toluca won a extra point]
   (Edy Germán Brambila 42, Edgar Benítez 44, 78, 82pen; José Israel Valadez 53)
-América           6-0 Correcaminos UAT   [agg 9-4; América won a extra point]
+América           6-0 Correcaminos UAT  [agg 9-4; América won a extra point]
   (Daniel Montenegro 51, José María Cárdenas 54, 74, Martín Eduardo Zúñiga 59, 76, 89)
 
 Series 3
@@ -1258,52 +1272,66 @@ Puebla            1-0 Toluca
 
 ▪ Second Legs ▪
 _ Sep 18 _
-Neza              2-1 Altamira      [agg 2-2; Altamira won a extra point on away goal]
+Neza              2-1 Altamira          [agg 2-2; Altamira won a extra point on away goal]
   (Rodrigo Prieto 84, Diego Andrei Mejía 90+3; Oscar Fernández 4)
-Pumas Morelos     2-2 Necaxa      [agg 2-4; Necaxa won a extra point]
+Pumas Morelos     2-2 Necaxa            [agg 2-4; Necaxa won a extra point]
   (David Izazola 77, 78; Horacio Cervantes 28, Jesús Isijara 45)
-Estudiantes       0-3 Dorados      [agg 0-5; Dorados won a extra point]
+Estudiantes       0-3 Dorados           [agg 0-5; Dorados won a extra point]
   (Juan de Díos Hernández 4, 62, Daley Mena 90)
-Leones Negros     1-2 La Piedad      [agg 1-6; La Piedad won a extra point]
+Leones Negros     1-2 La Piedad         [agg 1-6; La Piedad won a extra point]
   (Jovanni Hurtado 75; Oscar Emilio Rojas 51, Fernando González 59)
-Mérida            3-0 Celaya      [agg 5-1; Mérida won a extra point]
+Mérida            3-0 Celaya            [agg 5-1; Mérida won a extra point]
   (Marco Antonio Gómez 27, Sonny Guadarrama 39, Aarón Reyes 80)
-Toluca            2-0 Puebla      [agg 2-1; Toluca won a extra point]
+Toluca            2-0 Puebla            [agg 2-1; Toluca won a extra point]
   (Francisco Pizano 49og, Carlos Esquivel 75)
-Morelia           0-0 León      [agg 2-2; Morelia won a extra point on away goals]
-Cruz Azul         1-1 Atlas      [agg 1-2; Atlas won a extra point]
+Morelia           0-0 León              [agg 2-2; Morelia won a extra point on away goals]
+Cruz Azul         1-1 Atlas             [agg 1-2; Atlas won a extra point]
   (Javier Orozco 12; Sergio Santana 28pen)
-Correcaminos UAT  3-0 Veracruz      [agg 4-1; Correcaminos UAT won a extra point]
+Correcaminos UAT  3-0 Veracruz          [agg 4-1; Correcaminos UAT won a extra point]
   (Andrés Nicolás Olivera 20, Roberto Nurse 52, 67)
-Irapuato          2-1 Lobos BUAP   [agg 2-5; Lobos BUAP won a extra point]
+Irapuato          2-1 Lobos BUAP        [agg 2-5; Lobos BUAP won a extra point]
   (Josué Perea 53, Abraham Ávalos 88; Ismael Iñiguez 43)
 _ Sep 19 _
-Jaguares          1-1 San Luis      [agg 3-2; San Luis won a extra point]
+Jaguares          1-1 San Luis          [agg 3-2; San Luis won a extra point]
   (Yasser Corona 54; César Villaluz 90+3)
-Querétaro         1-0 América      [agg 2-4; América won a extra point]
+Querétaro         1-0 América           [agg 2-4; América won a extra point]
   (Diego Guastavino 67)
-Pachuca           1-0 Atlante      [agg 2-0; Pachuca won a extra point]
+Pachuca           1-0 Atlante           [agg 2-0; Pachuca won a extra point]
   (Alberto Medina 5)
-Tijuana           2-1 Pumas      [agg 4-3; Tijuana won a extra point]
+Tijuana           2-1 Pumas             [agg 4-3; Tijuana won a extra point]
   (Pablo César Aguilar 18, Raúl Enríquez 68; Alfonso Nieto 33)
 
 
 Tables:
 
-<!-- $table13$ - Group 1 -->
+Group 1
+
+<!-- $table13$ -->
 
 
-<!-- $table14$ - Group 2 -->
+Group 2
 
-<!-- $table15$ - Group 3 -->
+<!-- $table14$ -->
 
-<!-- $table16$ - Group 4 -->
+Group 3
 
-<!-- $table17$ - Group 5 -->
+<!-- $table15$ -->
 
-<!-- $table18$ - Group 6 -->
+Group 4
 
-<!-- $table19$ - Group 7 -->
+<!-- $table16$ -->
+
+Group 5
+
+<!-- $table17$ -->
+
+Group 6
+
+<!-- $table18$ -->
+
+Group 7
+
+<!-- $table19$ -->
 
 
 ==== Playoff Stage  ‹§copaplay›
@@ -1316,7 +1344,7 @@ Dorados           3-2 San Luis
   (Daley Mena 2, Juan de Díos Hernández 4, 15; Diego Ordaz 50, Guillermo Rojas 56)
 Neza              1-1 Pachuca   (4-3 pen)
   (José Antonio Rosas 65; Raúl Meráz 63)
-Necaxa            1-1 Toluca   (5-3 pen)
+Necaxa            1-1 Toluca    (5-3 pen)
   (Danny Manuel Santoya 80; Edgar Benítez 15)
 Correcaminos UAT  5-5 Tijuana   (7-6 pen)
   (Lampros Kontogiannis 41, Andrés Nicolás Olivera 66, 69, Sergio Rosas 82, Roberto Nurse 90+1;
@@ -1327,7 +1355,7 @@ One single leg played
 _ Oct 24 _
 Necaxa            1-2 Dorados
   (Víctor Hugo Lojero 79; Gustavo Adrián Ramírez 75, Juan de Díos Hernández 83)
-Correcaminos UAT  1-1 Neza   (4-3 pen)
+Correcaminos UAT  1-1 Neza      (4-3 pen)
   (Rolando Sena 60; Julio César Atilano 35)
 
 ▪ Final ▪
@@ -1345,26 +1373,26 @@ Dorados de Sinaloa Cup champions
 
 Dorados de Sinaloa roster team
 
-Alfredo Frausto      GK
-Tomás Adriano      GK
-Fernando López      DEF
-Elio Castro      DEF
+Alfredo Frausto         GK
+Tomás Adriano           GK
+Fernando López          DEF
+Elio Castro             DEF
 Gerardo Omar Castillo   DEF
 Sergio Roberto Quiróz   DEF
-Oscar Ibarra      DEF
-José Luis Contreras   DEF
-Enrique Escudero   MDF
-Carlos Pinto      MDF
-Paulo César Chávez   MDF
-Juan de Díos Hernández   MDF
-Daley Mena      MDF
-Héctor Velázquez   MDF
-Javier Güemez      MDF
-Lorenzo Ramírez      MDF
-Cuauhtemoc Blanco   FWD
-Gustavo Ramírez      FWD
-Juan Pablo Mejía   FWD
-Mario Padilla      FWD
+Oscar Ibarra            DEF
+José Luis Contreras     DEF
+Enrique Escudero        MDF
+Carlos Pinto            MDF
+Paulo César Chávez      MDF
+Juan de Díos Hernández  MDF
+Daley Mena              MDF
+Héctor Velázquez        MDF
+Javier Güemez           MDF
+Lorenzo Ramírez         MDF
+Cuauhtemoc Blanco       FWD
+Gustavo Ramírez         FWD
+Juan Pablo Mejía        FWD
+Mario Padilla           FWD
 
 Coach: Francisco Ramírez
 
@@ -1386,22 +1414,34 @@ earn the extra point; if still tied no bonus point was awarded.
 
 Tables:
 
-<!-- $table20$ - Group 1 -->
+Group 1
+
+<!-- $table20$ -->
 
 
-<!-- $table21$ - Group 2 -->
+Group 2
+
+<!-- $table21$ -->
 
 
-<!-- $table22$ - Group 3 -->
+Group 3
+
+<!-- $table22$ -->
 
 
-<!-- $table23$ - Group 4 -->
+Group 4
+
+<!-- $table23$ -->
 
 
-<!-- $table24$ - Group 5 -->
+Group 5
+
+<!-- $table24$ -->
 
 
-<!-- $table25$ - Group 6 -->
+Group 6
+
+<!-- $table25$ -->
 
 
 Group Phase
@@ -1589,22 +1629,34 @@ Cruz Azul Hidalgo 1-1 La Piedad         [agg 1-2; La Piedad won a extra point]
 
 Tables:
 
-<!-- $table26$ - Group 1 -->
+Group 1
+
+<!-- $table26$ -->
 
 
-<!-- $table27$ - Group 2 -->
+Group 2
+
+<!-- $table27$ -->
 
 
-<!-- $table28$ - Group 3 -->
+Group 3
+
+<!-- $table28$ -->
 
 
-<!-- $table29$ - Group 4 -->
+Group 4
+
+<!-- $table29$ -->
 
 
-<!-- $table30$ - Group 5 -->
+Group 5
+
+<!-- $table30$ -->
 
 
-<!-- $table31$ - Group 6 -->
+Group 6
+
+<!-- $table31$ -->
 
 
 ==== Playoff Stage  ‹§copacplay›
@@ -1645,36 +1697,36 @@ Cruz Azul Cup Champions
 
 Cruz Azul roster team
 
-José de Jesús Corona   GK
-Yosgart Gutiérrez   GK
-Luis Amaranto Perea   DEF [Colombia]
-Néstor Araujo      DEF
-Gerardo Flores      DEF
-Alejandro Castro   DEF
+José de Jesús Corona    GK
+Yosgart Gutiérrez       GK
+Luis Amaranto Perea     DEF [Colombia]
+Néstor Araujo           DEF
+Gerardo Flores          DEF
+Alejandro Castro        DEF
 Julio César Domínguez   DEF
-Jair Pereira      DEF
-Rogelio Chávez      DEF
-Alan Vidal      DEF
-Gerardo Torrado      MDF
-Israel Castro      MDF
-Javier Aquino      MDF
-Héctor Gutiérrez   MDF
-Diego Franco      MDF
-Raúl Vidal      MDF
-Christian Giménez   MDF [Argentina]
-Alam Bello      MDF
-Nicolás Bertolo      MDF [Argentina]
+Jair Pereira            DEF
+Rogelio Chávez          DEF
+Alan Vidal              DEF
+Gerardo Torrado         MDF
+Israel Castro           MDF
+Javier Aquino           MDF
+Héctor Gutiérrez        MDF
+Diego Franco            MDF
+Raúl Vidal              MDF
+Christian Giménez       MDF [Argentina]
+Alam Bello              MDF
+Nicolás Bertolo         MDF [Argentina]
 Manuel Alejandro Vela   FWD
-Javier Orozco      FWD
-Pablo Barrera      FWD
-Jesús Lara      FWD
-Francisco Flores   FWD
-Carlos Naranjo      FWD
-Jesús Lara      FWD
-Moisés Hipolito      FWD
-Diego Martínez      FWD
-Mariano Pavone      FWD [Argentina]
-Teófilo Gutiérrez   FWD [Colombia]
+Javier Orozco           FWD
+Pablo Barrera           FWD
+Jesús Lara              FWD
+Francisco Flores        FWD
+Carlos Naranjo          FWD
+Jesús Lara              FWD
+Moisés Hipolito         FWD
+Diego Martínez          FWD
+Mariano Pavone          FWD [Argentina]
+Teófilo Gutiérrez       FWD [Colombia]
 
 Coach: Guillermo Vázquez Herrera
 
@@ -2209,23 +2261,23 @@ Pumas Morelos     bye
 
 Relegation Table
 
-Team         Average
-Necaxa         1.7679
-Estudiantes      1.5000
-Neza         1.4659
-Lobos BUAP      1.4545
-Correcaminos UAT   1.4318
-Irapuato       1.3182
-Dorados         1.3068
-Veracruz      1.3036
-La Piedad      1.2955
-Celaya         1.2500
-Altamira      1.2273
-Leones Negros      1.2045
-Mérida         1.1818
-Cruz Azul Hidalgo   1.1023
+Team                    Average
+Necaxa                  1.7679
+Estudiantes             1.5000
+Neza                    1.4659
+Lobos BUAP              1.4545
+Correcaminos UAT        1.4318
+Irapuato                1.3182
+Dorados                 1.3068
+Veracruz                1.3036
+La Piedad               1.2955
+Celaya                  1.2500
+Altamira                1.2273
+Leones Negros           1.2045
+Mérida                  1.1818
+Cruz Azul Hidalgo       1.1023
 ------------------------------
-Pumas Morelos      1.0909 (relegated]
+Pumas Morelos           1.0909 (relegated]
 
 
 ==== Playoff Stage  ‹§2clauplay›
@@ -2274,7 +2326,7 @@ Neza FC Clausura champions
 
 === Promotion Playoff  ‹§2prom›
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  May 15
 La Piedad         0-1 Neza

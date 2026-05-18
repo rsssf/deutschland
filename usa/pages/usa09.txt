@@ -14,9 +14,11 @@ Major League Soccer
 
 Final Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 NB: Seattle Sounders were added for 2009
 
@@ -382,15 +384,17 @@ Columbus Crew             0-1 New England Revolution
 
 Final Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 NB: Seattle Sounders were added for 2009
 
 ▪ Championship Playoff ▪
 
-▪ Western Semifinals ▪
+Western Semifinals
 
 ▪ First Legs ▪
 _ Oct 29 _
@@ -402,7 +406,7 @@ Chivas USA                2-2 Los Angeles Galaxy
 Houston Dynamo            1-0 Seattle Sounders          (aet)
 Los Angeles Galaxy        1-0 Chivas USA
 
-▪ Eastern Semifinals ▪
+Eastern Semifinals
 
 NB: Real Salt Lake added to Eastern semifinals as worst qualifiers
     Western Conference
@@ -425,7 +429,7 @@ Los Angeles Galaxy        2-0 Houston Dynamo            (aet)
 Eastern Final [Nov 14]
 Chicago Fire              0-0 Real Salt Lake            (aet, 4-5 pen)
 
-▪ MLS Cup ▪  Nov 22
+MLS Cup [Nov 22]
 Los Angeles Galaxy        1-1 Real Salt Lake            (aet, 4-5 pen)
 
 
@@ -1005,24 +1009,32 @@ USL - PREMIER DEVELOPMENT LEAGUE
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table9$ - Northeast Division -->
+     Northeast Division
+<!-- $table9$ -->
 
-<!-- $table10$ - Mid-Atlantic Division -->
+     Mid-Atlantic Division
+<!-- $table10$ -->
 
      SOUTHERN CONFERENCE
-<!-- $table11$ - Southeast Division -->
+     Southeast Division
+<!-- $table11$ -->
 
-<!-- $table12$ - Mid-South Division -->
+     Mid-South Division
+<!-- $table12$ -->
 
      CENTRAL CONFERENCE
-<!-- $table13$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table13$ -->
 
-<!-- $table14$ - Heartland Division -->
+     Heartland Division
+<!-- $table14$ -->
 
      WESTERN CONFERENCE
-<!-- $table15$ - Southwest Division -->
+     Southwest Division
+<!-- $table15$ -->
 
-<!-- $table16$ - Northwest Division -->
+     Northwest Division
+<!-- $table16$ -->
 
 Divisional First Round:   Chicago defeated Forest City 1-0
                           Ocean City defeated Long Island 2-0
@@ -1054,16 +1066,21 @@ NATIONAL PREMIER SOCCER LEAGUE ("Div. 4")
 
                             GP   W   L   D   GF  GA  Pts
 
-<!-- $table17$ - Keystone Conference -->
+     Keystone Conference
+<!-- $table17$ -->
 
-<!-- $table18$ - Atlantic Conference -->
+     Atlantic Conference
+<!-- $table18$ -->
 
-<!-- $table19$ - Southeast Conference -->
+     Southeast Conference
+<!-- $table19$ -->
 
 
-<!-- $table20$ - Midwest Conference -->
+     Midwest Conference
+<!-- $table20$ -->
 
-<!-- $table21$ - Western Conference -->
+     Western Conference
+<!-- $table21$ -->
 
 Divisional Semi-Finals:   NorCal defeated Bay Area 1-0
                           Sonoma County defeated Southern Oregon 4-1
@@ -1077,16 +1094,21 @@ WPSL - WOMEN'S PREMIER SOCCER LEAGUE (2ND DIVISION)
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-<!-- $table22$ - Northeast Division -->
+     Northeast Division
+<!-- $table22$ -->
 
-<!-- $table23$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table23$ -->
 
      CENTRAL CONFERENCE
-<!-- $table24$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table24$ -->
 
-<!-- $table25$ - Midwest Division -->
+     Midwest Division
+<!-- $table25$ -->
 
-<!-- $table26$ - WESTERN CONFERENCE -->
+     WESTERN CONFERENCE
+<!-- $table26$ -->
 
 Divisional Round:        Buffalo defeated Quebec City 5-0
 Conference Semi-Finals:  Washington defeated Tampa Bay 2-1

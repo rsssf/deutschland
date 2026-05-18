@@ -236,7 +236,7 @@ _ Sep 16 _
 Cruz Azul          2-1 Santos
   (Felipe Mora 54, Christian Giménez 69; Julio César Furch 12)
 Monterrey          2-1 Atlas
-  (Avilés Hurtado 23, Rogelio Funes Mori 85; Brayan Garnica    28)
+  (Avilés Hurtado 23, Rogelio Funes Mori 85; Brayan Garnica     28)
 León               3-1 Pachuca
   (Mauro Boselli 3, Luis Arturo Montes 24, Andrés Andrade 27; Ángelo Sagal 52)
 Necaxa             1-1 Puebla
@@ -500,28 +500,28 @@ Monterrey          1-2 Tigres
 
 Tigres UANL roster team
 
-Nahuel Guzmán        GK  (Argentina)
-Enrique Palos        GK
+Nahuel Guzmán             GK  (Argentina)
+Enrique Palos             GK
 Anselmo Vendrechovski     DEF (Brazil)
-Hugo Ayala        DEF
-Israel Jiménez        DEF
-Jorge Torres Nilo     DEF
+Hugo Ayala                DEF
+Israel Jiménez            DEF
+Jorge Torres Nilo         DEF
 Timothée Kolodziedjczak  DEF (France)
-Francisco Meza        DEF (Colombia)
-Jorge Estrada        DEF
-Luis Rodríguez        DEF
+Francisco Meza            DEF (Colombia)
+Jorge Estrada             DEF
+Luis Rodríguez            DEF
 Alberto Acosta            DEF
-Rafael De Souza        MDF (Brazil)
-Javier Aquino        MDF
-Jesús Alberto Dueñas     MDF
-Jürgen Damm        MDF
+Rafael De Souza           MDF (Brazil)
+Javier Aquino             MDF
+Jesús Alberto Dueñas      MDF
+Jürgen Damm               MDF
 Damián Ariel Álvarez     MDF (Argentina/Mexico)
-André-Pierre Gignac     FWD (France)
-Enner Valencia         FWD (Ecuador)
-Lucas Zelarayán        FWD (Argentina)
-Eduardo Vargas        FWD (Chile)
-Larry Vázquez        FWD (Colombia)
-Ismael Sosa        FWD (Argentina)
+André-Pierre Gignac       FWD (France)
+Enner Valencia            FWD (Ecuador)
+Lucas Zelarayán           FWD (Argentina)
+Eduardo Vargas            FWD (Chile)
+Larry Vázquez             FWD (Colombia)
+Ismael Sosa               FWD (Argentina)
 
 Coach: Ricardo Ferreti (BRA)
 
@@ -940,7 +940,7 @@ Veracruz           1-2 Cruz Azul
 
 Relegation Table
 
-Team         Average
+Team                    Average
 Monterrey              1.7451
 Toluca                 1.6667
 América                1.6471
@@ -1066,23 +1066,41 @@ NB: the Cup Tournament is played by 17 teams from the Liga MX (first level) and
 
 Tables:
 
-<!-- $table5$ - Group 1 -->
+Group 1
 
-<!-- $table6$ - Group 2 -->
+<!-- $table5$ -->
 
-<!-- $table7$ - Group 3 -->
+Group 2
 
-<!-- $table8$ - Group 4 -->
+<!-- $table6$ -->
 
-<!-- $table9$ - Group 5 -->
+Group 3
 
-<!-- $table10$ - Group 6 -->
+<!-- $table7$ -->
 
-<!-- $table11$ - Group 7 -->
+Group 4
 
-<!-- $table12$ - Group 8 -->
+<!-- $table8$ -->
 
-<!-- $table13$ - Group 9 -->
+Group 5
+
+<!-- $table9$ -->
+
+Group 6
+
+<!-- $table10$ -->
+
+Group 7
+
+<!-- $table11$ -->
+
+Group 8
+
+<!-- $table12$ -->
+
+Group 9
+
+<!-- $table13$ -->
 
 
 Group Phase
@@ -1224,23 +1242,41 @@ FC Juárez          0-3 Santos
 
 Tables:
 
-<!-- $table14$ - Group 1 -->
+Group 1
 
-<!-- $table15$ - Group 2 -->
+<!-- $table14$ -->
 
-<!-- $table16$ - Group 3 -->
+Group 2
 
-<!-- $table17$ - Group 4 -->
+<!-- $table15$ -->
 
-<!-- $table18$ - Group 5 -->
+Group 3
 
-<!-- $table19$ - Group 6 -->
+<!-- $table16$ -->
 
-<!-- $table20$ - Group 7 -->
+Group 4
 
-<!-- $table21$ - Group 8 -->
+<!-- $table17$ -->
 
-<!-- $table22$ - Group 9 -->
+Group 5
+
+<!-- $table18$ -->
+
+Group 6
+
+<!-- $table19$ -->
+
+Group 7
+
+<!-- $table20$ -->
+
+Group 8
+
+<!-- $table21$ -->
+
+Group 9
+
+<!-- $table22$ -->
 
 
 ==== Playoff Stage  ‹§copaplay›
@@ -1348,25 +1384,43 @@ NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
 
 Tables:
 
-<!-- $table23$ - Group 1 -->
+Group 1
 
-<!-- $table24$ - Group 2 -->
+<!-- $table23$ -->
 
-<!-- $table25$ - Group 3 -->
+Group 2
 
-<!-- $table26$ - Group 4 -->
+<!-- $table24$ -->
 
-<!-- $table27$ - Group 5 -->
+Group 3
 
-<!-- $table28$ - Group 6 -->
+<!-- $table25$ -->
 
-<!-- $table29$ - Group 7 -->
+Group 4
 
-<!-- $table30$ - Group 8 -->
+<!-- $table26$ -->
+
+Group 5
+
+<!-- $table27$ -->
+
+Group 6
+
+<!-- $table28$ -->
+
+Group 7
+
+<!-- $table29$ -->
+
+Group 8
+
+<!-- $table30$ -->
 
 NB: Pachuca qualified by more away goals than Atlético de San Luis
 
-<!-- $table31$ - Group 9 -->
+Group 9
+
+<!-- $table31$ -->
 
 ▪ Round 1 ▪
 _ Jan 9 _
@@ -1505,25 +1559,43 @@ FC Juárez          1-1 Pumas
 
 Tables:
 
-<!-- $table32$ - Group 1 -->
+Group 1
 
-<!-- $table33$ - Group 2 -->
+<!-- $table32$ -->
 
-<!-- $table34$ - Group 3 -->
+Group 2
 
-<!-- $table35$ - Group 4 -->
+<!-- $table33$ -->
 
-<!-- $table36$ - Group 5 -->
+Group 3
 
-<!-- $table37$ - Group 6 -->
+<!-- $table34$ -->
 
-<!-- $table38$ - Group 7 -->
+Group 4
 
-<!-- $table39$ - Group 8 -->
+<!-- $table35$ -->
+
+Group 5
+
+<!-- $table36$ -->
+
+Group 6
+
+<!-- $table37$ -->
+
+Group 7
+
+<!-- $table38$ -->
+
+Group 8
+
+<!-- $table39$ -->
 
 NB: Pachuca qualified by more away goals than Atlético de San Luis
 
-<!-- $table40$ - Group 9 -->
+Group 9
+
+<!-- $table40$ -->
 
 ==== Playoff Stage  ‹§copacplay›
 
@@ -2151,7 +2223,7 @@ Leones Negros        2-0 Atlético de San Luis
 
 Relegation Table
 
-Team         Average
+Team                    Average
 Mineros               1.7234
 Dorados Sinaloa       1.6250
 Celaya FC             1.6064
@@ -2219,7 +2291,7 @@ Leones Negros        2-2 Cafetaleros T
 
 === Promotion Playoff  ‹§2prom›
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  May 5
 Estadio Olímpico de Tapachula

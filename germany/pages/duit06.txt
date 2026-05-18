@@ -1871,9 +1871,11 @@ Hansa            1-3 Dynamo D
 
 REGIONALLIGA (Third Level)
 
-<!-- $table5$ - Nord -->
+Nord
+<!-- $table5$ -->
 
-<!-- $table6$ - Süd -->
+Süd
+<!-- $table6$ -->
 
 NP: Bayreuth relegated from financial problems, TSV 1860 München II saved from relegation.
 
@@ -1882,7 +1884,8 @@ NP: Bayreuth relegated from financial problems, TSV 1860 München II saved from 
 
 
 
-<!-- $table7$ - Nord -->
+Nord
+<!-- $table7$ -->
 
 Nordost, Nord
 <!-- $table8$ -->
@@ -1890,85 +1893,118 @@ Nordost, Nord
 Nordost, Süd
 <!-- $table9$ -->
 
-<!-- $table10$ - Westfalen -->
+Westfalen
+<!-- $table10$ -->
 
-<!-- $table11$ - Nordrhein -->
+Nordrhein
+<!-- $table11$ -->
 
 NP: PSI Yurdumspor Köln withdrew the second stage and are relegated.
 
-<!-- $table12$ - Südwest -->
+Südwest
+<!-- $table12$ -->
 
 NP: Eintracht Trier relegated from Regionalliga to Oberliga, the second team have automatic relegation.
 SG Betzdorf saved from relegation.
 
-<!-- $table13$ - Hessen -->
+Hessen
+<!-- $table13$ -->
 
-<!-- $table14$ - Baden-Württemberg -->
+Baden-Württemberg
+<!-- $table14$ -->
 
-<!-- $table15$ - Bayern -->
+Bayern
+<!-- $table15$ -->
 
 
 == Fifth Level 2005/06 (Verbandsligen/Landesligen)
 
 
 
-<!-- $table16$ - Schleswig-Holstein -->
+Schleswig-Holstein
+<!-- $table16$ -->
 
-<!-- $table17$ - Hamburg -->
+Hamburg
+<!-- $table17$ -->
 
-<!-- $table18$ - Bremen -->
+Bremen
+<!-- $table18$ -->
 
-<!-- $table19$ - Niedersachsen West -->
+Niedersachsen West
+<!-- $table19$ -->
 
-<!-- $table20$ - Niedersachsen Ost -->
+Niedersachsen Ost
+<!-- $table20$ -->
 
-<!-- $table21$ - Mecklenburg-Vorpommern -->
+Mecklenburg-Vorpommern
+<!-- $table21$ -->
 
-<!-- $table22$ - Berlin -->
+Berlin
+<!-- $table22$ -->
 
-<!-- $table23$ - Brandenburg -->
+Brandenburg
+<!-- $table23$ -->
 
-<!-- $table24$ - Sachsen-Anhalt -->
+Sachsen-Anhalt
+<!-- $table24$ -->
 
-<!-- $table25$ - Sachsen -->
+Sachsen
+<!-- $table25$ -->
 
-<!-- $table26$ - Thüringen -->
+Thüringen
+<!-- $table26$ -->
 
-<!-- $table27$ - Westfalen 1 -->
+Westfalen 1
+<!-- $table27$ -->
 
-<!-- $table28$ - Westfalen 2 -->
+Westfalen 2
+<!-- $table28$ -->
 
-<!-- $table29$ - Niederrhein -->
+Niederrhein
+<!-- $table29$ -->
 
-<!-- $table30$ - Mittelrhein -->
+Mittelrhein
+<!-- $table30$ -->
 
-<!-- $table31$ - Rheinland -->
+Rheinland
+<!-- $table31$ -->
 
-<!-- $table32$ - Südwest -->
+Südwest
+<!-- $table32$ -->
 
-<!-- $table33$ - Saarland -->
+Saarland
+<!-- $table33$ -->
 
-<!-- $table34$ - Hessen Nord -->
+Hessen Nord
+<!-- $table34$ -->
 
-<!-- $table35$ - Hessen Mitte -->
+Hessen Mitte
+<!-- $table35$ -->
 
-<!-- $table36$ - Hessen Süd -->
+Hessen Süd
+<!-- $table36$ -->
 
 FSV 1918 Braunfels win the Promotion Playoff and are promoted.
 
-<!-- $table37$ - Nordbaden -->
+Nordbaden
+<!-- $table37$ -->
 
-<!-- $table38$ - Südbaden -->
+Südbaden
+<!-- $table38$ -->
 
 Bahlinger SC 1929 win the Promotion Playoff and are promoted.
 
-<!-- $table39$ - Württemberg -->
+Württemberg
+<!-- $table39$ -->
 
-<!-- $table40$ - Bayern Nord -->
+Bayern Nord
+<!-- $table40$ -->
 
-<!-- $table41$ - Bayern Mitte -->
+Bayern Mitte
+<!-- $table41$ -->
 
-<!-- $table42$ - Bayern Süd -->
+Bayern Süd
+<!-- $table42$ -->
 
 1. FC 1901 Bamberg win the Promotion Playoff and are promoted.
 In April 6 the 1. FC 1901 Bamberg change name to 1. FC Eintracht Bamberg.
@@ -1980,17 +2016,22 @@ In April 6 the 1. FC 1901 Bamberg change name to 1. FC Eintracht Bamberg.
 
 Sachsen
 
-<!-- $table43$ - Leipzig -->
+Leipzig
+<!-- $table43$ -->
 
-<!-- $table44$ - Dresden -->
+Dresden
+<!-- $table44$ -->
 
-<!-- $table45$ - Chemnitz -->
+Chemnitz
+<!-- $table45$ -->
 
 Hamburg
 
-<!-- $table46$ - Hansa-Staffel -->
+Hansa-Staffel
+<!-- $table46$ -->
 
-<!-- $table47$ - Hammonia -->
+Hammonia
+<!-- $table47$ -->
 
 
 == Seventh Level 2005/06 (Bezirksklassen, partial)
@@ -1999,18 +2040,24 @@ Hamburg
 
 Sachsen
 
-<!-- $table48$ - Leipzig 1 -->
+Leipzig 1
+<!-- $table48$ -->
 
-<!-- $table49$ - Leipzig 2 -->
+Leipzig 2
+<!-- $table49$ -->
 
 Hamburg
 
-<!-- $table50$ - Hamburg Süd -->
+Hamburg Süd
+<!-- $table50$ -->
 
-<!-- $table51$ - Hamburg Ost -->
+Hamburg Ost
+<!-- $table51$ -->
 
-<!-- $table52$ - Hamburg Nord -->
+Hamburg Nord
+<!-- $table52$ -->
 
-<!-- $table53$ - Hamburg West -->
+Hamburg West
+<!-- $table53$ -->
 
 

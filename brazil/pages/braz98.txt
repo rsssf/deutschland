@@ -585,13 +585,17 @@ robin to decide the Champion and the 2 promoted clubs.
 
 Tables:
 
-<!-- $table3$ - Group A -->
+Group A
+<!-- $table3$ -->
 
-<!-- $table4$ - Group B -->
+Group B
+<!-- $table4$ -->
 
-<!-- $table5$ - Group C -->
+Group C
+<!-- $table5$ -->
 
-<!-- $table6$ - Group D -->
+Group D
+<!-- $table6$ -->
 
 ▪ Round 1 ▪  Aug 2 & 3
 Londrina        0-3 Remo
@@ -735,13 +739,17 @@ Juventus        0-0 CRB
 
 Tables:
 
-<!-- $table7$ - Group A -->
+Group A
+<!-- $table7$ -->
 
-<!-- $table8$ - Group B -->
+Group B
+<!-- $table8$ -->
 
-<!-- $table9$ - Group C -->
+Group C
+<!-- $table9$ -->
 
-<!-- $table10$ - Group D -->
+Group D
+<!-- $table10$ -->
 
 On October 14, all further matches were postponed pending decisions on
 the matches awarded against Volta Redonda.  Eventually, the two awards
@@ -790,9 +798,11 @@ Santa Cruz      1-2 Paysandu
 
 Tables:
 
-<!-- $table11$ - Group M -->
+Group M
+<!-- $table11$ -->
 
-<!-- $table12$ - Group N -->
+Group N
+<!-- $table12$ -->
 
 ▪ Round 1 ▪
 _ Nov 8 _
@@ -839,9 +849,11 @@ Joinville       1-3 Londrina
 
 Tables:
 
-<!-- $table13$ - Group M -->
+Group M
+<!-- $table13$ -->
 
-<!-- $table14$ - Group N -->
+Group N
+<!-- $table14$ -->
 
 
 Fourth and Final Stage

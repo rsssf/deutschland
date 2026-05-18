@@ -12,9 +12,11 @@
 
 Tables:
 
-<!-- $table1$ - Eastern Conference -->
+Eastern Conference
+<!-- $table1$ -->
 
-<!-- $table2$ - Western Conference -->
+Western Conference
+<!-- $table2$ -->
 
 [NB: teams played teams from onw conference four times, from other
      conference twice, for 32 matches in the regular season]
@@ -375,14 +377,16 @@ Tampa Bay M   1-2 Dallas B
 
 Tables:
 
-<!-- $table3$ - Eastern Conference -->
+Eastern Conference
+<!-- $table3$ -->
 
-<!-- $table4$ - Western Conference -->
+Western Conference
+<!-- $table4$ -->
 
 [NB: teams played teams from onw conference four times, from other
      conference twice, for 32 matches in the regular season]
 
-▪ Conference Semifinals ▪
+Conference Semifinals
 
 ▪ First Legs ▪
 
@@ -416,7 +420,7 @@ Chicago F     4-0 Dallas B
 Dallas B      3-2 Chicago F
 
 
-▪ Conference Finals ▪
+Conference Finals
 
 East
 
@@ -441,7 +445,7 @@ Dallas B      2-2 Los Angeles G [4-3 so]
 Los Angeles G 3-1 Dallas B
 
 
-▪ MLS Cup ▪  Nov 21 @ Foxboro, Ma.
+MLS Cup [Nov 21, Foxboro, Ma.]
 DC United     2-0 Los Angeles G
   (Jamie Moreno 19, Ben Olsen 45+)
 
@@ -451,13 +455,17 @@ DC United     2-0 Los Angeles G
 Worcester moved to Boston.
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-<!-- $table5$ - Northeast Division -->
+     Northeast Division
+<!-- $table5$ -->
 
-<!-- $table6$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table6$ -->
 
-<!-- $table7$ - Central Division -->
+     Central Division
+<!-- $table7$ -->
 
-<!-- $table8$ - Pacific Division -->
+     Pacific Division
+<!-- $table8$ -->
 
 Round of 16:          Rochester defeated Lehigh Valley, 2-1.
                       San Diego defeated El Paso, 3-1
@@ -479,11 +487,14 @@ CHAMPIONSHIP:         Minnesota defeated Rochester 2-1.
 North Jersey returned from hiatus.
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-<!-- $table9$ - Northern Division -->
+     Northern Division
+<!-- $table9$ -->
 
-<!-- $table10$ - Atlantic Division -->
+     Atlantic Division
+<!-- $table10$ -->
 
-<!-- $table11$ - Western Division -->
+     Western Division
+<!-- $table11$ -->
 
 First Round:            Northern Virginia defeated South Carolina, 2-1 (SO)
 Conference Semifinals:  Western Mass defeated Reading, 4-0
@@ -505,19 +516,25 @@ CHAMPIONSHIP:           Western Mass. Defeated South Jersey, 2-1.
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
      EASTERN CONFERENCE
-<!-- $table12$ - Northeast Division -->
+     Northeast Division
+<!-- $table12$ -->
 
-<!-- $table13$ - Southeast Division -->
+     Southeast Division
+<!-- $table13$ -->
 
      CENTRAL CONFERENCE
-<!-- $table14$ - Great Lakes Division -->
+     Great Lakes Division
+<!-- $table14$ -->
 
-<!-- $table15$ - Heartland Division -->
+     Heartland Division
+<!-- $table15$ -->
 
      WESTERN CONFERENCE
-<!-- $table16$ - Southwest Division -->
+     Southwest Division
+<!-- $table16$ -->
 
-<!-- $table17$ - Northwest Division -->
+     Northwest Division
+<!-- $table17$ -->
 
 Conference Semifinals:   Jackson defeated Brooklyn, 9-1.
                          New York defeated Cocoa, 3-1.
@@ -539,11 +556,14 @@ W-LEAGUE
                       W-1 Division
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-<!-- $table18$ - North Division -->
+     North Division
+<!-- $table18$ -->
 
-<!-- $table19$ - Central Division -->
+     Central Division
+<!-- $table19$ -->
 
-<!-- $table20$ - South Division -->
+     South Division
+<!-- $table20$ -->
 
 First Round:            Maryland defated Long Island, 4-1.
                         Atlanta defeated Tampa Bay, 1-0.
@@ -556,14 +576,18 @@ CHAMPIONSHIP:           Raleigh defeated Chicago, 2-2 (3-2 SO).
                            W-2 Division
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-<!-- $table21$ - North Division -->
+     North Division
+<!-- $table21$ -->
 
-<!-- $table22$ - South Division -->
+     South Division
+<!-- $table22$ -->
 
      Central Division
-<!-- $table23$ - Midwest -->
+         Midwest
+<!-- $table23$ -->
 
-<!-- $table24$ - Southwest -->
+         Southwest
+<!-- $table24$ -->
 
 First Round:           Hampton Roads defeated Piedmont, 1-0.
                        New York defeated Central Jersey, 4-3 (SO)
@@ -576,9 +600,11 @@ CHAMPIONSHIP:          North Texas defeated Springfield, 5-1.
 WOMEN'S PREMIER SOCCER LEAGUE
 
                           GP   W   T   L   GF  GA  Pt
-<!-- $table25$ - First Division -->
+     First Division
+<!-- $table25$ -->
 
-<!-- $table26$ - Second Division -->
+     Second Division
+<!-- $table26$ -->
 
 Note:  San Francisco folded during season, and their games against
 Division 1 opponents are not counted in Division 1 standings.

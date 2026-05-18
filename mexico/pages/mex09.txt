@@ -16,11 +16,14 @@ Apertura 2008
 
 Final Tables:
 
-<!-- $table1$ - Grupo 1 -->
+Grupo 1
+<!-- $table1$ -->
 
-<!-- $table2$ - Grupo 2 -->
+Grupo 2
+<!-- $table2$ -->
 
-<!-- $table3$ - Grupo 3 -->
+Grupo 3
+<!-- $table3$ -->
 
 ▪ Round 1 ▪
 _ Jul 26 _
@@ -438,11 +441,14 @@ Santos       0-0 Atlante
 
 Final Tables:
 
-<!-- $table4$ - Grupo 1 -->
+Grupo 1
+<!-- $table4$ -->
 
-<!-- $table5$ - Grupo 2 -->
+Grupo 2
+<!-- $table5$ -->
 
-<!-- $table6$ - Grupo 3 -->
+Grupo 3
+<!-- $table6$ -->
 
 ▪ Quarterfinals ▪
 
@@ -549,9 +555,11 @@ Tigres       2-4 Guadalajara
 
 Tables:
 
-<!-- $table7$ - Grupo 1 -->
+Grupo 1
+<!-- $table7$ -->
 
-<!-- $table8$ - Grupo 2 -->
+Grupo 2
+<!-- $table8$ -->
 
 ▪ Semifinals ▪  Jan 11 @ in Carson
 Pachuca      3-3 Atlas        (10-9 pen)
@@ -570,11 +578,14 @@ Clausura 2009
 
 Final Tables:
 
-<!-- $table9$ - Grupo 1 -->
+Grupo 1
+<!-- $table9$ -->
 
-<!-- $table10$ - Grupo 2 -->
+Grupo 2
+<!-- $table10$ -->
 
-<!-- $table11$ - Grupo 3 -->
+Grupo 3
+<!-- $table11$ -->
 
 ▪ Round 1 ▪
 _ Jan 16 _
@@ -1002,11 +1013,14 @@ Indios       3-1 Guadalajara
 
 Final Tables:
 
-<!-- $table12$ - Grupo 1 -->
+Grupo 1
+<!-- $table12$ -->
 
-<!-- $table13$ - Grupo 2 -->
+Grupo 2
+<!-- $table13$ -->
 
-<!-- $table14$ - Grupo 3 -->
+Grupo 3
+<!-- $table14$ -->
 
 ▪ Quarterfinals ▪
 
@@ -1137,11 +1151,14 @@ Top-2 of each group and Top-2 of Regular Phase qualify to Playoff.
 
 Final Tables:
 
-<!-- $table15$ - Grupo 1 -->
+Grupo 1
+<!-- $table15$ -->
 
-<!-- $table16$ - Group 2 -->
+Group 2
+<!-- $table16$ -->
 
-<!-- $table17$ - Group 3 -->
+Group 3
+<!-- $table17$ -->
 
 ▪ Round 1 ▪
 _ Jul 18 _
@@ -1478,11 +1495,14 @@ Tapatío, Correcaminos, Jaguares de Chiapas bye
 
 Final Tables:
 
-<!-- $table18$ - Grupo 1 -->
+Grupo 1
+<!-- $table18$ -->
 
-<!-- $table19$ - Group 2 -->
+Group 2
+<!-- $table19$ -->
 
-<!-- $table20$ - Group 3 -->
+Group 3
+<!-- $table20$ -->
 
 ▪ Quarterfinals ▪
 
@@ -1565,11 +1585,14 @@ Tiburones Rojos (Coatzacoalcos) changed name to Albinegros de Orizaba.
 
 Final Tables:
 
-<!-- $table21$ - Grupo 1 -->
+Grupo 1
+<!-- $table21$ -->
 
-<!-- $table22$ - Group 2 -->
+Group 2
+<!-- $table22$ -->
 
-<!-- $table23$ - Group 3 -->
+Group 3
+<!-- $table23$ -->
 
 ▪ Round 1 ▪
 _ Jan 10 _
@@ -1900,11 +1923,14 @@ Petroleros de Salamanca, Dorados, Lobos BUAP  bye
 
 Final Tables:
 
-<!-- $table24$ - Grupo 1 -->
+Grupo 1
+<!-- $table24$ -->
 
-<!-- $table25$ - Group 2 -->
+Group 2
+<!-- $table25$ -->
 
-<!-- $table26$ - Group 3 -->
+Group 3
+<!-- $table26$ -->
 
 
 ▪ Quarterfinals ▪
@@ -1978,7 +2004,7 @@ Mérida champions Clausura
 
 
 
-▪ Championship Final ▪
+Championship Final
 
 First Leg [May 27, La Corregidora, Querétaro,
            ref: Roberto García Orozco]
@@ -2062,14 +2088,17 @@ Before the start of the season, the following changes occurred:
 - CF Palmeros de Colima changed name to Loros de la Universidad de Colima
 
 
-<!-- $table27$ - South -->
+South
+<!-- $table27$ -->
 
 UNACH: Universidad Autónoma de Chiapas
 UAEM: Universidad Autónoma del Estado de Mexico
 
-<!-- $table28$ - Central -->
+Central
+<!-- $table28$ -->
 
-<!-- $table29$ - North -->
+North
+<!-- $table29$ -->
 
 UAG: Universidad Autónoma de Guadalajara
 UG: Universidad de Guadalajara
@@ -2101,16 +2130,19 @@ Before the start of the season, the following changes occurred:
 
 - Deportivo Autlán changed name to Club Deportivo Oro
 
-<!-- $table30$ - Sureste -->
+Sureste
+<!-- $table30$ -->
 
 * Filial Team
 NB: Puebla FC was excluded from Liguilla de Filiales
 
-<!-- $table31$ - Bajío -->
+Bajío
+<!-- $table31$ -->
 
 * Filial Team
 
-<!-- $table32$ - Noroeste -->
+Noroeste
+<!-- $table32$ -->
 
 UANL: Universidad Autónoma de Nuevo León
 UAT: Universidad Autónoma de Tamaulipas
@@ -2157,14 +2189,17 @@ Clausura 2009
 
 Liga Premier de Ascenso
 
-<!-- $table33$ - South -->
+South
+<!-- $table33$ -->
 
 UNACH: Universidad Autónoma de Chiapas
 UAEM: Universidad Autónoma del Estado de Mexico
 
-<!-- $table34$ - Central -->
+Central
+<!-- $table34$ -->
 
-<!-- $table35$ - North -->
+North
+<!-- $table35$ -->
 
 UAG: Universidad Autónoma de Guadalajara
 UG: Universidad de Guadalajara
@@ -2200,13 +2235,16 @@ Liga de Nuevos Talentos
 NB: At the beginning of the season Deportivo Unión de Piedras Negras
     change name to Real Saltillo Soccer Club
 
-<!-- $table36$ - Sureste -->
+Sureste
+<!-- $table36$ -->
 
 NB: Atlante Tabasco (Comalcalco) withdrew.
 
-<!-- $table37$ - Bajío -->
+Bajío
+<!-- $table37$ -->
 
-<!-- $table38$ - Noroeste -->
+Noroeste
+<!-- $table38$ -->
 
 UANL: Universidad Autónoma de Nuevo León
 UAT: Universidad Autónoma de Tamaulipas
@@ -2297,26 +2335,31 @@ Fourth Level 2008/09
 
 Tercera Division Profesional
 
-<!-- $table39$ - Group 1 -->
+Group 1
+<!-- $table39$ -->
 
 UNACAR: Universidad Autónoma del Carmen
 * Filial Teams
 
-<!-- $table40$ - Group 2 -->
+Group 2
+<!-- $table40$ -->
 
 * Filial Teams
 [!] full name Guerreros de la Universidad de Sotavento FC
 
-<!-- $table41$ - Group 3 -->
+Group 3
+<!-- $table41$ -->
 
 (*) Also known as UNIVAC Zapata
 BUAP: Benemérita Universidad Autónoma de Puebla
 
-<!-- $table42$ - Group 4 -->
+Group 4
+<!-- $table42$ -->
 
 * Filial Teams
 
-<!-- $table43$ - Group 5 -->
+Group 5
+<!-- $table43$ -->
 
 NB: Potros de Hierro finished the regular season in 4th place, but a
     later point deduction disqualified the team from the Liguilla de
@@ -2324,43 +2367,52 @@ NB: Potros de Hierro finished the regular season in 4th place, but a
 
 * Filial Teams
 
-<!-- $table44$ - Group 6 -->
+Group 6
+<!-- $table44$ -->
 
 UGM: Universidad del Golfo de Mexico
 
-<!-- $table45$ - Group 7 -->
+Group 7
+<!-- $table45$ -->
 
 UAEM: Universidad Autónoma del Estado de Mexico
 * Filial Teams
 
-<!-- $table46$ - Group 8 -->
+Group 8
+<!-- $table46$ -->
 
 * Filial Teams
 
-<!-- $table47$ - Group 9 -->
+Group 9
+<!-- $table47$ -->
 
 ECCA: Educación Continua y Compartida de Adultos
 * Filial Teams
 
-<!-- $table48$ - Group 10 -->
+Group 10
+<!-- $table48$ -->
 
 UAG: Universidad Autónoma de Guadalajara
 * Filial Teams
 
-<!-- $table49$ - Group 11 -->
+Group 11
+<!-- $table49$ -->
 
 * Filial Teams
 
-<!-- $table50$ - Group 12 -->
+Group 12
+<!-- $table50$ -->
 
 UAT: Universidad Autónoma de Tamaulipas
 * Filial Teams
 
-<!-- $table51$ - Group 13 -->
+Group 13
+<!-- $table51$ -->
 
 * Filial Teams
 
-<!-- $table52$ - Group 14 -->
+Group 14
+<!-- $table52$ -->
 
 UVM: Universidad del Valle de México
 [!] full name Deporticlub Soccer Halcones de Jiménez

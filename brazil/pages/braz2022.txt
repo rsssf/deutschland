@@ -679,11 +679,13 @@ First Stage (Grupo A)
 
 Final Tables:
 
-<!-- $table6$ - Grupo B -->
+Grupo B
+<!-- $table6$ -->
 
-<!-- $table7$ - Grupo C -->
+Grupo C
+<!-- $table7$ -->
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  Oct 1
 ABC             0-0 Mirassol

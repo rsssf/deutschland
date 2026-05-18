@@ -8,7 +8,9 @@
 
 
 
-<!-- $table1$ - Premiership -->
+Premiership
+
+<!-- $table1$ -->
 
 ‹Red card overview 1997/98, see page ../players/eng-prem-red-card.html#1998›.
 
@@ -506,7 +508,9 @@ Round 15: [22,23,24th November 97]
 10/05/98 Tottenham Hotspur   Southampton           1       1      35995
 10/05/98 West Ham United     Leicester City        4       3      25781
 
-<!-- $table2$ - Premiership -->
+Premiership
+
+<!-- $table2$ -->
 
 ‹Red card overview 1997/98, see page ../players/eng-prem-red-card.html#1998›.
 
@@ -715,15 +719,15 @@ Thanks to Stephen Mulrine.
 
 Dr Martens League
 Premier Division
-<!-- $table7$ - P  W  D  L   F-A  Pts -->
+<!-- $table7$ -->
 
 Ryman League
 Premier Division
-<!-- $table8$ - P  W  D  L   F-A  Pts -->
+<!-- $table8$ -->
 
 
 UniBond League
 Premier Division
-<!-- $table9$ - P  W  D  L   F-A  Pts -->
+<!-- $table9$ -->
 
 

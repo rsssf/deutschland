@@ -677,11 +677,13 @@ First Stage (Grupo A)
 
 Final Tables:
 
-<!-- $table5$ - Grupo B -->
+Grupo B
+<!-- $table5$ -->
 
-<!-- $table6$ - Grupo C -->
+Grupo C
+<!-- $table6$ -->
 
-▪ Championship Final ▪
+Championship Final
 
 ▪ First Leg ▪  Oct 12
 Volta Redonda   1-0 Athletic
